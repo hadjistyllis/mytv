@@ -6,6 +6,11 @@
 			<title>"[COLOR red][B]http://e-doctor.webstarts.com[/B][/COLOR]"</title>
 			<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=GA0N0Bu5JiE</link>
 			
+			
+		<item>
+			<title>"[COLOR red][B]SERVER 1[/B][/COLOR]"</title>
+			<link>http://......</link>			
+			
 		<item>
  			<title>GR_ERT1</title>
 			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/4262.ts</link>
@@ -35,6 +40,172 @@
 			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/4270.ts</link>
 	
 
+		<item>
+			<title>"[COLOR red][B]SERVER 2[/B][/COLOR]"</title>
+			<link>http://......</link>	
+			
+		<item>
+			<title>GR: 4E</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/3065.ts</link>
+		
+		<item>
+			<title>GR: AB Channel</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/3066.ts</link>
+		
+		<item>
+			<title>GR: Action24</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/3067.ts</link>
+		
+		<item>
+			<title>GR: Alpha TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/3068.ts</link>
+		
+		<item>
+			<title>GR: Ant1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/3069.ts</link>
+		
+		<item>
+			<title>CY: ANT1 CY</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/3070.ts</link>
+		
+		<item>
+			<title>GR: ART</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/3071.ts</link>
+		
+		<item>
+			<title>GR: ATTICA TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/3072.ts</link>
+		
+		<item>
+			<title>GR: Blue Sky</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/3073.ts</link>
+		
+		<item>
+			<title>GR: Channel 9</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/3074.ts</link>
+		
+		<item>
+			<title>GR: DW</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/3075.ts</link>
+		
+		<item>
+			<title>GR: E</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/3076.ts</link>
+		
+		<item>
+			<title>GR: ERT HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/3077.ts</link>
+		
+		<item>
+			<title>GR: ERT1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/3078.ts</link>
+		
+		<item>
+			<title>GR: ERT2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/3079.ts</link>
+		
+		<item>
+			<title>GR: ERT3</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/3080.ts</link>
+		
+		<item>
+			<title>GR: EXTRA</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/3081.ts</link>
+		
+		<item>
+			<title>GR: HIGH TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/3082.ts</link>
+		
+		<item>
+			<title>GR: Jazee</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/3083.ts</link>
+		
+		<item>
+			<title>GR: KONTRA</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/3084.ts</link>
+		
+		<item>
+			<title>GR: KRHTH TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/3085.ts</link>
+		
+		<item>
+			<title>GR: M.tv</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/3086.ts</link>
+		
+		<item>
+			<title>CY: MAD CY</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/3087.ts</link>
+		
+		<item>
+			<title>GR: MAD TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/3088.ts</link>
+		
+		<item>
+			<title>GR: MAKELEIO</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/3089.ts</link>
+		
+		<item>
+			<title>GR: Mega TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/3090.ts</link>
+		
+		<item>
+			<title>GR: MPAXALO TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/3091.ts</link>
+		
+		<item>
+			<title>GR: NEA TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/3092.ts</link>
+		
+		<item>
+			<title>GR: Nickelodeon</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/3093.ts</link>
+		
+		<item>
+			<title>CY: RIK Sat</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/3094.ts</link>
+		
+		<item>
+			<title>GR: RISE</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/3095.ts</link>
+		
+		<item>
+			<title>GR: SBC</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/3096.ts</link>
+		
+		<item>
+			<title>GR: SKAI</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/3097.ts</link>
+		
+		<item>
+			<title>GR: SMILE</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/3098.ts</link>
+		
+		<item>
+			<title>GR: STAR</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/3099.ts</link>
+		
+		<item>
+			<title>GR: SUNNY CHANNEL</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/3100.ts</link>
+		
+		<item>
+			<title>CY: SYGMA CY</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/3101.ts</link>
+		
+		<item>
+			<title>GR: VOULI</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/3102.ts</link>
+		
+		<item>
+			<title>GR: ZOUGLA</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/3103.ts</link>
+			
+
+		<item>
+			<title>"[COLOR red][B]SERVER 3[/B][/COLOR]"</title>
+			<link>http://......</link>				
+			
+			
 		<item>
 			<title>CY: Sigma</title>
 			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ksportiptv.com:1557/live/ARIVA 240/yzsRjtctLx/1646.ts</link>
