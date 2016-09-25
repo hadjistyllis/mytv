@@ -1,14 +1,11 @@
 <streamingInfos>
 		<item>	
-			<title>Powered by e-doctor</title>
-			<link></link>
+			<title>"[COLOR red][B]Powered by e-doctor[/B][/COLOR]"</title>
+			<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=GA0N0Bu5JiE</link>
 		<item>
-			<title>http://e-doctor.webstarts.com</title>
-			<link></link>
-		<item>
-			<title>###  U.K.  ###</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/1977.ts</link>
-		
+			<title>"[COLOR red][B]http://e-doctor.webstarts.com[/B][/COLOR]"</title>
+			<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=GA0N0Bu5JiE</link>
+			
 		<item>
 			<title>UK: Watch</title>
 			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2336.ts</link>
