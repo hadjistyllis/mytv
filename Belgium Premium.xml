@@ -7,7 +7,104 @@
 			<title>"[COLOR red][B]http://e-doctor.webstarts.com[/B][/COLOR]"</title>
 			<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=GA0N0Bu5JiE</link>
 			
-
+		<item>
+			<title>"[COLOR red][B]SERVER 1[/B][/COLOR]"</title>
+			<link>http://......</link>	
+			
+		<item>
+			<title>BE: 2Be HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/4043.ts</link>/
+		
+		<item>
+			<title>BE: Acht</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/4044.ts</link>/
+		
+		<item>
+			<title>BE: Bruxelles TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/4045.ts</link>/
+		
+		<item>
+			<title>BE: Canvas</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/4046.ts</link>/
+		
+		<item>
+			<title>BE: Club RTL</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/4047.ts</link>/
+		
+		<item>
+			<title>BE: Een HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/4048.ts</link>/
+		
+		<item>
+			<title>BE: Jim</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/4049.ts</link>/
+		
+		<item>
+			<title>BE: Ketnet</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/4050.ts</link>/
+		
+		<item>
+			<title>BE: La Deux</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/4051.ts</link>/
+		
+		<item>
+			<title>BE: La Trois</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/4052.ts</link>/
+		
+		<item>
+			<title>BE: La Une</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/4053.ts</link>/
+		
+		<item>
+			<title>BE: RTL Plug</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/4054.ts</link>/
+		
+		<item>
+			<title>BE: RTL TVI HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/4055.ts</link>/
+		
+		<item>
+			<title>BE: Vier HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/4056.ts</link>/
+		
+		<item>
+			<title>BE: Vijf be</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/4057.ts</link>/
+		
+		<item>
+			<title>BE: Vitaya</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/4058.ts</link>/
+		
+		<item>
+			<title>BE: Vtm HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/4059.ts</link>/
+		
+		<item>
+			<title>BE: VTM Kazoom</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/4060.ts</link>/
+		
+		<item>
+			<title>BG: City TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/4061.ts</link>/
+		
+		<item>
+			<title>BG: Ekids</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/4062.ts</link>/
+		
+		<item>
+			<title>BG: Evrokom</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/4063.ts</link>/
+		
+		<item>
+			<title>BG: MagicTV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/4064.ts</link>/			
+			
+			
+		<item>
+			<title>"[COLOR red][B]SERVER 2[/B][/COLOR]"</title>
+			<link>http://......</link>	
+			
+			
 		<item>
 			<title>BE_KADET</title>
 			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/3869.ts</link>
