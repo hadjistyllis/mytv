@@ -6,7 +6,187 @@
 		<item>
 			<title>"[COLOR red][B]http://e-doctor.webstarts.com[/B][/COLOR]"</title>
 			<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=GA0N0Bu5JiE</link>
-				
+
+			
+		<item>
+			<title>"[COLOR red][B]SERVER 1[/B][/COLOR]"</title>
+			<link>http://......</link>	
+	
+		<item>
+			<title>NL: 13th Street</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2730.ts</link>
+		
+		<item>
+			<title>NL: Comedy Central</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2731.ts</link>
+		
+		<item>
+			<title>NL: Discovery</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2732.ts</link>
+		
+		<item>
+			<title>NL: Disney Channel</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2733.ts</link>
+		
+		<item>
+			<title>NL: Edge Sport</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2735.ts</link>
+		
+		<item>
+			<title>NL: Film 1 Action</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2736.ts</link>
+		
+		<item>
+			<title>NL: Film 1 Comedy and Kids</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2737.ts</link>
+		
+		<item>
+			<title>NL: Film 1 Premiere</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2738.ts</link>
+		
+		<item>
+			<title>NL: Film 1 Spotlight</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2739.ts</link>
+		
+		<item>
+			<title>NL: Film 1 Sundance</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2740.ts</link>
+		
+		<item>
+			<title>NL: FOX</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2741.ts</link>
+		
+		<item>
+			<title>NL: FOX life</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2742.ts</link>
+		
+		<item>
+			<title>NL: Fox Sports 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2743.ts</link>
+		
+		<item>
+			<title>NL: Fox Sports 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2744.ts</link>
+		
+		<item>
+			<title>NL: Fox Sports 3</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2745.ts</link>
+		
+		<item>
+			<title>NL: Fox Sports 4</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2746.ts</link>
+		
+		<item>
+			<title>NL: Fox Sports 5</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2747.ts</link>
+		
+		<item>
+			<title>NL: HBO 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2748.ts</link>
+		
+		<item>
+			<title>NL: HBO 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2749.ts</link>
+		
+		<item>
+			<title>NL: HBO 3</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2750.ts</link>
+		
+		<item>
+			<title>NL: National Geographic</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2751.ts</link>
+		
+		<item>
+			<title>NL: NET 5</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2752.ts</link>
+		
+		<item>
+			<title>NL: NPO 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2753.ts</link>
+		
+		<item>
+			<title>NL: NPO 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2754.ts</link>
+		
+		<item>
+			<title>NL: NPO 3</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2755.ts</link>
+		
+		<item>
+			<title>NL: RTL 4</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2756.ts</link>
+		
+		<item>
+			<title>NL: RTL 5</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2757.ts</link>
+		
+		<item>
+			<title>NL: RTL 7</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2758.ts</link>
+		
+		<item>
+			<title>NL: RTL 8</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2759.ts</link>
+		
+		<item>
+			<title>NL: RTV Drenthe</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2760.ts</link>
+		
+		<item>
+			<title>NL: SBS 6</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2761.ts</link>
+		
+		<item>
+			<title>NL: SBS 9</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2762.ts</link>
+		
+		<item>
+			<title>NL: Syfy</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2770.ts</link>
+		
+		<item>
+			<title>NL: TLC</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2771.ts</link>
+		
+		<item>
+			<title>NL: Veronica / Disney XD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2734.ts</link>
+		
+		<item>
+			<title>NL: Ziggo Sport</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2766.ts</link>
+		
+		<item>
+			<title>NL: Ziggo Sport Extra 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2768.ts</link>
+		
+		<item>
+			<title>NL: Ziggo Sport Extra 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2769.ts</link>
+		
+		<item>
+			<title>NL: Ziggo Sport Golf</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2763.ts</link>
+		
+		<item>
+			<title>NL: Ziggo Sport Racing</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2767.ts</link>
+		
+		<item>
+			<title>NL: Ziggo Sport Select</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2764.ts</link>
+		
+		<item>
+			<title>NL: Ziggo Sport Voetbal</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2765.ts</link>	
+		
+			
+			
+						
+		<item>
+			<title>"[COLOR red][B]SERVER 2[/B][/COLOR]"</title>
+			<link>http://......</link>	
+			
 		<item>
 			<title>NL_RTL_4</title>
 			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/505.ts</link>
