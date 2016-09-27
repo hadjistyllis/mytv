@@ -5,7 +5,376 @@
 		<item>
 			<title>"[COLOR red][B]http://e-doctor.webstarts.com[/B][/COLOR]"</title>
 			<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=GA0N0Bu5JiE</link>
-	
+
+			<item>
+			<title>"[COLOR red][B]SERVER 1[/B][/COLOR]"</title>
+			<link>http://......</link>	
+			
+		<item>
+			<title>PT: 24 KITCHEN HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/4230.ts</link>
+		
+		<item>
+			<title>PT: A & E</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/4231.ts</link>
+		
+		<item>
+			<title>PT: A BOLA TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/4232.ts</link>
+		
+		<item>
+			<title>PT: AFRO MUSIC</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/4233.ts</link>
+		
+		<item>
+			<title>PT: AMC</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/4234.ts</link>
+		
+		<item>
+			<title>PT: AXN BLACK HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/4235.ts</link>
+		
+		<item>
+			<title>PT: AXN HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/4236.ts</link>
+		
+		<item>
+			<title>PT: AXN WHITE HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/4237.ts</link>
+		
+		<item>
+			<title>PT: BABY TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/4238.ts</link>
+		
+		<item>
+			<title>PT: BENFICA TV1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/4239.ts</link>
+		
+		<item>
+			<title>PT: BENFICA TV2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/4240.ts</link>
+		
+		<item>
+			<title>PT: BIGGS</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/4241.ts</link>
+		
+		<item>
+			<title>PT: CAÇA & PESCA</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/4246.ts</link>
+		
+		<item>
+			<title>PT: CAÇAVISION</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/4247.ts</link>
+		
+		<item>
+			<title>PT: CANAL HISTÓRIA</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/4242.ts</link>
+		
+		<item>
+			<title>PT: CANAL PANDA</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/4243.ts</link>
+		
+		<item>
+			<title>PT: CANAL Q</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/4244.ts</link>
+		
+		<item>
+			<title>PT: CARTOON NETWORK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/4245.ts</link>
+		
+		<item>
+			<title>PT: CBS REALITY</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/4248.ts</link>
+		
+		<item>
+			<title>PT: CHELSEA TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/4249.ts</link>
+		
+		<item>
+			<title>PT: CINEMUNDO</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/4250.ts</link>
+		
+		<item>
+			<title>PT: CM TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/4251.ts</link>
+		
+		<item>
+			<title>PT: DISCOVERY CHANNEL</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/4252.ts</link>
+		
+		<item>
+			<title>PT: Discovery HD Showcase</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/4253.ts</link>
+		
+		<item>
+			<title>PT: DISNEY CHANNEL</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/4254.ts</link>
+		
+		<item>
+			<title>PT: DISNEY JUNIOR</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/4255.ts</link>
+		
+		<item>
+			<title>PT: E! Entertainment</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/4256.ts</link>
+		
+		<item>
+			<title>PT: ECONÓMICO TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/4257.ts</link>
+		
+		<item>
+			<title>PT: EURONEWS</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/4258.ts</link>
+		
+		<item>
+			<title>PT: EUROSPORT 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/4259.ts</link>
+		
+		<item>
+			<title>PT: EUROSPORT 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/4260.ts</link>
+		
+		<item>
+			<title>PT: EUROSPORT NEWS</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/4261.ts</link>
+		
+		<item>
+			<title>PT: FASHION TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/4262.ts</link>
+		
+		<item>
+			<title>PT: Fox Comedy</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/4263.ts</link>
+		
+		<item>
+			<title>PT: FOX CRIME HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/4264.ts</link>
+		
+		<item>
+			<title>PT: FOX HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/4265.ts</link>
+		
+		<item>
+			<title>PT: FOX LIFE HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/4266.ts</link>
+		
+		<item>
+			<title>PT: FOX MOVIES</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/4267.ts</link>
+		
+		<item>
+			<title>PT: FUEL TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/4268.ts</link>
+		
+		<item>
+			<title>PT: HOLLYWOOD HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/4269.ts</link>
+		
+		<item>
+			<title>PT: JIM JAM</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/4270.ts</link>
+		
+		<item>
+			<title>PT: Kombat Sport</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/4320.ts</link>
+		
+		<item>
+			<title>PT: MCS Extreme</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/4319.ts</link>
+		
+		<item>
+			<title>PT: MOTORS TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/4271.ts</link>
+		
+		<item>
+			<title>PT: MOV HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/4272.ts</link>
+		
+		<item>
+			<title>PT: MTV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/4273.ts</link>
+		
+		<item>
+			<title>PT: NATIONAL GEOGRAPHIC HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/4274.ts</link>
+		
+		<item>
+			<title>PT: NATIONAL GEOGRAPHIC WILD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/4275.ts</link>
+		
+		<item>
+			<title>PT: NICKELODEON</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/4276.ts</link>
+		
+		<item>
+			<title>PT: ODISSEIA</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/4277.ts</link>
+		
+		<item>
+			<title>PT: PFC</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/4278.ts</link>
+		
+		<item>
+			<title>PT: PORTO CANAL</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/4279.ts</link>
+		
+		<item>
+			<title>PT: RECORD NEWS</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/4280.ts</link>
+		
+		<item>
+			<title>PT: RTP 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/4281.ts</link>
+		
+		<item>
+			<title>PT: RTP 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/4282.ts</link>
+		
+		<item>
+			<title>PT: RTP 3</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/4283.ts</link>
+		
+		<item>
+			<title>PT: RTP AÇORES</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/4284.ts</link>
+		
+		<item>
+			<title>PT: RTP ÁFRICA</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/4287.ts</link>
+		
+		<item>
+			<title>PT: RTP MADEIRA</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/4285.ts</link>
+		
+		<item>
+			<title>PT: RTP MEMÓRIA</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/4286.ts</link>
+		
+		<item>
+			<title>PT: SBT Brasil</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/4288.ts</link>
+		
+		<item>
+			<title>PT: SIC</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/4289.ts</link>
+		
+		<item>
+			<title>PT: SIC CARAS</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/4290.ts</link>
+		
+		<item>
+			<title>PT: SIC K</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/4291.ts</link>
+		
+		<item>
+			<title>PT: SIC MULHER</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/4292.ts</link>
+		
+		<item>
+			<title>PT: SIC NOTÍCIAS</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/4293.ts</link>
+		
+		<item>
+			<title>PT: SIC RADICAL</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/4294.ts</link>
+		
+		<item>
+			<title>PT: SPORT TV1 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/4295.ts</link>
+		
+		<item>
+			<title>PT: SPORT TV2 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/4296.ts</link>
+		
+		<item>
+			<title>PT: SPORT TV3 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/4297.ts</link>
+		
+		<item>
+			<title>PT: SPORT TV4 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/4298.ts</link>
+		
+		<item>
+			<title>PT: SPORT TV5</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/4299.ts</link>
+		
+		<item>
+			<title>PT: SPORTING TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/4300.ts</link>
+		
+		<item>
+			<title>PT: SYFY HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/4301.ts</link>
+		
+		<item>
+			<title>PT: TLC</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/4302.ts</link>
+		
+		<item>
+			<title>PT: TOUROS TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/4303.ts</link>
+		
+		<item>
+			<title>PT: TRAVEL CHANNEL HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/4304.ts</link>
+		
+		<item>
+			<title>PT: TV GLOBO</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/4305.ts</link>
+		
+		<item>
+			<title>PT: TV Globo Premium</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/4306.ts</link>
+		
+		<item>
+			<title>PT: TV RECORD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/4307.ts</link>
+		
+		<item>
+			<title>PT: TVCine 1 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/4308.ts</link>
+		
+		<item>
+			<title>PT: TVCine 2 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/4309.ts</link>
+		
+		<item>
+			<title>PT: TVCine 3 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/4310.ts</link>
+		
+		<item>
+			<title>PT: TVCine 4 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/4311.ts</link>
+		
+		<item>
+			<title>PT: TVCseries HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/4312.ts</link>
+		
+		<item>
+			<title>PT: TVI</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/4313.ts</link>
+		
+		<item>
+			<title>PT: TVI 24</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/4314.ts</link>
+		
+		<item>
+			<title>PT: TVI FICÇÃO</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/4315.ts</link>
+		
+		<item>
+			<title>PT: TVI Reality (A Quinta)</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/4316.ts</link>
+		
+		<item>
+			<title>PT: VH1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/4317.ts</link>				
+				
+				
+			<item>
+			<title>"[COLOR red][B]SERVER 2[/B][/COLOR]"</title>
+			<link>http://......</link>	
+					
 		<item>
 			<title>PT_RTP1</title>
 			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1119.ts</link>
