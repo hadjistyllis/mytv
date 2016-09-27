@@ -9,39 +9,6 @@
 			
 		<item>
 			<title>"[COLOR red][B]SERVER 1[/B][/COLOR]"</title>
-			<link>http://......</link>			
-			
-		<item>
- 			<title>GR_ERT1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/4262.ts</link>
-		<item>
-			<title>GR_EPT2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/4263.ts</link>
-		<item>
-			<title>GR_ERT3</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/4264.ts</link>
-		<item>
-			<title>GR_STAR</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/4269.ts</link>
-		<item>
-			<title>GR_SKAI</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/4268.ts</link>
-		<item>
-			<title>GR_MEGA</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/4267.ts</link>
-		<item>
-			<title>GR_ALPHA</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/4265.ts</link>
-		<item>
-			<title>GR_ANT_1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/4266.ts</link>
-		<item>
-			<title>GR_NICKELODEON</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/4270.ts</link>
-	
-
-		<item>
-			<title>"[COLOR red][B]SERVER 2[/B][/COLOR]"</title>
 			<link>http://......</link>	
 			
 		<item>
@@ -199,118 +166,45 @@
 		<item>
 			<title>GR: ZOUGLA</title>
 			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/3103.ts</link>
+
+		<item>
+			<title>"[COLOR red][B]SERVER 2[/B][/COLOR]"</title>
+			<link>http://......</link>	
 			
+			
+			
+		<item>
+ 			<title>GR_ERT1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/4262.ts</link>
+		<item>
+			<title>GR_EPT2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/4263.ts</link>
+		<item>
+			<title>GR_ERT3</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/4264.ts</link>
+		<item>
+			<title>GR_STAR</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/4269.ts</link>
+		<item>
+			<title>GR_SKAI</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/4268.ts</link>
+		<item>
+			<title>GR_MEGA</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/4267.ts</link>
+		<item>
+			<title>GR_ALPHA</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/4265.ts</link>
+		<item>
+			<title>GR_ANT_1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/4266.ts</link>
+		<item>
+			<title>GR_NICKELODEON</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/4270.ts</link>
+	
+
 
 		<item>
 			<title>"[COLOR red][B]SERVER 3[/B][/COLOR]"</title>
 			<link>http://......</link>				
-			
-			
-		<item>
-			<title>CY: Sigma</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ksportiptv.com:1557/live/ARIVA 240/yzsRjtctLx/1646.ts</link>
-		
-		<item>
-			<title>GR: Kontra TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ksportiptv.com:1557/live/ARIVA 240/yzsRjtctLx/978.ts</link>
-		
-		<item>
-			<title>GR: TILESPORT</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ksportiptv.com:1557/live/ARIVA 240/yzsRjtctLx/2299.ts</link>
-		
-		<item>
-			<title>GR: Thraki TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ksportiptv.com:1557/live/ARIVA 240/yzsRjtctLx/2300.ts</link>
-		
-		<item>
-			<title>GR: 4E Star</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http//:ksportiptv.com:1557/live/ARIVA 240/yzsRjtctLx/1647.ts</link>
-		
-		<item>
-			<title>GR: Skai</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ksportiptv.com:1557/live/ARIVA 240/yzsRjtctLx/2303.ts</link>
-		
-		<item>
-			<title>GR: SBC</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ksportiptv.com:1557/live/ARIVA 240/yzsRjtctLx/2304.ts</link>
-		
-		<item>
-			<title>GR: SAMIAKI</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ksportiptv.com:1557/live/ARIVA 240/yzsRjtctLx/2305.ts</link>
-		
-		<item>
-			<title>GR: Omega TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ksportiptv.com:1557/live/ARIVA 240/yzsRjtctLx/1645.ts</link>
-		
-		<item>
-			<title>GR: OMEGA</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ksportiptv.com:1557/live/ARIVA 240/yzsRjtctLx/2306.ts</link>
-		
-		<item>
-			<title>GR: NEA</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ksportiptv.com:1557/live/ARIVA 240/yzsRjtctLx/2307.ts</link>
-		
-		<item>
-			<title>GR: MESSINIA TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ksportiptv.com:1557/live/ARIVA 240/yzsRjtctLx/2308.ts</link>
-		
-		<item>
-			<title>GR: Mega</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ksportiptv.com:1557/live/ARIVA 240/yzsRjtctLx/2309.ts</link>
-		
-		<item>
-			<title>GR: Lepanto</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ksportiptv.com:1557/live/ARIVA 240/yzsRjtctLx/2311.ts</link>
-		
-		<item>
-			<title>GR: EXTRA</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ksportiptv.com:1557/live/ARIVA 240/yzsRjtctLx/2314.ts</link>
-		
-		<item>
-			<title>GR: Eurosport 2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ksportiptv.com:1557/live/ARIVA 240/yzsRjtctLx/2315.ts</link>
-		
-		<item>
-			<title>GR: Eurosport 1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ksportiptv.com:1557/live/ARIVA 240/yzsRjtctLx/2316.ts</link>
-		
-		<item>
-			<title>GR: ERT2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ksportiptv.com:1557/live/ARIVA 240/yzsRjtctLx/2317.ts</link>
-		
-		<item>
-			<title>GR: ERT1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ksportiptv.com:1557/live/ARIVA 240/yzsRjtctLx/2318.ts</link>
-		
-		<item>
-			<title>GR: ERT3</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ksportiptv.com:1557/live/ARIVA 240/yzsRjtctLx/2319.ts</link>
-		
-		<item>
-			<title>GR: E</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ksportiptv.com:1557/live/ARIVA 240/yzsRjtctLx/2322.ts</link>
-		
-		<item>
-			<title>GR: Blue Sky</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ksportiptv.com:1557/live/ARIVA 240/yzsRjtctLx/1642.ts</link>
-		
-		<item>
-			<title>GR: Axeloos TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ksportiptv.com:1557/live/ARIVA 240/yzsRjtctLx/2323.ts</link>
-		
-		<item>
-			<title>GR: Art</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ksportiptv.com:1557/live/ARIVA 240/yzsRjtctLx/2324.ts</link>
-		
-		<item>
-			<title>GR: ANT1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ksportiptv.com:1557/live/ARIVA 240/yzsRjtctLx/2326.ts</link>
-		
-		<item>
-			<title>GR: Alpha</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ksportiptv.com:1557/live/ARIVA 240/yzsRjtctLx/2327.ts</link>
-		
-		<item>
-			<title>GR: 4E</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ksportiptv.com:1557/live/ARIVA 240/yzsRjtctLx/2329.ts</link>
+
 			
