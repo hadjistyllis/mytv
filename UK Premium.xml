@@ -6,9 +6,599 @@
 			<title>"[COLOR red][B]http://e-doctor.webstarts.com[/B][/COLOR]"</title>
 			<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=GA0N0Bu5JiE</link>
 	
+
 			
 		<item>
 			<title>"[COLOR red][B]SERVER 1[/B][/COLOR]"</title>
+			<link>http://......</link>
+			
+		<item>
+			<title>UK: 3E</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3542.ts</link>/
+		
+		<item>
+			<title>UK: 5 STAR</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3543.ts</link>/
+		
+		<item>
+			<title>UK: 5 USA</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3544.ts</link>/
+		
+		<item>
+			<title>UK: ALIBI HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3545.ts</link>/
+		
+		<item>
+			<title>UK: ANIMAL PLANET</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3546.ts</link>/
+		
+		<item>
+			<title>UK: AT THE RACES</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3547.ts</link>/
+		
+		<item>
+			<title>UK: BBC FOUR HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3548.ts</link>/
+		
+		<item>
+			<title>UK: BBC NEWS</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3549.ts</link>/
+		
+		<item>
+			<title>UK: BBC WORLD NEWS</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3550.ts</link>/
+		
+		<item>
+			<title>UK: BLOOMBERG US HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3551.ts</link>/
+		
+		<item>
+			<title>UK: Boomerang</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3685.ts</link>/
+		
+		<item>
+			<title>UK: BOX NATION HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3552.ts</link>/
+		
+		<item>
+			<title>UK: BOX OFFICE PPV (LIVE DURING BOXING MATCH)</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3553.ts</link>/
+		
+		<item>
+			<title>UK: BT SPORT 1 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3554.ts</link>/
+		
+		<item>
+			<title>UK: BT SPORT 2 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3555.ts</link>/
+		
+		<item>
+			<title>UK: BT SPORT ESPN HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3556.ts</link>/
+		
+		<item>
+			<title>UK: BT SPORT EUROPE HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3557.ts</link>/
+		
+		<item>
+			<title>UK: CARTOON NETWORK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3559.ts</link>/
+		
+		<item>
+			<title>UK: CBBC</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3560.ts</link>/
+		
+		<item>
+			<title>UK: CBEEBIES</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3561.ts</link>/
+		
+		<item>
+			<title>UK: CBS ACTION</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3562.ts</link>/
+		
+		<item>
+			<title>UK: CBS DRAMA</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3563.ts</link>/
+		
+		<item>
+			<title>UK: CBS REALITY</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3564.ts</link>/
+		
+		<item>
+			<title>UK: CHANNEL 4 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3566.ts</link>/
+		
+		<item>
+			<title>UK: CHANNEL 5</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3567.ts</link>/
+		
+		<item>
+			<title>UK: CHELSEA TV HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3568.ts</link>/
+		
+		<item>
+			<title>UK: COLORS</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3569.ts</link>/
+		
+		<item>
+			<title>UK: COMEDY CENTRAL</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3570.ts</link>/
+		
+		<item>
+			<title>UK: CRIME & INVESTIGATION</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3571.ts</link>/
+		
+		<item>
+			<title>UK: DAVE HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3572.ts</link>/
+		
+		<item>
+			<title>UK: DISCOVERY</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3573.ts</link>/
+		
+		<item>
+			<title>UK: DISCOVERY HISTORY</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3574.ts</link>/
+		
+		<item>
+			<title>UK: DISCOVERY INVESTIGATION</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3575.ts</link>/
+		
+		<item>
+			<title>UK: DISCOVERY SCIENCE</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3576.ts</link>/
+		
+		<item>
+			<title>UK: DISCOVERY TURBO</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3577.ts</link>/
+		
+		<item>
+			<title>UK: DISNEY CHANNEL HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3578.ts</link>/
+		
+		<item>
+			<title>UK: DISNEY JUNIOR</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3579.ts</link>/
+		
+		<item>
+			<title>UK: DISNEY XD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3580.ts</link>/
+		
+		<item>
+			<title>UK: DMAX UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3581.ts</link>/
+		
+		<item>
+			<title>UK: E!</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3582.ts</link>/
+		
+		<item>
+			<title>UK: E4</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3583.ts</link>/
+		
+		<item>
+			<title>UK: E4  1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3584.ts</link>/
+		
+		<item>
+			<title>UK: Eir Sport 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3630.ts</link>/
+		
+		<item>
+			<title>UK: Eir Sport 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/4980.ts</link>/
+		
+		<item>
+			<title>UK: Eurosport 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/4389.ts</link>/
+		
+		<item>
+			<title>UK: Eurosport 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/4390.ts</link>/
+		
+		<item>
+			<title>UK: FILM 4 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3585.ts</link>/
+		
+		<item>
+			<title>UK: FOOD NETWORK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3586.ts</link>/
+		
+		<item>
+			<title>UK: FOX SPORTS 1 US HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3587.ts</link>/
+		
+		<item>
+			<title>UK: FOX SPORTS 2 US HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3588.ts</link>/
+		
+		<item>
+			<title>UK: GOLD UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3589.ts</link>/
+		
+		<item>
+			<title>UK: GOOD FOOD CHANNEL</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3590.ts</link>/
+		
+		<item>
+			<title>UK: H2 UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3591.ts</link>/
+		
+		<item>
+			<title>UK: Heart TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3687.ts</link>/
+		
+		<item>
+			<title>UK: HISTORY</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3592.ts</link>/
+		
+		<item>
+			<title>UK: HISTORY 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3593.ts</link>/
+		
+		<item>
+			<title>UK: HOME</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3594.ts</link>/
+		
+		<item>
+			<title>UK: HOME & HEALTH</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3595.ts</link>/
+		
+		<item>
+			<title>UK: HORROR CHANNEL</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3596.ts</link>/
+		
+		<item>
+			<title>UK: HORSE & COUNTRY</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3597.ts</link>/
+		
+		<item>
+			<title>UK: IRISH TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3598.ts</link>/
+		
+		<item>
+			<title>UK: ITV  1 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3599.ts</link>/
+		
+		<item>
+			<title>UK: ITV BE</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3600.ts</link>/
+		
+		<item>
+			<title>UK: ITV ENCORE</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3601.ts</link>/
+		
+		<item>
+			<title>UK: ITV2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3603.ts</link>/
+		
+		<item>
+			<title>UK: ITV3</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3604.ts</link>/
+		
+		<item>
+			<title>UK: ITV4</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3605.ts</link>/
+		
+		<item>
+			<title>UK: LIVERPOOL FC</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3606.ts</link>/
+		
+		<item>
+			<title>UK: LONDON LIVE</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3607.ts</link>/
+		
+		<item>
+			<title>UK: MORE 4 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3608.ts</link>/
+		
+		<item>
+			<title>UK: MOTORS TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3609.ts</link>/
+		
+		<item>
+			<title>UK: MOVIES 4 MEN</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3610.ts</link>/
+		
+		<item>
+			<title>UK: MTV BASE</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3612.ts</link>/
+		
+		<item>
+			<title>UK: MTV CLASSIC</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3613.ts</link>/
+		
+		<item>
+			<title>UK: MTV DANCE</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3614.ts</link>/
+		
+		<item>
+			<title>UK: MTV HITS</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3615.ts</link>/
+		
+		<item>
+			<title>UK: MTV LIVE HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3616.ts</link>/
+		
+		<item>
+			<title>UK: MTV MUSIC</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3617.ts</link>/
+		
+		<item>
+			<title>UK: MTV ROCKS</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3618.ts</link>/
+		
+		<item>
+			<title>UK: MUTV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3619.ts</link>/
+		
+		<item>
+			<title>UK: NAT GEO WILD HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3620.ts</link>/
+		
+		<item>
+			<title>UK: NATIONAL GEOGRAPHIC HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3621.ts</link>/
+		
+		<item>
+			<title>UK: NICK JUNIOR</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3622.ts</link>/
+		
+		<item>
+			<title>UK: NICKELODEON</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3623.ts</link>/
+		
+		<item>
+			<title>UK: PICK TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3624.ts</link>/
+		
+		<item>
+			<title>UK: QUEST</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3625.ts</link>/
+		
+		<item>
+			<title>UK: RACING UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3626.ts</link>/
+		
+		<item>
+			<title>UK: REALLY</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3627.ts</link>/
+		
+		<item>
+			<title>UK: RISHTEY EUROPE</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3628.ts</link>/
+		
+		<item>
+			<title>UK: RT DOCUMENTARY</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3629.ts</link>/
+		
+		<item>
+			<title>UK: SKY ARTS HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3631.ts</link>/
+		
+		<item>
+			<title>UK: SKY BABY TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3632.ts</link>/
+		
+		<item>
+			<title>UK: SKY BBC ONE HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3633.ts</link>/
+		
+		<item>
+			<title>UK: SKY BBC THREE HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3634.ts</link>/
+		
+		<item>
+			<title>UK: SKY BBC TWO HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3635.ts</link>/
+		
+		<item>
+			<title>UK: SKY LIVING HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3637.ts</link>/
+		
+		<item>
+			<title>UK: SKY MOVIES ACTION HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3638.ts</link>/
+		
+		<item>
+			<title>UK: SKY MOVIES ATLANTIC</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3639.ts</link>/
+		
+		<item>
+			<title>UK: SKY MOVIES COMEDY HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3640.ts</link>/
+		
+		<item>
+			<title>UK: SKY MOVIES DISNEY</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3641.ts</link>/
+		
+		<item>
+			<title>UK: SKY MOVIES DRAMA HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3642.ts</link>/
+		
+		<item>
+			<title>UK: SKY MOVIES FAMILY HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3643.ts</link>/
+		
+		<item>
+			<title>UK: SKY MOVIES MODERN GREATS</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3644.ts</link>/
+		
+		<item>
+			<title>UK: SKY MOVIES PREMIERE HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3645.ts</link>/
+		
+		<item>
+			<title>UK: SKY MOVIES ScFi HORROR</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3646.ts</link>/
+		
+		<item>
+			<title>UK: SKY MOVIES SELECT HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3647.ts</link>/
+		
+		<item>
+			<title>UK: SKY Movies Showcase HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3648.ts</link>/
+		
+		<item>
+			<title>UK: SKY MOVIES THRILLER</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3649.ts</link>/
+		
+		<item>
+			<title>UK: SKY NEWS HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3650.ts</link>/
+		
+		<item>
+			<title>UK: SKY ONE HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3651.ts</link>/
+		
+		<item>
+			<title>UK: SKY PREMIER SPORTS HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3652.ts</link>/
+		
+		<item>
+			<title>UK: SKY REAL LIVES</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3653.ts</link>/
+		
+		<item>
+			<title>UK: SKY RTE 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3654.ts</link>/
+		
+		<item>
+			<title>UK: SKY RTE 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3655.ts</link>/
+		
+		<item>
+			<title>UK: SKY SONY MOVIES</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3656.ts</link>/
+		
+		<item>
+			<title>UK: SKY SPORT 1 US HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3657.ts</link>/
+		
+		<item>
+			<title>UK: SKY SPORTS 1 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3658.ts</link>/
+		
+		<item>
+			<title>UK: SKY SPORTS 2 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3659.ts</link>/
+		
+		<item>
+			<title>UK: SKY SPORTS 3 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3660.ts</link>/
+		
+		<item>
+			<title>UK: SKY SPORTS 4 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3661.ts</link>/
+		
+		<item>
+			<title>UK: SKY SPORTS 5 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3662.ts</link>/
+		
+		<item>
+			<title>UK: Sky SPORTS F1 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3663.ts</link>/
+		
+		<item>
+			<title>UK: SKY SPORTS NEWS HQ</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3664.ts</link>/
+		
+		<item>
+			<title>UK: SKY TWO HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3665.ts</link>/
+		
+		<item>
+			<title>UK: Star Gold</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/4328.ts</link>/
+		
+		<item>
+			<title>UK: Star Jalsha</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/4329.ts</link>/
+		
+		<item>
+			<title>UK: Star Plus</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/4330.ts</link>/
+		
+		<item>
+			<title>UK: SYFY</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3666.ts</link>/
+		
+		<item>
+			<title>UK: TCM 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3667.ts</link>/
+		
+		<item>
+			<title>UK: TG4</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3668.ts</link>/
+		
+		<item>
+			<title>UK: TLC</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3669.ts</link>/
+		
+		<item>
+			<title>UK: TLC IRELAND</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3670.ts</link>/
+		
+		<item>
+			<title>UK: TRAVEL CHANNEL</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3671.ts</link>/
+		
+		<item>
+			<title>UK: TRUE DRAMA</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3672.ts</link>/
+		
+		<item>
+			<title>UK: TRUE ENTERTAINMENT</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3673.ts</link>/
+		
+		<item>
+			<title>UK: TRUE MOVIES 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3674.ts</link>/
+		
+		<item>
+			<title>UK: TRUE MOVIES 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3675.ts</link>/
+		
+		<item>
+			<title>UK: UK NICKTOONS</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3676.ts</link>/
+		
+		<item>
+			<title>UK: VH1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3677.ts</link>/
+		
+		<item>
+			<title>UK: VH1 Classics</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3688.ts</link>/
+		
+		<item>
+			<title>UK: VINTAGE TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3678.ts</link>/
+		
+		<item>
+			<title>UK: VIVA UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3679.ts</link>/
+		
+		<item>
+			<title>UK: WATCH</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3680.ts</link>/
+		
+		<item>
+			<title>UK: WWE US HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3681.ts</link>/
+		
+		<item>
+			<title>UK: YESTERDAY</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3682.ts</link>/			
+			
+			
+			
+			
+			
+			
+		<item>
+			<title>"[COLOR red][B]SERVER 2[/B][/COLOR]"</title>
 			<link>http://......</link>	
 						
 		<item>	
