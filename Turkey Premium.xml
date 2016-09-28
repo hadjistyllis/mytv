@@ -5,7 +5,486 @@
 		<item>
 			<title>"[COLOR red][B]http://e-doctor.webstarts.com[/B][/COLOR]"</title>
 			<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=GA0N0Bu5JiE</link>
-	
+
+			
+		<item>
+			<title>"[COLOR red][B]SERVER 1[/B][/COLOR]"</title>
+			<link>http://......</link>	
+			
+			
+		<item>
+			<title>TR: TV1 Kayseri</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/7685.ts</link>
+		
+		<item>
+			<title>TR: TV 8 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/7722.ts</link>
+		
+		<item>
+			<title>TR: TV 6</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/7686.ts</link>
+		
+		<item>
+			<title>TR: TV 5</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/7687.ts</link>
+		
+		<item>
+			<title>TR: TV 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/7723.ts</link>
+		
+		<item>
+			<title>TR: TRT TURK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/8319.ts</link>
+		
+		<item>
+			<title>TR: TRT SPOR</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/7724.ts</link>
+		
+		<item>
+			<title>TR: TRT OKUL</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/7725.ts</link>
+		
+		<item>
+			<title>TR: TRT MUZIK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/7726.ts</link>
+		
+		<item>
+			<title>TR: TRT HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/7727.ts</link>
+		
+		<item>
+			<title>TR: TRT HABER</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/7728.ts</link>
+		
+		<item>
+			<title>TR: TRT Cocuk</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/7729.ts</link>
+		
+		<item>
+			<title>TR: TRT BELGESEL</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/8318.ts</link>
+		
+		<item>
+			<title>TR: TRT Avaz</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/7730.ts</link>
+		
+		<item>
+			<title>TR: TRT Arapca</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/7731.ts</link>
+		
+		<item>
+			<title>TR: TRT 3 Spor</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/7732.ts</link>
+		
+		<item>
+			<title>TR: TRT 1HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/7733.ts</link>
+		
+		<item>
+			<title>TR: STAR TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/7717.ts</link>
+		
+		<item>
+			<title>TR: SPORTS TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/7718.ts</link>
+		
+		<item>
+			<title>TR: Show TV HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/7719.ts</link>
+		
+		<item>
+			<title>TR: Planet Turk</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/7683.ts</link>
+		
+		<item>
+			<title>TR: NTV Turkiye HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/7720.ts</link>
+		
+		<item>
+			<title>TR: NTV Spor HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/7721.ts</link>
+		
+		<item>
+			<title>TR: Mavi Karadeniz</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/7684.ts</link>
+		
+		<item>
+			<title>TR: Koza TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/7688.ts</link>
+		
+		<item>
+			<title>TR: Karadeniz TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/7689.ts</link>
+		
+		<item>
+			<title>TR: Kanal Urfa</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/7690.ts</link>
+		
+		<item>
+			<title>TR: Kanal T</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/7704.ts</link>
+		
+		<item>
+			<title>TR: KANAL Firat</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/7705.ts</link>
+		
+		<item>
+			<title>TR: KANAL D</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/7706.ts</link>
+		
+		<item>
+			<title>TR: Kanal B</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/7691.ts</link>
+		
+		<item>
+			<title>TR: Kanal A</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/7692.ts</link>
+		
+		<item>
+			<title>TR: KANAL 7 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/7707.ts</link>
+		
+		<item>
+			<title>TR: Kanal 7 Avrupa</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/7708.ts</link>
+		
+		<item>
+			<title>TR: KANAL 35</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/7693.ts</link>
+		
+		<item>
+			<title>TR: Kanal 3</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/7694.ts</link>
+		
+		<item>
+			<title>TR: History Channel</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/7709.ts</link>
+		
+		<item>
+			<title>TR: HALK TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/7710.ts</link>
+		
+		<item>
+			<title>TR: FOX TV HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/7711.ts</link>
+		
+		<item>
+			<title>TR: Euro Star TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/7712.ts</link>
+		
+		<item>
+			<title>TR: Euro D</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/7713.ts</link>
+		
+		<item>
+			<title>TR: DREAM TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/7714.ts</link>
+		
+		<item>
+			<title>TR: DREAM TURK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/7715.ts</link>
+		
+		<item>
+			<title>TR: CNN TURK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/7716.ts</link>
+		
+		<item>
+			<title>TR: BursaSpor TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/7699.ts</link>
+		
+		<item>
+			<title>TR: Bloomberg HT</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/7700.ts</link>
+		
+		<item>
+			<title>TR: BEYAZ TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/7701.ts</link>
+		
+		<item>
+			<title>TR: Bereket TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/7695.ts</link>
+		
+		<item>
+			<title>TR: Berat TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/7696.ts</link>
+		
+		<item>
+			<title>TR: Benguturk TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/7697.ts</link>
+		
+		<item>
+			<title>TR: ATV HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/7702.ts</link>
+		
+		<item>
+			<title>TR: ATV avrupa</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/8317.ts</link>
+		
+		<item>
+			<title>TR: Animal Planet</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/7703.ts</link>
+		
+		<item>
+			<title>TR: A Spor</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/7698.ts</link>
+		
+		<item>
+			<title>TR TV 8 int</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/8316.ts</link>
+		
+		<item>
+			<title>YRT TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/8593.ts</link>
+		
+		<item>
+			<title>TV2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/8592.ts</link>
+		
+		<item>
+			<title>TV 8</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/8573.ts</link>
+		
+		<item>
+			<title>TURKMAX GURME</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/8591.ts</link>
+		
+		<item>
+			<title>TRT TURK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/8583.ts</link>
+		
+		<item>
+			<title>TRT SPOR</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/8584.ts</link>
+		
+		<item>
+			<title>TRT MUZIK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/8585.ts</link>
+		
+		<item>
+			<title>TRT HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/8586.ts</link>
+		
+		<item>
+			<title>TRT HABER HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/8587.ts</link>
+		
+		<item>
+			<title>TRT HABER</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/8588.ts</link>
+		
+		<item>
+			<title>TRT cocuk</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/8589.ts</link>
+		
+		<item>
+			<title>TRT BELGESEL</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/8590.ts</link>
+		
+		<item>
+			<title>TRT 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/8611.ts</link>
+		
+		<item>
+			<title>Star turk</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/8608.ts</link>
+		
+		<item>
+			<title>SMART SPOR HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/8566.ts</link>
+		
+		<item>
+			<title>SMART SPOR 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/8567.ts</link>
+		
+		<item>
+			<title>SHOWMAX</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/8582.ts</link>
+		
+		<item>
+			<title>Show TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/8605.ts</link>
+		
+		<item>
+			<title>SAMANYOLU TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/8571.ts</link>
+		
+		<item>
+			<title>SAMANYOLU AVR</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/8572.ts</link>
+		
+		<item>
+			<title>Salon 3</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/8559.ts</link>
+		
+		<item>
+			<title>Salon 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/8558.ts</link>
+		
+		<item>
+			<title>Salon 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/8557.ts</link>
+		
+		<item>
+			<title>S HABER</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/8577.ts</link>
+		
+		<item>
+			<title>NTV SPOR</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/8594.ts</link>
+		
+		<item>
+			<title>NTV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/8578.ts</link>
+		
+		<item>
+			<title>NR 1 TURK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/8595.ts</link>
+		
+		<item>
+			<title>NED 3</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/8614.ts</link>
+		
+		<item>
+			<title>NED 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/8613.ts</link>
+		
+		<item>
+			<title>NED 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/8612.ts</link>
+		
+		<item>
+			<title>Nat Geo Wild turk</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/8598.ts</link>
+		
+		<item>
+			<title>Nat Geo Turk</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/8602.ts</link>
+		
+		<item>
+			<title>MOVIEMAX PREMIER HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/8565.ts</link>
+		
+		<item>
+			<title>KRAL TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/8596.ts</link>
+		
+		<item>
+			<title>KRAL POP</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/8597.ts</link>
+		
+		<item>
+			<title>KON TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/8576.ts</link>
+		
+		<item>
+			<title>KANALTURK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/8581.ts</link>
+		
+		<item>
+			<title>Kanal D</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/8606.ts</link>
+		
+		<item>
+			<title>KANAL 7</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/8574.ts</link>
+		
+		<item>
+			<title>KANAL 24</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/8580.ts</link>
+		
+		<item>
+			<title>HISTORY CHANNEL</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/8569.ts</link>
+		
+		<item>
+			<title>HBO 3</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/8617.ts</link>
+		
+		<item>
+			<title>HBO 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/8616.ts</link>
+		
+		<item>
+			<title>HBO</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/8615.ts</link>
+		
+		<item>
+			<title>Fox turk</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/8609.ts</link>
+		
+		<item>
+			<title>Fox Sport 5 x</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/8560.ts</link>
+		
+		<item>
+			<title>Fox Sport 4 x</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/8561.ts</link>
+		
+		<item>
+			<title>Fox Sport 3 x</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/8562.ts</link>
+		
+		<item>
+			<title>Fox Sport 2 x</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/8563.ts</link>
+		
+		<item>
+			<title>Fox Sport 1 x</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/8564.ts</link>
+		
+		<item>
+			<title>FLASH TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/8575.ts</link>
+		
+		<item>
+			<title>Eurostar</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/8607.ts</link>
+		
+		<item>
+			<title>EURO D</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/8570.ts</link>
+		
+		<item>
+			<title>Disney Channel Turk</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/8600.ts</link>
+		
+		<item>
+			<title>Discovry Science turk</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/8599.ts</link>
+		
+		<item>
+			<title>Discovery Turk</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/8603.ts</link>
+		
+		<item>
+			<title>CNN TURK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/8579.ts</link>
+		
+		<item>
+			<title>BEYAZ TV HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/8568.ts</link>
+		
+		<item>
+			<title>ATV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/8610.ts</link>
+		
+		<item>
+			<title>ASport</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/8601.ts</link>
+		
+		<item>
+			<title>Animal planet turk</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/kalan/kalan/8604.</link>
+			
+			
+			
+			
+		<item>
+			<title>"[COLOR red][B]SERVER 2[/B][/COLOR]"</title>
+			<link>http://......</link>		
+			
+			
+			
 		<item>
 			<title>TR_A_SPORT</title>
 			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/824.ts</link>
