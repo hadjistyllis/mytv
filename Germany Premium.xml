@@ -12,834 +12,230 @@
 			<link>http://......</link>	
 		
 		<item>
-			<title>DE: 13th Street</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2642.ts </link>
+			<title>DE: SKY HISTORY CHANNEL HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1403.ts</link>
 		
 		<item>
-			<title>DE: 3sat</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2643.ts </link>
-		
-		<item>
-			<title>DE: A&E</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2644.ts </link>
-		
-		<item>
-			<title>DE: ARD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2645.ts </link>
-		
-		<item>
-			<title>DE: Arte</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2646.ts </link>
-		
-		<item>
-			<title>DE: AXN</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2647.ts </link>
-		
-		<item>
-			<title>DE: Beate-Uhse Tv</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/3307.ts </link>
-		
-		<item>
-			<title>DE: Boomerang</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2648.ts </link>
-		
-		<item>
-			<title>DE: BR Bayerischer Rundfunk HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/4967.ts </link>
-		
-		<item>
-			<title>DE: Classica</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/3308.ts </link>
-		
-		<item>
-			<title>DE: DAS ERSTE-DE</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/3309.ts </link>
-		
-		<item>
-			<title>DE: Deluxe Music</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2650.ts </link>
-		
-		<item>
-			<title>DE: Discovery Channel</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2651.ts </link>
-		
-		<item>
-			<title>DE: Disney Channel</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2652.ts </link>
-		
-		<item>
-			<title>DE: Disney Cinemagic</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2653.ts </link>
-		
-		<item>
-			<title>DE: Disney XD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2654.ts </link>
-		
-		<item>
-			<title>DE: Dmax</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2655.ts </link>
-		
-		<item>
-			<title>DE: E-ENTERTAIMENT HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/4322.ts </link>
-		
-		<item>
-			<title>DE: Eins Festival</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2656.ts </link>
-		
-		<item>
-			<title>DE: Eins Plus</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2657.ts </link>
-		
-		<item>
-			<title>DE: Euronews</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2658.ts </link>
-		
-		<item>
-			<title>DE: Eurosport 1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2659.ts </link>
-		
-		<item>
-			<title>DE: EUROSPORT 2 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/4323.ts </link>
-		
-		<item>
-			<title>DE: FOX</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2660.ts </link>
-		
-		<item>
-			<title>DE: FOX life</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2661.ts </link>
-		
-		<item>
-			<title>DE: Fox Serie</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/4324.ts </link>
-		
-		<item>
-			<title>DE: Goldstar</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/3310.ts </link>
-		
-		<item>
-			<title>DE: Halle TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2662.ts </link>
-		
-		<item>
-			<title>DE: Heimatkanal</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/3311.ts </link>
-		
-		<item>
-			<title>DE: History Channel</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2663.ts </link>
-		
-		<item>
-			<title>DE: HR Fernsehen</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2664.ts </link>
-		
-		<item>
-			<title>DE: Jukebox</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/3312.ts </link>
-		
-		<item>
-			<title>DE: Junior</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/3313.ts </link>
-		
-		<item>
-			<title>DE: Kabel 1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2665.ts </link>
-		
-		<item>
-			<title>DE: Kika</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2666.ts </link>
-		
-		<item>
-			<title>DE: Kinowelt TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2667.ts </link>
-		
-		<item>
-			<title>DE: MDR</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2668.ts </link>
-		
-		<item>
-			<title>DE: MGM</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2669.ts </link>
-		
-		<item>
-			<title>DE: Motorvision</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/3314.ts </link>
-		
-		<item>
-			<title>DE: Munchen TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2678.ts </link>
-		
-		<item>
-			<title>DE: N-TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2679.ts </link>
-		
-		<item>
-			<title>DE: N24</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2680.ts </link>
-		
-		<item>
-			<title>DE: Nat Geo wild</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2681.ts </link>
-		
-		<item>
-			<title>DE: National Geographic</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2682.ts </link>
-		
-		<item>
-			<title>DE: NDR</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2683.ts </link>
-		
-		<item>
-			<title>DE: ORF 1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2685.ts </link>
-		
-		<item>
-			<title>DE: ORF 2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2684.ts </link>
-		
-		<item>
-			<title>DE: Orf Sport Plus</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2686.ts </link>
-		
-		<item>
-			<title>DE: Phoenix</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2687.ts </link>
-		
-		<item>
-			<title>DE: Pro 7</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2688.ts </link>
-		
-		<item>
-			<title>DE: Pro 7 Max</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2689.ts </link>
-		
-		<item>
-			<title>DE: RBB Berlin</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2690.ts </link>
-		
-		<item>
-			<title>DE: RTL</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2691.ts </link>
-		
-		<item>
-			<title>DE: RTL 2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2692.ts </link>
-		
-		<item>
-			<title>DE: RTL Crime</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/3315.ts </link>
-		
-		<item>
-			<title>DE: RTL Nitro</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2693.ts </link>
-		
-		<item>
-			<title>DE: RTL Passion</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/3316.ts </link>
-		
-		<item>
-			<title>DE: Sat 1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2694.ts </link>
-		
-		<item>
-			<title>DE: Sat1 Gold</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2695.ts </link>
-		
-		<item>
-			<title>DE: Sixx</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2697.ts </link>
-		
-		<item>
-			<title>DE: Sky 3D</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2698.ts </link>
-		
-		<item>
-			<title>DE: Sky Action</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2699.ts </link>
-		
-		<item>
-			<title>DE: Sky Atlantic</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2700.ts </link>
-		
-		<item>
-			<title>DE: SKY Bundesliga 1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2701.ts </link>
-		
-		<item>
-			<title>DE: Sky Bundesliga 2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2702.ts </link>
-		
-		<item>
-			<title>DE: Sky Bundesliga 3</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/3317.ts </link>
-		
-		<item>
-			<title>DE: Sky Bundesliga 4</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/3318.ts </link>
-		
-		<item>
-			<title>DE: Sky Bundesliga 5</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/3319.ts </link>
-		
-		<item>
-			<title>DE: SKY Cinema</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2703.ts </link>
-		
-		<item>
-			<title>DE: Sky Cinema+1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2704.ts </link>
-		
-		<item>
-			<title>DE: SKY Cinema+24</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2705.ts </link>
-		
-		<item>
-			<title>DE: SKY Comedy</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2706.ts </link>
-		
-		<item>
-			<title>DE: Sky Emotion</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2707.ts </link>
-		
-		<item>
-			<title>DE: Sky Hits</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2708.ts </link>
-		
-		<item>
-			<title>DE: Sky Krimi</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2709.ts </link>
-		
-		<item>
-			<title>DE: Sky Nostalgie</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2710.ts </link>
-		
-		<item>
-			<title>DE: Sky Select 1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2670.ts </link>
-		
-		<item>
-			<title>DE: Sky Select 2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2671.ts </link>
-		
-		<item>
-			<title>DE: Sky Select 3</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2672.ts </link>
-		
-		<item>
-			<title>DE: Sky Select 4</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2673.ts </link>
-		
-		<item>
-			<title>DE: Sky Select 5</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2674.ts </link>
-		
-		<item>
-			<title>DE: Sky Select 6</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2675.ts </link>
-		
-		<item>
-			<title>DE: Sky Select 7</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2676.ts </link>
-		
-		<item>
-			<title>DE: Sky Select 8</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2677.ts </link>
-		
-		<item>
-			<title>DE: Sky Sport 1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2711.ts </link>
-		
-		<item>
-			<title>DE: Sky Sport 2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2712.ts </link>
-		
-		<item>
-			<title>DE: Sky Sport 3</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/3320.ts </link>
-		
-		<item>
-			<title>DE: Sky Sport Austria</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2713.ts </link>
-		
-		<item>
-			<title>DE: Sky Sport News</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2714.ts </link>
-		
-		<item>
-			<title>DE: Spiegel Geschichte</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/3321.ts </link>
-		
-		<item>
-			<title>DE: SPORT 1 US HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/4325.ts </link>
-		
-		<item>
-			<title>DE: SPORT1  HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/4326.ts </link>
-		
-		<item>
-			<title>DE: SRF 1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2716.ts </link>
-		
-		<item>
-			<title>DE: SRF 2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2717.ts </link>
-		
-		<item>
-			<title>DE: SRF Info</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2718.ts </link>
-		
-		<item>
-			<title>DE: Super RTL</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2719.ts </link>
-		
-		<item>
-			<title>DE: SWR</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2720.ts </link>
-		
-		<item>
-			<title>DE: SyFy</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2721.ts </link>
-		
-		<item>
-			<title>DE: TLC HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/4321.ts </link>
-		
-		<item>
-			<title>DE: TNT Film</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2722.ts </link>
-		
-		<item>
-			<title>DE: TNT Serie</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2723.ts </link>
-		
-		<item>
-			<title>DE: Viva Comedy Central</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2724.ts </link>
+			<title>DE: SKY AXN ACTION HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1404.ts</link>
 		
 		<item>
 			<title>DE: VOX</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2725.ts </link>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1321.ts</link>
 		
 		<item>
-			<title>DE: Wdr</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2726.ts </link>
+			<title>DE: SKY SPORT NEWS HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1325.ts</link>
 		
 		<item>
-			<title>DE: Welt HR HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/4969.ts </link>
+			<title>DE: Sky Rtl Passion</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1326.ts</link>
+		
+		<item>
+			<title>DE: Sky Planet HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1327.ts</link>
+		
+		<item>
+			<title>DE: Sky Nostalgie</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1328.ts</link>
+		
+		<item>
+			<title>DE: Sky Krimi</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1239.ts</link>
+		
+		<item>
+			<title>DE: ORF 2 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1245.ts</link>
+		
+		<item>
+			<title>DE: ORF 1 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1244.ts</link>
+		
+		<item>
+			<title>DE: National Geo HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1242.ts</link>
+		
+		<item>
+			<title>DE: Nat Geo Wild</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1241.ts</link>
+		
+		<item>
+			<title>DE: Sky Emotion</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1137.ts</link>
+		
+		<item>
+			<title>DE: Sky Cinema</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1138.ts</link>
+		
+		<item>
+			<title>DE: TNT SERIES HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/960.ts</link>
+		
+		<item>
+			<title>DE: SKY TNT FILME HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/959.ts</link>
+		
+		<item>
+			<title>DE: SKY SYFY HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/956.ts</link>
+		
+		<item>
+			<title>DE: SKY HITS HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/955.ts</link>
+		
+		<item>
+			<title>DE: SKY DMAX HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/958.ts</link>
+		
+		<item>
+			<title>DE: SKY COMEDY HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/952.ts</link>
+		
+		<item>
+			<title>DE: SKY ACTION HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/953.ts</link>
+		
+		<item>
+			<title>DE: SKY 13 STREET HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/954.ts</link>
+		
+		<item>
+			<title>DE: SIXX HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/957.ts</link>
+		
+		<item>
+			<title>DE: SAT 1 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/967.ts</link>
+		
+		<item>
+			<title>DE: RTL PASS?ON</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/966.ts</link>
+		
+		<item>
+			<title>DE: RTL CR?ME</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/964.ts</link>
+		
+		<item>
+			<title>DE: RTL 2 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/962.ts</link>
+		
+		<item>
+			<title>DE: PRO MAXX HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/969.ts</link>
+		
+		<item>
+			<title>DE: PRO 7 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/968.ts</link>
+		
+		<item>
+			<title>DE: ARTE</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/961.ts</link>
+		
+		<item>
+			<title>DE: A E DE</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/970.ts</link>
+		
+		<item>
+			<title>DE: VEVO DE HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/799.ts</link>
+		
+		<item>
+			<title>DE: Super RTL HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/791.ts</link>
+		
+		<item>
+			<title>DE: SKY Bundesliga HD1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/786.ts</link>
+		
+		<item>
+			<title>DE: SKY Bundesliga HD2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/787.ts</link>
+		
+		<item>
+			<title>DE: RTL HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/790.ts</link>
+		
+		<item>
+			<title>DE: RIC</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/800.ts</link>
+		
+		<item>
+			<title>DE: Kabel 1 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/792.ts</link>
+		
+		<item>
+			<title>DE: Deluxe Music</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/798.ts</link>
+		
+		<item>
+			<title>DE: Sky-Select HD 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/613.ts</link>
+		
+		<item>
+			<title>DE: Sky-Select HD 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/612.ts</link>
+		
+		<item>
+			<title>DE: Sky-Select HD 3</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/611.ts</link>
+		
+		<item>
+			<title>DE: Sky-Select HD 4</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/610.ts</link>
+		
+		<item>
+			<title>DE: Sky-Select HD 5</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/609.ts</link>
+		
+		<item>
+			<title>DE:  Sky-Select HD 6</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/608.ts</link>
+		
+		<item>
+			<title>DE: Sky-Select HD 7</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/607.ts</link>
+		
+		<item>
+			<title>DE :SKY HITS</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/542.ts</link>
+		
+		<item>
+			<title>DE :SKY CINEMA</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/545.ts</link>
+		
+		<item>
+			<title>DE :SKY CINEMA 24</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/543.ts</link>
 		
 		<item>
 			<title>DE: ZDF</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2727.ts </link>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/345.ts</link>
 		
 		<item>
-			<title>DE: ZDF Info</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2728.ts </link>
+			<title>DE: Sky Sport1 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/344.ts</link>
 		
 		<item>
-			<title>DE: ZDF Kultur</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/paolo/paolo/2729.ts </link>
+			<title>DE: Sky Sport2 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1457.ts</link>
+		
+		<item>
+			<title>DE: Sky MGM HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/343.ts</link>
+		
+		<item>
+			<title>DE: Sky Bundes liga 1 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/341.ts</link>
+		
+		<item>
+			<title>DE: Sky AXN HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/340.ts</link>
+			
+			
+			
 			
 			
 		<item>
 			<title>"[COLOR red][B]SERVER 2[/B][/COLOR]"</title>
 			<link>http://......</link>	
 			
-		<item>
- 			<title>DE_13TH_STREET</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/991.ts</link>
-		<item>
- 
-			<title>DE_A_E</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1005.ts</link>
-		<item>
- 
-			<title>DE_3SAT</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1006.ts</link>
-		<item>
- 
-			<title>DE_ARD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1004.ts</link>
-		<item>
- 
-			<title>DE_ORF2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/748.ts</link>
-		<item>
- 
-			<title>DE_ORF_EINS</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/747.ts</link>
-		<item>
- 
-			<title>DE_ARTE</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1026.ts</link>
-		<item>
- 
-			<title>DE_WDR</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/934.ts</link>
-		<item>
- 
-			<title>DE_SWR</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1243.ts</link>
-		<item>
- 
-			<title>DE_VOX</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1033.ts</link>
-		<item>
- 
-			<title>DE_PRO_7</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/750.ts</link>
-		<item>
- 
-			<title>DE_PRO_7_MAX</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/751.ts</link>
-		<item>
- 
-			<title>DE_SRF_1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1273.ts</link>
-		<item>
- 
-			<title>DE_SRF_2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1272.ts</link>
-		<item>
- 
-			<title>DE_SAT_1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/753.ts</link>
-		<item>
- 
-			<title>DE_SAT_1_GOLD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/754.ts</link>
-		<item>
- 
-			<title>DE_SRF_INFO</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/762.ts</link>
-		<item>
- 
-			<title>DE_ZDF_INFO</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/47.ts</link>
-		<item>
- 
-			<title>DE_ZDF_HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1001.ts</link>
-		<item>
- 
-			<title>DE_ZDF_KULTUR</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/59.ts</link>
-		<item>
- 
-			<title>DE_ROMANCE_TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1009.ts</link>
-		<item>
- 
-			<title>DE_SKY_SPORT_NEWS_HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1020.ts</link>
-		<item>
- 
-			<title>DE_EINS_FESTIVAL</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/990.ts</link>
-		<item>
- 
-			<title>DE_DELUXE_MUSIC</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1019.ts</link>
-		<item>
- 
-			<title>DE_SPIEGEL_GESCHICHTE</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1027.ts</link>
-		<item>
- 
-			<title>DE_SERVUS_TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/755.ts</link>
-		<item>
- 
-			<title>DE_RBB_BERLIN</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/752.ts</link>
-		<item>
- 
-			<title>DE_PHOENIX</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/749.ts</link>
-		<item>
- 
-			<title>DE_NDR</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/743.ts</link>
-		<item>
- 
-			<title>DE_N24</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/740.ts</link>
-		<item>
- 
-			<title>DE_MDR</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/737.ts</link>
-		<item>
- 
-			<title>DE_KIKA</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/736.ts</link>
-		<item>
- 
-			<title>DE_HALLE_TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/731.ts</link>
-		<item>
- 
-			<title>DE_HAINMATKANAL</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/730.ts</link>
-		<item>
- 
-			<title>DE_KABEL_EINS</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/734.ts</link>
-		<item>
- 
-			<title>DE_HR</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/733.ts</link>
-		<item>
- 
-			<title>DE_TAGESSCHAU_24</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1228.ts</link>
-		<item>
- 
-			<title>DE_TELE_ZURI</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/302.ts</link>
-		<item>
- 
-			<title>DE_EURONEWS</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1003.ts</link>
-		<item>
- 
-			<title>DE_EINS_PLUS</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/996.ts</link>
-		<item>
- 
-			<title>DE_VIVA_COMEDY_CENTRAL</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/938.ts</link>
-		<item>
- 
-			<title>DE_SIXX</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/756.ts</link>
-		<item>
- 
-			<title>DE_MGM_HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/739.ts</link>
-		<item>
- 
-			<title>DE_DMAX</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/974.ts</link>
-		<item>
- 
-			<title>DE_AXN</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/993.ts</link>
-		<item>
- 
-			<title>DE_SYFY</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1029.ts</link>
-		<item>
- 
-			<title>DE_FOX</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1000.ts</link>
-		<item>
- 
-			<title>DE_FOX_LIFE</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/729.ts</link>
-		<item>
- 
-			<title>DE_TNT_FILM</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1030.ts</link>
-		<item>
- 
-			<title>DE_TNT_SERIE</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1031.ts</link>
-		<item>
- 
-			<title>DE_RTL_HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1032.ts</link>
-		<item>
- 
-			<title>DE_RTL_2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/989.ts</link>
-		<item>
- 
-			<title>DE_RTL_NITRO</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1021.ts</link>
-		<item>
- 
-			<title>DE_RTL_PASSION</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1008.ts</link>
-		<item>
- 
-			<title>DE_SUPER_RTL</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1028.ts</link>
-		<item>
- 
-			<title>DE_SKY_3D</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/757.ts</link>
-		<item>
- 
-			<title>DE_SKY_CINEMA_HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1280.ts</link>
-		<item>
- 
-			<title>DE_SKY_CINEMA</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/975.ts</link>
-		<item>
- 
-			<title>DE_SKY_CINEMA_HD_1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/976.ts</link>
-		<item>
- 
-			<title>DE_SKY_EMOTION_HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/979.ts</link>
-		<item>
- 
-			<title>DE_SKY_COMEDY_HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/978.ts</link>
-		<item>
- 
-			<title>DE_SKY_ACTION_HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/973.ts</link>
-		<item>
- 
-			<title>DE_SKY_CINEMA_24_HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/977.ts</link>
-		<item>
- 
-			<title>DE_SKY_ATLANTIC_HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1022.ts</link>
-		<item>
- 
-			<title>DE_SKY_HITS</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/760.ts</link>
-		<item>
- 
-			<title>DE_SKY_FAMALY_DRAMA</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/759.ts</link>
-		<item>
- 
-			<title>DE_SKY_KRIMI</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1024.ts</link>
-		<item>
- 
-			<title>DE_SKY_BUNDESLIGA_1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1023.ts</link>
-		<item>
- 
-			<title>DE_SKY_CHAMPIONS</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/758.ts</link>
-		<item>
- 
-			<title>DE_EUROSPORT</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/728.ts</link>
-		<item>
- 
-			<title>DE_SPORT1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/761.ts</link>
-		<item>
- 
-			<title>DE_SPORTTIME_TV_1_HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/982.ts</link>
-		<item>
- 
-			<title>DE_SPORTTIME_TV_2_HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/983.ts</link>
-		<item>
- 
-			<title>DE_SPORTTIME_TV_3_HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/984.ts</link>
-		<item>
- 
-			<title>DE_SPORTTIME_TV_4_HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/985.ts</link>
-		<item>
- 
-			<title>DE_SPORTTIME_TV_5_HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/986.ts</link>
-		<item>
- 
-			<title>DE_SPORTTIME_TV_6_HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/987.ts</link>
-		<item>
- 
-			<title>DE_SPORTTIME_TV_7_HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/988.ts</link>
-		<item>
- 
-			<title>DE_SKY_SPORT_1_HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/981.ts</link>
-		<item>
- 
-			<title>DE_SKY_SPORT_2_HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/980.ts</link>
-		<item>
- 
-			<title>DE_NAT_GEO_WILD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/992.ts</link>
-		<item>
- 
-			<title>DE_DISCOVERY_CHANNEL</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/997.ts</link>
-		<item>
- 
-			<title>DE_NATIONAL_GEOGRAPHIC_HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1007.ts</link>
-		<item>
- 
-			<title>DE_HISTORY_CHANNEL</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/732.ts</link>
-		<item>
- 
-			<title>DE_CARTOON_NETWORK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/995.ts</link>
-		<item>
- 
-			<title>DE_DISNEY_JUNIOR</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/998.ts</link>
-		<item>
- 
-			<title>DE_DISNEY_CHANNEL</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/999.ts</link>
-		<item>
- 
-			<title>DE_ORF_1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/746.ts</link>
-		<item>
- 
-			<title>DE_BOOMERANG</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/994.ts</link>
-		<item>
- 
-			<title>DE_SKY_SELECT_HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/972.ts</link>
-		<item>
- 
-			<title>DE_SKY_SELECT_1_HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/962.ts</link>
-		<item>
- 
-			<title>DE_SKY_SELECT_2_HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/963.ts</link>
-		<item>
- 
-			<title>DE_SKY_SELECT_3_HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/964.ts</link>
-		<item>
- 
-			<title>DE_SKY_SELECT_4_HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/965.ts</link>
-		<item>
- 
-			<title>DE_SKY_SELECT_5_HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/966.ts</link>
-		<item>
- 
-			<title>DE_SKY_SELECT_6_HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/967.ts</link>
-		<item>
- 
-			<title>DE_SKY_SELECT_7_HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/968.ts</link>
-		<item>
- 
-			<title>DE_SKY_SELECT_8_HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/969.ts</link>
-		<item>
- 
-			<title>DE_SKY_SELECT_9_HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/970.ts</link>
