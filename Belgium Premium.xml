@@ -12,92 +12,38 @@
 			<link>http://......</link>	
 			
 		<item>
-			<title>BE: 2Be HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/4043.ts</link>/
+			<title>BE: La Une HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/772.ts</link>
 		
 		<item>
-			<title>BE: Acht</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/4044.ts</link>/
+			<title>BE: La-Deux</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/571.ts</link>
 		
 		<item>
-			<title>BE: Bruxelles TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/4045.ts</link>/
-		
-		<item>
-			<title>BE: Canvas</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/4046.ts</link>/
-		
-		<item>
-			<title>BE: Club RTL</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/4047.ts</link>/
-		
-		<item>
-			<title>BE: Een HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/4048.ts</link>/
-		
-		<item>
-			<title>BE: Jim</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/4049.ts</link>/
-		
-		<item>
-			<title>BE: Ketnet</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/4050.ts</link>/
-		
-		<item>
-			<title>BE: La Deux</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/4051.ts</link>/
-		
-		<item>
-			<title>BE: La Trois</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/4052.ts</link>/
-		
-		<item>
-			<title>BE: La Une</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/4053.ts</link>/
-		
-		<item>
-			<title>BE: RTL Plug</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/4054.ts</link>/
+			<title>BE: La-Trois</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/570.ts</link>
 		
 		<item>
 			<title>BE: RTL TVI HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/4055.ts</link>/
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1342.ts</link>
 		
 		<item>
-			<title>BE: Vier HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/4056.ts</link>/
+			<title>BE: PLUG RTL</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1343.ts</link>
 		
 		<item>
-			<title>BE: Vijf be</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/4057.ts</link>/
+			<title>BE: LA TROIS</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1344.ts</link>
 		
 		<item>
-			<title>BE: Vitaya</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/4058.ts</link>/
+			<title>BE: LA DEUX</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1345.ts</link>
 		
 		<item>
-			<title>BE: Vtm HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/4059.ts</link>/
-		
-		<item>
-			<title>BE: VTM Kazoom</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/4060.ts</link>/
-		
-		<item>
-			<title>BG: City TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/4061.ts</link>/
-		
-		<item>
-			<title>BG: Ekids</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/4062.ts</link>/
-		
-		<item>
-			<title>BG: Evrokom</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/4063.ts</link>/
-		
-		<item>
-			<title>BG: MagicTV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/4064.ts</link>/			
+			<title>BE: KETNET</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1346.ts</link>
+			
+			
 			
 			
 		<item>
@@ -105,62 +51,3 @@
 			<link>http://......</link>	
 			
 			
-		<item>
-			<title>BE_KADET</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/3869.ts</link>
-		<item>
- 
-			<title>BE_2BE_HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/3875.ts</link>
-		<item>
- 
-			<title>BE_TELE_BRUXELLES</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/3873.ts</link>
-		<item>
- 
-			<title>BE_CINE</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/3868.ts</link>
-		<item>
- 
-			<title>BE_TVO</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/3872.ts</link>
-		<item>
- 
-			<title>BE_SERIE</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/3867.ts</link>
-		<item>
- 
-			<title>BE_TVVESDRE</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/3871.ts</link>
-		<item>
- 
-			<title>BE_VITAYA</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/3870.ts</link>
-		<item>
- 
-			<title>BE_TV_LUX</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/3874.ts</link>
-		<item>
- 
-			<title>BE_RTL_TVI_HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/10.ts</link>
-		<item>
- 
-			<title>BE_LA_UNE_HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/184.ts</link>
-		<item>
- 
-			<title>BE_LA_DEUX</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/57.ts</link>
-		<item>
- 
-			<title>BE_LA_TROIS</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/73.ts</link>
-		<item>
- 
-			<title>BE_PLUG_RTL</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/119.ts</link>
-		<item>
- 
-			<title>BE_CLUB_RTL</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/56.ts</link>
