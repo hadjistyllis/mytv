@@ -13,6 +13,845 @@
 			<link>http://......</link>
 			
 		<item>
+			<title>UK: Sky One HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/2115.ts</link>
+		
+		<item>
+			<title>UK: SKY TWO HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/2116.ts</link>
+		
+		<item>
+			<title>UK: BT Sports 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/2113.ts</link>
+		
+		<item>
+			<title>UK: BT Sports 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/2114.ts</link>
+		
+		<item>
+			<title>UK: TLC</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1600.ts</link>
+		
+		<item>
+			<title>UK: Sky Drama</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1607.ts</link>
+		
+		<item>
+			<title>UK: Setanta Ireland</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1605.ts</link>
+		
+		<item>
+			<title>UK: More 4</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1598.ts</link>
+		
+		<item>
+			<title>UK: Discovery Turbo</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1465.ts</link>
+		
+		<item>
+			<title>UK: VH1 Classic</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1368.ts</link>
+		
+		<item>
+			<title>UK: Racing</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1369.ts</link>
+		
+		<item>
+			<title>UK: SHOWCASE</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1307.ts</link>
+		
+		<item>
+			<title>UK: ITVBE</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1308.ts</link>
+		
+		<item>
+			<title>UK: ITV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1309.ts</link>
+		
+		<item>
+			<title>UK: HISTORY 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1310.ts</link>
+		
+		<item>
+			<title>UK: FILM 4</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1312.ts</link>
+		
+		<item>
+			<title>UK: E!</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1313.ts</link>
+		
+		<item>
+			<title>UK: DAVE</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1314.ts</link>
+		
+		<item>
+			<title>UK: CRIME & THRILLER</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1315.ts</link>
+		
+		<item>
+			<title>UK: CBS Action</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1318.ts</link>
+		
+		<item>
+			<title>UK: 5 Usa</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1320.ts</link>
+		
+		<item>
+			<title>Uk:Discovery Science HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1252.ts</link>
+		
+		<item>
+			<title>UK: SKY MOVIE FAMILY</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1250.ts</link>
+		
+		<item>
+			<title>UK: Premier Sport</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1251.ts</link>
+		
+		<item>
+			<title>UK: EUROSPORT 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1254.ts</link>
+		
+		<item>
+			<title>UK: Sky Chelsea TV HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1220.ts</link>
+		
+		<item>
+			<title>UK: Sky Cartoon Network</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1221.ts</link>
+		
+		<item>
+			<title>UK: RTE1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1224.ts</link>
+		
+		<item>
+			<title>UK: RTE2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1223.ts</link>
+		
+		<item>
+			<title>UK: Sky Animal Planet</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1222.ts</link>
+		
+		<item>
+			<title>UK: MTV HITS</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1225.ts</link>
+		
+		<item>
+			<title>UK: DISNEY XD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1227.ts</link>
+		
+		<item>
+			<title>UK: SKY MOVIES THRILLER</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1177.ts</link>
+		
+		<item>
+			<title>UK: SKY MOVIES MODERN GREATS</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1178.ts</link>
+		
+		<item>
+			<title>UK: SKY MOVIES ACTION HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1176.ts</link>
+		
+		<item>
+			<title>UK: Sky Movies Premiere</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1140.ts</link>
+		
+		<item>
+			<title>UK: Sky Movies Family</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1141.ts</link>
+		
+		<item>
+			<title>UK: True Movies 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1103.ts</link>
+		
+		<item>
+			<title>UK: True Movies 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1091.ts</link>
+		
+		<item>
+			<title>UK: TCM</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1100.ts</link>
+		
+		<item>
+			<title>UK: SKY MOVIE PREMIERE</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1105.ts</link>
+		
+		<item>
+			<title>UK: Nick Jr</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1098.ts</link>
+		
+		<item>
+			<title>UK: Sky Atlantic</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1093.ts</link>
+		
+		<item>
+			<title>UK: Sky Arts 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1087.ts</link>
+		
+		<item>
+			<title>UK: PICK TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1094.ts</link>
+		
+		<item>
+			<title>UK: MTV Rocks</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1088.ts</link>
+		
+		<item>
+			<title>UK: MTV Base</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1089.ts</link>
+		
+		<item>
+			<title>UK: ITV 2 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1080.ts</link>
+		
+		<item>
+			<title>UK: ITV 3 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1081.ts</link>
+		
+		<item>
+			<title>UK: ITV 4 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1082.ts</link>
+		
+		<item>
+			<title>UK: Eden +1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1095.ts</link>
+		
+		<item>
+			<title>UK: E4</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1097.ts</link>
+		
+		<item>
+			<title>UK: Discovery Shed</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1096.ts</link>
+		
+		<item>
+			<title>UK: Sky Setanta Sports 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1035.ts</link>
+		
+		<item>
+			<title>UK: Sky MUTV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1038.ts</link>
+		
+		<item>
+			<title>UK: Sky BT Sport 1 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1036.ts</link>
+		
+		<item>
+			<title>UK: Sky BT Sport 2 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1037.ts</link>
+		
+		<item>
+			<title>UK: Sky Sport F1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1011.ts</link>
+		
+		<item>
+			<title>UK: Sky Sports F1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1603.ts</link>
+		
+		<item>
+			<title>UK: Sky Movies Select</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1015.ts</link>
+		
+		<item>
+			<title>UK: Quest</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1018.ts</link>
+		
+		<item>
+			<title>UK: ITV 1 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1014.ts</link>
+		
+		<item>
+			<title>UK: Sky Sports News</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1604.ts</link>
+		
+		<item>
+			<title>UK: Discovery History</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1019.ts</link>
+		
+		<item>
+			<title>UK: Comedy Central</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1020.ts</link>
+		
+		<item>
+			<title>UK: Sky Sport 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1017.ts</link>
+		
+		<item>
+			<title>UK: Sky Sports 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1008.ts</link>
+		
+		<item>
+			<title>UK: Sky sports 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1009.ts</link>
+		
+		<item>
+			<title>UK: Sky Sports 3</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1010.ts</link>
+		
+		<item>
+			<title>UK: SKY SPORT 4</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1033.ts</link>
+		
+		<item>
+			<title>UK: Sky Sports 4</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1601.ts</link>
+		
+		<item>
+			<title>UK: SKY SPORT 5</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1034.ts</link>
+		
+		<item>
+			<title>UK: Sky Sports 5</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1602.ts</link>
+		
+		<item>
+			<title>UK: NAT GEO WILD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/872.ts</link>
+		
+		<item>
+			<title>UK: CBS REALITY</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/871.ts</link>
+		
+		<item>
+			<title>UK: CBS DRAMA</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/870.ts</link>
+		
+		<item>
+			<title>UK: BBC 1 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/333.ts</link>
+		
+		<item>
+			<title>UK: BBC 2 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/334.ts</link>
+		
+			
+			
+			
+		<item>
+			<title>"[COLOR red][B]SERVER 2[/B][/COLOR]"</title>
+			<link>http://......</link>	
+			
+			
+			
+		<item>
+			<title>UK: TLC</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/2013.ts</link>
+		
+		<item>
+			<title>UK: Setanta Sport</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/1733.ts</link>
+		
+		<item>
+			<title>UK: history 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/1945.ts</link>
+		
+		<item>
+			<title>UK: Good Food</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/2011.ts</link>
+		
+		<item>
+			<title>UK: E!</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/2012.ts</link>
+		
+		<item>
+			<title>UK: COMEDY CENTRAL</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/1946.ts</link>
+		
+		<item>
+			<title>UK: BT SPORT  ESPN</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/1943.ts</link>
+		
+		<item>
+			<title>UK: BabyTV GB</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/2009.ts</link>
+		
+		<item>
+			<title>UK: At The Races UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/1738.ts</link>
+		
+		<item>
+			<title>UK |  DISNEY JR</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/1710.ts</link>
+		
+		<item>
+			<title>UK: ID INVESTIGATION</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/2014.ts</link>
+		
+		<item>
+			<title>UK: Crime & Investigiation</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/2010.ts</link>
+		
+		<item>
+			<title>UK: MUTV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/2027.ts</link>
+		
+		<item>
+			<title>UK:SKY-PREMIERE SPORT</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/260.ts</link>
+		
+		<item>
+			<title>FOX Sports 1 - FOX Sports 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/844.ts</link>
+		
+		<item>
+			<title>FOX Sports 2 - FOX Sports 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/845.ts</link>
+		
+		<item>
+			<title>UK: sky sport F1 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/2055.ts</link>
+		
+		<item>
+			<title>UK:Sky Sport News HQ</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/190.ts</link>
+		
+		<item>
+			<title>UK:Sky Sport 5 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/191.ts</link>
+		
+		<item>
+			<title>UK:Sky Sport 4 SD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/193.ts</link>
+		
+		<item>
+			<title>UK:Sky Sport 4 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/194.ts</link>
+		
+		<item>
+			<title>UK:Sky Sport 3 SD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/195.ts</link>
+		
+		<item>
+			<title>UK:Sky Sport 3 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/196.ts</link>
+		
+		<item>
+			<title>UK:Sky Sport 2 SD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/197.ts</link>
+		
+		<item>
+			<title>UK:Sky Sport 2 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/198.ts</link>
+		
+		<item>
+			<title>UK:Sky Sport 1 SD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/199.ts</link>
+		
+		<item>
+			<title>UK:Sky Sport 1 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/200.ts</link>
+		
+		<item>
+			<title>UK:EuroSport 1 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/509.ts</link>
+		
+		<item>
+			<title>UK: BT SPORTS EXTRA</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/855.ts</link>
+		
+		<item>
+			<title>UK: BT Sport Europe</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/818.ts</link>
+		
+		<item>
+			<title>UK:BT-SPORTS1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/700.ts</link>
+		
+		<item>
+			<title>UK: BT-BTsport2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/302.ts</link>
+		
+		<item>
+			<title>UK BT Sport 1 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/816.ts</link>
+		
+		<item>
+			<title>UK BT Sport 2 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/817.ts</link>
+		
+		<item>
+			<title>BT SPORT 1 uk</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/814.ts</link>
+		
+		<item>
+			<title>BT SPORT 2 uk</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/815.ts</link>
+		
+		<item>
+			<title>UK: EUROSPORT 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/617.ts</link>
+		
+		<item>
+			<title>UK: Motors tv</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/807.ts</link>
+		
+		<item>
+			<title>UK:Boxnation</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/560.ts</link>
+		
+		<item>
+			<title>UK: Sky Sports Box Office PPV live during events</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/846.ts</link>
+		
+		<item>
+			<title>UK: Chelsea FC</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/920.ts</link>
+		
+		<item>
+			<title>UK:Premier Sport</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/220.ts</link>
+		
+		<item>
+			<title>UK: Racing UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/832.ts</link>
+		
+		<item>
+			<title>UK: Sport News</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/635.ts</link>
+		
+		<item>
+			<title>UK: Setanta Sports Ireland HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/1356.ts</link>
+		
+		<item>
+			<title>UK: Discovery Turbo</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/1040.ts</link>
+		
+		<item>
+			<title>UK: Discovery Channel</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/1041.ts</link>
+		
+		<item>
+			<title>UK: ANIMAL PLANET</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/630.ts</link>
+		
+		<item>
+			<title>UK:National Geographic</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/222.ts</link>
+		
+		<item>
+			<title>UK: Nat geo wild</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/474.ts</link>
+		
+		<item>
+			<title>UK:Nat Geo Wild</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/223.ts</link>
+		
+		<item>
+			<title>UK:Discovery Science HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/624.ts</link>
+		
+		<item>
+			<title>UK: DISCOVERY HISTORY</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/629.ts</link>
+		
+		<item>
+			<title>UK:Sky Movies Action</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/210.ts</link>
+		
+		<item>
+			<title>UK:Sky Movies Thriller</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/201.ts</link>
+		
+		<item>
+			<title>UK:Sky Movies ShowCase</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/623.ts</link>
+		
+		<item>
+			<title>UK:Sky Movies Select</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/202.ts</link>
+		
+		<item>
+			<title>UK:Sky Movies Premiere</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/204.ts</link>
+		
+		<item>
+			<title>UK:Sky Movies Greats</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/205.ts</link>
+		
+		<item>
+			<title>UK:Sky Movies Family</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/206.ts</link>
+		
+		<item>
+			<title>UK:Sky Movies Drama & Romance</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/207.ts</link>
+		
+		<item>
+			<title>UK:Sky Movies Disney</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/208.ts</link>
+		
+		<item>
+			<title>UK:Sky Movie Sci-Fi & horror</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/211.ts</link>
+		
+		<item>
+			<title>UK: True Drama</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/678.ts</link>
+		
+		<item>
+			<title>UK: Sky Movies Thriller</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/615.ts</link>
+		
+		<item>
+			<title>UK: Sky Movies Sci-Fi & Horror</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/616.ts</link>
+		
+		<item>
+			<title>UK: Sky Movies Modern HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/674.ts</link>
+		
+		<item>
+			<title>UK: Sky Movies Action & Adventure</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/614.ts</link>
+		
+		<item>
+			<title>UK: Movies-4men Uk</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/679.ts</link>
+		
+		<item>
+			<title>UK: True Movies1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/675.ts</link>
+		
+		<item>
+			<title>UK: True Movies 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/680.ts</link>
+		
+		<item>
+			<title>UK:Sky Movies Comedy</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/209.ts</link>
+		
+		<item>
+			<title>UK: Drama</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/636.ts</link>
+		
+		<item>
+			<title>UK: Aliens</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/637.ts</link>
+		
+		<item>
+			<title>UK: MOVIES ACTION</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/634.ts</link>
+		
+		<item>
+			<title>UK: Film4 UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/677.ts</link>
+		
+		<item>
+			<title>UK:Sky Living</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/212.ts</link>
+		
+		<item>
+			<title>UK: Syfy UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/676.ts</link>
+		
+		<item>
+			<title>UK:Sky Atlantic</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/213.ts</link>
+		
+		<item>
+			<title>UK |  CBS DRAMA</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/1607.ts</link>
+		
+		<item>
+			<title>UK |  CBS ACTION</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/1608.ts</link>
+		
+		<item>
+			<title>UK_ITV 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/828.ts</link>
+		
+		<item>
+			<title>UK_ITV2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/829.ts</link>
+		
+		<item>
+			<title>UK_ITV3</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/830.ts</link>
+		
+		<item>
+			<title>UK_ITV4</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/831.ts</link>
+		
+		<item>
+			<title>UK:BBC One HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/507.ts</link>
+		
+		<item>
+			<title>UK:BBC Two HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/505.ts</link>
+		
+		<item>
+			<title>UK:BBC Three HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/506.ts</link>
+		
+		<item>
+			<title>UK:BBC Four HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/508.ts</link>
+		
+		<item>
+			<title>UK: SKY NEWS</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/186.ts</link>
+		
+		<item>
+			<title>UK:Watch</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/187.ts</link>
+		
+		<item>
+			<title>UK: Gold</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/1000.ts</link>
+		
+		<item>
+			<title>UK: Channel 4</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/585.ts</link>
+		
+		<item>
+			<title>UK: Channel 5</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/806.ts</link>
+		
+		<item>
+			<title>UK |  QUEST</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/1605.ts</link>
+		
+		<item>
+			<title>UK |  CNN</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/1609.ts</link>
+		
+		<item>
+			<title>UK |  CBS REALITY</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/1606.ts</link>
+		
+		<item>
+			<title>UK: Fox</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/632.ts</link>
+		
+		<item>
+			<title>UK:Sky Art 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/214.ts</link>
+		
+		<item>
+			<title>UK:Sky 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/216.ts</link>
+		
+		<item>
+			<title>UK:RTE Two HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/218.ts</link>
+		
+		<item>
+			<title>UK:RTE One</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/219.ts</link>
+		
+		<item>
+			<title>UK:TCL HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/188.ts</link>
+		
+		<item>
+			<title>UK: Sky Two</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/638.ts</link>
+		
+		<item>
+			<title>UK: SKY ONE</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/639.ts</link>
+		
+		<item>
+			<title>UK: Sky Greats</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/633.ts</link>
+		
+		<item>
+			<title>UK: Universal HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/1037.ts</link>
+		
+		<item>
+			<title>UK: ID</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/627.ts</link>
+		
+		<item>
+			<title>UK: Alibi</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/631.ts</link>
+		
+		<item>
+			<title>UK:Yesterday</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/185.ts</link>
+		
+		<item>
+			<title>UK:NICKLEODON</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/221.ts</link>
+		
+		<item>
+			<title>UK: FOOD Network</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/570.ts</link>
+		
+		<item>
+			<title>UK: Disney XD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/684.ts</link>
+		
+		<item>
+			<title>UK: Disney Junior</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/628.ts</link>
+		
+		<item>
+			<title>UK: Disney Channel UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/682.ts</link>
+		
+		<item>
+			<title>UK: Cartoon Network</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/685.ts</link>
+		
+		<item>
+			<title>UK: Nicktoons</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/625.ts</link>
+		
+		<item>
+			<title>UK: Nick JR</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/681.ts</link>
+		
+		<item>
+			<title>UK: MTV Hits</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/1361.ts</link>
+		
+		<item>
+			<title>Uk: Mtv Music</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/962.ts</link>
+		
+		<item>
+			<title>UK: Tiny Pop</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/683.ts</link>
+		
+		<item>
+			<title>UK:  Vevo 3</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/965.ts</link>
+		
+		<item>
+			<title>UK: Vevo 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/964.ts</link>
+		
+		<item>
+			<title>UK: Vevo 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/963.ts</link>
+		
+		<item>
+			<title>VEVO_2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/514.ts</link>
+		
+		<item>
+			<title>VEVO_1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/513.ts</link>
+		
+		<item>
+			<title>UK: Mtv Rocks</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/1372.ts</link>
+		
+		
+			
+			
+			
+			
+			
+		<item>
+			<title>"[COLOR red][B]SERVER 3[/B][/COLOR]"</title>
+			<link>http://......</link>				
+	
+					<item>
 			<title>UK: 3E</title>
 			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/mio/mio/3542.ts</link>/
 		
@@ -594,859 +1433,3 @@
 			
 			
 			
-			
-			
-			
-		<item>
-			<title>"[COLOR red][B]SERVER 2[/B][/COLOR]"</title>
-			<link>http://......</link>	
-			
-			
-			
-		<item>
-			<title>UK: TLC</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/2013.ts</link>
-		
-		<item>
-			<title>UK: Setanta Sport</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/1733.ts</link>
-		
-		<item>
-			<title>UK: history 2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/1945.ts</link>
-		
-		<item>
-			<title>UK: Good Food</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/2011.ts</link>
-		
-		<item>
-			<title>UK: E!</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/2012.ts</link>
-		
-		<item>
-			<title>UK: COMEDY CENTRAL</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/1946.ts</link>
-		
-		<item>
-			<title>UK: BT SPORT  ESPN</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/1943.ts</link>
-		
-		<item>
-			<title>UK: BabyTV GB</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/2009.ts</link>
-		
-		<item>
-			<title>UK: At The Races UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/1738.ts</link>
-		
-		<item>
-			<title>UK |  DISNEY JR</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/1710.ts</link>
-		
-		<item>
-			<title>UK: ID INVESTIGATION</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/2014.ts</link>
-		
-		<item>
-			<title>UK: Crime & Investigiation</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/2010.ts</link>
-		
-		<item>
-			<title>UK: MUTV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/2027.ts</link>
-		
-		<item>
-			<title>UK:SKY-PREMIERE SPORT</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/260.ts</link>
-		
-		<item>
-			<title>FOX Sports 1 - FOX Sports 1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/844.ts</link>
-		
-		<item>
-			<title>FOX Sports 2 - FOX Sports 2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/845.ts</link>
-		
-		<item>
-			<title>UK: sky sport F1 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/2055.ts</link>
-		
-		<item>
-			<title>UK:Sky Sport News HQ</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/190.ts</link>
-		
-		<item>
-			<title>UK:Sky Sport 5 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/191.ts</link>
-		
-		<item>
-			<title>UK:Sky Sport 4 SD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/193.ts</link>
-		
-		<item>
-			<title>UK:Sky Sport 4 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/194.ts</link>
-		
-		<item>
-			<title>UK:Sky Sport 3 SD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/195.ts</link>
-		
-		<item>
-			<title>UK:Sky Sport 3 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/196.ts</link>
-		
-		<item>
-			<title>UK:Sky Sport 2 SD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/197.ts</link>
-		
-		<item>
-			<title>UK:Sky Sport 2 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/198.ts</link>
-		
-		<item>
-			<title>UK:Sky Sport 1 SD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/199.ts</link>
-		
-		<item>
-			<title>UK:Sky Sport 1 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/200.ts</link>
-		
-		<item>
-			<title>UK:EuroSport 1 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/509.ts</link>
-		
-		<item>
-			<title>UK: BT SPORTS EXTRA</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/855.ts</link>
-		
-		<item>
-			<title>UK: BT Sport Europe</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/818.ts</link>
-		
-		<item>
-			<title>UK:BT-SPORTS1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/700.ts</link>
-		
-		<item>
-			<title>UK: BT-BTsport2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/302.ts</link>
-		
-		<item>
-			<title>UK BT Sport 1 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/816.ts</link>
-		
-		<item>
-			<title>UK BT Sport 2 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/817.ts</link>
-		
-		<item>
-			<title>BT SPORT 1 uk</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/814.ts</link>
-		
-		<item>
-			<title>BT SPORT 2 uk</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/815.ts</link>
-		
-		<item>
-			<title>UK: EUROSPORT 2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/617.ts</link>
-		
-		<item>
-			<title>UK: Motors tv</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/807.ts</link>
-		
-		<item>
-			<title>UK:Boxnation</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/560.ts</link>
-		
-		<item>
-			<title>UK: Sky Sports Box Office PPV live during events</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/846.ts</link>
-		
-		<item>
-			<title>UK: Chelsea FC</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/920.ts</link>
-		
-		<item>
-			<title>UK:Premier Sport</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/220.ts</link>
-		
-		<item>
-			<title>UK: Racing UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/832.ts</link>
-		
-		<item>
-			<title>UK: Sport News</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/635.ts</link>
-		
-		<item>
-			<title>UK: Setanta Sports Ireland HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/1356.ts</link>
-		
-		<item>
-			<title>UK: Discovery Turbo</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/1040.ts</link>
-		
-		<item>
-			<title>UK: Discovery Channel</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/1041.ts</link>
-		
-		<item>
-			<title>UK: ANIMAL PLANET</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/630.ts</link>
-		
-		<item>
-			<title>UK:National Geographic</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/222.ts</link>
-		
-		<item>
-			<title>UK: Nat geo wild</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/474.ts</link>
-		
-		<item>
-			<title>UK:Nat Geo Wild</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/223.ts</link>
-		
-		<item>
-			<title>UK:Discovery Science HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/624.ts</link>
-		
-		<item>
-			<title>UK: DISCOVERY HISTORY</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/629.ts</link>
-		
-		<item>
-			<title>UK:Sky Movies Action</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/210.ts</link>
-		
-		<item>
-			<title>UK:Sky Movies Thriller</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/201.ts</link>
-		
-		<item>
-			<title>UK:Sky Movies ShowCase</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/623.ts</link>
-		
-		<item>
-			<title>UK:Sky Movies Select</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/202.ts</link>
-		
-		<item>
-			<title>UK:Sky Movies Premiere</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/204.ts</link>
-		
-		<item>
-			<title>UK:Sky Movies Greats</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/205.ts</link>
-		
-		<item>
-			<title>UK:Sky Movies Family</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/206.ts</link>
-		
-		<item>
-			<title>UK:Sky Movies Drama & Romance</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/207.ts</link>
-		
-		<item>
-			<title>UK:Sky Movies Disney</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/208.ts</link>
-		
-		<item>
-			<title>UK:Sky Movie Sci-Fi & horror</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/211.ts</link>
-		
-		<item>
-			<title>UK: True Drama</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/678.ts</link>
-		
-		<item>
-			<title>UK: Sky Movies Thriller</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/615.ts</link>
-		
-		<item>
-			<title>UK: Sky Movies Sci-Fi & Horror</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/616.ts</link>
-		
-		<item>
-			<title>UK: Sky Movies Modern HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/674.ts</link>
-		
-		<item>
-			<title>UK: Sky Movies Action & Adventure</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/614.ts</link>
-		
-		<item>
-			<title>UK: Movies-4men Uk</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/679.ts</link>
-		
-		<item>
-			<title>UK: True Movies1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/675.ts</link>
-		
-		<item>
-			<title>UK: True Movies 2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/680.ts</link>
-		
-		<item>
-			<title>UK:Sky Movies Comedy</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/209.ts</link>
-		
-		<item>
-			<title>UK: Drama</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/636.ts</link>
-		
-		<item>
-			<title>UK: Aliens</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/637.ts</link>
-		
-		<item>
-			<title>UK: MOVIES ACTION</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/634.ts</link>
-		
-		<item>
-			<title>UK: Film4 UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/677.ts</link>
-		
-		<item>
-			<title>UK:Sky Living</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/212.ts</link>
-		
-		<item>
-			<title>UK: Syfy UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/676.ts</link>
-		
-		<item>
-			<title>UK:Sky Atlantic</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/213.ts</link>
-		
-		<item>
-			<title>UK |  CBS DRAMA</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/1607.ts</link>
-		
-		<item>
-			<title>UK |  CBS ACTION</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/1608.ts</link>
-		
-		<item>
-			<title>UK_ITV 1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/828.ts</link>
-		
-		<item>
-			<title>UK_ITV2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/829.ts</link>
-		
-		<item>
-			<title>UK_ITV3</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/830.ts</link>
-		
-		<item>
-			<title>UK_ITV4</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/831.ts</link>
-		
-		<item>
-			<title>UK:BBC One HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/507.ts</link>
-		
-		<item>
-			<title>UK:BBC Two HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/505.ts</link>
-		
-		<item>
-			<title>UK:BBC Three HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/506.ts</link>
-		
-		<item>
-			<title>UK:BBC Four HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/508.ts</link>
-		
-		<item>
-			<title>UK: SKY NEWS</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/186.ts</link>
-		
-		<item>
-			<title>UK:Watch</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/187.ts</link>
-		
-		<item>
-			<title>UK: Gold</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/1000.ts</link>
-		
-		<item>
-			<title>UK: Channel 4</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/585.ts</link>
-		
-		<item>
-			<title>UK: Channel 5</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/806.ts</link>
-		
-		<item>
-			<title>UK |  QUEST</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/1605.ts</link>
-		
-		<item>
-			<title>UK |  CNN</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/1609.ts</link>
-		
-		<item>
-			<title>UK |  CBS REALITY</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/1606.ts</link>
-		
-		<item>
-			<title>UK: Fox</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/632.ts</link>
-		
-		<item>
-			<title>UK:Sky Art 1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/214.ts</link>
-		
-		<item>
-			<title>UK:Sky 1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/216.ts</link>
-		
-		<item>
-			<title>UK:RTE Two HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/218.ts</link>
-		
-		<item>
-			<title>UK:RTE One</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/219.ts</link>
-		
-		<item>
-			<title>UK:TCL HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/188.ts</link>
-		
-		<item>
-			<title>UK: Sky Two</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/638.ts</link>
-		
-		<item>
-			<title>UK: SKY ONE</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/639.ts</link>
-		
-		<item>
-			<title>UK: Sky Greats</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/633.ts</link>
-		
-		<item>
-			<title>UK: Universal HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/1037.ts</link>
-		
-		<item>
-			<title>UK: ID</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/627.ts</link>
-		
-		<item>
-			<title>UK: Alibi</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/631.ts</link>
-		
-		<item>
-			<title>UK:Yesterday</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/185.ts</link>
-		
-		<item>
-			<title>UK:NICKLEODON</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/221.ts</link>
-		
-		<item>
-			<title>UK: FOOD Network</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/570.ts</link>
-		
-		<item>
-			<title>UK: Disney XD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/684.ts</link>
-		
-		<item>
-			<title>UK: Disney Junior</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/628.ts</link>
-		
-		<item>
-			<title>UK: Disney Channel UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/682.ts</link>
-		
-		<item>
-			<title>UK: Cartoon Network</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/685.ts</link>
-		
-		<item>
-			<title>UK: Nicktoons</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/625.ts</link>
-		
-		<item>
-			<title>UK: Nick JR</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/681.ts</link>
-		
-		<item>
-			<title>UK: MTV Hits</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/1361.ts</link>
-		
-		<item>
-			<title>Uk: Mtv Music</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/962.ts</link>
-		
-		<item>
-			<title>UK: Tiny Pop</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/683.ts</link>
-		
-		<item>
-			<title>UK:  Vevo 3</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/965.ts</link>
-		
-		<item>
-			<title>UK: Vevo 2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/964.ts</link>
-		
-		<item>
-			<title>UK: Vevo 1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/963.ts</link>
-		
-		<item>
-			<title>VEVO_2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/514.ts</link>
-		
-		<item>
-			<title>VEVO_1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/513.ts</link>
-		
-		<item>
-			<title>UK: Mtv Rocks</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://boxiptv.noip.us:9998/live/testt/testt/1372.ts</link>
-		
-		
-			
-			
-			
-			
-			
-		<item>
-			<title>"[COLOR red][B]SERVER 3[/B][/COLOR]"</title>
-			<link>http://......</link>				
-			
-			
-							
-		<item>	
-			<title>UK_MOTORS_TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1711.ts</link>
-		
-		<item>	
-			<title>UK_EUROSPORT_1_HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1050.ts</link>
-		
-		<item>	
-			<title>UK_EUROSPORT_2_HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1113.ts</link>
-		
-		<item>	
-			<title>UK_SKY_SPORT_F1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1039.ts</link>
-		
-		<item>	
-			<title>UK_SKY_SPORTS_NEWS_HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1112.ts</link>
-		
-		<item>	
-			<title>UK_SKY_SPORT_1_HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1104.ts</link>
-		
-		<item>	
-			<title>UK_SKY_SPORTS_1_HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1044.ts</link>
-		
-		<item>	
-			<title>UK_SKY_SPORTS_2_HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1043.ts</link>
-		
-		<item>	
-			<title>UK_SKY_SPORTS_3_HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1042.ts</link>
-		
-		<item>	
-			<title>UK_SKY_SPORTS_4_HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1041.ts</link>
-		
-		<item>	
-			<title>UK_SKY_SPORTS_5_HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1040.ts</link>
-		
-		<item>	
-			<title>UK_SKY_SPORT_2_HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1097.ts</link>
-		
-		<item>	
-			<title>UK_SKY_SPORT_3_HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1096.ts</link>
-		
-		<item>	
-			<title>UK_SKY_SPORT_4_HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1094.ts</link>
-		
-		<item>	
-			<title>UK_SKY_SPORT_5_HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1093.ts</link>
-		
-		<item>	
-			<title>UK_SPORT_TIME_1_HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/3944.ts</link>
-		
-		<item>	
-			<title>UK_SPORT_TIME_3_HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/3945.ts</link>
-		
-		<item>	
-			<title>UK_SPORT_KLUB_1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/3946.ts</link>
-		
-		<item>	
-			<title>UK_SPORT_KLUB_3</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/3947.ts</link>
-		
-		<item>	
-			<title>UK_BT_SPORT_1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1118.ts</link>
-		
-		<item>	
-			<title>UK_BT_SPORT_2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1117.ts</link>
-		
-		<item>	
-			<title>UK_SKY_ONE</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1095.ts</link>
-		
-		<item>	
-			<title>UK_SKY_DRAMA_HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1055.ts</link>
-		
-		<item>	
-			<title>UK_SKY_ART_1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1075.ts</link>
-		
-		<item>	
-			<title>UK_SKY_MOVIES_DISNEY</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1056.ts</link>
-		
-		<item>	
-			<title>UK_SKY_MOVIES_SELECT_HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1114.ts</link>
-		
-		<item>	
-			<title>UK_SKY_MOVIES_PREMIERE_HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1054.ts</link>
-		
-		<item>	
-			<title>UK_SKY_MOVIES_MODERN_GREAT</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1045.ts</link>
-		
-		<item>	
-			<title>UK_SKY_MOVIES_COMEDY_HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1038.ts</link>
-		
-		<item>	
-			<title>UK_SKY_MOVIES_ACTION_HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1035.ts</link>
-		
-		<item>	
-			<title>UK_SKY_MOVIES_ATLANTIC_HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1115.ts</link>
-		
-		<item>	
-			<title>UK_SKY_MOVIES_SHOWCASE</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1062.ts</link>
-		
-		<item>	
-			<title>UK_SKY_MOVIES_THRILLER</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1061.ts</link>
-		
-		<item>	
-			<title>UK_SKY_MOVIES_SCI_FI</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1105.ts</link>
-		
-		<item>	
-			<title>UK_MOVIES_FAMILY</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1064.ts</link>
-		
-		<item>	
-			<title>UK_MOVIES_4_MEN</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1107.ts</link>
-		
-		<item>	
-			<title>UK_FILM_4</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1714.ts</link>
-		
-		<item>	
-			<title>UK_CTH_STADIUM_1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1087.ts</link>
-		
-		<item>	
-			<title>UK_CTH_STADIUM_2_HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1086.ts</link>
-		
-		<item>	
-			<title>UK_CTH_STADIUM_3_HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1069.ts</link>
-		
-		<item>	
-			<title>UK_CTH_STADIUM_4_HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1070.ts</link>
-		
-		<item>	
-			<title>UK_CTH_STADIUM_5</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1085.ts</link>
-		
-		<item>	
-			<title>UK_CTH_STADIUM_6</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1100.ts</link>
-		
-		<item>	
-			<title>UK_BBC_1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1081.ts</link>
-		
-		<item>	
-			<title>UK_BBC_2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1080.ts</link>
-		
-		<item>	
-			<title>UK_BBC_3</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1079.ts</link>
-		
-		<item>	
-			<title>UK_BBC_4</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1078.ts</link>
-		
-		<item>	
-			<title>UK_RTE_1_HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1710.ts</link>
-		
-		<item>	
-			<title>UK_RTE_2_HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1709.ts</link>
-		
-		<item>	
-			<title>UK_ITV_1_HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1099.ts</link>
-		
-		<item>	
-			<title>UK_ITV_2_HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1098.ts</link>
-		
-		<item>	
-			<title>UK_ITV_3</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1719.ts</link>
-		
-		<item>	
-			<title>UK_ITV_4</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1718.ts</link>
-		
-		<item>	
-			<title>UK_GOLD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1712.ts</link>
-		
-		<item>	
-			<title>UK_GOOD_FOOD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1713.ts</link>
-		
-		<item>	
-			<title>UK_CBS_DRAMA</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1108.ts</link>
-		
-		<item>	
-			<title>UK_CBS_REALITY</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1715.ts</link>
-		
-		<item>	
-			<title>UK_CBS_ACTION</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1716.ts</link>
-		
-		<item>	
-			<title>UK_MTV_HITS</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1083.ts</link>
-		
-		<item>	
-			<title>UK_MTV_MUSIC</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1084.ts</link>
-		
-		<item>	
-			<title>UK_MTV_ROCKS</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1077.ts</link>
-		
-		<item>	
-			<title>UK_NICK_JUNIOR</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1101.ts</link>
-		
-		<item>	
-			<title>UK_DISNEY_XD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1090.ts</link>
-		
-		<item>	
-			<title>UK_DISNEY_JUNIOR</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1088.ts</link>
-		
-		<item>	
-			<title>UK_DISNEY_CHANNEL</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1111.ts</link>
-		
-		<item>	
-			<title>UK_DISCOVERY_ID</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1089.ts</link>
-		
-		<item>	
-			<title>UK_DISCOVERY</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1046.ts</link>
-		
-		<item>	
-			<title>UK_DISCOVERY_SCIENCE</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1103.ts</link>
-		
-		<item>	
-			<title>UK_DISCOVERY_TURBO</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1058.ts</link>
-		
-		<item>	
-			<title>UK_DISCOVERY_INVESTIGATION</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1037.ts</link>
-		
-		<item>	
-			<title>UK_DISCOVERY_HOME_HEALTH</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1063.ts</link>
-		
-		<item>	
-			<title>UK_DISCOVERY_HISTORY</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1076.ts</link>
-		
-		<item>	
-			<title>UK_HISTORY</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1071.ts</link>
-		
-		<item>	
-			<title>UK_ANIMAL_PLANET</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1082.ts</link>
-		
-		<item>	
-			<title>UK_NATIONAL_GEOGRAPHY_WILD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1102.ts</link>
-		
-		<item>	
-			<title>UK_COMEDY_CENTRAL</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1065.ts</link>
-		
-		<item>	
-			<title>UK_CARTOON_NETWORK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1092.ts</link>
-		
-		<item>	
-			<title>UK_COLORS</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1091.ts</link>
-		
-		<item>	
-			<title>UK_FIVE</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1106.ts</link>
-		
-		<item>	
-			<title>UK_CHELSEA_TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1074.ts</link>
-		
-		<item>	
-			<title>UK_BOXNATION_HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1717.ts</link>
-		
-		<item>	
-			<title>UK_ESPN_HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1059.ts</link>
