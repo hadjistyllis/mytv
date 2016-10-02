@@ -12,123 +12,253 @@
 			<link>http://......</link>	
 			
 
-		 <item>
-			<title> GR MTV GREECE</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/gary/gary/1435.ts</link>
+		<item>
+			<title>GR: Eurosport 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1471.ts</link>
 		
-		 <item>
-			<title> GR VOULI</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/gary/gary/1436.ts</link>
+		<item>
+			<title>GR: Eurosport 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1472.ts</link>
 		
-		 <item>
-			<title> GR Star</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/gary/gary/1437.ts</link>
+		<item>
+			<title>GR: Otesport 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1975.ts</link>
 		
-		 <item>
-			<title> GR Skai</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/gary/gary/1438.ts</link>
+		<item>
+			<title>GR: Otesport 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1974.ts</link>
 		
-		 <item>
-			<title> GR SBC</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/gary/gary/1439.ts</link>
+		<item>
+			<title>GR: Otesport 3</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1973.ts</link>
 		
-		 <item>
-			<title> GR SAMIAKI TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/gary/gary/1440.ts</link>
+		<item>
+			<title>GR: Otesport 4</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1972.ts</link>
 		
-		 <item>
-			<title> GR NERIT</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/gary/gary/1441.ts</link>
+		<item>
+			<title>GR: Otesport 5</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1971.ts</link>
 		
-		 <item>
-			<title> GR NEA TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/gary/gary/1442.ts</link>
+		<item>
+			<title>GR: Otesport 6</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1970.ts</link>
 		
-		 <item>
-			<title> GR KONTRA</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/gary/gary/1443.ts</link>
+		<item>
+			<title>GR: Ote Sport 7 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1976.ts</link>
 		
-		 <item>
-			<title> GR EXTRA</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/gary/gary/1444.ts</link>
+		<item>
+			<title>GR: Ote Cinema 1 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1980.ts</link>
 		
-		 <item>
-			<title> GR ERT3</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/gary/gary/1445.ts</link>
+		<item>
+			<title>GR: Ote Cinema 2 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1979.ts</link>
 		
-		 <item>
-			<title> GR ERT2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/gary/gary/1446.ts</link>
+		<item>
+			<title>GR: Ote Cinema 3 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1978.ts</link>
 		
-		 <item>
-			<title> GR ERT1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/gary/gary/1447.ts</link>
+		<item>
+			<title>GR: Ote Cinema 4 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1977.ts</link>
 		
-		 <item>
-			<title> GR ART</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/gary/gary/1448.ts</link>
+		<item>
+			<title>GR: Fox</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1982.ts</link>
 		
-		 <item>
-			<title> GR ERT HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/gary/gary/1449.ts</link>
+		<item>
+			<title>GR: E!</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1983.ts</link>
 		
-		 <item>
-			<title> GR Star Delay</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/gary/gary/1450.ts</link>
+		<item>
+			<title>GR: DISNEY XD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1984.ts</link>
 		
-		 <item>
-			<title> GR EXTRA 3</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/gary/gary/1451.ts</link>
+		<item>
+			<title>GR: Nickelodeon</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1986.ts</link>
 		
-		 <item>
-			<title> GR 4E</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/gary/gary/1452.ts</link>
+		<item>
+			<title>GR: Discovery</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1985.ts</link>
 		
-		 <item>
-			<title> GR: Epsilon</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/gary/gary/931.ts</link>
+		<item>
+			<title>GR: Nat Geo</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1981.ts</link>
 		
-		 <item>
-			<title> GR: Mega</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/gary/gary/933.ts</link>
+		<item>
+			<title>GR: TLC</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1969.ts</link>
 		
-		 <item>
-			<title> GR: Makedonia</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/gary/gary/934.ts</link>
+		<item>
+			<title>GR: Travel</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1968.ts</link>
 		
-		 <item>
-			<title> GR: Mad Cy</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/gary/gary/935.ts</link>
+		<item>
+			<title>GR: 4E</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1513.ts</link>
 		
-		 <item>
-			<title> GR: Aigaio</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/gary/gary/936.ts</link>
+		<item>
+			<title>GR: AIGAIO TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1512.ts</link>
 		
-		 <item>
-			<title> GR: KONTRA</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/gary/gary/937.ts</link>
+		<item>
+			<title>GR: Art</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1511.ts</link>
 		
-		 <item>
-			<title> GR: Omega TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/gary/gary/938.ts</link>
+		<item>
+			<title>GR: Axeloos TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1510.ts</link>
 		
-		 <item>
-			<title> GR: Antena 1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/gary/gary/939.ts</link>
+		<item>
+			<title>GR: BLUE SKY</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1509.ts</link>
 		
-		 <item>
-			<title> GR: ZOUGLA TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/gary/gary/940.ts</link>
+		<item>
+			<title>GR: MESSINIA TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1508.ts</link>
 		
-		 <item>
-			<title> GR: Ant1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/gary/gary/942.ts</link>
+		<item>
+			<title>GR: EPIRUS TV1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1507.ts</link>
 		
-		 <item>
-			<title> GR: Alpha</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/gary/gary/943.ts</link>	
-			
-
+		<item>
+			<title>GR: EXTRA</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1506.ts</link>
+		
+		<item>
+			<title>GR: KRITI TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1505.ts</link>
+		
+		<item>
+			<title>GR: Lepanto</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1504.ts</link>
+		
+		<item>
+			<title>GR: Ellinikosfm TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1503.ts</link>
+		
+		<item>
+			<title>GR: NEA</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1502.ts</link>
+		
+		<item>
+			<title>GR: TV1 Siros</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1501.ts</link>
+		
+		<item>
+			<title>GR: SAMIAKI</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1500.ts</link>
+		
+		<item>
+			<title>GR: SBC</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1499.ts</link>
+		
+		<item>
+			<title>GR: Thema TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1498.ts</link>
+		
+		<item>
+			<title>GR: Thraki TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1497.ts</link>
+		
+		<item>
+			<title>GR: TILESPORT</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1496.ts</link>
+		
+		<item>
+			<title>GR: VOULI</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1495.ts</link>
+		
+		<item>
+			<title>GR: ZOUGL@</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1494.ts</link>
+		
+		<item>
+			<title>GR: NATURA Greek Cinema</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1493.ts</link>
+		
+		<item>
+			<title>GR: Apeiro TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1492.ts</link>
+		
+		<item>
+			<title>GR: Makeleio Web Tv</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1491.ts</link>
+		
+		<item>
+			<title>GR: Star TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1490.ts</link>
+		
+		<item>
+			<title>Cy :Ant1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1489.ts</link>
+		
+		<item>
+			<title>GR: MAD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1488.ts</link>
+		
+		<item>
+			<title>Cy: RIK Sat</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1487.ts</link>
+		
+		<item>
+			<title>Cy: Sigma</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1486.ts</link>
+		
+		<item>
+			<title>GR: Hpeiros TV1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1485.ts</link>
+		
+		<item>
+			<title>GR: ERT World</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1484.ts</link>
+		
+		<item>
+			<title>GR: Makedonia</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1483.ts</link>
+		
+		<item>
+			<title>GR: KONTRA TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1482.ts</link>
+		
+		<item>
+			<title>GR: E</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1481.ts</link>
+		
+		<item>
+			<title>GR: Skai</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1480.ts</link>
+		
+		<item>
+			<title>GR: Star</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1479.ts</link>
+		
+		<item>
+			<title>GR: Alpha</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1478.ts</link>
+		
+		<item>
+			<title>GR: Mega</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1477.ts</link>
+		
+		<item>
+			<title>GR: ANT1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1476.ts</link>
+		
+		<item>
+			<title>GR: ERT 3</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1475.ts</link>
+		
+		<item>
+			<title>GR: ERT2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1474.ts</link>
+		
+		<item>
+			<title>GR: ERT1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1473.ts</link>
 
 			
 			
