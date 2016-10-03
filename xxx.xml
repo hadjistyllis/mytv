@@ -136,16 +136,16 @@
 		<item>
 			<title>"[COLOR red][B]SERVER 2[/B][/COLOR]"</title>
 			<link>http://......</link>				
-
+		<item>
 		<title>XXX 1</title>
 		<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.220.121:1557/live/mix02/vya9IqkSjQ/1698.ts</link>
-		
+		<item>		
 		<title>XXX 2</title>
 		<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.220.121:1557/live/mix02/vya9IqkSjQ/1699.ts</link>
-		
+		<item>		
 		<title>xxx 3</title>
 		<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.220.121:1557/live/mix02/vya9IqkSjQ/1700.ts</link>
-		
+		<item>		
 		<title>XXX 4</title>
 		<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.220.121:1557/live/mix02/vya9IqkSjQ/1701.ts</link>
 			
