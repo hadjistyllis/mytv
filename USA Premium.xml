@@ -628,137 +628,125 @@
 			
 			
 		<item>
-			<title>USA_ESPN</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1477.ts</link>
+			<title>USA_Poker_Central</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/468.ts</link>
+		
 		<item>
- 
-			<title>USA_FOX_SPORT_2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1484.ts</link>
-		<item>
- 
-			<title>USA_NBC</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1485.ts</link>
-		<item>
- 
-			<title>USA_FOX_SPORT_1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1483.ts</link>
-		<item>
- 
-			<title>USA_NBA_TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1486.ts</link>
-		<item>
- 
-			<title>USA_NFL</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1492.ts</link>
-		<item>
- 
-			<title>USA_CBS_NEWS_HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1491.ts</link>
-		<item>
- 
-			<title>USA_VERSUS_HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1490.ts</link>
-		<item>
- 
-			<title>USA_DISCOVERY_SHOWCASE_HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1489.ts</link>
-		<item>
- 
-			<title>USA_DISCOVERY_CHANNEL_HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1488.ts</link>
-		<item>
- 
-			<title>USA_ID</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1487.ts</link>
-		<item>
- 
 			<title>USA_TSN_1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1482.ts</link>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/458.ts</link>
+		
 		<item>
- 
 			<title>USA_TSN_2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1481.ts</link>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/459.ts</link>
+		
 		<item>
- 
 			<title>USA_TSN_3</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1480.ts</link>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/1527.ts</link>
+		
 		<item>
- 
 			<title>USA_TSN_4</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1479.ts</link>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/1526.ts</link>
+		
 		<item>
- 
 			<title>USA_TSN_5</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1478.ts</link>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/1525.ts</link>
+		
 		<item>
- 
-			<title>USA_WORLD_FASHION_HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/4175.ts</link>
+			<title>USA_NFL</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/1531.ts</link>
+		
 		<item>
- 
-			<title>USA_SPORT_NET_360</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/4168.ts</link>
+			<title>USA_NBC</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/1536.ts</link>
+		
 		<item>
- 
+			<title>USA_5_USA</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/1542.ts</link>
+		
+		<item>
 			<title>USA_SPORT_NET_1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/4167.ts</link>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/1539.ts</link>
+		
 		<item>
- 
+			<title>USA_SPORT_NET_360</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/1538.ts</link>
+		
+		<item>
 			<title>USA_SHOWTIME_HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/4176.ts</link>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/1540.ts</link>
+		
 		<item>
- 
+			<title>USA_FOX_SPORT_2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/1530.ts</link>
+		
+		<item>
+			<title>USA_FOX_SPORT_1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/1529.ts</link>
+		
+		<item>
+			<title>USA_AMC_HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/1537.ts</link>
+		
+		<item>
+			<title>USA_VERSUS_HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/1533.ts</link>
+		
+		<item>
 			<title>USA_REDBULL_TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/4166.ts</link>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/1541.ts</link>
+		
 		<item>
- 
-			<title>USA_PLANET_GREEN</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/4177.ts</link>
+			<title>USA_ABC_News</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/467.ts</link>
+		
 		<item>
- 
-			<title>USA_NBC_GOLF</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/4169.ts</link>
+			<title>USA_DISCOVERY_CHANNEL_HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/1535.ts</link>
+		
 		<item>
- 
-			<title>USA_NASA_TV_HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/4178.ts</link>
+			<title>USA_CBS_NEWS_HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/1532.ts</link>
+		
 		<item>
- 
-			<title>USA_MUTE_TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/4179.ts</link>
-		<item>
- 
-			<title>USA_MIAMI_TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/4180.ts</link>
-		<item>
- 
-			<title>USA_FLORIDA_CHANNEL</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/4170.ts</link>
-		<item>
- 
-			<title>USA_FASHION_ONE</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/4181.ts</link>
-		<item>
- 
 			<title>USA_BYU_SPORTS_TV_HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/4174.ts</link>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/1543.ts</link>
+		
 		<item>
- 
-			<title>USA_ASTRO_SUPERSPORT_3</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/4173.ts</link>
+			<title>USA_NBA_TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/1544.ts</link>
+		
 		<item>
- 
-			<title>USA_ASTRO_SUPERSPORT_2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/4172.ts</link>
+			<title>USA_ESPN</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/1528.ts</link>
+		
 		<item>
- 
-			<title>USA_ASTRO_SUPERSPORT_1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/4171.ts</link>
+			<title>USA_Astro_SUPERSPORT_01</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/460.ts</link>
+		
 		<item>
- 
-			<title>USA_AFN_PULSE</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/4182.ts</link>
+			<title>USA_Astro_SUPERSPORT_02</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/461.ts</link>
+		
 		<item>
- 
-			<title>USA_AFN_MOVIE</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/4183.ts</link>
+			<title>USA_Astro_SUPERSPORT_03</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/462.ts</link>
+		
+		<item>
+			<title>USA_Astro_SUPERSPORT_04</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/463.ts</link>
+		
+		<item>
+			<title>USA_PAC_12_Network_HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/1709.ts</link>
+		
+		<item>
+			<title>USA_PAC_12_Mountain_HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/1710.ts</link>
+		
+		<item>
+			<title>USA_PAC_12_Los_Angeles_HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/1711.ts</link>
+		
+		<item>
+			<title>USA_PAC_12_Bay_Area_HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/1712.ts</link>		
