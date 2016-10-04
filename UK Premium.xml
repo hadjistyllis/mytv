@@ -332,7 +332,181 @@
 			<link>http://......</link>	
 			
 			
-			
+		<item>
+			<title>UK:Sky-Sports2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/8989/8989/7936.ts</link>
+		
+		<item>
+			<title>UK:Sky-Sports3</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/8989/8989/7937.ts</link>
+		
+		<item>
+			<title>UK:Sky-Sports4</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/8989/8989/7938.ts</link>
+		
+		<item>
+			<title>UK:Sky-Sports5</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/8989/8989/7939.ts</link>
+		
+		<item>
+			<title>UK:Sky-Sports-1HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/8989/8989/7943.ts</link>
+		
+		<item>
+			<title>UK:Sky-Sports-2HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/8989/8989/7944.ts</link>
+		
+		<item>
+			<title>UK:Sky-Sports-3HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/8989/8989/7945.ts</link>
+		
+		<item>
+			<title>UK:Sky-Sports-4HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/8989/8989/7946.ts</link>
+		
+		<item>
+			<title>UK:Sky-Sports-5HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/8989/8989/7947.ts</link>
+		
+		<item>
+			<title>UK:True-Movies</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/8989/8989/7967.ts</link>
+		
+		<item>
+			<title>UK:True-Movies2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/8989/8989/7968.ts</link>
+		
+		<item>
+			<title>UK:Sport-europe-HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/8989/8989/7949.ts</link>
+		
+		<item>
+			<title>UK:Sky-Thriller</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/8989/8989/7959.ts</link>
+		
+		<item>
+			<title>UK:Sky-Sports-News</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/8989/8989/7941.ts</link>
+		
+		<item>
+			<title>UK:Sky-Sports-F1HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/8989/8989/7948.ts</link>
+		
+		<item>
+			<title>UK:Sky-Sports-F1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/8989/8989/7940.ts</link>
+		
+		<item>
+			<title>UK:Sky-Select</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/8989/8989/7951.ts</link>
+		
+		<item>
+			<title>UK:Sky-Premiere 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/8989/8989/7952.ts</link>
+		
+		<item>
+			<title>UK:Sky-Premiere</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/8989/8989/7953.ts</link>
+		
+		<item>
+			<title>UK:Sky-One-HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/8989/8989/7962.ts</link>
+		
+		<item>
+			<title>UK:Sky-Monsters</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/8989/8989/7954.ts</link>
+		
+		<item>
+			<title>UK:Sky-Greats</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/8989/8989/7955.ts</link>
+		
+		<item>
+			<title>UK:Sky-Family</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/8989/8989/7956.ts</link>
+		
+		<item>
+			<title>UK:Sky-Drama</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/8989/8989/7957.ts</link>
+		
+		<item>
+			<title>UK:Sky-Disney</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/8989/8989/7974.ts</link>
+		
+		<item>
+			<title>UK:Sky-Atlantic</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/8989/8989/7961.ts</link>
+		
+		<item>
+			<title>UK:Sky-Action</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/8989/8989/7958.ts</link>
+		
+		<item>
+			<title>UK:Real-Madrid</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/8989/8989/7942.ts</link>
+		
+		<item>
+			<title>UK:Nicktoons</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/8989/8989/7970.ts</link>
+		
+		<item>
+			<title>UK:Nickelodeon</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/8989/8989/7972.ts</link>
+		
+		<item>
+			<title>UK:National-Geography-Wild</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/8989/8989/7978.ts</link>
+		
+		<item>
+			<title>UK:NatGeo-Channel</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/8989/8989/7979.ts</link>
+		
+		<item>
+			<title>UK:Investion-Discovery</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/8989/8989/7980.ts</link>
+		
+		<item>
+			<title>UK:Disney-XD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/8989/8989/7977.ts</link>
+		
+		<item>
+			<title>UK:Disney-Junior 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/8989/8989/7986.ts</link>
+		
+		<item>
+			<title>UK:DISNEY-JUNIOR</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/8989/8989/7976.ts</link>
+		
+		<item>
+			<title>UK:Disney-Channel 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/8989/8989/7984.ts</link>
+		
+		<item>
+			<title>UK:Disney-Channel</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/8989/8989/7975.ts</link>
+		
+		<item>
+			<title>UK:DiscoveryScience</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/8989/8989/7983.ts</link>
+		
+		<item>
+			<title>UK:Discovery-History</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/8989/8989/7982.ts</link>
+		
+		<item>
+			<title>UK:Discovery-Channel</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/8989/8989/7981.ts</link>
+		
+		<item>
+			<title>UK:Comedy-Central</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/8989/8989/7966.ts</link>
+		
+		<item>
+			<title>UK:Cartoon-Network</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/8989/8989/7969.ts</link>
+		
+		<item>
+			<title>UK:-Sky-Arts-1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/8989/8989/7964.ts</link>			
 
 			
 			
