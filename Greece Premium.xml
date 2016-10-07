@@ -15,7 +15,7 @@
 		
 		<item>
 			<title>GR: ERT1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/3534.ts</link>
+			<link>plugin://plugin.video.f4mTester/?name=ERT1&streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/3534.ts</link>
 		
 		<item>
 			<title>GR: ERT2</title>
