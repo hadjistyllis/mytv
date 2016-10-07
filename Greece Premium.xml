@@ -11,12 +11,18 @@
 			<title>"[COLOR red][B]SERVER 1[/B][/COLOR]"</title>
 			<link>http://......</link>	
 			
-		<item>
-			<title>GR: Makedonia TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/3540.ts</link>
+
 		
 		<item>
-			<title>GR: ET3 TV</title>
+			<title>GR: ERT1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/3534.ts</link>
+		
+		<item>
+			<title>GR: ERT2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/3542.ts</link>
+					
+		<item>
+			<title>GR: ERT3</title>
 			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/3543.ts</link>
 		
 		<item>
@@ -43,19 +49,14 @@
 			<title>GR: Skai TV</title>
 			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/3539.ts</link>
 		
-		<item>
-			<title>GR: Nerit TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/3534.ts</link>
-		
-		<item>
-			<title>GR: Nerit Sports TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/3542.ts</link>
 		
 		<item>
 			<title>GR: Mega tv</title>
 			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/3535.ts</link>
 	
-			
+		<item>
+			<title>GR: Makedonia TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/3540.ts</link>			
 			
 
 		<item>
