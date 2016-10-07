@@ -63,6 +63,52 @@
 			<title>"[COLOR red][B]SERVER 2[/B][/COLOR]"</title>
 			<link>http://......</link>	
 			
-
+		<item>			
+<title>GR: ERT1</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.167.137/live/gamil/gamil/3534.ts</link>
+		
+		<item>			
+<title>GR: ERT2</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.167.137/live/gamil/gamil/3542.ts</link>
+	
+		<item>			
+<title>GR: ERT3</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.167.137/live/gamil/gamil/3543.ts</link>
+	
+		<item>			
+<title>GR: Epsilon TV</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.167.137/live/gamil/gamil/3541.ts</link>
+		
+		<item>			
+<title>GR: Antenna</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.167.137/live/gamil/gamil/3536.ts</link>
+		
+		<item>	
+<title>GR: Alpha TV</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.167.137/live/gamil/gamil/3537.ts</link>
+		
+		<item>			
+<title>GR: 4E TV</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.167.137/live/gamil/gamil/3544.ts</link>
+		
+		<item>		
+<title>GR: Star TV</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.167.137/live/gamil/gamil/3538.ts</link>
+		
+		<item>			
+<title>GR: Skai TV</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.167.137/live/gamil/gamil/3539.ts</link>
+		
+		<item>		
+<title>GR: Mega tv</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.167.137/live/gamil/gamil/3535.ts</link>
+		
+		<item>		
+<title>GR: Makedonia TV</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.167.137/live/gamil/gamil/3540.ts</link>
+		
+		<item>		
+<title>Greek Ote Channel</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.167.137/live/gamil/gamil/2446.ts</link>
 
 			
