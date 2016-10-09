@@ -13,102 +13,168 @@
 			
 
 		
-		<item>
-			<title>GR: ERT1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.re/live/1/1/3534.ts</link>
+<item>	
+			<title>GR: Kontra TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://163.172.220.121:1557/live/idou/idou/978.ts</link>
 		
-		<item>
+		<item>	
+			<title>GR: TILESPORT</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://163.172.220.121:1557/live/idou/idou/2299.ts</link>
+		
+		<item>	
+			<title>GR: Thraki TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://163.172.220.121:1557/live/idou/idou/2300.ts</link>
+		
+		<item>	
+			<title>GR: 4E Star</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://163.172.220.121:1557/live/idou/idou/1647.ts</link>
+		
+		<item>	
+			<title>GR: Skai</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://163.172.220.121:1557/live/idou/idou/2303.ts</link>
+		
+		<item>	
+			<title>CY: Sigma</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://163.172.220.121:1557/live/idou/idou/1646.ts</link>
+		
+		<item>	
+			<title>GR: SBC</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://163.172.220.121:1557/live/idou/idou/2304.ts</link>
+		
+		<item>	
+			<title>GR: SAMIAKI</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://163.172.220.121:1557/live/idou/idou/2305.ts</link>
+		
+		<item>	
+			<title>GR: Omega TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://163.172.220.121:1557/live/idou/idou/1645.ts</link>
+		
+		<item>	
+			<title>GR: OMEGA</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://163.172.220.121:1557/live/idou/idou/2306.ts</link>
+		
+		<item>	
+			<title>GR: NEA</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://163.172.220.121:1557/live/idou/idou/2307.ts</link>
+		
+		<item>	
+			<title>GR: MESSINIA TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://163.172.220.121:1557/live/idou/idou/2308.ts</link>
+		
+		<item>	
+			<title>GR: Mega</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://163.172.220.121:1557/live/idou/idou/2309.ts</link>
+		
+		<item>	
+			<title>GR: Lepanto</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://163.172.220.121:1557/live/idou/idou/2311.ts</link>
+		
+		<item>	
+			<title>GR: EXTRA</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://163.172.220.121:1557/live/idou/idou/2314.ts</link>
+		
+		<item>	
+			<title>GR: Eurosport 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://163.172.220.121:1557/live/idou/idou/2315.ts</link>
+		
+		<item>	
+			<title>GR: Eurosport 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://163.172.220.121:1557/live/idou/idou/2316.ts</link>
+		
+		<item>	
 			<title>GR: ERT2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.re/live/1/1/3542.ts</link>
-					
-		<item>
-			<title>GR: ERT3</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.re/live/1/1/3543.ts</link>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://163.172.220.121:1557/live/idou/idou/2317.ts</link>
 		
-		<item>
-			<title>GR: Epsilon TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.re/live/1/1/3541.ts</link>
+		<item>	
+			<title>GR: ERT1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://163.172.220.121:1557/live/idou/idou/2318.ts</link>
 		
-		<item>
-			<title>GR: Antenna</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.re/live/1/1/3536.ts</link>
+		<item>	
+			<title>GR: ERT 3</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://163.172.220.121:1557/live/idou/idou/2319.ts</link>
 		
-		<item>
-			<title>GR: Alpha TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.re/live/1/1/3537.ts</link>
+		<item>	
+			<title>GR: E</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://163.172.220.121:1557/live/idou/idou/2322.ts</link>
 		
-		<item>
-			<title>GR: 4E TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.re/live/1/1/3544.ts</link>
+		<item>	
+			<title>GR: Blue Sky</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://163.172.220.121:1557/live/idou/idou/1642.ts</link>
 		
-		<item>
+		<item>	
+			<title>GR: Axeloos TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://163.172.220.121:1557/live/idou/idou/2323.ts</link>
+		
+		<item>	
+			<title>GR: Art</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://163.172.220.121:1557/live/idou/idou/2324.ts</link>
+		
+		<item>	
+			<title>GR: ANT1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://163.172.220.121:1557/live/idou/idou/2326.ts</link>
+		
+		<item>	
+			<title>GR: Alpha</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://163.172.220.121:1557/live/idou/idou/2327.ts</link>
+		
+		<item>	
+			<title>GR: 4E</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://163.172.220.121:1557/live/idou/idou/2329.ts</link>
+		
+		<item>	
+			<title>GR: VOULI</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://163.172.220.121:1557/live/idou/idou/2297.ts</link>
+		
+		<item>	
+			<title>GR: TV 1000</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://163.172.220.121:1557/live/idou/idou/1648.ts</link>
+		
+		<item>	
+			<title>GR: Thema TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://163.172.220.121:1557/live/idou/idou/2301.ts</link>
+		
+		<item>	
 			<title>GR: Star TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.re/live/1/1/3538.ts</link>
-		
-		<item>
-			<title>GR: Skai TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.re/live/1/1/3539.ts</link>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://163.172.220.121:1557/live/idou/idou/2302.ts</link>
 		
 		
-		<item>
-			<title>GR: Mega tv</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.re/live/1/1/3535.ts</link>
-	
-		<item>
-			<title>GR: Makedonia TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.re/live/1/1/3540.ts</link>			
-			
+		<item>	
+			<title>GR: Makeleio Web Tv</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://163.172.220.121:1557/live/idou/idou/2310.ts</link>
+		
+		<item>	
+			<title>GR: KRITI TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://163.172.220.121:1557/live/idou/idou/2312.ts</link>
+		
+		<item>	
+			<title>GR: Hpeiros TV1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://163.172.220.121:1557/live/idou/idou/2313.ts</link>
+		
+		<item>	
+			<title>GR: EPIRUS TV1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://163.172.220.121:1557/live/idou/idou/2320.ts</link>
+		
+		<item>	
+			<title>GR: Ellinikosfm TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://163.172.220.121:1557/live/idou/idou/2321.ts</link>
+		
+		<item>	
+			<title>GR: DIKTYO</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://163.172.220.121:1557/live/idou/idou/2298.ts</link>
+		
+		<item>	
+			<title>GR: Apeiro TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://163.172.220.121:1557/live/idou/idou/2325.ts</link>
+		
+		<item>	
+			<title>GR: AIGAIO TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://163.172.220.121:1557/live/idou/idou/2328.ts</link>
 
+			
+			
+			
 		<item>
 			<title>"[COLOR red][B]SERVER 2[/B][/COLOR]"</title>
 			<link>http://......</link>	
 			
-		<item>			
-<title>GR: ERT1</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.167.137/live/gamil/gamil/3534.ts</link>
-		
-		<item>			
-<title>GR: ERT2</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.167.137/live/gamil/gamil/3542.ts</link>
-	
-		<item>			
-<title>GR: ERT3</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.167.137/live/gamil/gamil/3543.ts</link>
-	
-		<item>			
-<title>GR: Epsilon TV</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.167.137/live/gamil/gamil/3541.ts</link>
-		
-		<item>			
-<title>GR: Antenna</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.167.137/live/gamil/gamil/3536.ts</link>
-		
-		<item>	
-<title>GR: Alpha TV</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.167.137/live/gamil/gamil/3537.ts</link>
-		
-		<item>			
-<title>GR: 4E TV</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.167.137/live/gamil/gamil/3544.ts</link>
-		
-		<item>		
-<title>GR: Star TV</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.167.137/live/gamil/gamil/3538.ts</link>
-		
-		<item>			
-<title>GR: Skai TV</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.167.137/live/gamil/gamil/3539.ts</link>
-		
-		<item>		
-<title>GR: Mega tv</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.167.137/live/gamil/gamil/3535.ts</link>
-		
-		<item>		
-<title>GR: Makedonia TV</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.167.137/live/gamil/gamil/3540.ts</link>
-		
-		<item>		
-<title>Greek Ote Channel</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.167.137/live/gamil/gamil/2446.ts</link>
 
-			
