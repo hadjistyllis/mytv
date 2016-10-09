@@ -7,9 +7,466 @@
 			<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=GA0N0Bu5JiE</link>
 	
 
-			
 		<item>
 			<title>"[COLOR red][B]SERVER 1[/B][/COLOR]"</title>
+			<link>http://......</link>
+			
+		<item>
+			<title>E! Entertainment</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/896.ts</link>
+		
+		<item>
+			<title>Animal Planet UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/360.ts</link>
+		
+		<item>
+			<title>Crime & Investigation</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/134.ts</link>
+		
+		<item>
+			<title>History Channel UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/464.ts</link>
+		
+		<item>
+			<title>History 2 UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/359.ts</link>
+		
+		<item>
+			<title>Nat Geo Wild UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/357.ts</link>
+		
+		<item>
+			<title>Nat Geo UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/355.ts</link>
+		
+		<item>
+			<title>Investigation Discovery UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/358.ts</link>
+		
+		<item>
+			<title>Discovery Shed UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/27.ts</link>
+		
+		<item>
+			<title>Discovery Home UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/361.ts</link>
+		
+		<item>
+			<title>Discovery Turbo UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/365.ts</link>
+		
+		<item>
+			<title>Discovery UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/364.ts</link>
+		
+		<item>
+			<title>Discovery Science UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/362.ts</link>
+		
+		<item>
+			<title>Discovery History UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/363.ts</link>
+		
+		<item>
+			<title>Travel Channel Uk</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/809.ts</link>
+		
+		<item>
+			<title>Cartoon Network Uk</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/227.ts</link>
+		
+		<item>
+			<title>Nick Junior UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/344.ts</link>
+		
+		<item>
+			<title>Nick Junior too UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/345.ts</link>
+		
+		<item>
+			<title>Disney XD UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/349.ts</link>
+		
+		<item>
+			<title>Disney Junior UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/351.ts</link>
+		
+		<item>
+			<title>Disney Channel UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/353.ts</link>
+		
+		<item>
+			<title>SKY Cartoonito UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/354.ts</link>
+		
+		<item>
+			<title>SKY Nicktoons UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/346.ts</link>
+		
+		<item>
+			<title>SKY Nicklelodeon UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/347.ts</link>
+		
+		<item>
+			<title>Sky Cinema Action & Adventure HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/536.ts</link>
+		
+		<item>
+			<title>Sky Cinema Crime & Thriller HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/457.ts</link>
+		
+		<item>
+			<title>Sky Cinema Premiere HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/537.ts</link>
+		
+		<item>
+			<title>Sky Cinema Comedy HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/541.ts</link>
+		
+		<item>
+			<title>Sky Cinema Disney HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/456.ts</link>
+		
+		<item>
+			<title>Sky Cinema Greats HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/535.ts</link>
+		
+		<item>
+			<title>Sky Cinema Family HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/534.ts</link>
+		
+		<item>
+			<title>Sky Cinema Action & Adventure</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/110.ts</link>
+		
+		<item>
+			<title>Sky Cinema Select</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/64.ts</link>
+		
+		<item>
+			<title>Sky Cinema Sci-Fi & Horror</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/112.ts</link>
+		
+		<item>
+			<title>Sky Cinema Premiere</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/111.ts</link>
+		
+		<item>
+			<title>Sky Cinema Greats</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/109.ts</link>
+		
+		<item>
+			<title>Sky Cinema Family</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/65.ts</link>
+		
+		<item>
+			<title>Sky Cinema Drama & Romance</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/107.ts</link>
+		
+		<item>
+			<title>Sky Cinema Crime & Thriller</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/113.ts</link>
+		
+		<item>
+			<title>Sky Cinema Comedy</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/108.ts</link>
+		
+		<item>
+			<title>Sky Cinema Hits</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/388.ts</link>
+		
+		<item>
+			<title>Sky Cinema Disney</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/387.ts</link>
+		
+		<item>
+			<title>True Movies 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/483.ts</link>
+		
+		<item>
+			<title>True Movies 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/482.ts</link>
+		
+		<item>
+			<title>Sony Movies</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/481.ts</link>
+		
+		<item>
+			<title>Fox Movies</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/478.ts</link>
+		
+		<item>
+			<title>TG 4</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/252.ts</link>
+		
+		<item>
+			<title>More 4</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/480.ts</link>
+		
+		<item>
+			<title>Dmax</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/479.ts</link>
+		
+		<item>
+			<title>5 USA</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/250.ts</link>
+		
+		<item>
+			<title>Sky Atlantic</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/98.ts</link>
+		
+		<item>
+			<title>Sky Living</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/184.ts</link>
+		
+		<item>
+			<title>Sky One</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/182.ts</link>
+		
+		<item>
+			<title>Sky Two</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/183.ts</link>
+		
+		<item>
+			<title>Sky Arts 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/180.ts</link>
+		
+		<item>
+			<title>RTE One</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/280.ts</link>
+		
+		<item>
+			<title>RTE Two</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/277.ts</link>
+		
+		<item>
+			<title>Film 4</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/181.ts</link>
+		
+		<item>
+			<title>Sky News</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/484.ts</link>
+		
+		<item>
+			<title>Fox News</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/582.ts</link>
+		
+		<item>
+			<title>Euro News</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/460.ts</link>
+		
+		<item>
+			<title>BBC News</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/461.ts</link>
+		
+		<item>
+			<title>CNN News</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/385.ts</link>
+		
+		<item>
+			<title>Quest</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/251.ts</link>
+		
+		<item>
+			<title>3E</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/876.ts</link>
+		
+		<item>
+			<title>E4</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/439.ts</link>
+		
+		<item>
+			<title>Pick Tv UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/446.ts</link>
+		
+		<item>
+			<title>Food Network UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/63.ts</link>
+		
+		<item>
+			<title>Channel 4</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/185.ts</link>
+		
+		<item>
+			<title>Channel 5</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/186.ts</link>
+		
+		<item>
+			<title>Dave</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/189.ts</link>
+		
+		<item>
+			<title>Gold Tv Uk</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/66.ts</link>
+		
+		<item>
+			<title>Comedy Central</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/187.ts</link>
+		
+		<item>
+			<title>Comedy Central Extra</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/188.ts</link>
+		
+		<item>
+			<title>Drama</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/204.ts</link>
+		
+		<item>
+			<title>Alibi</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/74.ts</link>
+		
+		<item>
+			<title>CBS Reality</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/473.ts</link>
+		
+		<item>
+			<title>CBS Drama</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/472.ts</link>
+		
+		<item>
+			<title>CBS Action</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/471.ts</link>
+		
+		<item>
+			<title>Really Uk</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/352.ts</link>
+		
+		<item>
+			<title>Watch Uk</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/356.ts</link>
+		
+		<item>
+			<title>TLC Uk</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/267.ts</link>
+		
+		<item>
+			<title>BBC 1 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/470.ts</link>
+		
+		<item>
+			<title>BBC 2 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/469.ts</link>
+		
+		<item>
+			<title>BBC 3 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/467.ts</link>
+		
+		<item>
+			<title>BBC 4 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/466.ts</link>
+		
+		<item>
+			<title>BBC 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/101.ts</link>
+		
+		<item>
+			<title>BBC 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/102.ts</link>
+		
+		<item>
+			<title>BBC 3</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/100.ts</link>
+		
+		<item>
+			<title>BBC 4</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/99.ts</link>
+		
+		<item>
+			<title>ITV 1 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/266.ts</link>
+		
+		<item>
+			<title>ITV 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/103.ts</link>
+		
+		<item>
+			<title>ITV 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/104.ts</link>
+		
+		<item>
+			<title>ITV 3</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/105.ts</link>
+		
+		<item>
+			<title>ITV 4</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/106.ts</link>
+		
+		<item>
+			<title>ITV Encore</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/202.ts</link>
+		
+		<item>
+			<title>ITV Be</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/203.ts</link>
+		
+		<item>
+			<title>MTV UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/123.ts</link>
+		
+		<item>
+			<title>MTV Rocks</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/125.ts</link>
+		
+		<item>
+			<title>MTV Music</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/124.ts</link>
+		
+		<item>
+			<title>MTV Hits</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/126.ts</link>
+		
+		<item>
+			<title>MTV Dance</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/128.ts</link>
+		
+		<item>
+			<title>MTV Classic</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/129.ts</link>
+		
+		<item>
+			<title>MTV Base</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/127.ts</link>
+		
+		<item>
+			<title>Vivo 1 UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/84.ts</link>
+		
+		<item>
+			<title>Vivo 2 UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/85.ts</link>
+		
+		<item>
+			<title>Vivo 3 UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/86.ts</link>
+		
+		<item>
+			<title>UK: Movies! Network</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/844.ts</link>
+		
+		<item>
+			<title>UK: Movies 4 Men</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/845.ts</link>
+		
+		<item>
+			<title>UK: More Then Movies</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/846.ts</link>			
+		
+		
+		<item>
+			<title>NDTV News</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/79.ts</link>
+		
+		<item>
+			<title>India Tv News</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/80.ts</link>
+		
+		<item>
+			<title>ABP News</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/246.ts</link>			
+			
+			
+		<item>
+			<title>"[COLOR red][B]SERVER 2[/B][/COLOR]"</title>
 			<link>http://......</link>
 			
 		<item>
@@ -329,7 +786,7 @@
 			
 			
 		<item>
-			<title>"[COLOR red][B]SERVER 2[/B][/COLOR]"</title>
+			<title>"[COLOR red][B]SERVER 3[/B][/COLOR]"</title>
 			<link>http://......</link>	
 			
 			
