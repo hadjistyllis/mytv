@@ -11,9 +11,31 @@
 			<title>"[COLOR red][B]SERVER 1[/B][/COLOR]"</title>
 			<link>http://......</link>	
 			
+		<item>
+			<title>OTE Sports 1 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/859.ts</link>
+	
+		<item>
+			<title>OTE Sports 2 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/860.ts</link>
+	
+		<item>
+			<title>OTE Sports 3 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/861.ts</link>
+	
+		<item>
+			<title>OTE Sports 4 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/862.ts</link>
+	
+		<item>
+			<title>OTE Sports 5 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/863.ts</link>
+	
+		<item>
+			<title>OTE Sports 6 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/864.ts</link>
 
-		
-<item>	
+		<item>	
 			<title>GR: Kontra TV</title>
 			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://163.172.220.121:1557/live/idou/idou/978.ts</link>
 		
