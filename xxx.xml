@@ -120,23 +120,20 @@
 			
 		<item>
 			<title>"[COLOR red][B]SERVER 2[/B][/COLOR]"</title>
-			<link>http://......</link>		
+			<link>http://......</link>
 			
-			
-		<item>
-			<title>Venus</title>	
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://xtream.iptv-streamer.com:8000/live/enispt/6773hhsh/1717.ts</link>	
-			
-			
+			<item>
+		<title>Hustler TV</title>
+		<link>http://185.9.0.229:4022/udp/239.209.0.29:3301</link>			
+
 			
 			
 		<item>
 			<title>"[COLOR red][B]SERVER 3[/B][/COLOR]"</title>
 			<link>http://......</link>	
-			
 
-			
-			
+
+				
 			
 			
 		<item>
