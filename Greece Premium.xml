@@ -44,142 +44,220 @@
 			
 
 		<item>
-			<title>GR: ZOUGLA TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://orbit-iptv.com:2500/live/marc/marc/2369.ts</link>
+			<title>GR: OTE Cinma 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/1427.ts</link>
 		
 		<item>
-			<title>GR: ET 1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://orbit-iptv.com:2500/live/marc/marc/2360.ts</link>
+			<title>GR: OTE Cinma 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/1426.ts</link>
 		
 		<item>
-			<title>GR: SIGMA TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://orbit-iptv.com:2500/live/marc/marc/2367.ts</link>
+			<title>GR: OTE Cinma 3</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/1425.ts</link>
 		
 		<item>
-			<title>GR: Sigma Cy</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://orbit-iptv.com:2500/live/marc/marc/2361.ts</link>
+			<title>GR: OTE Cinma 4</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/1424.ts</link>
 		
 		<item>
-			<title>GR: Mega</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://orbit-iptv.com:2500/live/marc/marc/2362.ts</link>
+			<title>GR: OTE Sport 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/831.ts</link>
 		
 		<item>
-			<title>GR: Makedonia</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://orbit-iptv.com:2500/live/marc/marc/2363.ts</link>
+			<title>GR: OTE Sport 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/838.ts</link>
 		
 		<item>
-			<title>GR: Mad Cy</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://orbit-iptv.com:2500/live/marc/marc/2364.ts</link>
+			<title>GR: OTE Sport 3</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/837.ts</link>
 		
 		<item>
-			<title>GR: KONTRA</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://orbit-iptv.com:2500/live/marc/marc/2366.ts</link>
+			<title>GR: OTE Sport 4</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/836.ts</link>
 		
 		<item>
-			<title>GR: Vouli</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://orbit-iptv.com:2500/live/marc/marc/3207.ts</link>
+			<title>GR: OTE Sport 5</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/835.ts</link>
 		
 		<item>
-			<title>GR: TV100</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://orbit-iptv.com:2500/live/marc/marc/3208.ts</link>
+			<title>GR: OTE Sport 6</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/834.ts</link>
+		
+		<item>
+			<title>GR: OTE Sport 7</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/833.ts</link>
+		
+		<item>
+			<title>GR: OTE Sport 8</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/832.ts</link>
+		
+		<item>
+			<title>GR: Astra Supersport 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/845.ts</link>
+		
+		<item>
+			<title>GR: Astra Supersport 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/844.ts</link>
+		
+		<item>
+			<title>GR: Astra Supersport 3</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/843.ts</link>
+		
+		<item>
+			<title>GR: Astra Supersport 4</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/842.ts</link>
+		
+		<item>
+			<title>GR: CTH Stadium X HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/839.ts</link>
+		
+		<item>
+			<title>GR: CTH Stadium 1 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/841.ts</link>
+		
+		<item>
+			<title>GR: CTH Stadium 2 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/840.ts</link>
+		
+		<item>
+			<title>GR: CTH Stadium 3 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/870.ts</link>
+		
+		<item>
+			<title>GR: CTH Stadium 4 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/868.ts</link>
+		
+		<item>
+			<title>GR: CTH Stadium 5 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/869.ts</link>
+		
+		<item>
+			<title>GR: CTH Stadium 6 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/867.ts</link>
+		
+		<item>
+			<title>GR: Tilesport</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/1423.ts</link>
+		
+		<item>
+			<title>GR: National Geo HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/1422.ts</link>
+		
+		<item>
+			<title>GR: Attica Tv</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/846.ts</link>
+		
+		<item>
+			<title>GR: BRT 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/878.ts</link>
+		
+		<item>
+			<title>GR: Astra tv</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/877.ts</link>
+		
+		<item>
+			<title>GR: TV1000</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/874.ts</link>
+		
+		<item>
+			<title>GR: Nea TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/875.ts</link>
+		
+		<item>
+			<title>GR: Kontra Channel</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/876.ts</link>
+		
+		<item>
+			<title>GR: EXTRA</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/873.ts</link>
+		
+		<item>
+			<title>GR: EPT Apxeio</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/861.ts</link>
+		
+		<item>
+			<title>GR: Samiaki</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/860.ts</link>
+		
+		<item>
+			<title>GR: EPT HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/872.ts</link>
+		
+		<item>
+			<title>GR: EPT 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/871.ts</link>
+		
+		<item>
+			<title>GR: EPT 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/866.ts</link>
+		
+		<item>
+			<title>GR: EPT 3</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/865.ts</link>
 		
 		<item>
 			<title>GR: Star</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://orbit-iptv.com:2500/live/marc/marc/3209.ts</link>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/848.ts</link>
 		
 		<item>
-			<title>GR: Skai</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://orbit-iptv.com:2500/live/marc/marc/3211.ts</link>
+			<title>GR: SAKI</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/850.ts</link>
 		
 		<item>
-			<title>GR: Creta Tv</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://orbit-iptv.com:2500/live/marc/marc/2365.ts</link>
+			<title>GR: Ma tv</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/849.ts</link>
 		
 		<item>
-			<title>GR: Antena 1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://orbit-iptv.com:2500/live/marc/marc/2368.ts</link>
+			<title>GR: Antenna</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/847.ts</link>
 		
 		<item>
-			<title>GR: Ant1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://orbit-iptv.com:2500/live/marc/marc/2370.ts</link>
+			<title>GR: Kontra TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/853.ts</link>
+		
+		<item>
+			<title>GR: MTV Music</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/864.ts</link>
+		
+		<item>
+			<title>GR: Mega</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/863.ts</link>
+		
+		<item>
+			<title>GR: Mega TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/862.ts</link>
 		
 		<item>
 			<title>GR: Alpha</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://orbit-iptv.com:2500/live/marc/marc/2371.ts</link>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/855.ts</link>
 		
 		<item>
-			<title>GR WZRA</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://orbit-iptv.com:2500/live/marc/marc/2342.ts</link>
+			<title>GR: Euronews</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/858.ts</link>
 		
 		<item>
-			<title>GR Star</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://orbit-iptv.com:2500/live/marc/marc/2344.ts</link>
+			<title>GR: Nickelodeon</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/859.ts</link>
 		
 		<item>
-			<title>GR Skai</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://orbit-iptv.com:2500/live/marc/marc/2345.ts</link>
+			<title>GR: MAK TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/854.ts</link>
 		
 		<item>
-			<title>GR SBC</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://orbit-iptv.com:2500/live/marc/marc/2346.ts</link>
+			<title>GR: ANT1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/856.ts</link>
 		
 		<item>
-			<title>GR SAMIAKI TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://orbit-iptv.com:2500/live/marc/marc/2347.ts</link>
+			<title>GR: MAD TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/857.ts</link>
 		
 		<item>
-			<title>GR NERIT</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://orbit-iptv.com:2500/live/marc/marc/2348.ts</link>
+			<title>GR: Apeiro</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/852.ts</link>
 		
 		<item>
-			<title>GR NEA TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://orbit-iptv.com:2500/live/marc/marc/2349.ts</link>
-		
-		<item>
-			<title>GR KONTRA</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://orbit-iptv.com:2500/live/marc/marc/2350.ts</link>
-		
-		<item>
-			<title>GR EXTRA</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://orbit-iptv.com:2500/live/marc/marc/2351.ts</link>
-		
-		<item>
-			<title>GR ERT3</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://orbit-iptv.com:2500/live/marc/marc/2352.ts</link>
-		
-		<item>
-			<title>GR ERT2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://orbit-iptv.com:2500/live/marc/marc/2353.ts</link>
-		
-		<item>
-			<title>GR ERT1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://orbit-iptv.com:2500/live/marc/marc/2354.ts</link>
-		
-		<item>
-			<title>GR EPIRUS TV1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://orbit-iptv.com:2500/live/marc/marc/2355.ts</link>
-		
-		<item>
-			<title>GR E</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://orbit-iptv.com:2500/live/marc/marc/2356.ts</link>
-		
-		<item>
-			<title>GR BLUE SKY</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://orbit-iptv.com:2500/live/marc/marc/2357.ts</link>
-		
-		<item>
-			<title>GR Action 24</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://orbit-iptv.com:2500/live/marc/marc/2358.ts</link>
-		
-		<item>
-			<title>GR:TILESPORT TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://orbit-iptv.com:2500/live/marc/marc/2584.ts</link>
-		
-		<item>
-			<title>GR 4E</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://orbit-iptv.com:2500/live/marc/marc/2359.ts</link>
-
-			
+			<title>GR: Ant1 Cyprus</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/851.ts</link>
 			
 			
 			
@@ -191,142 +269,3 @@
 			
 			
 			
-			<item>
-			<title>GR: ERT HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://51.255.88.234:8080/live/amir2/amir2/5453.ts</link>
-		
-		<item>
-			<title>GR: EPT 1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://51.255.88.234:8080/live/amir2/amir2/5606.ts</link>
-		
-		<item>
-			<title>GR: EPT 2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://51.255.88.234:8080/live/amir2/amir2/5605.ts</link>
-		
-		<item>
-			<title>GR: EPT 3</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://51.255.88.234:8080/live/amir2/amir2/5604.ts</link>
-		
-		<item>
-			<title>GR: STAR</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://51.255.88.234:8080/live/amir2/amir2/8827.ts</link>
-		
-		<item>
-			<title>GR: ALPHASAT USA</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://51.255.88.234:8080/live/amir2/amir2/8826.ts</link>
-		
-		<item>
-			<title>GR: Alpha CYPRUS</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://51.255.88.234:8080/live/amir2/amir2/7876.ts</link>
-		
-		<item>
-			<title>GR: Nea</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://51.255.88.234:8080/live/amir2/amir2/6270.ts</link>
-		
-		<item>
-			<title>GR: Nickelodeon</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://51.255.88.234:8080/live/amir2/amir2/7861.ts</link>
-		
-		<item>
-			<title>GR: RIK1 CYPRUS</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://51.255.88.234:8080/live/amir2/amir2/7864.ts</link>
-		
-		<item>
-			<title>GR: ANT1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://51.255.88.234:8080/live/amir2/amir2/8619.ts</link>
-		
-		<item>
-			<title>GR: EXTRA</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://51.255.88.234:8080/live/amir2/amir2/5454.ts</link>
-		
-		<item>
-			<title>GR: ACTION 24</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://51.255.88.234:8080/live/amir2/amir2/6022.ts</link>
-		
-		<item>
-			<title>GR: BLUE SKY</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://51.255.88.234:8080/live/amir2/amir2/7387.ts</link>
-		
-		<item>
-			<title>GR: TV100</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://51.255.88.234:8080/live/amir2/amir2/8232.ts</link>
-		
-		<item>
-			<title>GR: TV 4E</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://51.255.88.234:8080/live/amir2/amir2/8233.ts</link>
-		
-		<item>
-			<title>GR: Teel Sport</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://51.255.88.234:8080/live/amir2/amir2/8234.ts</link>
-		
-		<item>
-			<title>GR: Mad</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://51.255.88.234:8080/live/amir2/amir2/8236.ts</link>
-		
-		<item>
-			<title>GR: Krhth Tv</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://51.255.88.234:8080/live/amir2/amir2/8238.ts</link>
-		
-		<item>
-			<title>GR: EPSILON</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://51.255.88.234:8080/live/amir2/amir2/8240.ts</link>
-		
-		<item>
-			<title>GR: KONTRA TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://51.255.88.234:8080/live/amir2/amir2/8241.ts</link>
-		
-		<item>
-			<title>GR: Astra</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://51.255.88.234:8080/live/amir2/amir2/8243.ts</link>
-		
-		<item>
-			<title>GR: MAKEDONIA TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://51.255.88.234:8080/live/amir2/amir2/8246.ts</link>
-		
-		<item>
-			<title>GR: SMILE</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://51.255.88.234:8080/live/amir2/amir2/8753.ts</link>
-		
-		<item>
-			<title>GR: SKAI</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://51.255.88.234:8080/live/amir2/amir2/8754.ts</link>
-		
-		<item>
-			<title>GR: SBC</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://51.255.88.234:8080/live/amir2/amir2/8755.ts</link>
-		
-		<item>
-			<title>GR: RIK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://51.255.88.234:8080/live/amir2/amir2/8756.ts</link>
-		
-		<item>
-			<title>GR: NICK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://51.255.88.234:8080/live/amir2/amir2/8757.ts</link>
-		
-		<item>
-			<title>GR: MTV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://51.255.88.234:8080/live/amir2/amir2/8758.ts</link>
-		
-		<item>
-			<title>GR: E</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://51.255.88.234:8080/live/amir2/amir2/8759.ts</link>
-		
-		<item>
-			<title>GR: DS</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://51.255.88.234:8080/live/amir2/amir2/8760.ts</link>
-		
-		<item>
-			<title>GR: CHANNEL 9</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://51.255.88.234:8080/live/amir2/amir2/8761.ts</link>
-		
-		<item>
-			<title>GR: BBC NEWS</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://51.255.88.234:8080/live/amir2/amir2/8762.ts</link>
-		
-		<item>
-			<title>GR: ABC CHANNEL</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://51.255.88.234:8080/live/amir2/amir2/8764.ts</link>
-		
-		<item>
-			<title>GR: AB Channel</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://51.255.88.234:8080/live/amir2/amir2/10763.ts</link>
