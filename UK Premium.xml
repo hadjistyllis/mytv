@@ -6,463 +6,467 @@
 			<title>"[COLOR red][B]http://e-doctor.webstarts.com[/B][/COLOR]"</title>
 			<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=GA0N0Bu5JiE</link>
 	
+			
+			
+			
 
 		<item>
 			<title>"[COLOR red][B]SERVER 1[/B][/COLOR]"</title>
 			<link>http://......</link>
 			
 		<item>
-			<title>E! Entertainment</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/896.ts</link>
+			<title>UK: Sky News HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/550.ts</link>
 		
 		<item>
-			<title>Animal Planet UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/360.ts</link>
+			<title>UK: Sky Sports News HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/549.ts</link>
 		
 		<item>
-			<title>Crime & Investigation</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/134.ts</link>
+			<title>UK: Sky Sports 1 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/548.ts</link>
 		
 		<item>
-			<title>History Channel UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/464.ts</link>
+			<title>UK: Sky Sport 1 SD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/533.ts</link>
 		
 		<item>
-			<title>History 2 UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/359.ts</link>
+			<title>UK: Sky Sports 2 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/547.ts</link>
 		
 		<item>
-			<title>Nat Geo Wild UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/357.ts</link>
+			<title>UK: Sky Sport 2 SD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/532.ts</link>
 		
 		<item>
-			<title>Nat Geo UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/355.ts</link>
+			<title>UK: Sky Sports 3 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/546.ts</link>
 		
 		<item>
-			<title>Investigation Discovery UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/358.ts</link>
+			<title>UK: Sky Sport 3 SD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/531.ts</link>
 		
 		<item>
-			<title>Discovery Shed UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/27.ts</link>
+			<title>UK: Sky Sports 4 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/545.ts</link>
 		
 		<item>
-			<title>Discovery Home UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/361.ts</link>
+			<title>UK: Sky Sport 4 SD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/530.ts</link>
 		
 		<item>
-			<title>Discovery Turbo UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/365.ts</link>
+			<title>UK: Sky Sports 5 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/544.ts</link>
 		
 		<item>
-			<title>Discovery UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/364.ts</link>
+			<title>UK: Sky Sport 5 SD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/529.ts</link>
 		
 		<item>
-			<title>Discovery Science UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/362.ts</link>
+			<title>UK: Sky Sports F1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/539.ts</link>
 		
 		<item>
-			<title>Discovery History UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/363.ts</link>
+			<title>UK: Sky Premier Sports HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/513.ts</link>
 		
 		<item>
-			<title>Travel Channel Uk</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/809.ts</link>
+			<title>UK: Sky Setanta Sports</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/484.ts</link>
 		
 		<item>
-			<title>Cartoon Network Uk</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/227.ts</link>
+			<title>UK: Sky Eurosport 1 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/541.ts</link>
 		
 		<item>
-			<title>Nick Junior UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/344.ts</link>
+			<title>UK: Sky Eurosport 2 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/540.ts</link>
 		
 		<item>
-			<title>Nick Junior too UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/345.ts</link>
+			<title>UK: Sky BT Sport 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/543.ts</link>
 		
 		<item>
-			<title>Disney XD UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/349.ts</link>
+			<title>UK: Sky BT Sport 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/542.ts</link>
 		
 		<item>
-			<title>Disney Junior UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/351.ts</link>
+			<title>UK: Sky BT Sport 1 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/528.ts</link>
 		
 		<item>
-			<title>Disney Channel UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/353.ts</link>
+			<title>UK: Sky BT Sport 2 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/527.ts</link>
 		
 		<item>
-			<title>SKY Cartoonito UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/354.ts</link>
+			<title>UK: Sky BT Sport Europe</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/453.ts</link>
 		
 		<item>
-			<title>SKY Nicktoons UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/346.ts</link>
+			<title>UK: Sky BT Sport Extra</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/479.ts</link>
 		
 		<item>
-			<title>SKY Nicklelodeon UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/347.ts</link>
+			<title>UK: Sky Liverpool FC TV HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/536.ts</link>
 		
 		<item>
-			<title>Sky Cinema Action & Adventure HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/536.ts</link>
+			<title>UK: Sky Chelsea TV HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/537.ts</link>
 		
 		<item>
-			<title>Sky Cinema Crime & Thriller HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/457.ts</link>
+			<title>UK: Sky MUTV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/535.ts</link>
 		
 		<item>
-			<title>Sky Cinema Premiere HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/537.ts</link>
+			<title>Uk: Sky At the Races</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/461.ts</link>
 		
 		<item>
-			<title>Sky Cinema Comedy HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/541.ts</link>
+			<title>UK: Sky Movies Premiere HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/519.ts</link>
 		
 		<item>
-			<title>Sky Cinema Disney HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/456.ts</link>
+			<title>UK: Sky Movies Disney</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/516.ts</link>
 		
 		<item>
-			<title>Sky Cinema Greats HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/535.ts</link>
+			<title>UK: Sky Movies Select HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/517.ts</link>
 		
 		<item>
-			<title>Sky Cinema Family HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/534.ts</link>
+			<title>UK: Sky Movies Action HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/511.ts</link>
 		
 		<item>
-			<title>Sky Cinema Action & Adventure</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/110.ts</link>
+			<title>UK: Sky Movies Greats</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/518.ts</link>
 		
 		<item>
-			<title>Sky Cinema Select</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/64.ts</link>
+			<title>UK: Sky Movies Family HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/520.ts</link>
 		
 		<item>
-			<title>Sky Cinema Sci-Fi & Horror</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/112.ts</link>
+			<title>UK: Sky Movies Drama HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/521.ts</link>
 		
 		<item>
-			<title>Sky Cinema Premiere</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/111.ts</link>
+			<title>UK: Sky Movies Comedy HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/524.ts</link>
 		
 		<item>
-			<title>Sky Cinema Greats</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/109.ts</link>
+			<title>UK: Sky Movies Crime</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/512.ts</link>
 		
 		<item>
-			<title>Sky Cinema Family</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/65.ts</link>
+			<title>UK: Sky Movies Sci-Fi+</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/515.ts</link>
 		
 		<item>
-			<title>Sky Cinema Drama & Romance</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/107.ts</link>
+			<title>UK: Sky Movies 24</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/523.ts</link>
 		
 		<item>
-			<title>Sky Cinema Crime & Thriller</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/113.ts</link>
+			<title>UK: Sky True Movies 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/472.ts</link>
 		
 		<item>
-			<title>Sky Cinema Comedy</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/108.ts</link>
+			<title>UK: Sky True Movies 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/534.ts</link>
 		
 		<item>
-			<title>Sky Cinema Hits</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/388.ts</link>
+			<title>UK: Sky More 4 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/504.ts</link>
 		
 		<item>
-			<title>Sky Cinema Disney</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/387.ts</link>
+			<title>UK: Sky Film 4 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/505.ts</link>
 		
 		<item>
-			<title>True Movies 1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/483.ts</link>
+			<title>UK: Sky ITV 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/471.ts</link>
 		
 		<item>
-			<title>True Movies 2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/482.ts</link>
+			<title>UK: Sky ITV 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/470.ts</link>
 		
 		<item>
-			<title>Sony Movies</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/481.ts</link>
+			<title>UK: Sky ITV 3</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/469.ts</link>
 		
 		<item>
-			<title>Fox Movies</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/478.ts</link>
+			<title>UK: Sky ITV 4</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/468.ts</link>
 		
 		<item>
-			<title>TG 4</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/252.ts</link>
+			<title>UK: Sky ITV Encore</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/467.ts</link>
 		
 		<item>
-			<title>More 4</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/480.ts</link>
+			<title>UK: Sky Cbs Drama</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/482.ts</link>
 		
 		<item>
-			<title>Dmax</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/479.ts</link>
+			<title>UK: Sky Cbs Action</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/481.ts</link>
 		
 		<item>
-			<title>5 USA</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/250.ts</link>
+			<title>UK: Sky CBS Reality</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/510.ts</link>
 		
 		<item>
-			<title>Sky Atlantic</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/98.ts</link>
+			<title>UK: Sky BBC One HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/488.ts</link>
 		
 		<item>
-			<title>Sky Living</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/184.ts</link>
+			<title>UK: Sky BBC Two HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/487.ts</link>
 		
 		<item>
-			<title>Sky One</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/182.ts</link>
+			<title>UK: Sky BBC Three HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/486.ts</link>
 		
 		<item>
-			<title>Sky Two</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/183.ts</link>
+			<title>UK: Sky BBC Four HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/485.ts</link>
 		
 		<item>
-			<title>Sky Arts 1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/180.ts</link>
+			<title>UK: Sky Comedy Central</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/463.ts</link>
 		
 		<item>
-			<title>RTE One</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/280.ts</link>
+			<title>UK: Sky Comedy Central Ex</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/462.ts</link>
 		
 		<item>
-			<title>RTE Two</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/277.ts</link>
+			<title>UK: Sky Food Network</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/495.ts</link>
 		
 		<item>
-			<title>Film 4</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/181.ts</link>
+			<title>UK: Sky Good Food HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/501.ts</link>
 		
 		<item>
-			<title>Sky News</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/484.ts</link>
+			<title>UK: Sky Bloomberg HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/457.ts</link>
 		
 		<item>
-			<title>Fox News</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/582.ts</link>
+			<title>UK: Sky Boomerang</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/1167.ts</link>
 		
 		<item>
-			<title>Euro News</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/460.ts</link>
+			<title>UK: Sky Nickelodeon</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/503.ts</link>
 		
 		<item>
-			<title>BBC News</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/461.ts</link>
+			<title>UK: Sky NickToons</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/1138.ts</link>
 		
 		<item>
-			<title>CNN News</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/385.ts</link>
+			<title>UK: Sky Cartoon Network</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/522.ts</link>
 		
 		<item>
-			<title>Quest</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/251.ts</link>
+			<title>UK: Sky Disney XD HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/493.ts</link>
 		
 		<item>
-			<title>3E</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/876.ts</link>
+			<title>UK: Sky Disney Junior HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/494.ts</link>
 		
 		<item>
-			<title>E4</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/439.ts</link>
+			<title>UK: Sky Disney Chaneel HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/492.ts</link>
 		
 		<item>
-			<title>Pick Tv UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/446.ts</link>
+			<title>UK: Sky Discovery Science</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/526.ts</link>
 		
 		<item>
-			<title>Food Network UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/63.ts</link>
+			<title>UK: Sky Discovery History</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/491.ts</link>
 		
 		<item>
-			<title>Channel 4</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/185.ts</link>
+			<title>UK: Sky Discovery Turbo</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/465.ts</link>
 		
 		<item>
-			<title>Channel 5</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/186.ts</link>
+			<title>UK: Sky Discovery Shed</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/1139.ts</link>
 		
 		<item>
-			<title>Dave</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/189.ts</link>
+			<title>UK: Sky Discovery</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/464.ts</link>
 		
 		<item>
-			<title>Gold Tv Uk</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/66.ts</link>
+			<title>UK: Sky National Geographic HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/499.ts</link>
 		
 		<item>
-			<title>Comedy Central</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/187.ts</link>
+			<title>UK: Sky Nat Geo Wild HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/498.ts</link>
 		
 		<item>
-			<title>Comedy Central Extra</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/188.ts</link>
+			<title>UK: Sky Animal Planet HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/497.ts</link>
 		
 		<item>
-			<title>Drama</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/204.ts</link>
+			<title>UK: Sky History HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/496.ts</link>
 		
 		<item>
-			<title>Alibi</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/74.ts</link>
+			<title>UK: Sky History 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/452.ts</link>
 		
 		<item>
-			<title>CBS Reality</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/473.ts</link>
+			<title>UK: Sky Ci</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/514.ts</link>
 		
 		<item>
-			<title>CBS Drama</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/472.ts</link>
+			<title>UK: Sky E!</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/1137.ts</link>
 		
 		<item>
-			<title>CBS Action</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/471.ts</link>
+			<title>UK: Sky 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/475.ts</link>
 		
 		<item>
-			<title>Really Uk</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/352.ts</link>
+			<title>UK: Sky 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/507.ts</link>
 		
 		<item>
-			<title>Watch Uk</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/356.ts</link>
+			<title>UK: Sky Atlantic</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/483.ts</link>
 		
 		<item>
-			<title>TLC Uk</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/267.ts</link>
+			<title>UK: Sky VH1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/449.ts</link>
 		
 		<item>
-			<title>BBC 1 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/470.ts</link>
+			<title>UK: Sky E4</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/451.ts</link>
 		
 		<item>
-			<title>BBC 2 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/469.ts</link>
+			<title>UK: Sky Syfy</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/538.ts</link>
 		
 		<item>
-			<title>BBC 3 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/467.ts</link>
+			<title>UK: Sky CNBC</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/466.ts</link>
 		
 		<item>
-			<title>BBC 4 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/466.ts</link>
+			<title>UK: Sky Dave HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/506.ts</link>
 		
 		<item>
-			<title>BBC 1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/101.ts</link>
+			<title>UK: Sky RTE One</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/474.ts</link>
 		
 		<item>
-			<title>BBC 2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/102.ts</link>
+			<title>UK: Sky RTE Two</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/478.ts</link>
 		
 		<item>
-			<title>BBC 3</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/100.ts</link>
+			<title>UK: SKY Fox</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/460.ts</link>
 		
 		<item>
-			<title>BBC 4</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/99.ts</link>
+			<title>UK: Sky Five</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/473.ts</link>
 		
 		<item>
-			<title>ITV 1 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/266.ts</link>
+			<title>UK: Sky Arts 1 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/489.ts</link>
 		
 		<item>
-			<title>ITV 1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/103.ts</link>
+			<title>UK: Sky Alibi</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/509.ts</link>
 		
 		<item>
-			<title>ITV 2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/104.ts</link>
+			<title>UK: Sky Living HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/502.ts</link>
 		
 		<item>
-			<title>ITV 3</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/105.ts</link>
+			<title>UK: Sky BoxNation</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/490.ts</link>
 		
 		<item>
-			<title>ITV 4</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/106.ts</link>
+			<title>UK: Sky Racing</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/458.ts</link>
 		
 		<item>
-			<title>ITV Encore</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/202.ts</link>
+			<title>UK: Sky Gold</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/508.ts</link>
 		
 		<item>
-			<title>ITV Be</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/203.ts</link>
+			<title>UK: Sky 5 USA</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/480.ts</link>
 		
 		<item>
-			<title>MTV UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/123.ts</link>
+			<title>UK: Sky 5 star</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/477.ts</link>
 		
 		<item>
-			<title>MTV Rocks</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/125.ts</link>
+			<title>UK: Sky life Time</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/476.ts</link>
 		
 		<item>
-			<title>MTV Music</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/124.ts</link>
+			<title>UK: Sky E4+1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/525.ts</link>
 		
 		<item>
-			<title>MTV Hits</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/126.ts</link>
+			<title>UK: Sky TCM</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/459.ts</link>
 		
 		<item>
-			<title>MTV Dance</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/128.ts</link>
+			<title>UK: CNN</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/454.ts</link>
 		
 		<item>
-			<title>MTV Classic</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/129.ts</link>
+			<title>UK: Dmax</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/456.ts</link>
 		
 		<item>
-			<title>MTV Base</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/127.ts</link>
+			<title>UK: Sky TLC</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/455.ts</link>
 		
 		<item>
-			<title>Vivo 1 UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/84.ts</link>
+			<title>UK: Sky STV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/448.ts</link>
 		
 		<item>
-			<title>Vivo 2 UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/85.ts</link>
+			<title>UK: Sky MTV Rocks</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/450.ts</link>
 		
 		<item>
-			<title>Vivo 3 UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/86.ts</link>
+			<title>UK: Sky MTV Classic</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/500.ts</link>
 		
 		<item>
-			<title>UK: Movies! Network</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/844.ts</link>
+			<title>UK: Sky MTV Rocks HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/1143.ts</link>
 		
 		<item>
-			<title>UK: Movies 4 Men</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/845.ts</link>
+			<title>UK: Sky MTV Dance HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/1142.ts</link>
 		
 		<item>
-			<title>UK: More Then Movies</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/846.ts</link>			
+			<title>UK: Sky MTV Hits HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/1144.ts</link>
 		
-		
-		<item>
-			<title>NDTV News</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/79.ts</link>
-		
 		<item>
-			<title>India Tv News</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/80.ts</link>
+			<title>UK: Sky MTV Dance</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/1140.ts</link>
 		
 		<item>
-			<title>ABP News</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://5.39.70.216/live/louis/louis/246.ts</link>			
+			<title>UK: Sky MTV Base</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/1141.ts</link>
+			
+			
+			
+			
+			
+			
 			
 			
 		<item>
@@ -790,459 +794,13 @@
 			<link>http://......</link>	
 			
 			
-		<item>
-			<title>UK:Sky-Sports2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://giant-iptv.com:5477/live/8989/8989/7936.ts</link>
-		
-		<item>
-			<title>UK:Sky-Sports3</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://giant-iptv.com:5477/live/8989/8989/7937.ts</link>
-		
-		<item>
-			<title>UK:Sky-Sports4</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://giant-iptv.com:5477/live/8989/8989/7938.ts</link>
-		
-		<item>
-			<title>UK:Sky-Sports5</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://giant-iptv.com:5477/live/8989/8989/7939.ts</link>
-		
-		<item>
-			<title>UK:Sky-Sports-1HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://giant-iptv.com:5477/live/8989/8989/7943.ts</link>
-		
-		<item>
-			<title>UK:Sky-Sports-2HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://giant-iptv.com:5477/live/8989/8989/7944.ts</link>
-		
-		<item>
-			<title>UK:Sky-Sports-3HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://giant-iptv.com:5477/live/8989/8989/7945.ts</link>
-		
-		<item>
-			<title>UK:Sky-Sports-4HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://giant-iptv.com:5477/live/8989/8989/7946.ts</link>
-		
-		<item>
-			<title>UK:Sky-Sports-5HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://giant-iptv.com:5477/live/8989/8989/7947.ts</link>
-		
-		<item>
-			<title>UK:True-Movies</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://giant-iptv.com:5477/live/8989/8989/7967.ts</link>
-		
-		<item>
-			<title>UK:True-Movies2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://giant-iptv.com:5477/live/8989/8989/7968.ts</link>
-		
-		<item>
-			<title>UK:Sport-europe-HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://giant-iptv.com:5477/live/8989/8989/7949.ts</link>
-		
-		<item>
-			<title>UK:Sky-Thriller</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://giant-iptv.com:5477/live/8989/8989/7959.ts</link>
-		
-		<item>
-			<title>UK:Sky-Sports-News</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://giant-iptv.com:5477/live/8989/8989/7941.ts</link>
-		
-		<item>
-			<title>UK:Sky-Sports-F1HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://giant-iptv.com:5477/live/8989/8989/7948.ts</link>
-		
-		<item>
-			<title>UK:Sky-Sports-F1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://giant-iptv.com:5477/live/8989/8989/7940.ts</link>
-		
-		<item>
-			<title>UK:Sky-Select</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://giant-iptv.com:5477/live/8989/8989/7951.ts</link>
-		
-		<item>
-			<title>UK:Sky-Premiere 1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://giant-iptv.com:5477/live/8989/8989/7952.ts</link>
-		
-		<item>
-			<title>UK:Sky-Premiere</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://giant-iptv.com:5477/live/8989/8989/7953.ts</link>
-		
-		<item>
-			<title>UK:Sky-One-HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://giant-iptv.com:5477/live/8989/8989/7962.ts</link>
-		
-		<item>
-			<title>UK:Sky-Monsters</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://giant-iptv.com:5477/live/8989/8989/7954.ts</link>
-		
-		<item>
-			<title>UK:Sky-Greats</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://giant-iptv.com:5477/live/8989/8989/7955.ts</link>
-		
-		<item>
-			<title>UK:Sky-Family</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://giant-iptv.com:5477/live/8989/8989/7956.ts</link>
-		
-		<item>
-			<title>UK:Sky-Drama</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://giant-iptv.com:5477/live/8989/8989/7957.ts</link>
-		
-		<item>
-			<title>UK:Sky-Disney</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://giant-iptv.com:5477/live/8989/8989/7974.ts</link>
-		
-		<item>
-			<title>UK:Sky-Atlantic</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://giant-iptv.com:5477/live/8989/8989/7961.ts</link>
-		
-		<item>
-			<title>UK:Sky-Action</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://giant-iptv.com:5477/live/8989/8989/7958.ts</link>
-		
-		<item>
-			<title>UK:Real-Madrid</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://giant-iptv.com:5477/live/8989/8989/7942.ts</link>
-		
-		<item>
-			<title>UK:Nicktoons</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://giant-iptv.com:5477/live/8989/8989/7970.ts</link>
-		
-		<item>
-			<title>UK:Nickelodeon</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://giant-iptv.com:5477/live/8989/8989/7972.ts</link>
-		
-		<item>
-			<title>UK:National-Geography-Wild</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://giant-iptv.com:5477/live/8989/8989/7978.ts</link>
-		
-		<item>
-			<title>UK:NatGeo-Channel</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://giant-iptv.com:5477/live/8989/8989/7979.ts</link>
-		
-		<item>
-			<title>UK:Investion-Discovery</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://giant-iptv.com:5477/live/8989/8989/7980.ts</link>
-		
-		<item>
-			<title>UK:Disney-XD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://giant-iptv.com:5477/live/8989/8989/7977.ts</link>
-		
-		<item>
-			<title>UK:Disney-Junior 1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://giant-iptv.com:5477/live/8989/8989/7986.ts</link>
-		
-		<item>
-			<title>UK:DISNEY-JUNIOR</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://giant-iptv.com:5477/live/8989/8989/7976.ts</link>
-		
-		<item>
-			<title>UK:Disney-Channel 1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://giant-iptv.com:5477/live/8989/8989/7984.ts</link>
-		
-		<item>
-			<title>UK:Disney-Channel</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://giant-iptv.com:5477/live/8989/8989/7975.ts</link>
-		
-		<item>
-			<title>UK:DiscoveryScience</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://giant-iptv.com:5477/live/8989/8989/7983.ts</link>
-		
-		<item>
-			<title>UK:Discovery-History</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://giant-iptv.com:5477/live/8989/8989/7982.ts</link>
-		
-		<item>
-			<title>UK:Discovery-Channel</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://giant-iptv.com:5477/live/8989/8989/7981.ts</link>
-		
-		<item>
-			<title>UK:Comedy-Central</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://giant-iptv.com:5477/live/8989/8989/7966.ts</link>
-		
-		<item>
-			<title>UK:Cartoon-Network</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://giant-iptv.com:5477/live/8989/8989/7969.ts</link>
-		
-		<item>
-			<title>UK:-Sky-Arts-1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://giant-iptv.com:5477/live/8989/8989/7964.ts</link>			
-
 			
 			
 			
 			
 		<item>
-			<title>"[COLOR red][B]SERVER 3[/B][/COLOR]"</title>
+			<title>"[COLOR red][B]SERVER 4[/B][/COLOR]"</title>
 			<link>http://......</link>				
 	
-		<item>
-			<title>UK: Yesterday</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.re/live/1/1/3745.ts</link>
-		
-		<item>
-			<title>UK: Viva</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.re/live/1/1/3743.ts</link>
-		
-		<item>
-			<title>UK: VH1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.re/live/1/1/3742.ts</link>
-		
-		<item>
-			<title>UK: TLC</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.re/live/1/1/3725.ts</link>
-		
-		<item>
-			<title>UK: STV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.re/live/1/1/3714.ts</link>
-		
-		<item>
-			<title>UK: Sky Sport News</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.re/live/1/1/3711.ts</link>
-		
-		<item>
-			<title>UK: Sky Movies Christmas</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.re/live/1/1/3751.ts</link>
-		
-		<item>
-			<title>UK: Sky Living</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.re/live/1/1/3752.ts</link>
-		
-		<item>
-			<title>UK: Sky Arts 1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.re/live/1/1/3728.ts</link>
-		
-		<item>
-			<title>UK: Setanta Sports 1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.re/live/1/1/3733.ts</link>
-		
-		<item>
-			<title>UK: Press TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.re/live/1/1/3722.ts</link>
-		
-		<item>
-			<title>UK: Nickelodeon</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.re/live/1/1/3736.ts</link>
-		
-		<item>
-			<title>UK: MTV Hits</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.re/live/1/1/3741.ts</link>
-		
-		<item>
-			<title>UK: MTV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.re/live/1/1/3740.ts</link>
-		
-		<item>
-			<title>UK: Love World</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.re/live/1/1/3750.ts</link>
-		
-		<item>
-			<title>UK: ITV Be</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.re/live/1/1/3713.ts</link>
-		
-		<item>
-			<title>UK: Investigation Discovery</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.re/live/1/1/3712.ts</link>
-		
-		<item>
-			<title>UK: Fox News</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.re/live/1/1/3717.ts</link>
-		
-		<item>
-			<title>UK: FOX</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.re/live/1/1/3724.ts</link>
-		
-		<item>
-			<title>UK: Food Network</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.re/live/1/1/3739.ts</link>
-		
-		<item>
-			<title>UK: Film 4</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.re/live/1/1/3727.ts</link>
-		
-		<item>
-			<title>UK: E Entertainment</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.re/live/1/1/3726.ts</link>
-		
-		<item>
-			<title>UK: Discovery Science</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.re/live/1/1/3729.ts</link>
-		
-		<item>
-			<title>UK: Chelsea TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.re/live/1/1/3731.ts</link>
-		
-		<item>
-			<title>UK: Channel Aka</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.re/live/1/1/3749.ts</link>
-		
-		<item>
-			<title>UK: Channel 5</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.re/live/1/1/3721.ts</link>
-		
-		<item>
-			<title>UK: Channel 4</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.re/live/1/1/3720.ts</link>
-		
-		<item>
-			<title>UK: CCTV News</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.re/live/1/1/3723.ts</link>
-		
-		<item>
-			<title>UK: CCTV 9 Documentary</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.re/live/1/1/3730.ts</link>
-		
-		<item>
-			<title>UK: CBC Reality</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.re/live/1/1/3747.ts</link>
-		
-		<item>
-			<title>UK: Cartoon Network</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.re/live/1/1/3737.ts</link>
-		
-		<item>
-			<title>UK: BT Sport Europa</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.re/live/1/1/3734.ts</link>
-		
-		<item>
-			<title>UK: Boomrang</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.re/live/1/1/3738.ts</link>
-		
-		<item>
-			<title>UK: BBC Parliament</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.re/live/1/1/3716.ts</link>
-		
-		<item>
-			<title>UK: BBC News</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.re/live/1/1/3715.ts</link>
-		
-		<item>
-			<title>UK: Baby TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.re/live/1/1/3735.ts</link>
-		
-		<item>
-			<title>UK: Arise News</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.re/live/1/1/3748.ts</link>
-		
-		<item>
-			<title>UK: Alibi</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.re/live/1/1/3746.ts</link>
-		
-		<item>
-			<title>UK: 5 USA</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.re/live/1/1/3719.ts</link>
-		
-		<item>
-			<title>UK: 5 Star</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.re/live/1/1/3718.ts</link>
-		
-		<item>
-			<title>UK: SKY Movies ShowCase</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.re/live/1/1/2829.ts</link>
-		
-		<item>
-			<title>UK: Sky Movies Sci-Fi</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.re/live/1/1/2830.ts</link>
-		
-		<item>
-			<title>Sky Movies Modern Great</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.re/live/1/1/2535.ts</link>
-		
-		<item>
-			<title>UK: Sky Movies Drama</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.re/live/1/1/2833.ts</link>
-		
-		<item>
-			<title>UK: SKY Movies Disney</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.re/live/1/1/2832.ts</link>
-		
-		<item>
-			<title>UK: True Movies 2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.re/live/1/1/2828.ts</link>
-		
-		<item>
-			<title>UK: True Movies 1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.re/live/1/1/2827.ts</link>
-		
-		<item>
-			<title>UK: Sky Movies Action</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.re/live/1/1/2831.ts</link>
-		
-		<item>
-			<title>UK: ESPN</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.re/live/1/1/2782.ts</link>
-		
-		<item>
-			<title>UK: Disney XD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.re/live/1/1/2826.ts</link>
-		
-		<item>
-			<title>UK: Disney Junior</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.re/live/1/1/2834.ts</link>
-		
-		<item>
-			<title>UK: Disney Channel</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.re/live/1/1/2835.ts</link>
-		
-		<item>
-			<title>UK: Animal Planet</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.re/live/1/1/1800.ts</link>
-		
-		<item>
-			<title>UK: ITV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.re/live/1/1/2620.ts</link>
-		
-		<item>
-			<title>UK: ITV 3</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.re/live/1/1/2622.ts</link>
-		
-		<item>
-			<title>UK: ITV 4</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.re/live/1/1/2623.ts</link>
-		
-		<item>
-			<title>CNN UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.re/live/1/1/2605.ts</link>
-		
-		<item>
-			<title>BBC One</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.re/live/1/1/2533.ts</link>
-		
-		<item>
-			<title>BBC Two</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.re/live/1/1/2534.ts</link>
-		
-		<item>
-			<title>I Film English</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.re/live/1/1/2604.ts</link>
-		
-		<item>
-			<title>UK: Sky Movies Crime</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.re/live/1/1/2374.ts</link>
-		
-		<item>
-			<title>UK: Sky Movies Family</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.re/live/1/1/1799.ts</link>
-		
-		<item>
-			<title>UK: Sky Movies Premiere</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.re/live/1/1/1798.ts</link>
-		
-		<item>
-			<title>Sky Action UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.re/live/1/1/2009.ts</link>
-		
-		<item>
-			<title>UK: Discovery</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.re/live/1/1/2376.ts</link>
-		
-		<item>
-			<title>UK: History</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.re/live/1/1/2375.ts</link>
-		
-		<item>
-			<title>UK: National Geographic</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.re/live/1/1/2010.ts</link>
-		
-		<item>
-			<title>UK: National Geographic wild</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.re/live/1/1/2373.ts</link>
+
 
