@@ -11,327 +11,60 @@
 		<item>
 			<title>"[COLOR red][B]SERVER 1[/B][/COLOR]"</title>
 			<link>http://......</link>	
+		<item>
+			<title>(US) TSN 5</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://89.163.148.31:8000/live/asianlad/asianlad/8528.ts</link>
+		
+		<item>
+			<title>(US) TSN 4</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://89.163.148.31:8000/live/asianlad/asianlad/8527.ts</link>
+		
+		<item>
+			<title>(US) TSN 3</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://89.163.148.31:8000/live/asianlad/asianlad/8526.ts</link>
+		
+		<item>
+			<title>(US) TSN 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://89.163.148.31:8000/live/asianlad/asianlad/8525.ts</link>
+		
+		<item>
+			<title>(US) TSN 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://89.163.148.31:8000/live/asianlad/asianlad/8524.ts</link>
+		
+		<item>
+			<title>(US) NBA TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://89.163.148.31:8000/live/asianlad/asianlad/8523.ts</link>
+		
+		<item>
+			<title>(US) Fox Sports 1HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://89.163.148.31:8000/live/asianlad/asianlad/8522.ts</link>
+		
+		<item>
+			<title>(US) FOX Sport 2HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://89.163.148.31:8000/live/asianlad/asianlad/8521.ts</link>
+		
+		<item>
+			<title>(US) ESPN HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://89.163.148.31:8000/live/asianlad/asianlad/8520.ts</link>
+		
+		<item>
+			<title>(US) CNN HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://89.163.148.31:8000/live/asianlad/asianlad/8519.ts</link>
+		
+		<item>
+			<title>(US) ABC NEWS HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://89.163.148.31:8000/live/asianlad/asianlad/8518.ts</link>			
 			
-			
-		<item>
-			<title>US: Famly HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/1161.ts</link>
 		
-		<item>
-			<title>US: Sport ThaiPBS</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/1442.ts</link>
-		
-		<item>
-			<title>US: Sport Network</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/1172.ts</link>
-		
-		<item>
-			<title>US: Sports Versus HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/1431.ts</link>
-		
-		<item>
-			<title>US: World Fashion TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/1432.ts</link>
-		
-		<item>
-			<title>US: Sports NFL Now HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/1434.ts</link>
-		
-		<item>
-			<title>US: Encro Action</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/1433.ts</link>
-		
-		<item>
-			<title>US: Sports MLS Soccer</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/1151.ts</link>
-		
-		<item>
-			<title>US: Sports Tonight</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/1158.ts</link>
-		
-		<item>
-			<title>US: Sports Fight Sports</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/1436.ts</link>
-		
-		<item>
-			<title>US: Sports HI</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/1435.ts</link>
-		
-		<item>
-			<title>US: Sport LTVE HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/1153.ts</link>
-		
-		<item>
-			<title>US: Starz Edge</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/1451.ts</link>
-		
-		<item>
-			<title>US: C-Span 1 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/1148.ts</link>
-		
-		<item>
-			<title>US: C-Span 2 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/1160.ts</link>
-		
-		<item>
-			<title>US: C-Span 3 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/1162.ts</link>
-		
-		<item>
-			<title>US: Sport TSN 1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/1177.ts</link>
-		
-		<item>
-			<title>US: Sport TSN 2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/1438.ts</link>
-		
-		<item>
-			<title>US: Sport TSN 3</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/1169.ts</link>
-		
-		<item>
-			<title>US: Sport TSN 4</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/1175.ts</link>
-		
-		<item>
-			<title>US: Sport TSN 5</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/1176.ts</link>
-		
-		<item>
-			<title>US: Sport Snet 360</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/1441.ts</link>
-		
-		<item>
-			<title>US: NHL Network HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/1429.ts</link>
-		
-		<item>
-			<title>US: Sport Snet Central</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/1430.ts</link>
-		
-		<item>
-			<title>US: Espn Sport</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/1164.ts</link>
-		
-		<item>
-			<title>US: AFN Movies HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/1146.ts</link>
-		
-		<item>
-			<title>US: Thai CH8</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/1168.ts</link>
-		
-		<item>
-			<title>US: AMC</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/1157.ts</link>
-		
-		<item>
-			<title>US: Djing 2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/1447.ts</link>
-		
-		<item>
-			<title>US: Super Channle 3</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/1448.ts</link>
-		
-		<item>
-			<title>US: Amazing Music</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/1446.ts</link>
-		
-		<item>
-			<title>US: TBS Channle</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/1449.ts</link>
-		
-		<item>
-			<title>US: Starz East</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/1450.ts</link>
-		
-		<item>
-			<title>US: Movies Network HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/1178.ts</link>
-		
-		<item>
-			<title>US: ShowTime HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/1439.ts</link>
-		
-		<item>
-			<title>US: A&E Network</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/1173.ts</link>
-		
-		<item>
-			<title>US: HIFI TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/1166.ts</link>
-		
-		<item>
-			<title>US: SYFY HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/1154.ts</link>
-		
-		<item>
-			<title>US: Bravo</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/1165.ts</link>
-		
-		<item>
-			<title>US: Encro Sport</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/1443.ts</link>
-		
-		<item>
-			<title>US: Disccovery HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/1150.ts</link>
-		
-		<item>
-			<title>US: FX HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/1149.ts</link>
-		
-		<item>
-			<title>US: TMN 1 Moves</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/1152.ts</link>
-		
-		<item>
-			<title>US: AMG Entertainment</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/1437.ts</link>
-		
-		<item>
-			<title>US: Daystart</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/1145.ts</link>
-		
-		<item>
-			<title>US: Hallmark HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/1159.ts</link>
-		
-		<item>
-			<title>US: HSN</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/1170.ts</link>
-		
-		<item>
-			<title>US: HSN 2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/1163.ts</link>
-		
-		<item>
-			<title>US: TNT</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/1156.ts</link>
-		
-		<item>
-			<title>US: NBA TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/1174.ts</link>
-		
-		<item>
-			<title>US: ABC NEWS HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/1179.ts</link>
-		
-		<item>
-			<title>US: Poker Central</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/1155.ts</link>
-		
-		<item>
-			<title>US: California TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/1171.ts</link>
-		
-		<item>
-			<title>US: Bloomberg</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/1180.ts</link>
-		
-		<item>
-			<title>US: Amazing Discoveries</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/1181.ts</link>
-		
-		<item>
-			<title>US: BYU</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/unal/unal/1147.ts</link>
-		
-		<item>
-			<title>US: Voice Clips Usa 1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/movie/unal/unal/2034.mp4</link>
-		
-		<item>
-			<title>US: Voice Clips Usa 2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/movie/unal/unal/2035.mp4</link>
-		
-		<item>
-			<title>US: Voice Clips Usa 3</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/movie/unal/unal/2036.mp4</link>
-		
-		<item>
-			<title>US: Voice Clips Usa 4</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/movie/unal/unal/2037.mp4</link>
-		
-		<item>
-			<title>US: Voice Clips Usa 5</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/movie/unal/unal/2038.mp4</link>
-		
-		<item>
-			<title>US: Voice Clips Usa 6</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/movie/unal/unal/2039.mp4</link>
-		
-		<item>
-			<title>US: Voice Clips Usa 7</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/movie/unal/unal/2040.mp4</link>
-		
-		<item>
-			<title>US: Voice Clips Usa 8</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/movie/unal/unal/2041.mp4</link>
-		
-		<item>
-			<title>US: Voice Clips Usa 9</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/movie/unal/unal/2042.mp4</link>
-		
-		<item>
-			<title>US: Voice Clips Usa 10</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/movie/unal/unal/2043.mp4</link>
-		
-		<item>
-			<title>US: Voice Clips Usa 11</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/movie/unal/unal/2044.mp4</link>
-		
-		<item>
-			<title>US: Voice Clips Usa 12</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/movie/unal/unal/2045.mp4</link>
-		
-		<item>
-			<title>US: Voice Clips Usa 13</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/movie/unal/unal/2046.mp4</link>
-		
-		<item>
-			<title>US: Voice Clips Usa 14</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/movie/unal/unal/2047.mp4</link>
-		
-		<item>
-			<title>US: Voice Clips Usa 15</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/movie/unal/unal/2048.mp4</link>
-		
-		<item>
-			<title>US: Voice Clips Usa 16</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/movie/unal/unal/2049.mp4</link>
-		
-		<item>
-			<title>US: Voice Clips Usa 17</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/movie/unal/unal/2050.mp4</link>
-		
-		<item>
-			<title>US: Voice Clips Usa 18</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/movie/unal/unal/2051.mp4</link>
-		
-		<item>
-			<title>US: Voice Clips Usa 19</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/movie/unal/unal/2052.mp4</link>
-		
-		<item>
-			<title>US: Voice Clips Usa 20</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/movie/unal/unal/2053.mp4</link>
-		
-		<item>
-			<title>US: Voice Clips Usa 21</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/movie/unal/unal/2054.mp4</link>
-		
-		<item>
-			<title>US: Voice Clips Usa 22</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/movie/unal/unal/2055.mp4</link>
-		
-		<item>
-			<title>US: Voice Clips Usa 23</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/movie/unal/unal/2056.mp4</link>
-			
 			
 			
 	
+			
+			
+			
+			
+			
+			
 			
 			
 			
@@ -342,169 +75,236 @@
 			<link>http://......</link>				
 			
 		<item>
-			<title>USA: AMC HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://internext.zapto.org:8000/live/anil/anil/1689.ts</link>
+			<title>NBC US</title>
+			<link>http://46.166.162.35:9090/load/b0922f3fa8aa/1.m3u8</link>
 		
 		<item>
-			<title>USA: MLB Network HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://internext.zapto.org:8000/live/anil/anil/1691.ts</link>
+			<title>A&E</title>
+			<link>http://46.166.162.35:9090/load/b0922f3fa8aa/2.m3u8</link>
 		
 		<item>
-			<title>USA: NBC HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://internext.zapto.org:8000/live/anil/anil/1692.ts</link>
+			<title>ABC US</title>
+			<link>http://46.166.162.35:9090/load/b0922f3fa8aa/3.m3u8</link>
 		
 		<item>
-			<title>USA: NBA TV HD ( USA )</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://internext.zapto.org:8000/live/anil/anil/1684.ts</link>
+			<title>AMC US</title>
+			<link>http://46.166.162.35:9090/load/b0922f3fa8aa/4.m3u8</link>
 		
 		<item>
-			<title>USA: Bein Sports US HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://internext.zapto.org:8000/live/anil/anil/1687.ts</link>
+			<title>Bravo US</title>
+			<link>http://46.166.162.35:9090/load/b0922f3fa8aa/5.m3u8</link>
 		
 		<item>
-			<title>USA: A&E HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://internext.zapto.org:8000/live/anil/anil/1688.ts</link>
+			<title>E! US</title>
+			<link>http://46.166.162.35:9090/load/b0922f3fa8aa/6.m3u8</link>
 		
 		<item>
-			<title>USA: Sprout HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://internext.zapto.org:8000/live/anil/anil/1696.ts</link>
+			<title>Fox US</title>
+			<link>http://46.166.162.35:9090/load/b0922f3fa8aa/7.m3u8</link>
 		
 		<item>
-			<title>USA: ESPN 2 HD ( USA )</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://internext.zapto.org:8000/live/anil/anil/1697.ts</link>
+			<title>FX US</title>
+			<link>http://46.166.162.35:9090/load/b0922f3fa8aa/8.m3u8</link>
 		
 		<item>
-			<title>USA: ESPN HD ( USA )</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://internext.zapto.org:8000/live/anil/anil/1699.ts</link>
+			<title>SYFY US</title>
+			<link>http://46.166.162.35:9090/load/b0922f3fa8aa/11.m3u8</link>
 		
 		<item>
-			<title>USA: Network HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://internext.zapto.org:8000/live/anil/anil/1700.ts</link>
+			<title>Spike US</title>
+			<link>http://46.166.162.35:9090/load/b0922f3fa8aa/12.m3u8</link>
 		
 		<item>
-			<title>USA: BTN Sports HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://internext.zapto.org:8000/live/anil/anil/1690.ts</link>
+			<title>TBS US</title>
+			<link>http://46.166.162.35:9090/load/b0922f3fa8aa/13.m3u8</link>
 		
 		<item>
-			<title>USA: Willow Cricket HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://internext.zapto.org:8000/live/anil/anil/1701.ts</link>
+			<title>LMN</title>
+			<link>http://46.166.162.35:9090/load/b0922f3fa8aa/9.m3u8</link>
 		
 		<item>
-			<title>USA: Poker Central HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://internext.zapto.org:8000/live/anil/anil/1703.ts</link>
+			<title>TNT US</title>
+			<link>http://46.166.162.35:9090/load/b0922f3fa8aa/10.m3u8</link>
 		
 		<item>
-			<title>USA: USA Network HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://internext.zapto.org:8000/live/anil/anil/1686.ts</link>
+			<title>Comedy Central US</title>
+			<link>http://46.166.162.35:9090/load/b0922f3fa8aa/14.m3u8</link>
 		
 		<item>
-			<title>USA: Astro Sports</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://internext.zapto.org:8000/live/anil/anil/1704.ts</link>
+			<title>Lifetime US</title>
+			<link>http://46.166.162.35:9090/load/b0922f3fa8aa/15.m3u8</link>
 		
 		<item>
-			<title>USA: DIY Network HD (n)</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://internext.zapto.org:8000/live/anil/anil/1488.ts</link>
+			<title>Hallmark Channel US</title>
+			<link>http://46.166.162.35:9090/load/b0922f3fa8aa/16.m3u8</link>
 		
 		<item>
-			<title>USA: Discovery Science HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://internext.zapto.org:8000/live/anil/anil/1489.ts</link>
+			<title>USA Network</title>
+			<link>http://46.166.162.35:9090/load/b0922f3fa8aa/17.m3u8</link>
 		
 		<item>
-			<title>USA: Tennis Channel HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://internext.zapto.org:8000/live/anil/anil/1491.ts</link>
+			<title>TLC US</title>
+			<link>http://46.166.162.35:9090/load/b0922f3fa8aa/18.m3u8</link>
 		
 		<item>
-			<title>USA: CBS Action</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://internext.zapto.org:8000/live/anil/anil/1270.ts</link>
+			<title>HBO East</title>
+			<link>http://46.166.162.35:9090/load/b0922f3fa8aa/19.m3u8</link>
 		
 		<item>
-			<title>USA: CBS Sports Network HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://internext.zapto.org:8000/live/anil/anil/1268.ts</link>
+			<title>HBO Comedy</title>
+			<link>http://46.166.162.35:9090/load/b0922f3fa8aa/20.m3u8</link>
 		
 		<item>
-			<title>USA: AFN Sports 2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://internext.zapto.org:8000/live/anil/anil/1008.ts</link>
+			<title>HBO Zone</title>
+			<link>http://46.166.162.35:9090/load/b0922f3fa8aa/21.m3u8</link>
 		
 		<item>
-			<title>USA: AFN Sports 1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://internext.zapto.org:8000/live/anil/anil/1007.ts</link>
+			<title>HBO Signature</title>
+			<link>http://46.166.162.35:9090/load/b0922f3fa8aa/22.m3u8</link>
 		
 		<item>
-			<title>USA: WWE Raw Network HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://internext.zapto.org:8000/live/anil/anil/981.ts</link>
+			<title>Cinemax East</title>
+			<link>http://46.166.162.35:9090/load/b0922f3fa8aa/23.m3u8</link>
 		
 		<item>
-			<title>USA: NBA HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://internext.zapto.org:8000/live/anil/anil/992.ts</link>
+			<title>Cinemax 5 StarMax</title>
+			<link>http://46.166.162.35:9090/load/b0922f3fa8aa/24.m3u8</link>
 		
 		<item>
-			<title>USA: TNT HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://internext.zapto.org:8000/live/anil/anil/997.ts</link>
+			<title>Cinemax ActionMax</title>
+			<link>http://46.166.162.35:9090/load/b0922f3fa8aa/25.m3u8</link>
 		
 		<item>
-			<title>USA: Lifetime HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://internext.zapto.org:8000/live/anil/anil/1000.ts</link>
+			<title>Showtime EAST</title>
+			<link>http://46.166.162.35:9090/load/b0922f3fa8aa/26.m3u8</link>
 		
 		<item>
-			<title>USA: Fox Life HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://internext.zapto.org:8000/live/anil/anil/999.ts</link>
+			<title>Showtime 2</title>
+			<link>http://46.166.162.35:9090/load/b0922f3fa8aa/27.m3u8</link>
 		
 		<item>
-			<title>USA: ABC News HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://internext.zapto.org:8000/live/anil/anil/982.ts</link>
+			<title>Showtime Showcase</title>
+			<link>http://46.166.162.35:9090/load/b0922f3fa8aa/28.m3u8</link>
 		
 		<item>
-			<title>USA: TSN2 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://internext.zapto.org:8000/live/anil/anil/968.ts</link>
+			<title>Starz East</title>
+			<link>http://46.166.162.35:9090/load/b0922f3fa8aa/30.m3u8</link>
 		
 		<item>
-			<title>USA: TSN1 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://internext.zapto.org:8000/live/anil/anil/967.ts</link>
+			<title>Starz Edge</title>
+			<link>http://46.166.162.35:9090/load/b0922f3fa8aa/32.m3u8</link>
 		
 		<item>
-			<title>USA: TSN 4 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://internext.zapto.org:8000/live/anil/anil/970.ts</link>
+			<title>Starz Cinema</title>
+			<link>http://46.166.162.35:9090/load/b0922f3fa8aa/33.m3u8</link>
 		
 		<item>
-			<title>USA: TSN 3 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://internext.zapto.org:8000/live/anil/anil/969.ts</link>
+			<title>Starz Encore</title>
+			<link>http://46.166.162.35:9090/load/b0922f3fa8aa/34.m3u8</link>
 		
 		<item>
-			<title>USA: NFL Channel HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://internext.zapto.org:8000/live/anil/anil/960.ts</link>
+			<title>HISTORY US</title>
+			<link>http://46.166.162.35:9090/load/b0922f3fa8aa/35.m3u8</link>
 		
 		<item>
-			<title>USA: NBC Sports 1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://internext.zapto.org:8000/live/anil/anil/959.ts</link>
+			<title>H2 USA</title>
+			<link>http://46.166.162.35:9090/load/b0922f3fa8aa/36.m3u8</link>
 		
 		<item>
-			<title>USA: NFL Network HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://internext.zapto.org:8000/live/anil/anil/957.ts</link>
+			<title>Animal Planet US</title>
+			<link>http://46.166.162.35:9090/load/b0922f3fa8aa/37.m3u8</link>
 		
 		<item>
-			<title>USA: NBC Sport</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://internext.zapto.org:8000/live/anil/anil/956.ts</link>
+			<title>Discovery Channel US</title>
+			<link>http://46.166.162.35:9090/load/b0922f3fa8aa/38.m3u8</link>
 		
 		<item>
-			<title>USA: Fox Sports 2 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://internext.zapto.org:8000/live/anil/anil/955.ts</link>
+			<title>National Geographic US</title>
+			<link>http://46.166.162.35:9090/load/b0922f3fa8aa/39.m3u8</link>
 		
 		<item>
-			<title>USA: Fox Sports 1 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://internext.zapto.org:8000/live/anil/anil/954.ts</link>
+			<title>Nat Geo Wild US</title>
+			<link>http://46.166.162.35:9090/load/b0922f3fa8aa/40.m3u8</link>
 		
 		<item>
-			<title>USA: TSN 5 HD Canada</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://internext.zapto.org:8000/live/anil/anil/951.ts</link>
+			<title>Investigation Discovery  US</title>
+			<link>http://46.166.162.35:9090/load/b0922f3fa8aa/41.m3u8</link>
 		
 		<item>
-			<title>USA: HBO HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://internext.zapto.org:8000/live/anil/anil/950.ts</link>
+			<title>NBC Sports US</title>
+			<link>http://46.166.162.35:9090/load/b0922f3fa8aa/42.m3u8</link>
 		
 		<item>
-			<title>USA: Fox News HD ( USA )</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://internext.zapto.org:8000/live/anil/anil/953.ts</link>
-			
+			<title>ESPN US</title>
+			<link>http://46.166.162.35:9090/load/b0922f3fa8aa/43.m3u8</link>
+		
+		<item>
+			<title>ESPN 2 US</title>
+			<link>http://46.166.162.35:9090/load/b0922f3fa8aa/44.m3u8</link>
+		
+		<item>
+			<title>FOX Sports 1</title>
+			<link>http://46.166.162.35:9090/load/b0922f3fa8aa/45.m3u8</link>
+		
+		<item>
+			<title>FOX Sports 2</title>
+			<link>http://46.166.162.35:9090/load/b0922f3fa8aa/46.m3u8</link>
+		
+		<item>
+			<title>NBA TV</title>
+			<link>http://46.166.162.35:9090/load/b0922f3fa8aa/47.m3u8</link>
+		
+		<item>
+			<title>MLB Network</title>
+			<link>http://46.166.162.35:9090/load/b0922f3fa8aa/48.m3u8</link>
+		
+		<item>
+			<title>NFL Network  Now</title>
+			<link>http://46.166.162.35:9090/load/b0922f3fa8aa/49.m3u8</link>
+		
+		<item>
+			<title>WWE Network</title>
+			<link>http://46.166.162.35:9090/load/b0922f3fa8aa/50.m3u8</link>
+		
+		<item>
+			<title>NHL US</title>
+			<link>http://46.166.162.35:9090/load/b0922f3fa8aa/51.m3u8</link>
+		
+		<item>
+			<title>TSN1</title>
+			<link>http://46.166.162.35:9090/load/b0922f3fa8aa/52.m3u8</link>
+		
+		<item>
+			<title>TSN2</title>
+			<link>http://46.166.162.35:9090/load/b0922f3fa8aa/53.m3u8</link>
+		
+		<item>
+			<title>TSN3</title>
+			<link>http://46.166.162.35:9090/load/b0922f3fa8aa/54.m3u8</link>
+		
+		<item>
+			<title>TSN4</title>
+			<link>http://46.166.162.35:9090/load/b0922f3fa8aa/55.m3u8</link>
+		
+		<item>
+			<title>TSN5</title>
+			<link>http://46.166.162.35:9090/load/b0922f3fa8aa/56.m3u8</link>
+		
+		<item>
+			<title>SPORTSNET ONE</title>
+			<link>http://46.166.162.35:9090/load/b0922f3fa8aa/57.m3u8</link>
+		
+		<item>
+			<title>SPORTSNET 360</title>
+			<link>http://46.166.162.35:9090/load/b0922f3fa8aa/58.m3u8</link>
+		
+		<item>
+			<title>SPORTSNET WORLD</title>
+			<link>http://46.166.162.35:9090/load/b0922f3fa8aa/59.m3u8</link>
+		
+		<item>
+			<title>SPORTSNET ONTARIO</title>
+			<link>http://46.166.162.35:9090/load/b0922f3fa8aa/60.m3u8</link>	
 			
 			
 			
