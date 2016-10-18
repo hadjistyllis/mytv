@@ -322,300 +322,115 @@
 			<title>"[COLOR red][B]SERVER 3[/B][/COLOR]"</title>
 			<link>http://......</link>	
 			
-			
-		
-		<item>
-			<title>US: Astro SuperSport 1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1031.ts</link>
-		
-		<item>
-			<title>US: Astro SuperSport 2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1032.ts</link>
-		
-		<item>
-			<title>US: Astro SuperSport 3</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1033.ts</link>
-		
-		<item>
-			<title>US: Astro SuperSport 4</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1034.ts</link>
-		
-		<item>
-			<title>US: TSN 1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1042.ts</link>
-		
-		<item>
-			<title>US: TSN 2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1043.ts</link>
-		
-		<item>
-			<title>US: TSN 3</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1044.ts</link>
-		
-		<item>
-			<title>US:  TSN 4</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1045.ts</link>
-		
-		<item>
-			<title>US:  TSN 5</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1046.ts</link>
-		
-		<item>
-			<title>US: SportsNet One HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/2065.ts</link>
-		
-		<item>
-			<title>US: SportsNet Ontario</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/2064.ts</link>
-		
-		<item>
-			<title>US: SportsNet World HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/2063.ts</link>
-		
-		<item>
-			<title>US: SportsNet 360</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/2066.ts</link>
-		
-		<item>
-			<title>US: Bein Sports USA HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1066.ts</link>
-		
-		<item>
-			<title>US: FOX Sport 1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1050.ts</link>
-		
-		<item>
-			<title>US: FOX Sport 2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1051.ts</link>
-		
-		<item>
-			<title>US: ESPN</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1053.ts</link>
-		
-		<item>
-			<title>US: ESPN2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1052.ts</link>
-		
-		<item>
-			<title>US: NBA TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1047.ts</link>
-		
-		<item>
-			<title>US: NBC SPORT</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1048.ts</link>
-		
-		<item>
-			<title>US: NBC GOLF</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1049.ts</link>
-		
-		<item>
-			<title>US: NFL Network HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1054.ts</link>
-		
-		<item>
-			<title>US: NHL Network</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1106.ts</link>
-		
-		<item>
-			<title>US: W*E Network HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1099.ts</link>
-		
-		<item>
-			<title>US:  HBO HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1056.ts</link>
-		
-		<item>
-			<title>US: HBO Signature HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1057.ts</link>
-		
-		<item>
-			<title>US:  HBO East HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1058.ts</link>
-		
-		<item>
-			<title>US:  HBO Zone HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1059.ts</link>
-		
-		<item>
-			<title>US: HBO2 EAST</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1094.ts</link>
-		
-		<item>
-			<title>US: Cinemax East</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1068.ts</link>
-		
-		<item>
-			<title>US: Cinemax 5 StarMax</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1067.ts</link>
-		
-		<item>
-			<title>US: Cinemax ActionMax East</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1069.ts</link>
-		
-		<item>
-			<title>US: Cinemax Moremax</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1070.ts</link>
-		
-		<item>
-			<title>US: STARZ CINEMA HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1075.ts</link>
-		
 		<item>
-			<title>US: Starz Comedy</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1072.ts</link>
+			<title>USA-WWE</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://149.202.69.8:8000/live/alimi/alimi/3531.ts</link>
 		
 		<item>
-			<title>US: STARZ EDGE HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1073.ts</link>
+			<title>USA-VIP-Sport1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://149.202.69.8:8000/live/alimi/alimi/3571.ts</link>
 		
 		<item>
-			<title>US: ShowTime</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1063.ts</link>
+			<title>USA-VIP-NFLNow</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://149.202.69.8:8000/live/alimi/alimi/3570.ts</link>
 		
 		<item>
-			<title>US: Showtime Extreme</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1074.ts</link>
+			<title>USA-VIP-DestinationAmerica</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://149.202.69.8:8000/live/alimi/alimi/3572.ts</link>
 		
 		<item>
-			<title>US: Showtime Showcase</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1087.ts</link>
+			<title>USA-VIP-Cinemax</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://149.202.69.8:8000/live/alimi/alimi/3573.ts</link>
 		
 		<item>
-			<title>US: Showtime Next</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1060.ts</link>
+			<title>USA-VIP-BYUSportsTV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://149.202.69.8:8000/live/alimi/alimi/3574.ts</link>
 		
 		<item>
-			<title>US: Hallmark Channel HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1088.ts</link>
+			<title>USA-TSN1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://149.202.69.8:8000/live/alimi/alimi/3526.ts</link>
 		
 		<item>
-			<title>US: FX</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1061.ts</link>
+			<title>USA-TSN2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://149.202.69.8:8000/live/alimi/alimi/3527.ts</link>
 		
 		<item>
-			<title>US: Spike</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1062.ts</link>
+			<title>USA-TSN3</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://149.202.69.8:8000/live/alimi/alimi/3528.ts</link>
 		
 		<item>
-			<title>US: TNT</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1096.ts</link>
+			<title>USA-TSN4</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://149.202.69.8:8000/live/alimi/alimi/3529.ts</link>
 		
 		<item>
-			<title>US: AMC</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1097.ts</link>
+			<title>USA-TSN5</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://149.202.69.8:8000/live/alimi/alimi/3530.ts</link>
 		
 		<item>
-			<title>US: TBS</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1098.ts</link>
+			<title>USA-Sport1US</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://149.202.69.8:8000/live/alimi/alimi/3535.ts</link>
 		
 		<item>
-			<title>US: SYFY</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1095.ts</link>
+			<title>USA-PokerCentral</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://149.202.69.8:8000/live/alimi/alimi/3537.ts</link>
 		
 		<item>
-			<title>US: Bravo HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1055.ts</link>
+			<title>USA-PAG</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://149.202.69.8:8000/live/alimi/alimi/3534.ts</link>
 		
 		<item>
-			<title>US: KTLA /CW</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1089.ts</link>
+			<title>USA-NFL</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://149.202.69.8:8000/live/alimi/alimi/3533.ts</link>
 		
 		<item>
-			<title>US: BYU TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1085.ts</link>
+			<title>USA-NDTV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://149.202.69.8:8000/live/alimi/alimi/3532.ts</link>
 		
 		<item>
-			<title>US: FOX</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1101.ts</link>
+			<title>USA-NBCSN</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://149.202.69.8:8000/live/alimi/alimi/3525.ts</link>
 		
 		<item>
-			<title>US: CW</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1071.ts</link>
+			<title>USA-NBATV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://149.202.69.8:8000/live/alimi/alimi/3524.ts</link>
 		
 		<item>
-			<title>US: E!</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1102.ts</link>
+			<title>USA-H2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://149.202.69.8:8000/live/alimi/alimi/3538.ts</link>
 		
 		<item>
-			<title>US: Fox HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1093.ts</link>
+			<title>USA-Golf</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://149.202.69.8:8000/live/alimi/alimi/3539.ts</link>
 		
 		<item>
-			<title>US: Cartoon Network</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1103.ts</link>
+			<title>USA-FoxSports1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://149.202.69.8:8000/live/alimi/alimi/3523.ts</link>
 		
 		<item>
-			<title>US: Toonami Aftermath</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1105.ts</link>
+			<title>USA-ESPNUSA</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://149.202.69.8:8000/live/alimi/alimi/3522.ts</link>
 		
 		<item>
-			<title>US: Nick</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1064.ts</link>
+			<title>USA-CNBC</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://149.202.69.8:8000/live/alimi/alimi/3521.ts</link>
 		
 		<item>
-			<title>US: FreeRom HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1065.ts</link>
+			<title>USA-CBSN</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://149.202.69.8:8000/live/alimi/alimi/3536.ts</link>
 		
 		<item>
-			<title>US: Food Network HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1084.ts</link>
+			<title>USA-Bloomberg</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://149.202.69.8:8000/live/alimi/alimi/3520.ts</link>
 		
 		<item>
-			<title>US: Travel Channel</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1100.ts</link>
+			<title>USA-BeinUSA</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://149.202.69.8:8000/live/alimi/alimi/3519.ts</link>
 		
 		<item>
-			<title>US: National Geographic</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1076.ts</link>
+			<title>USA-AMC</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://149.202.69.8:8000/live/alimi/alimi/3518.ts</link>
 		
 		<item>
-			<title>US: Discovery Channel HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1080.ts</link>
+			<title>USA-ABNNews</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://149.202.69.8:8000/live/alimi/alimi/3517.ts</link>			
 		
-		<item>
-			<title>US: Discovery Science HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1081.ts</link>
-		
-		<item>
-			<title>US: Investigation Discovery</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1082.ts</link>
-		
-		<item>
-			<title>US: Animal Planet HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1078.ts</link>
-		
-		<item>
-			<title>US: HISTORY</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1077.ts</link>
-		
-		<item>
-			<title>US: DIY Network</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1079.ts</link>
-		
-		<item>
-			<title>US: A&E</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1083.ts</link>
-		
-		<item>
-			<title>US: CNN</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1107.ts</link>
-		
-		<item>
-			<title>US: CNBC</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1090.ts</link>
-		
-		<item>
-			<title>US: ABC</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1092.ts</link>
-		
-		<item>
-			<title>US: ABC News</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1091.ts</link>
-		
-		<item>
-			<title>US:  Bloomberg</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1108.ts</link>
-		
-		<item>
-			<title>US: WGN</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1104.ts</link>
