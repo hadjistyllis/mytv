@@ -472,319 +472,343 @@
 			<link>http://......</link>
 			
 		<item>
-			<title>UK: Sky One HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/2115.ts</link>
+			<title>UK_MOTORS_TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/1711.ts</link>
 		
 		<item>
-			<title>UK: SKY TWO HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/2116.ts</link>
+			<title>UK_EUROSPORT_1_HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/1050.ts</link>
 		
 		<item>
-			<title>UK: BT Sports 1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/2113.ts</link>
+			<title>UK_EUROSPORT_2_HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/1113.ts</link>
 		
 		<item>
-			<title>UK: BT Sports 2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/2114.ts</link>
+			<title>UK_SKY_SPORT_F1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/1039.ts</link>
 		
 		<item>
-			<title>UK: TLC</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1600.ts</link>
+			<title>UK_SKY_SPORTS_NEWS_HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/1112.ts</link>
 		
 		<item>
-			<title>UK: Sky Drama</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1607.ts</link>
+			<title>UK_SKY_SPORT_1_HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/1104.ts</link>
 		
 		<item>
-			<title>UK: Setanta Ireland</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1605.ts</link>
+			<title>UK_SKY_SPORTS_1_HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/1044.ts</link>
 		
 		<item>
-			<title>UK: More 4</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1598.ts</link>
+			<title>UK_SKY_SPORTS_2_HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/1043.ts</link>
 		
 		<item>
-			<title>UK: Discovery Turbo</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1465.ts</link>
+			<title>UK_SKY_SPORTS_3_HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/1042.ts</link>
 		
+		<item>
+			<title>UK_SKY_SPORTS_4_HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/1041.ts</link>
+		
+		<item>
+			<title>UK_SKY_SPORTS_5_HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/1040.ts</link>
+		
+		<item>
+			<title>UK_SKY_SPORT_2_HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/1097.ts</link>
 		
 		<item>
-			<title>UK: Racing</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1369.ts</link>
+			<title>UK_SKY_SPORT_3_HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/1096.ts</link>
 		
 		<item>
-			<title>UK: SHOWCASE</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1307.ts</link>
+			<title>UK_SKY_SPORT_4_HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/1094.ts</link>
 		
 		<item>
-			<title>UK: ITVBE</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1308.ts</link>
+			<title>UK_SKY_SPORT_5_HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/1093.ts</link>
 		
 		<item>
-			<title>UK: ITV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1309.ts</link>
+			<title>UK_SPORT_TIME_1_HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/3944.ts</link>
 		
 		<item>
-			<title>UK: HISTORY 2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1310.ts</link>
+			<title>UK_SPORT_TIME_3_HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/3945.ts</link>
 		
 		<item>
-			<title>UK: FILM 4</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1312.ts</link>
+			<title>UK_SPORT_KLUB_1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/3946.ts</link>
 		
 		<item>
-			<title>UK: E!</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1313.ts</link>
+			<title>UK_SPORT_KLUB_3</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/3947.ts</link>
 		
 		<item>
-			<title>UK: DAVE</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1314.ts</link>
+			<title>UK_BT_SPORT_1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/1118.ts</link>
 		
 		<item>
-			<title>UK: CRIME & THRILLER</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1315.ts</link>
+			<title>UK_BT_SPORT_2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/1117.ts</link>
 		
 		<item>
-			<title>UK: CBS Action</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1318.ts</link>
+			<title>UK_SKY_ONE</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/1095.ts</link>
 		
 		<item>
-			<title>UK: 5 Usa</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1320.ts</link>
+			<title>UK_SKY_DRAMA_HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/1055.ts</link>
 		
 		<item>
-			<title>Uk:Discovery Science HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1252.ts</link>
+			<title>UK_SKY_ART_1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/1075.ts</link>
 		
 		<item>
-			<title>UK: SKY MOVIE FAMILY</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1250.ts</link>
+			<title>UK_SKY_MOVIES_DISNEY</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/1056.ts</link>
 		
 		<item>
-			<title>UK: Premier Sport</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1251.ts</link>
+			<title>UK_SKY_MOVIES_SELECT_HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/1114.ts</link>
 		
 		<item>
-			<title>UK: EUROSPORT 2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1254.ts</link>
+			<title>UK_SKY_MOVIES_PREMIERE_HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/1054.ts</link>
 		
 		<item>
-			<title>UK: Sky Chelsea TV HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1220.ts</link>
+			<title>UK_SKY_MOVIES_MODEM_GREATS</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/1045.ts</link>
 		
 		<item>
-			<title>UK: Sky Cartoon Network</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1221.ts</link>
+			<title>UK_SKY_MOVIES_COMEDY_HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/1038.ts</link>
 		
 		<item>
-			<title>UK: RTE1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1224.ts</link>
+			<title>UK_SKY_MOVIES_ACTION_HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/1035.ts</link>
 		
 		<item>
-			<title>UK: RTE2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1223.ts</link>
+			<title>UK_SKY_MOVIES_ATLANTIC_HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/1115.ts</link>
 		
 		<item>
-			<title>UK: Sky Animal Planet</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1222.ts</link>
+			<title>UK_SKY_MOVIES_SHOWCASE</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/1062.ts</link>
 		
 		<item>
-			<title>UK: MTV HITS</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1225.ts</link>
-
+			<title>UK_SKY_MOVIES_THRILLER</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/1061.ts</link>
+		
 		<item>
-			<title>UK: MTV Rocks</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1088.ts</link>
+			<title>UK_SKY_MOVIES_SCI_FI</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/1105.ts</link>
 		
 		<item>
-			<title>UK: MTV Base</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1089.ts</link>
-				
+			<title>UK_MOVIES_FAMILY</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/1064.ts</link>
+		
 		<item>
-			<title>UK: VH1 Classic</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1368.ts</link>
-			
+			<title>UK_MOVIES_4_MEN</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/1107.ts</link>
+		
 		<item>
-			<title>UK: DISNEY XD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1227.ts</link>
+			<title>UK_FILM_4</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/1714.ts</link>
 		
 		<item>
-			<title>UK: SKY MOVIES THRILLER</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1177.ts</link>
+			<title>UK_MTV_BASE</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/1087.ts</link>
 		
 		<item>
-			<title>UK: SKY MOVIES MODERN GREATS</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1178.ts</link>
+			<title>UK_FOX_SPORT</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/1086.ts</link>
 		
 		<item>
-			<title>UK: SKY MOVIES ACTION HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1176.ts</link>
+			<title>UK_FOOD_HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/1069.ts</link>
 		
 		<item>
-			<title>UK: Sky Movies Premiere</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1140.ts</link>
+			<title>UK_BABY_TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/1070.ts</link>
 		
 		<item>
-			<title>UK: Sky Movies Family</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1141.ts</link>
+			<title>UK_MTV_CLASSIC</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/1085.ts</link>
 		
 		<item>
-			<title>UK: True Movies 1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1103.ts</link>
+			<title>UK_DEVA</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/1100.ts</link>
 		
 		<item>
-			<title>UK: True Movies 2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1091.ts</link>
+			<title>UK_BBC_1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/1081.ts</link>
 		
 		<item>
-			<title>UK: TCM</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1100.ts</link>
+			<title>UK_BBC_2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/1080.ts</link>
 		
 		<item>
-			<title>UK: SKY MOVIE PREMIERE</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1105.ts</link>
+			<title>UK_BBC_3</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/1079.ts</link>
 		
 		<item>
-			<title>UK: Nick Jr</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1098.ts</link>
+			<title>UK_BBC_4</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/1078.ts</link>
 		
 		<item>
-			<title>UK: Sky Atlantic</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1093.ts</link>
+			<title>UK_RTE_1_HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/1710.ts</link>
 		
 		<item>
-			<title>UK: Sky Arts 1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1087.ts</link>
+			<title>UK_RTE_2_HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/1709.ts</link>
 		
 		<item>
-			<title>UK: PICK TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1094.ts</link>
-			
+			<title>UK_ITV_1_HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/1099.ts</link>
+		
 		<item>
-			<title>UK: ITV 2 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1080.ts</link>
+			<title>UK_ITV_2_HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/1098.ts</link>
 		
 		<item>
-			<title>UK: ITV 3 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1081.ts</link>
+			<title>UK_ITV_3</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/1719.ts</link>
 		
 		<item>
-			<title>UK: ITV 4 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1082.ts</link>
+			<title>UK_ITV_4</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/1718.ts</link>
 		
 		<item>
-			<title>UK: Eden +1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1095.ts</link>
+			<title>UK_GOLD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/1712.ts</link>
 		
 		<item>
-			<title>UK: E4</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1097.ts</link>
+			<title>UK_GOOD_FOOD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/1713.ts</link>
 		
 		<item>
-			<title>UK: Discovery Shed</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1096.ts</link>
+			<title>UK_CBS_DRAMA</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/1108.ts</link>
 		
 		<item>
-			<title>UK: Sky Setanta Sports 1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1035.ts</link>
+			<title>UK_CBS_REALITY</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/1715.ts</link>
 		
 		<item>
-			<title>UK: Sky MUTV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1038.ts</link>
+			<title>UK_CBS_ACTION</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/1716.ts</link>
 		
 		<item>
-			<title>UK: Sky BT Sport 1 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1036.ts</link>
+			<title>UK_MTV_HITS</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/1083.ts</link>
 		
 		<item>
-			<title>UK: Sky BT Sport 2 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1037.ts</link>
+			<title>UK_MTV_MUSIC</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/1084.ts</link>
 		
 		<item>
-			<title>UK: Sky Sport F1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1011.ts</link>
+			<title>UK_MTV_ROCKS</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/1077.ts</link>
 		
 		<item>
-			<title>UK: Sky Sports F1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1603.ts</link>
+			<title>UK_NICK_JUNIOR</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/1101.ts</link>
 		
 		<item>
-			<title>UK: Sky Movies Select</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1015.ts</link>
+			<title>UK_DISNEY_XD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/1090.ts</link>
 		
 		<item>
-			<title>UK: Quest</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1018.ts</link>
+			<title>UK_DISNEY_JUNIOR</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/1088.ts</link>
 		
 		<item>
-			<title>UK: ITV 1 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1014.ts</link>
+			<title>UK_DISNEY_CHANNEL</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/1111.ts</link>
 		
 		<item>
-			<title>UK: Sky Sports News</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1604.ts</link>
+			<title>UK_DISCOVERY_ID</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/1089.ts</link>
 		
 		<item>
-			<title>UK: Discovery History</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1019.ts</link>
+			<title>UK_DISCOVERY</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/1046.ts</link>
 		
 		<item>
-			<title>UK: Comedy Central</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1020.ts</link>
+			<title>UK_DISCOVERY_SCIENCE</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/1103.ts</link>
 		
 		<item>
-			<title>UK: Sky Sport 1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1017.ts</link>
+			<title>UK_DISCOVERY_TURBO</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/1058.ts</link>
 		
 		<item>
-			<title>UK: Sky Sports 1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1008.ts</link>
+			<title>UK_DISCOVERY_INVESTIGATION</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/1037.ts</link>
 		
 		<item>
-			<title>UK: Sky sports 2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1009.ts</link>
+			<title>UK_DISCOVERY_HOME_HEALTH</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/1063.ts</link>
 		
 		<item>
-			<title>UK: Sky Sports 3</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1010.ts</link>
+			<title>UK_DISCOVERY_HISTORY</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/1076.ts</link>
 		
 		<item>
-			<title>UK: SKY SPORT 4</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1033.ts</link>
+			<title>UK_HISTORY</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/1071.ts</link>
 		
 		<item>
-			<title>UK: Sky Sports 4</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1601.ts</link>
+			<title>UK_ANIMAL_PLANET</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/1082.ts</link>
 		
 		<item>
-			<title>UK: SKY SPORT 5</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1034.ts</link>
+			<title>UK_NATIONAL_GEOGRAPHY_WILD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/1102.ts</link>
 		
 		<item>
-			<title>UK: Sky Sports 5</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1602.ts</link>
+			<title>UK_COMEDY_CENTRAL</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/1065.ts</link>
 		
 		<item>
-			<title>UK: NAT GEO WILD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/872.ts</link>
+			<title>UK_CARTOON_NETWORK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/1092.ts</link>
 		
 		<item>
-			<title>UK: CBS REALITY</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/871.ts</link>
+			<title>UK_COLORS</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/1091.ts</link>
 		
 		<item>
-			<title>UK: CBS DRAMA</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/870.ts</link>
+			<title>UK_FIVE</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/1106.ts</link>
 		
 		<item>
-			<title>UK: BBC 1 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/333.ts</link>
+			<title>UK_CHELSEA_TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/1074.ts</link>
 		
 		<item>
-			<title>UK: BBC 2 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/334.ts</link>
+			<title>UK_BOXNATION_HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/1717.ts</link>
 		
+		<item>
+			<title>UK_ESPN_HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/1059.ts</link>
 	
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
 			
 			
 			
@@ -799,169 +823,7 @@
 			<title>"[COLOR red][B]SERVER 3[/B][/COLOR]"</title>
 			<link>http://......</link>	
 			
-<item>
-			<title>SkyUKSport1HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://firstiptv.ddns.net:7500/live/basit/basit/859.ts</link>
-		
-		<item>
-			<title>SkyUKSport2HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://firstiptv.ddns.net:7500/live/basit/basit/858.ts</link>
-		
-		<item>
-			<title>SkyUKSport3HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://firstiptv.ddns.net:7500/live/basit/basit/857.ts</link>
-		
-		<item>
-			<title>SkyUKSport4HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://firstiptv.ddns.net:7500/live/basit/basit/856.ts</link>
-		
-		<item>
-			<title>SkyUKSport5HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://firstiptv.ddns.net:7500/live/basit/basit/855.ts</link>
-		
-		<item>
-			<title>SkyThrillerUK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://firstiptv.ddns.net:7500/live/basit/basit/867.ts</link>
-		
-		<item>
-			<title>SkyShowCaseUK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://firstiptv.ddns.net:7500/live/basit/basit/868.ts</link>
-		
-		<item>
-			<title>SkySelectUK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://firstiptv.ddns.net:7500/live/basit/basit/869.ts</link>
-		
-		<item>
-			<title>SkySci-FihorrorUK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://firstiptv.ddns.net:7500/live/basit/basit/875.ts</link>
-		
-		<item>
-			<title>SkyITMaxhd</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://firstiptv.ddns.net:7500/live/basit/basit/854.ts</link>
-		
-		<item>
-			<title>SkyGreatsUK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://firstiptv.ddns.net:7500/live/basit/basit/871.ts</link>
-		
-		<item>
-			<title>SkyFamilyUK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://firstiptv.ddns.net:7500/live/basit/basit/872.ts</link>
-		
-		<item>
-			<title>SkyDramaRomanceUK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://firstiptv.ddns.net:7500/live/basit/basit/873.ts</link>
-		
-		<item>
-			<title>SkyDisneyUK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://firstiptv.ddns.net:7500/live/basit/basit/874.ts</link>
-		
-		<item>
-			<title>SkyActionUK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://firstiptv.ddns.net:7500/live/basit/basit/866.ts</link>
-		
-		<item>
-			<title>NICKELODEON</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://firstiptv.ddns.net:7500/live/basit/basit/1242.ts</link>
-		
-		<item>
-			<title>DISNEYXD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://firstiptv.ddns.net:7500/live/basit/basit/1239.ts</link>
-		
-		<item>
-			<title>BT-SPORTS2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://firstiptv.ddns.net:7500/live/basit/basit/1241.ts</link>
-		
-		<item>
-			<title>BT-SPORTS1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://firstiptv.ddns.net:7500/live/basit/basit/1240.ts</link>
-		
-		<item>
-			<title>SkyPremiereUK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://firstiptv.ddns.net:7500/live/basit/basit/870.ts</link>
-		
-		<item>
-			<title>SkyComedyUk</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://firstiptv.ddns.net:7500/live/basit/basit/865.ts</link>
-		
-		<item>
-			<title>CBS-RealityUK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://firstiptv.ddns.net:7500/live/basit/basit/1066.ts</link>
-		
-		<item>
-			<title>UK-Syfy</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://firstiptv.ddns.net:7500/live/basit/basit/1069.ts</link>
-		
-		<item>
-			<title>UK-SKYArt1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://firstiptv.ddns.net:7500/live/basit/basit/1070.ts</link>
-		
-		<item>
-			<title>UK-Sky-Two</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://firstiptv.ddns.net:7500/live/basit/basit/1071.ts</link>
-		
-		<item>
-			<title>UK Sky-F1UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://firstiptv.ddns.net:7500/live/basit/basit/1072.ts</link>
-		
-		<item>
-			<title>TrueMovies2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://firstiptv.ddns.net:7500/live/basit/basit/864.ts</link>
-		
-		<item>
-			<title>TrueMovies1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://firstiptv.ddns.net:7500/live/basit/basit/863.ts</link>
-		
-		<item>
-			<title>True-Movies1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://firstiptv.ddns.net:7500/live/basit/basit/1067.ts</link>
-		
-		<item>
-			<title>True-Movies 2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://firstiptv.ddns.net:7500/live/basit/basit/1068.ts</link>
-		
-		<item>
-			<title>Sky-Sp-News</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://firstiptv.ddns.net:7500/live/basit/basit/1073.ts</link>
-		
-		<item>
-			<title>Sky-One</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://firstiptv.ddns.net:7500/live/basit/basit/1074.ts</link>
-		
-		<item>
-			<title>Sky-News</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://firstiptv.ddns.net:7500/live/basit/basit/399.ts</link>
-		
-		<item>
-			<title>National-GeoUK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://firstiptv.ddns.net:7500/live/basit/basit/1076.ts</link>
-		
-		<item>
-			<title>NatGeoWildUK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://firstiptv.ddns.net:7500/live/basit/basit/862.ts</link>
-		
-		<item>
-			<title>NATGEO-WILD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://firstiptv.ddns.net:7500/live/basit/basit/599.ts</link>
-		
-		<item>
-			<title>Movies-4men</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://firstiptv.ddns.net:7500/live/basit/basit/1077.ts</link>
-		
-		<item>
-			<title>ITV1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://firstiptv.ddns.net:7500/live/basit/basit/1081.ts</link>
-		
-		<item>
-			<title>ITV2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://firstiptv.ddns.net:7500/live/basit/basit/1080.ts</link>
-		
-		<item>
-			<title>ITV3</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://firstiptv.ddns.net:7500/live/basit/basit/1079.ts</link>
-		
-		<item>
-			<title>ITV4</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://firstiptv.ddns.net:7500/live/basit/basit/1078.ts</link>
+
 		
 			
 			
