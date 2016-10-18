@@ -144,9 +144,118 @@
 			<title>"[COLOR red][B]SERVER 2[/B][/COLOR]"</title>
 			<link>http://......</link>
 			
-			<item>
-		<title>Hustler TV</title>
-		<link>http://185.9.0.229:4022/udp/239.209.0.29:3301</link>			
+		<item>
+			<title>ADULTRI_1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/811.ts</link>
+		
+		<item>
+			<title>ADULTRI_2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/812.ts</link>
+		
+		<item>
+			<title>ADULTRI_3</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/813.ts</link>
+		
+		<item>
+			<title>ADULTRI_4</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/814.ts</link>
+		
+		<item>
+			<title>ADULTRI_5</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/783.ts</link>
+		
+		<item>
+			<title>ADULTRI_6</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/782.ts</link>
+		
+		<item>
+			<title>ADULTRI_8</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/773.ts</link>
+		
+		<item>
+			<title>ADULTRI_9</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/772.ts</link>
+		
+		<item>
+			<title>ADULTRI_10</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/771.ts</link>
+		
+		<item>
+			<title>ADULTRI_11</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/770.ts</link>
+		
+		<item>
+			<title>ADULTRI_12</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/906.ts</link>
+		
+		<item>
+			<title>ADULTRI_13</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/907.ts</link>
+		
+		<item>
+			<title>ADULTRI_14</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/908.ts</link>
+		
+		<item>
+			<title>ADULTRI_15</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/1197.ts</link>
+		
+		<item>
+			<title>ADULTRI_16</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/1198.ts</link>
+		
+		<item>
+			<title>ADULTRI_17</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/1199.ts</link>
+		
+		<item>
+			<title>ADULTRI_18</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/1200.ts</link>
+		
+		<item>
+			<title>ADULTRI_19</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/1201.ts</link>
+		
+		<item>
+			<title>ADULTRI_20</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/1202.ts</link>
+		
+		<item>
+			<title>ADULTRI_21</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/1203.ts</link>
+		
+		<item>
+			<title>ADULTRI_22</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/1204.ts</link>
+		
+		<item>
+			<title>ADULTRI_23</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/1205.ts</link>
+		
+		<item>
+			<title>ADULTRI_24</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/1206.ts</link>
+		
+		<item>
+			<title>ADULTRI_25</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/1345.ts</link>
+		
+		<item>
+			<title>ADULTRI_26</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/1346.ts</link>
+		
+		<item>
+			<title>ADULTRI_27</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/1347.ts</link>
+		
+		<item>
+			<title>ADULTRI_28</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://www.t12v.com:8000/live/3030/3030/1271.ts</link>
+		
+			
+			
+			
+			
 
 			
 				
