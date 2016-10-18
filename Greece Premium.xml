@@ -11,255 +11,188 @@
 			<title>"[COLOR red][B]SERVER 1[/B][/COLOR]"</title>
 			<link>http://......</link>	
 			
-		<item>
-			<title>GR: Eurosport 1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1471.ts</link>
+
 		
 		<item>
-			<title>GR: Eurosport 2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1472.ts</link>
-		
-		<item>
-			<title>GR: Otesport 1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1975.ts</link>
-		
-		<item>
-			<title>GR: Otesport 2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1974.ts</link>
-		
-		<item>
-			<title>GR: Otesport 3</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1973.ts</link>
-		
-		<item>
-			<title>GR: Otesport 4</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1972.ts</link>
-		
-		<item>
-			<title>GR: Otesport 5</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1971.ts</link>
-		
-		<item>
-			<title>GR: Otesport 6</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1970.ts</link>
-		
-		<item>
-			<title>GR: Ote Sport 7 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1976.ts</link>
-		
-		<item>
-			<title>GR: Ote Cinema 1 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1980.ts</link>
-		
-		<item>
-			<title>GR: Ote Cinema 2 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1979.ts</link>
-		
-		<item>
-			<title>GR: Ote Cinema 3 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1978.ts</link>
-		
-		<item>
-			<title>GR: Ote Cinema 4 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1977.ts</link>
-		
-		<item>
-			<title>GR: Fox</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1982.ts</link>
-		
-		<item>
-			<title>GR: E!</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1983.ts</link>
-		
-		<item>
-			<title>GR: DISNEY XD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1984.ts</link>
-		
-		<item>
-			<title>GR: Nickelodeon</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1986.ts</link>
-		
-		<item>
-			<title>GR: Discovery</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1985.ts</link>
-		
-		<item>
-			<title>GR: Nat Geo</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1981.ts</link>
-		
-		<item>
-			<title>GR: TLC</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1969.ts</link>
-		
-		<item>
-			<title>GR: Travel</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1968.ts</link>
+			<title>CY: Rik Sat</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/839.ts</link>
 		
 		<item>
 			<title>GR: 4E</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1513.ts</link>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/841.ts</link>
 		
 		<item>
-			<title>GR: AB Channel</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1512.ts</link>
-		
-		<item>
-			<title>GR: APT</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1511.ts</link>
-		
-		<item>
-			<title>GR: ASTRA</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1510.ts</link>
-		
-		<item>
-			<title>GR: Blue Sky</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1509.ts</link>
-		
-		<item>
-			<title>GR: MESSINIA TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1508.ts</link>
-		
-		<item>
-			<title>GR: Euronews</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1507.ts</link>
-		
-		<item>
-			<title>GR: EXTRA</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1506.ts</link>
-		
-		<item>
-			<title>GR: Krhth TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1505.ts</link>
-		
-		<item>
-			<title>GR: Lyxnoc</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1504.ts</link>
-		
-		<item>
-			<title>GR: TV100</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1503.ts</link>
-		
-		<item>
-			<title>GR: NEA</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1502.ts</link>
-		
-		<item>
-			<title>GR: Rise</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1501.ts</link>
-		
-		<item>
-			<title>GR: Smile</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1500.ts</link>
+			<title>GR: Zougla</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/840.ts</link>
 		
 		<item>
 			<title>GR: SBC</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1499.ts</link>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/870.ts</link>
 		
 		<item>
-			<title>GR: Sunny Channel</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1498.ts</link>
+			<title>GR: Tv1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/868.ts</link>
 		
 		<item>
-			<title>GR: Epirus Tv1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1497.ts</link>
+			<title>GR: Creta tv</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/869.ts</link>
 		
 		<item>
-			<title>GR: TILESPORT</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1496.ts</link>
+			<title>CY: Sigma Tv</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/867.ts</link>
 		
 		<item>
-			<title>GR: VOULI</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1495.ts</link>
+			<title>GR: Tilesport</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/1423.ts</link>
 		
 		<item>
-			<title>GR: ZOUGL@</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1494.ts</link>
+			<title>GR: National Geo HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/1422.ts</link>
 		
 		<item>
-			<title>GR: Boyah</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1493.ts</link>
+			<title>GR: Messinia</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/846.ts</link>
 		
 		<item>
-			<title>GR: Omega</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1492.ts</link>
+			<title>GR: BRT 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/878.ts</link>
 		
 		<item>
-			<title>GR: Pik Sat</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1491.ts</link>
+			<title>GR: Astra tv</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/877.ts</link>
 		
 		<item>
-			<title>GR: Star TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1490.ts</link>
+			<title>GR: TV100</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/874.ts</link>
 		
 		<item>
-			<title>Cy :Ant1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1489.ts</link>
+			<title>GR: Nea TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/875.ts</link>
 		
 		<item>
-			<title>GR: MAD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1488.ts</link>
+			<title>GR: Kontra Channel</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/876.ts</link>
 		
 		<item>
-			<title>Cy: RIK Sat</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1487.ts</link>
+			<title>GR: EXTRA</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/873.ts</link>
 		
 		<item>
-			<title>Cy: Sigma</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1486.ts</link>
+			<title>GR: EPT Apxeio</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/861.ts</link>
 		
 		<item>
-			<title>GR: High</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1485.ts</link>
+			<title>GR: Samiaki</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/860.ts</link>
 		
 		<item>
-			<title>GR: ERT HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1484.ts</link>
+			<title>GR: EPT HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/872.ts</link>
 		
 		<item>
-			<title>GR: Jayzee HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1483.ts</link>
+			<title>GR: EPT 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/871.ts</link>
 		
 		<item>
-			<title>GR: KONTRA TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1482.ts</link>
+			<title>GR: EPT 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/866.ts</link>
 		
 		<item>
-			<title>GR: E</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1481.ts</link>
-		
-		<item>
-			<title>GR: Skai</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1480.ts</link>
+			<title>GR: EPT 3</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/865.ts</link>
 		
 		<item>
 			<title>GR: Star</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1479.ts</link>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/848.ts</link>
 		
 		<item>
-			<title>GR: Alpha</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1478.ts</link>
+			<title>GR: SAKI</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/850.ts</link>
+		
+		<item>
+			<title>GR: Ma tv</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/849.ts</link>
+		
+		<item>
+			<title>GR: Antenna</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/847.ts</link>
+		
+		<item>
+			<title>GR: Kontra TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/853.ts</link>
+		
+		<item>
+			<title>GR: Rise</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/864.ts</link>
 		
 		<item>
 			<title>GR: Mega</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1477.ts</link>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/863.ts</link>
 		
 		<item>
-			<title>GR: ANT1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1476.ts</link>
+			<title>GR: Mega TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/862.ts</link>
 		
 		<item>
-			<title>GR: ERT 3</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1475.ts</link>
+			<title>GR: Alpha</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/855.ts</link>
 		
 		<item>
-			<title>GR: ERT2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1474.ts</link>
+			<title>GR: Euronews</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/858.ts</link>
 		
 		<item>
-			<title>GR: ERT1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://pro.satlover.com:58080/live/jacosta/nv3XOAFsR9/1473.ts</link>
+			<title>GR: Nickelodeon</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/859.ts</link>
+		
+		<item>
+			<title>GR: MAK TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/854.ts</link>
+		
+		<item>
+			<title>CY: ANT1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/856.ts</link>
+		
+		<item>
+			<title>CY: MAD TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/857.ts</link>
+		
+		<item>
+			<title>GR: Omega</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/852.ts</link>
+		
+		<item>
+			<title>CY: Ant1 Cyprus</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/851.ts</link>
 			
+		<item>
+			<title>Hot Action HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/1427.ts</link>
+		
+		<item>
+			<title>Hot Gold HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/1426.ts</link>
 			
+		<item>
+			<title>Let TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/836.ts</link>
+		
+		
+		<item>
+			<title>GR: Astra Supersport 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/845.ts</link>
+		
+		<item>
+			<title>GR: Astra Supersport 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/844.ts</link>
+		
+		<item>
+			<title>GR: Astra Supersport 3</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/843.ts</link>
+		
+		<item>
+			<title>GR: Astra Supersport 4</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/842.ts</link>
 			
 			
 			
