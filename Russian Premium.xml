@@ -10,109 +10,441 @@
 		<item>
 			<title>"[COLOR red][B]SERVER 1[/B][/COLOR]"</title>
 			<link>http://......</link>	
-      
-      
-      		<item>
-			<title>RU | Zoo Park</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/2159.ts</link>
+		<item>
+			<title>RU: NTV FOOTBALL 1 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/4179.ts</link>
 		
 		<item>
-			<title>RU | Telekanal Zvezda</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/2152.ts</link>
+			<title>RU: NTV FOOTBALL 2 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/4180.ts</link>
 		
 		<item>
-			<title>RU | Sony Turbo</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/2148.ts</link>
+			<title>RU: NTV FOOTBALL 3 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/4181.ts</link>
 		
 		<item>
-			<title>RU | Russia 1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/2151.ts</link>
+			<title>RU: Nash Futbol HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/6936.ts</link>
 		
 		<item>
-			<title>RU | Ren</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/2153.ts</link>
+			<title>RU: Nash Futbol</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/5662.ts</link>
 		
 		<item>
-			<title>RU | Outdoor Channel</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/2157.ts</link>
+			<title>RU: Match! HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/9332.ts</link>
 		
 		<item>
-			<title>RU | National Geographic</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/2154.ts</link>
+			<title>RU: Match!</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/5216.ts</link>
 		
 		<item>
-			<title>RU | Nat Geo Wild</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/2155.ts</link>
+			<title>RU: Match! Nash Sport</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/5663.ts</link>
 		
 		<item>
-			<title>RU | Moya Planeta</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/2160.ts</link>
+			<title>RU: Match! Arena</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/5661.ts</link>
 		
 		<item>
-			<title>RU | HTB</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/2150.ts</link>
+			<title>RU: Match! Planeta</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/6390.ts</link>
 		
 		<item>
-			<title>RU | HD Life</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/2149.ts</link>
+			<title>RU: ARENA</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/6002.ts</link>
 		
 		<item>
-			<title>RU | Discovery Channel</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/2156.ts</link>
+			<title>RU: Sportal TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/10713.ts</link>
 		
 		<item>
-			<title>RU | Discovery</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/2147.ts</link>
+			<title>RU: KHL TV HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/10503.ts</link>
 		
 		<item>
-			<title>RU | Animal Planet</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/2158.ts</link>
+			<title>RU: VIASAT GOLF HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/9288.ts</link>
 		
 		<item>
-			<title>RU | 24 Doc</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/2161.ts</link>
+			<title>RU: Boks TV HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/9336.ts</link>
 		
 		<item>
-			<title>RU | Viasat Nature</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1859.ts</link>
+			<title>RU: EUROSPORT 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/8531.ts</link>
 		
 		<item>
-			<title>RU | Viasat History</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1860.ts</link>
+			<title>RU: EUROSPORT 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/8532.ts</link>
 		
 		<item>
-			<title>RU | Viasat Explorer</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1861.ts</link>
+			<title>RU: SETANTA SPORTS ( ESTONIA )</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/7479.ts</link>
 		
 		<item>
-			<title>RU | TV1000</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1862.ts</link>
+			<title>RU: Auto Plus</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/5989.ts</link>
 		
 		<item>
-			<title>RU | NTV Football 3</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1855.ts</link>
+			<title>RU: AZ Idman</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/6986.ts</link>
 		
 		<item>
-			<title>RU | NTV Football 2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1854.ts</link>
+			<title>RU: SONY</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/8535.ts</link>
 		
 		<item>
-			<title>RU | NTV Football 1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1853.ts</link>
+			<title>RU: SONY SCI-FI</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/8534.ts</link>
 		
 		<item>
-			<title>RU | Nash Futbol</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1856.ts</link>
+			<title>RU: SONY TURBO</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/2028.ts</link>
 		
 		<item>
-			<title>RU | Match Nash Sport</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1858.ts</link>
+			<title>RU: HD Life</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/6932.ts</link>
 		
 		<item>
-			<title>RU | Match</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1857.ts</link>
+			<title>RU: EUREKA HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/6934.ts</link>
+		
+		<item>
+			<title>RU: HTB HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/8749.ts</link>
+		
+		<item>
+			<title>RU: HTB</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/2026.ts</link>
+		
+		<item>
+			<title>RU: RTVi</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/9338.ts</link>
+		
+		<item>
+			<title>RU: Kinopokaz HD 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11790.ts</link>
+		
+		<item>
+			<title>RU: Kinopokaz HD 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11791.ts</link>
+		
+		<item>
+			<title>RU: Kino Tv</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11787.ts</link>
+		
+		<item>
+			<title>RU: Kino svidanie</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11786.ts</link>
+		
+		<item>
+			<title>RU: KINO SEMJA</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11782.ts</link>
+		
+		<item>
+			<title>RU: Kino Miks</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11788.ts</link>
+		
+		<item>
+			<title>RU: Indijskoe Kino</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11780.ts</link>
+		
+		<item>
+			<title>RU: Kino Hit</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/9245.ts</link>
+		
+		<item>
+			<title>RU: BOLLYWOOD TV HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/8750.ts</link>
+		
+		<item>
+			<title>RU: Paramount Channel</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11784.ts</link>
+		
+		<item>
+			<title>RU: NASHE NOVOE KINO</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11781.ts</link>
+		
+		<item>
+			<title>RU: MGM HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11789.ts</link>
+		
+		<item>
+			<title>RU: TV 1000</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/5982.ts</link>
+		
+		<item>
+			<title>RU: Tv 1000 Action</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/6315.ts</link>
+		
+		<item>
+			<title>RU: TV 1000 Russkoe Kino</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/5984.ts</link>
+		
+		<item>
+			<title>RU: TV 1000 ACTION EAST</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/5983.ts</link>
+		
+		<item>
+			<title>RU: TV1000 PREMIUM HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/6314.ts</link>
+		
+		<item>
+			<title>RU: TV1000 COMEDY</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/6377.ts</link>
+		
+		<item>
+			<title>RU: TV1000 MEGAHIT HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/7228.ts</link>
+		
+		<item>
+			<title>RU: TV1000 COMEDY HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/7227.ts</link>
+		
+		<item>
+			<title>RU: Fix HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/10309.ts</link>
+		
+		<item>
+			<title>RU: Telekanal Zvezda</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/5990.ts</link>
+		
+		<item>
+			<title>RU: REN TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/5997.ts</link>
+		
+		<item>
+			<title>RU: DISCOVERY HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/6316.ts</link>
+		
+		<item>
+			<title>RU: NATIONAL GEOGRAPHIC HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/7231.ts</link>
+		
+		<item>
+			<title>RU: NAT GEO WILD HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/6931.ts</link>
+		
+		<item>
+			<title>RU: DISCOVERY CHANNEL HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/7230.ts</link>
+		
+		<item>
+			<title>RU: ANIMAL PLANET HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/7229.ts</link>
+		
+		<item>
+			<title>RU: Animal Family HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/6933.ts</link>
+		
+		<item>
+			<title>RU: TRAVELER HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/8751.ts</link>
+		
+		<item>
+			<title>RU: OUTDOOR CHANNEL</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/6001.ts</link>
+		
+		<item>
+			<title>RU: Nautical HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/8602.ts</link>
+		
+		<item>
+			<title>RU: Moya Planeta</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/5993.ts</link>
+		
+		<item>
+			<title>RU: 24 Doc</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/5991.ts</link>
+		
+		<item>
+			<title>RU: ZOO</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/5992.ts</link>
+		
+		<item>
+			<title>RU: MAMA</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11779.ts</link>
+		
+		<item>
+			<title>RU: VIASAT NATURE</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/5988.ts</link>
+		
+		<item>
+			<title>RU: VIASAT HISTORY</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/5987.ts</link>
+		
+		<item>
+			<title>RU: VIASAT EXPLORER</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/5986.ts</link>
+		
+		<item>
+			<title>RU: OCEAN TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/9337.ts</link>
+		
+		<item>
+			<title>RU: Muzhskoye Kino</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/9333.ts</link>
+		
+		<item>
+			<title>RU: ENGLISH CLUB</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/9334.ts</link>
+		
+		<item>
+			<title>RU: MEZZO</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/9335.ts</link>
+		
+		<item>
+			<title>RU: MTV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/6657.ts</link>
+		
+		<item>
+			<title>RU: Ohotnik i Rybolov</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/6935.ts</link>
+		
+		<item>
+			<title>RU: MUSICBOX UA</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/8533.ts</link>
+		
+		<item>
+			<title>HU: Fix TV HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/8577.ts</link>
+		
+		<item>
+			<title>RU: Mnogo TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11785.ts</link>
+		
+		<item>
+			<title>VIP: Varzish Sport HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/9091.ts</link>
+		
+		<item>
+			<title>MD: MOLDOVA SPORT</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/9436.ts</link>
+		
+		<item>
+			<title>UKR: Sport 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/9256.ts</link>
+		
+		<item>
+			<title>UKR: Sport 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/9255.ts</link>
+		
+		<item>
+			<title>UKR: Football 1 ( Ukraine )</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/9271.ts</link>
+		
+		<item>
+			<title>UKR: Football 2 ( Ukraine )</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/9270.ts</link>
+		
+		<item>
+			<title>UKR: ZOOM</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/9259.ts</link>
+		
+		<item>
+			<title>UKR: ZIK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/9260.ts</link>
+		
+		<item>
+			<title>UKR: UNIAN TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/9261.ts</link>
+		
+		<item>
+			<title>UKR: TET</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/9257.ts</link>
+		
+		<item>
+			<title>UKR: STB MUSIC BOX</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/9262.ts</link>
+		
+		<item>
+			<title>UKR: STB</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/9250.ts</link>
+		
+		<item>
+			<title>UKR: PERVIY DELOVOY</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/9263.ts</link>
+		
+		<item>
+			<title>UKR: PERSHIY UKRAINE</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/9264.ts</link>
+		
+		<item>
+			<title>UKR: Pahet TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/9258.ts</link>
+		
+		<item>
+			<title>UKR: OTV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/9265.ts</link>
+		
+		<item>
+			<title>UKR: NEWS 24</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/9266.ts</link>
+		
+		<item>
+			<title>UKR: MEGA</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/9267.ts</link>
+		
+		<item>
+			<title>UKR: M2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/9268.ts</link>
+		
+		<item>
+			<title>UKR: KIEV TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/9269.ts</link>
+		
+		<item>
+			<title>UKR: IHTP</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/9251.ts</link>
+		
+		<item>
+			<title>UKR: ICTV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/9253.ts</link>
+		
+		<item>
+			<title>UKR: ENTER FILM</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/9272.ts</link>
+		
+		<item>
+			<title>UKR: 5</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/9252.ts</link>
+		
+		<item>
+			<title>UKR: 2 + 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/9254.ts</link>
+		
+		<item>
+			<title>UKR: 1 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/9273.ts</link>
+		
+	
 
       
+ 
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+			
+
       
       
       		<item>
