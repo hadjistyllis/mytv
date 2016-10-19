@@ -473,49 +473,663 @@
 		<item>
 			<title>"[COLOR red][B]SERVER 2[/B][/COLOR]"</title>
 			<link>http://......</link>	
+
+			
 		<item>
-			<title>(US) TSN 5</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://89.163.148.31:8000/live/asianlad/asianlad/8528.ts</link>
+			<title>USA: Bein Sports HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/4644.ts</link>
 		
 		<item>
-			<title>(US) TSN 4</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://89.163.148.31:8000/live/asianlad/asianlad/8527.ts</link>
+			<title>USA: Bein Sports N HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/7419.ts</link>
 		
 		<item>
-			<title>(US) TSN 3</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://89.163.148.31:8000/live/asianlad/asianlad/8526.ts</link>
+			<title>USA: TSN 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/2299.ts</link>
 		
 		<item>
-			<title>(US) TSN 2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://89.163.148.31:8000/live/asianlad/asianlad/8525.ts</link>
+			<title>USA: TSN 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/2298.ts</link>
 		
 		<item>
-			<title>(US) TSN 1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://89.163.148.31:8000/live/asianlad/asianlad/8524.ts</link>
+			<title>USA: TSN 3</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/2297.ts</link>
 		
 		<item>
-			<title>(US) NBA TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://89.163.148.31:8000/live/asianlad/asianlad/8523.ts</link>
+			<title>USA: TSN 4</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/2296.ts</link>
 		
 		<item>
-			<title>(US) Fox Sports 1HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://89.163.148.31:8000/live/asianlad/asianlad/8522.ts</link>
+			<title>USA: TSN 5</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/2295.ts</link>
 		
 		<item>
-			<title>(US) FOX Sport 2HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://89.163.148.31:8000/live/asianlad/asianlad/8521.ts</link>
+			<title>USA: Astro Supersport 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/3876.ts</link>
 		
 		<item>
-			<title>(US) ESPN HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://89.163.148.31:8000/live/asianlad/asianlad/8520.ts</link>
+			<title>USA: Astro Supersport 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/3877.ts</link>
 		
 		<item>
-			<title>(US) CNN HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://89.163.148.31:8000/live/asianlad/asianlad/8519.ts</link>
+			<title>USA: Astro Supersport 3</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/3878.ts</link>
 		
 		<item>
-			<title>(US) ABC NEWS HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://89.163.148.31:8000/live/asianlad/asianlad/8518.ts</link>			
+			<title>USA: Astro Supersport 4</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/3879.ts</link>
+		
+		<item>
+			<title>USA: Fox Sports 1 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/6213.ts</link>
+		
+		<item>
+			<title>USA: Fox Sports 2 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/6214.ts</link>
+		
+		<item>
+			<title>USA: FOX SPORTS HD ( ASIA )</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/8215.ts</link>
+		
+		<item>
+			<title>VIP: ELEVEN PLUS</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/10303.ts</link>
+		
+		<item>
+			<title>USA: SportsNet World</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/7824.ts</link>
+		
+		<item>
+			<title>USA: SportNet 360</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/8299.ts</link>
+		
+		<item>
+			<title>USA: Sportnet East</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/7368.ts</link>
+		
+		<item>
+			<title>USA: Sportnet West</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/8155.ts</link>
+		
+		<item>
+			<title>USA: Sportnet One</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/6813.ts</link>
+		
+		<item>
+			<title>USA: Sportnet World</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/8175.ts</link>
+		
+		<item>
+			<title>USA: Sportnet Pacific</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/7459.ts</link>
+		
+		<item>
+			<title>USA: Sportnet Ontario</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/7458.ts</link>
+		
+		<item>
+			<title>USA: ESPN HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/8707.ts</link>
+		
+		<item>
+			<title>USA: ESPN 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/8470.ts</link>
+		
+		<item>
+			<title>USA: ESPN 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/8469.ts</link>
+		
+		<item>
+			<title>USA: NBA NETWORK HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/8471.ts</link>
+		
+		<item>
+			<title>USA: USA Network</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/6808.ts</link>
+		
+		<item>
+			<title>USA: NHL Network</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/7418.ts</link>
+		
+		<item>
+			<title>USA: NFL</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/6812.ts</link>
+		
+		<item>
+			<title>USA: NBC GOLF HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/6829.ts</link>
+		
+		<item>
+			<title>USA: US WWE HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/4270.ts</link>
+		
+		<item>
+			<title>USA: PAG HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/7416.ts</link>
+		
+		<item>
+			<title>USA: DIY Network HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/7366.ts</link>
+		
+		<item>
+			<title>USA: NBA US HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/4272.ts</link>
+		
+		<item>
+			<title>USA: NBC SPORT</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/6817.ts</link>
+		
+		<item>
+			<title>USA: Tennis Channel HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11748.ts</link>
+		
+		<item>
+			<title>USA: UFC Fight Night Live US</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/10689.ts</link>
+		
+		<item>
+			<title>USA: UFC Fight Night 88 US</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/10688.ts</link>
+		
+		<item>
+			<title>USA: UFC Fight Night 87 US</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/10687.ts</link>
+		
+		<item>
+			<title>USA: UFC 199 US</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/10685.ts</link>
+		
+		<item>
+			<title>USA: E! HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/10686.ts</link>
+		
+		<item>
+			<title>USA: Fight Sport</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/9130.ts</link>
+		
+		<item>
+			<title>USA: Food Network</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/7434.ts</link>
+		
+		<item>
+			<title>USA: AFN SPORTS HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/5917.ts</link>
+		
+		<item>
+			<title>USA: AFN SPORTS</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/5907.ts</link>
+		
+		<item>
+			<title>USA: AFN SPORTS 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/5906.ts</link>
+		
+		<item>
+			<title>USA: AFN SPECTRUM</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/5898.ts</link>
+		
+		<item>
+			<title>USA: AFN PRIME PACIFIC</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/5913.ts</link>
+		
+		<item>
+			<title>USA: AFN PRIME ATLANTIC</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/5912.ts</link>
+		
+		<item>
+			<title>USA: AFN MOVIE</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/5908.ts</link>
+		
+		<item>
+			<title>USA: AFN NEWS</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/5901.ts</link>
+		
+		<item>
+			<title>USA: SyFy HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/5791.ts</link>
+		
+		<item>
+			<title>USA: FOX 43</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/9674.ts</link>
+		
+		<item>
+			<title>USA: FREEFORM HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/9673.ts</link>
+		
+		<item>
+			<title>USA: CBS HD USA</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/9668.ts</link>
+		
+		<item>
+			<title>USA: ABC</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/8068.ts</link>
+		
+		<item>
+			<title>USA: ABC ( PACK )</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/8090.ts</link>
+		
+		<item>
+			<title>USA: NBC HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/9669.ts</link>
+		
+		<item>
+			<title>USA: NBC</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/10215.ts</link>
+		
+		<item>
+			<title>USA: HALLMARK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/6827.ts</link>
+		
+		<item>
+			<title>USA: AMC HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/9676.ts</link>
+		
+		<item>
+			<title>USA: Showtime HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/6623.ts</link>
+		
+		<item>
+			<title>USA: SHOWTIME HD 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/8866.ts</link>
+		
+		<item>
+			<title>USA: SHOWTIME WEST</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/9670.ts</link>
+		
+		<item>
+			<title>USA: SHOWTIME SHOWCASE</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/9671.ts</link>
+		
+		<item>
+			<title>USA: HBO</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/6826.ts</link>
+		
+		<item>
+			<title>USA: HBO ZONE</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/7758.ts</link>
+		
+		<item>
+			<title>USA: HBO plus HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/6825.ts</link>
+		
+		<item>
+			<title>USA: YTV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/8069.ts</link>
+		
+		<item>
+			<title>USA: HBO Comedy</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/7426.ts</link>
+		
+		<item>
+			<title>USA: Spike</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/6830.ts</link>
+		
+		<item>
+			<title>USA: Comedy Central HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/8871.ts</link>
+		
+		<item>
+			<title>USA: Cinemax ActionMax</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/7438.ts</link>
+		
+		<item>
+			<title>USA: CINEMAX ACTION HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/8868.ts</link>
+		
+		<item>
+			<title>USA: Cinemax MoreMax</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/7643.ts</link>
+		
+		<item>
+			<title>USA: Cinemax East</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/7462.ts</link>
+		
+		<item>
+			<title>USA: CINEMAX EAST HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/8867.ts</link>
+		
+		<item>
+			<title>USA: CINEMAX 5 STAR MAX  HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/8870.ts</link>
+		
+		<item>
+			<title>USA: Starz West US</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/10684.ts</link>
+		
+		<item>
+			<title>USA: Starz Encore US</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/10681.ts</link>
+		
+		<item>
+			<title>USA: Starz Edge US</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/10680.ts</link>
+		
+		<item>
+			<title>USA: Starz East US</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/10679.ts</link>
+		
+		<item>
+			<title>USA: Starz Comedy US</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/10678.ts</link>
+		
+		<item>
+			<title>USA: Starz Cinema US</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/10677.ts</link>
+		
+		<item>
+			<title>USA: Bravo</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/6807.ts</link>
+		
+		<item>
+			<title>USA: Fox SPORTS 506 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/10239.ts</link>
+		
+		<item>
+			<title>USA: Lifetime HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/10238.ts</link>
+		
+		<item>
+			<title>USA: MBL HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/10140.ts</link>
+		
+		<item>
+			<title>USA: CBCEN</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/10214.ts</link>
+		
+		<item>
+			<title>USA: A&E</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/10726.ts</link>
+		
+		<item>
+			<title>USA: TWiT</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/7424.ts</link>
+		
+		<item>
+			<title>USA: Fox News</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/6831.ts</link>
+		
+		<item>
+			<title>USA: HIFI</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/6810.ts</link>
+		
+		<item>
+			<title>USA: Tbs HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/6809.ts</link>
+		
+		<item>
+			<title>USA: SPACE</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/6806.ts</link>
+		
+		<item>
+			<title>USA: byu tv</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/8157.ts</link>
+		
+		<item>
+			<title>USA: CNN US</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/6814.ts</link>
+		
+		<item>
+			<title>USA: CNBC</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/3860.ts</link>
+		
+		<item>
+			<title>USA: World Fashion Channel</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/7443.ts</link>
+		
+		<item>
+			<title>USA: FX HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11455.ts</link>
+		
+		<item>
+			<title>USA: FXX HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11456.ts</link>
+		
+		<item>
+			<title>USA: TNT HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11431.ts</link>
+		
+		<item>
+			<title>USA: Poker Central</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/7439.ts</link>
+		
+		<item>
+			<title>USA: NASA TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/7367.ts</link>
+		
+		<item>
+			<title>USA: CNBC HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/7414.ts</link>
+		
+		<item>
+			<title>USA: CBSN US</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/7820.ts</link>
+		
+		<item>
+			<title>USA: CW HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/7413.ts</link>
+		
+		<item>
+			<title>USA: USA Network HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/9659.ts</link>
+		
+		<item>
+			<title>USA: VH1 Classic</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/9675.ts</link>
+		
+		<item>
+			<title>USA: CN HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/8869.ts</link>
+		
+		<item>
+			<title>USA: Nick HD US</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/6815.ts</link>
+		
+		<item>
+			<title>USA: HISTORY 2 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11442.ts</link>
+		
+		<item>
+			<title>USA: INVESTIGATION DESCOVERY HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11441.ts</link>
+		
+		<item>
+			<title>USA: Nat Geo Wild HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11433.ts</link>
+		
+		<item>
+			<title>USA: NATIONAL GEOGRAPHIC HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11432.ts</link>
+		
+		<item>
+			<title>USA: NBC E.P.L XTRA 1 (LIVE DURING EPL)</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/5130.ts</link>
+		
+		<item>
+			<title>USA: NBC E.P.L XTRA 2 (LIVE DURING EPL)</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/5129.ts</link>
+		
+		<item>
+			<title>USA: NBC E.P.L XTRA 3 (LIVE DURING EPL)</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/5128.ts</link>
+		
+		<item>
+			<title>USA: NBC E.P.L XTRA 4 (LIVE DURING EPL)</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/5127.ts</link>
+		
+		<item>
+			<title>USA: NBC E.P.L XTRA 5 (LIVE DURING EPL)</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/5126.ts</link>
+		
+		<item>
+			<title>USA: NBC E.P.L XTRA 6 (LIVE DURING EPL)</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/5125.ts</link>
+		
+		<item>
+			<title>USA: NBC E.P.L XTRA 7 (LIVE DURING EPL)</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/5124.ts</link>
+		
+		<item>
+			<title>USA: NFL Sunday Ticket 1 L</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11443.ts</link>
+		
+		<item>
+			<title>USA: NFL Sunday Ticket 2 L</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11444.ts</link>
+		
+		<item>
+			<title>USA: NFL Sunday Ticket 3 L</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11445.ts</link>
+		
+		<item>
+			<title>USA: (SD)NFL: 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11446.ts</link>
+		
+		<item>
+			<title>USA: (SD)NFL: 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11447.ts</link>
+		
+		<item>
+			<title>USA: (SD)NFL: 3</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11448.ts</link>
+		
+		<item>
+			<title>USA: (SD)NFL: 4</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11449.ts</link>
+		
+		<item>
+			<title>USA: (SD)NFL: 5</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11450.ts</link>
+		
+		<item>
+			<title>USA: (SD)NFL: 6</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11451.ts</link>
+		
+		<item>
+			<title>USA: (SD)NFL: 7</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11452.ts</link>
+		
+		<item>
+			<title>USA: (SD)NFL: 8</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11453.ts</link>
+		
+		<item>
+			<title>USA: (SD)NFL: 9</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11454.ts</link>
+		
+		<item>
+			<title>CA: Super Ecran 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11413.ts</link>
+		
+		<item>
+			<title>CA: Super Ecran 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11412.ts</link>
+		
+		<item>
+			<title>CA: Super Ecran 3</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11411.ts</link>
+		
+		<item>
+			<title>CA: Super Ecran 4</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11410.ts</link>
+		
+		<item>
+			<title>CA: RDS 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/10240.ts</link>
+		
+		<item>
+			<title>CA: Peach Tree TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/10241.ts</link>
+		
+		<item>
+			<title>CA: OLN</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/10242.ts</link>
+		
+		<item>
+			<title>CA: Silver Screen Classics</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/10244.ts</link>
+		
+		<item>
+			<title>CA: RDI</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/10243.ts</link>
+		
+		<item>
+			<title>CA: T&E</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/7425.ts</link>
+		
+		<item>
+			<title>CA: VRAK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/7903.ts</link>
+		
+		<item>
+			<title>CA: MTV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11414.ts</link>
+		
+		<item>
+			<title>CA: MovieTime</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11415.ts</link>
+		
+		<item>
+			<title>CA: Gsn</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11416.ts</link>
+		
+		<item>
+			<title>CA: Golf</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11417.ts</link>
+		
+		<item>
+			<title>CA: G4</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11418.ts</link>
+		
+		<item>
+			<title>CA: FYI</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11419.ts</link>
+		
+		<item>
+			<title>CA: E!</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11420.ts</link>
+		
+		<item>
+			<title>CA: Deja View</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11421.ts</link>
+		
+		<item>
+			<title>CA: CTV Toronto</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11422.ts</link>
+		
+		<item>
+			<title>CA: CP24</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11423.ts</link>
+		
+		<item>
+			<title>CA: Cottage Life</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11424.ts</link>
+		
+		<item>
+			<title>CA: Comedy Gold</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11425.ts</link>
+		
+		<item>
+			<title>CA: City Vancouver</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11426.ts</link>
+		
+		<item>
+			<title>CA: CHCH</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11427.ts</link>
+		
+		<item>
+			<title>CA: CBC Toronto</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11428.ts</link>
+		
+		<item>
+			<title>CA: Bet</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11429.ts</link>
+		
+		<item>
+			<title>CA: ABC Spark</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11430.ts</link>
+		
+	
+
+			
 			
 		
 			
