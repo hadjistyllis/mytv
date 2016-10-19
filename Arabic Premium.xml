@@ -10,773 +10,1174 @@
 			<title>"[COLOR red][B]SERVER 1[/B][/COLOR]"</title>
 			<link>http://......</link>	
 			
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+	
 		<item>
-			<title>Al Magharibia</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/1962.ts</link>
+			<title>AR: Bein Sport 1 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/169.ts</link>
 		
 		<item>
-			<title>ALOULA MAROC</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/1958.ts</link>
+			<title>AR: Bein Sport 2 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/168.ts</link>
 		
 		<item>
-			<title>2M Monde</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/1961.ts</link>
+			<title>AR: Bein Sport 3 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/167.ts</link>
 		
 		<item>
-			<title>Medi1Sat</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/1960.ts</link>
+			<title>AR: Bein Sport 4 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/166.ts</link>
 		
 		<item>
-			<title>AR: TAMAZIGHT</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2239.ts</link>
+			<title>AR: Bein Sport 5 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/165.ts</link>
 		
 		<item>
-			<title>AR: ASADISSA</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2240.ts</link>
+			<title>AR: Bein Sport 6 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/164.ts</link>
 		
 		<item>
-			<title>AR: ARRIADIA</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/1959.ts</link>
+			<title>AR: Bein Sport 7 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/163.ts</link>
 		
 		<item>
-			<title>CINEMA_1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2099.ts</link>
+			<title>AR: Bein Sport 8 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/162.ts</link>
 		
 		<item>
-			<title>AR: Ajyal</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2007.ts</link>
+			<title>AR: Bein Sport 9 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/161.ts</link>
 		
 		<item>
-			<title>AR: beIN MOVIES 1HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/44.ts</link>
+			<title>AR: Bein Sport 10 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/160.ts</link>
 		
 		<item>
-			<title>beIN MOVIES 2HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/45.ts</link>
+			<title>AR: Bein Sport 11 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/159.ts</link>
 		
 		<item>
-			<title>BeIN Movies 3HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/1930.ts</link>
+			<title>AR: Bein Sport 12 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/1262.ts</link>
 		
 		<item>
-			<title>Bein Movies 4 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/1931.ts</link>
+			<title>AR: Bein Sport 13 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/1263.ts</link>
 		
 		<item>
-			<title>beINSPORTS News HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2.ts</link>
+			<title>AR: Bein Sport 14 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/1264.ts</link>
 		
 		<item>
-			<title>Bein Sport HD1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/7.ts</link>
+			<title>AR: Bein Sport 15 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/1265.ts</link>
 		
 		<item>
-			<title>Bein Sport 2HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/12.ts</link>
+			<title>AR: Bein Movies 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/1224.ts</link>
 		
 		<item>
-			<title>Bein Sport 3HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/15.ts</link>
+			<title>AR: Bein Movies 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/1225.ts</link>
 		
 		<item>
-			<title>Bein Sport 4HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/17.ts</link>
+			<title>------ OSN ----------</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/185.ts</link>
 		
 		<item>
-			<title>Bein Sport HD5</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/19.ts</link>
+			<title>AR: Osn AlYawm</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/178.ts</link>
 		
 		<item>
-			<title>Bein Sport 6HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/24.ts</link>
+			<title>AR: Osn Cinema 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/177.ts</link>
 		
 		<item>
-			<title>Bein Sport 7HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/27.ts</link>
+			<title>AR: Osn Cinema 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/176.ts</link>
 		
 		<item>
-			<title>Bein Sport 8HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/30.ts</link>
+			<title>AR: Osn MBC+ Drama</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/172.ts</link>
 		
 		<item>
-			<title>Bein Sport HD9</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/31.ts</link>
+			<title>AR: Osn FNN</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/1185.ts</link>
 		
 		<item>
-			<title>Bein Sport 10HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/36.ts</link>
+			<title>AR: Osn Yahla</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/1186.ts</link>
 		
 		<item>
-			<title>AR: Bein Sports 11HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2192.ts</link>
+			<title>AR: Osn Yahla Drama</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/1194.ts</link>
 		
 		<item>
-			<title>Bein_Sports_12_HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2193.ts</link>
+			<title>AR: Osn Yahla Shabab</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/1197.ts</link>
 		
 		<item>
-			<title>Bein Sports HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2200.ts</link>
+			<title>AR: Osn Movies Comedy</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/1195.ts</link>
 		
 		<item>
-			<title>AL: SuperSports 1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2665.ts</link>
+			<title>AR: Osn Movies Hollywood</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/1275.ts</link>
 		
 		<item>
-			<title>AL: SuperSports 2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2666.ts</link>
+			<title>AR: Osn Movies Action HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/173.ts</link>
 		
 		<item>
-			<title>AL: SuperSports 3</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2667.ts</link>
+			<title>AR: Osn Movies Action 2 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/174.ts</link>
 		
 		<item>
-			<title>IN: NDTV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2668.ts</link>
+			<title>AR: Osn Movies Premier</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/1184.ts</link>
 		
 		<item>
-			<title>IN: ZEE ACTION</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2669.ts</link>
+			<title>AR: Osn Movies Premier 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/183.ts</link>
 		
 		<item>
-			<title>VARZESH TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/1302.ts</link>
+			<title>AR: Osn Movies Drama</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/1198.ts</link>
 		
 		<item>
-			<title>OSN-YAHALA</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/1336.ts</link>
+			<title>AR: Osn Movies Festival</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/1192.ts</link>
 		
 		<item>
-			<title>AR: OSN ONDEMAND1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2556.ts</link>
+			<title>AR: Osn Movies HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/171.ts</link>
 		
 		<item>
-			<title>OMN_FIRST_MORE_HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2558.ts</link>
+			<title>AR: Osn Movies+2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/182.ts</link>
 		
 		<item>
-			<title>AR: OSN ON DEMAND EXTRA-2HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2560.ts</link>
+			<title>AR: Osn Movies Kids</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/180.ts</link>
 		
 		<item>
-			<title>AR: OSN ON DEMAND EXTRA 1HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2559.ts</link>
+			<title>AR: Osn Movies Disny</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/184.ts</link>
 		
 		<item>
-			<title>AR: OSN ON DEMAND 2HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2557.ts</link>
+			<title>AR: Osn Movies GMG</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/179.ts</link>
 		
 		<item>
-			<title>OMN-Movies-Festilval-HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2550.ts</link>
+			<title>AR: Osn Movie Starz</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/1274.ts</link>
 		
 		<item>
-			<title>AR: OSN Movies Box Office 3</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2563.ts</link>
+			<title>AR: Osn First HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/1187.ts</link>
 		
 		<item>
-			<title>AR: OSN Movies Box Office 2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2562.ts</link>
+			<title>AR: Osn Movies Hollywood 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/1273.ts</link>
 		
 		<item>
-			<title>AR: OSN Movies Box Office 1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2561.ts</link>
+			<title>AR: Osn First Comdy HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/175.ts</link>
 		
 		<item>
-			<title>OMN-FIRST-COMEDY2HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/1345.ts</link>
+			<title>AR: Osn Star Movies</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/1183.ts</link>
 		
 		<item>
-			<title>OMN_FIRST_COMEDY_HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/1346.ts</link>
+			<title>AR: Osn Star world</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/1182.ts</link>
 		
 		<item>
-			<title>OSN Movies Action  2 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2554.ts</link>
+			<title>AR: Osn Starz Comedy</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/1272.ts</link>
 		
 		<item>
-			<title>OSN FIRST HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2551.ts</link>
+			<title>AR: Osn Dinsey Junior</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/1196.ts</link>
 		
 		<item>
-			<title>AD National Geo HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2549.ts</link>
+			<title>AR: Osn Wwe</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/1266.ts</link>
 		
 		<item>
-			<title>OSN-Star-World-HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/1350.ts</link>
+			<title>AR: Osn Animal Planet</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/181.ts</link>
 		
 		<item>
-			<title>OSN-Star-Movies-HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/1351.ts</link>
+			<title>AR: Osn Discovry ID</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/1193.ts</link>
 		
 		<item>
-			<title>OSN-Movies-HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/1357.ts</link>
+			<title>AR: Osn Box Offiec 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/1191.ts</link>
 		
 		<item>
-			<title>OSN-Movie-kids-HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/1338.ts</link>
+			<title>AR: Osn Box Offiec 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/1190.ts</link>
 		
 		<item>
-			<title>OMN_MOVIES_DRAMA_2HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/1340.ts</link>
+			<title>AR: Osn Box Offiec 3</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/1188.ts</link>
 		
 		<item>
-			<title>OMN_MOVIES_DRAMA</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/1341.ts</link>
+			<title>AR: Osn sport 1 wwe</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/movie/arabian1/arabian1/1875.mp4</link>
 		
 		<item>
-			<title>OSN_MOVIES</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/1343.ts</link>
+			<title>AR: Osn sport 2 wwe</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/movie/arabian1/arabian1/1876.mp4</link>
 		
 		<item>
-			<title>OSN_ACTION</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/1344.ts</link>
+			<title>AR: Osn sport 3 wwe</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/movie/arabian1/arabian1/1877.mp4</link>
 		
 		<item>
-			<title>NBA</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/1312.ts</link>
+			<title>AR: Osn sport 4 wwe</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/movie/arabian1/arabian1/1878.mp4</link>
 		
 		<item>
-			<title>Zee Alwan</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2156.ts</link>
+			<title>AR: Osn sport 5 wwe</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/movie/arabian1/arabian1/1879.mp4</link>
 		
 		<item>
-			<title>Zee Aflam</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2157.ts</link>
+			<title>AR: Osn sport 6 wwe</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/movie/arabian1/arabian1/1880.mp4</link>
 		
 		<item>
-			<title>AR: Tunisie 2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/1934.ts</link>
+			<title>AR: Osn sport 7 wwe</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/movie/arabian1/arabian1/1881.mp4</link>
 		
 		<item>
-			<title>AR: Tunisie 1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/1933.ts</link>
+			<title>AR: Osn sport 8 wwe</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/movie/arabian1/arabian1/1882.mp4</link>
 		
 		<item>
-			<title>Majid_Kids_TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/1991.ts</link>
+			<title>AR: Osn sport 9 wwe</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/movie/arabian1/arabian1/1883.mp4</link>
 		
 		<item>
-			<title>AR: Touyour Al Jannah</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/1992.ts</link>
+			<title>AR: Osn sport 10 wwe</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/movie/arabian1/arabian1/1884.mp4</link>
 		
 		<item>
-			<title>AR: Toktok Aflam</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2158.ts</link>
+			<title>AR: Osn sport 11 wwe</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/movie/arabian1/arabian1/1885.mp4</link>
 		
 		<item>
-			<title>AR: TL Liban</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2014.ts</link>
+			<title>AR: Osn sport 12 wwe</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/movie/arabian1/arabian1/1886.mp4</link>
 		
 		<item>
-			<title>AR: Time Film</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2242.ts</link>
+			<title>AR: Osn sport 13 wwe</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/movie/arabian1/arabian1/1887.mp4</link>
 		
 		<item>
-			<title>AR: TIME-CINEMA</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2243.ts</link>
+			<title>AR: Osn sport 15 wwe</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/movie/arabian1/arabian1/1888.mp4</link>
 		
 		<item>
-			<title>AR: Sunnah Nebawiya</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/1965.ts</link>
+			<title>AR: Osn sport 16 wwe</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/movie/arabian1/arabian1/1889.mp4</link>
 		
 		<item>
-			<title>AR: Space Toon</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2000.ts</link>
+			<title>AR: Osn sport 17 wwe</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/movie/arabian1/arabian1/1890.mp4</link>
 		
 		<item>
-			<title>AR: Souriya News</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2184.ts</link>
+			<title>AR: Osn sport 18 wwe</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/movie/arabian1/arabian1/1891.mp4</link>
 		
 		<item>
-			<title>AR: Souriya Drama</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2077.ts</link>
+			<title>AR: Osn sport 19 wwe</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/movie/arabian1/arabian1/1892.mp4</link>
 		
 		<item>
-			<title>AR: Souria</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2079.ts</link>
+			<title>AR: Osn sport 20 wwe</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/movie/arabian1/arabian1/1893.mp4</link>
 		
 		<item>
-			<title>AR: Sky News Arabia</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2183.ts</link>
+			<title>AR: Osn sport 21 wwe</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/movie/arabian1/arabian1/1894.mp4</link>
 		
 		<item>
-			<title>AR: Sharjah HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2111.ts</link>
+			<title>AR: Osn sport 22 wwe</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/movie/arabian1/arabian1/1895.mp4</link>
 		
 		<item>
-			<title>MOGA-comedy</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2080.ts</link>
+			<title>AR: Osn sport 23 wwe</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/movie/arabian1/arabian1/1896.mp4</link>
 		
 		<item>
-			<title>Toyor_Al_Janah_Baby</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2004.ts</link>
+			<title>AR: Osn sport 24 wwe</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/movie/arabian1/arabian1/1897.mp4</link>
 		
 		<item>
-			<title>AR: Saudia Quran</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/1964.ts</link>
+			<title>------ Arabic ----------</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/158.ts</link>
 		
 		<item>
-			<title>Saoudi_2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2108.ts</link>
+			<title>AR: Mtv Lebanon</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/22.ts</link>
 		
 		<item>
-			<title>AR: Saoudi 1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2107.ts</link>
+			<title>AR: Ldc</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/24.ts</link>
 		
 		<item>
-			<title>Samira TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/1951.ts</link>
+			<title>AR: OTV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/26.ts</link>
 		
 		<item>
-			<title>AR: Sama Dubai</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2118.ts</link>
+			<title>AR: Future</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/113.ts</link>
 		
 		<item>
-			<title>AR: Safa</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/1983.ts</link>
+			<title>AR: Lbc</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/88.ts</link>
 		
 		<item>
-			<title>AR: RT Arabia</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2180.ts</link>
+			<title>AR: Nbn Lebanon</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/136.ts</link>
 		
 		<item>
-			<title>Rotana Mousica</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2027.ts</link>
+			<title>AR: Aljadeed</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/23.ts</link>
 		
 		<item>
-			<title>AR: Rotana Masria</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2028.ts</link>
+			<title>AR: Lebanon tv</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/102.ts</link>
 		
 		<item>
-			<title>Rotana Khalijiya</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2029.ts</link>
+			<title>AR: ALaan TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/1136.ts</link>
 		
 		<item>
-			<title>AR: Rotana Classic</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2026.ts</link>
+			<title>AR: Manar tv</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/54.ts</link>
 		
 		<item>
-			<title>Rotana Cinema</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2031.ts</link>
+			<title>AR: OnTV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/21.ts</link>
 		
 		<item>
-			<title>AR: Star Aflem</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2244.ts</link>
+			<title>AR: Sama tv</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/1269.ts</link>
 		
 		<item>
-			<title>AR: Qatar</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2125.ts</link>
+			<title>AR: Syria 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/13.ts</link>
 		
 		<item>
-			<title>AR: Panorama Food</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2033.ts</link>
+			<title>AR: Syria TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/14.ts</link>
 		
 		<item>
-			<title>AR: Panorama Film</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2153.ts</link>
+			<title>AR: Syrian Drama</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/52.ts</link>
 		
 		<item>
-			<title>AR: Panorama Drama 2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2154.ts</link>
-		
-		<item>
-			<title>AR: Palastin</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2132.ts</link>
-		
-		<item>
-			<title>AR: Nourmina</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2070.ts</link>
-		
-		<item>
-			<title>AR: Noor Dubai</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/1978.ts</link>
-		
-		<item>
-			<title>Nile Life</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2086.ts</link>
-		
-		<item>
-			<title>AR: Nile Drama</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2088.ts</link>
-		
-		<item>
-			<title>AR: ktv_2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2089.ts</link>
-		
-		<item>
-			<title>AR: Nile Comedy</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2090.ts</link>
-		
-		<item>
-			<title>AR: Nile Cinema</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2091.ts</link>
-		
-		<item>
-			<title>AR: Nessma</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/1937.ts</link>
-		
-		<item>
-			<title>AR: NBN HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2015.ts</link>
-		
-		<item>
-			<title>AR: MTV Liban</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2009.ts</link>
-		
-		<item>
-			<title>AR: MBC ProSports 3 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2208.ts</link>
-		
-		<item>
-			<title>AR: MBC Pro Sports 2 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2207.ts</link>
-		
-		<item>
-			<title>AR: MBC Pro Sports 1 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2206.ts</link>
-		
-		<item>
-			<title>MBC Max HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2020.ts</link>
-		
-		<item>
-			<title>AR: MBC MASR1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2024.ts</link>
-		
-		<item>
-			<title>AR: MBC Drama HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2022.ts</link>
-		
-		<item>
-			<title>MBC Bollywood</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2025.ts</link>
-		
-		<item>
-			<title>AR: MBC Action HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2021.ts</link>
-		
-		<item>
-			<title>AR: MBC 4 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2019.ts</link>
-		
-		<item>
-			<title>AR: MBC 3 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2018.ts</link>
-		
-		<item>
-			<title>AR: MBC 2 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2017.ts</link>
-		
-		<item>
-			<title>MBC 1 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2016.ts</link>
-		
-		<item>
-			<title>MBC MASR2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2065.ts</link>
-		
-		<item>
-			<title>AR: AD DRAMA HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2139.ts</link>
-		
-		<item>
-			<title>AR: LDC</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2011.ts</link>
-		
-		<item>
-			<title>AR: LBC</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2010.ts</link>
-		
-		<item>
-			<title>AR: Kuwait TV HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2123.ts</link>
-		
-		<item>
-			<title>MICKEY</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2001.ts</link>
-		
-		<item>
-			<title>AR: Jeem HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/1995.ts</link>
-		
-		<item>
-			<title>AR: Iqraa TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/1971.ts</link>
-		
-		<item>
-			<title>Hannibal</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/1942.ts</link>
-		
-		<item>
-			<title>Future TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2012.ts</link>
-		
-		<item>
-			<title>AR: France 24</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2170.ts</link>
-		
-		<item>
-			<title>Euronews</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2179.ts</link>
-		
-		<item>
-			<title>AR: Dubai Zaman</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2116.ts</link>
-		
-		<item>
-			<title>AR: Dubai TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2113.ts</link>
-		
-		<item>
-			<title>AR: Dubai Sports 3</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2213.ts</link>
-		
-		<item>
-			<title>AR: Dubai Sports 1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2212.ts</link>
-		
-		<item>
-			<title>AR: Dubai Racing</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2217.ts</link>
-		
-		<item>
-			<title>AR: Dubai One</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2115.ts</link>
-		
-		<item>
-			<title>AR: DUBAI DRAMA</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2117.ts</link>
-		
-		<item>
-			<title>AR: Rotana Aflem</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2114.ts</link>
-		
-		<item>
-			<title>AR: Dream</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2039.ts</link>
-		
-		<item>
-			<title>AR: AB CINEMA</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2144.ts</link>
-		
-		<item>
-			<title>AR: CBC Sefra</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2034.ts</link>
-		
-		<item>
-			<title>CBC Extra</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2036.ts</link>
-		
-		<item>
-			<title>AR: CBC Drama</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2037.ts</link>
-		
-		<item>
-			<title>CBC</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2035.ts</link>
-		
-		<item>
-			<title>AR: Cartoon Network</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/1993.ts</link>
-		
-		<item>
-			<title>Canal Algerie</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/1944.ts</link>
-		
-		<item>
-			<title>AR: Cairo Drama</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2152.ts</link>
-		
-		<item>
-			<title>AR: Cairo Cinema</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2151.ts</link>
-		
-		<item>
-			<title>AR: BBC Arabic</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2176.ts</link>
-		
-		<item>
-			<title>AR: Baraem</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/1994.ts</link>
-		
-		<item>
-			<title>AR: Baghdad TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2128.ts</link>
-		
-		<item>
-			<title>ANN</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2181.ts</link>
-		
-		<item>
-			<title>B4U Aflam</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2140.ts</link>
-		
-		<item>
-			<title>AR: ART Hikayat 2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2138.ts</link>
-		
-		<item>
-			<title>AR: ART Hikayat</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2137.ts</link>
-		
-		<item>
-			<title>AR: ART CINEMA</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2134.ts</link>
-		
-		<item>
-			<title>AR: ART AFLAM 2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2136.ts</link>
-		
-		<item>
-			<title>AR: ART AFLAM 1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2135.ts</link>
-		
-		<item>
-			<title>AR: aljazeera_doc</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2110.ts</link>
-		
-		<item>
-			<title>AR: Al Sharkia</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2112.ts</link>
-		
-		<item>
-			<title>AR: Al Risala</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/1970.ts</link>
+			<title>AR: Syria Lkhbaria</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/142.ts</link>
 		
 		<item>
 			<title>AR: Al Rahma</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/1972.ts</link>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/1270.ts</link>
 		
 		<item>
-			<title>AR: Al Nahar One</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2041.ts</link>
+			<title>AR: Majd</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/68.ts</link>
+		
+		<item>
+			<title>AR: Al Masriya</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/110.ts</link>
+		
+		<item>
+			<title>AR: Al Thania</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/97.ts</link>
+		
+		<item>
+			<title>AR: Art Aflam 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/105.ts</link>
+		
+		<item>
+			<title>AR: Art Aflam 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/104.ts</link>
+		
+		<item>
+			<title>AR: Art Hekayat</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/101.ts</link>
+		
+		<item>
+			<title>AR: Art Hekayat 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/100.ts</link>
+		
+		<item>
+			<title>AR: Art Cinema</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/103.ts</link>
+		
+		<item>
+			<title>AR: Sha3beyat</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/118.ts</link>
+		
+		<item>
+			<title>AR: Sha3beyat +2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/1253.ts</link>
+		
+		<item>
+			<title>AR: Hob Fee EL Moled</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/1268.ts</link>
+		
+		<item>
+			<title>AR: Music Al Haneen</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/2199.ts</link>
+		
+		<item>
+			<title>AR: Afrah TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/86.ts</link>
+		
+		<item>
+			<title>AR: One Music TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/59.ts</link>
+		
+		<item>
+			<title>AR: Bolika</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/53.ts</link>
+		
+		<item>
+			<title>AR: Mazika</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/89.ts</link>
+		
+		<item>
+			<title>AR: 4Shbab</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/61.ts</link>
+		
+		<item>
+			<title>AR: Hawa Com</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/1259.ts</link>
+		
+		<item>
+			<title>AR: Music plus</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/1261.ts</link>
+		
+		<item>
+			<title>AR: Wanasa</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/126.ts</link>
+		
+		<item>
+			<title>AR: Melody Classic</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/65.ts</link>
+		
+		<item>
+			<title>AR: Mbc 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/50.ts</link>
+		
+		<item>
+			<title>AR: Mbc 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/49.ts</link>
+		
+		<item>
+			<title>AR: Mbc 3</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/48.ts</link>
+		
+		<item>
+			<title>AR: Mbc 4</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/47.ts</link>
+		
+		<item>
+			<title>AR: Mbc Masr</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/46.ts</link>
+		
+		<item>
+			<title>AR: Mbc Masr 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/45.ts</link>
+		
+		<item>
+			<title>AR: Mbc Drama</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/42.ts</link>
+		
+		<item>
+			<title>AR: Mbc Action</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/44.ts</link>
+		
+		<item>
+			<title>AR: Mbc Max</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/43.ts</link>
+		
+		<item>
+			<title>AR: Mbc Bollywood</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/41.ts</link>
+		
+		<item>
+			<title>AR: Mbc Sport 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/1244.ts</link>
+		
+		<item>
+			<title>AR: Mbc Sport 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/1245.ts</link>
+		
+		<item>
+			<title>AR: Mbc Sport 3</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/1246.ts</link>
+		
+		<item>
+			<title>AR: Ad Sport 1HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/1248.ts</link>
+		
+		<item>
+			<title>AR: Ad Sport 2 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/1249.ts</link>
+		
+		<item>
+			<title>AR: El Mehwer</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/1247.ts</link>
+		
+		<item>
+			<title>AR: Nile Drama</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/76.ts</link>
+		
+		<item>
+			<title>AR: Nile Comedy</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/75.ts</link>
+		
+		<item>
+			<title>AR: Nile Cinma</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/74.ts</link>
+		
+		<item>
+			<title>AR: Nile Live</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/62.ts</link>
+		
+		<item>
+			<title>AR: Nile News</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/38.ts</link>
+		
+		<item>
+			<title>AR: Nile sport</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/73.ts</link>
+		
+		<item>
+			<title>AR: Nile tv</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/27.ts</link>
+		
+		<item>
+			<title>AR: Nile Blue TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/2201.ts</link>
+		
+		<item>
+			<title>AR: Panorama Film</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/98.ts</link>
+		
+		<item>
+			<title>AR: Panorama Comedy</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/155.ts</link>
+		
+		<item>
+			<title>AR: Panorama Drama</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/77.ts</link>
+		
+		<item>
+			<title>AR: Panorama Drama 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/25.ts</link>
+		
+		<item>
+			<title>AR: Cbc</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/90.ts</link>
+		
+		<item>
+			<title>AR: Cbc Extra</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/92.ts</link>
+		
+		<item>
+			<title>AR: Cbc Drama</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/91.ts</link>
+		
+		<item>
+			<title>AR: Rotana Music</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/79.ts</link>
+		
+		<item>
+			<title>AR: Rotana Clip</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/83.ts</link>
+		
+		<item>
+			<title>AR: Rotana Masriya</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/80.ts</link>
+		
+		<item>
+			<title>AR: Rotana Classic</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/82.ts</link>
+		
+		<item>
+			<title>AR: Rotana Cinma</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/81.ts</link>
+		
+		<item>
+			<title>AR: Rotana Khalijiah</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/72.ts</link>
+		
+		<item>
+			<title>AR: Dream 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/94.ts</link>
+		
+		<item>
+			<title>AR: Dream 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/93.ts</link>
+		
+		<item>
+			<title>AR: Al Nahar</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/154.ts</link>
+		
+		<item>
+			<title>AR: Al Nahar+ 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/153.ts</link>
 		
 		<item>
 			<title>AR: Al Nahar Drama</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2042.ts</link>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/152.ts</link>
 		
 		<item>
-			<title>AR: Al Nahar Cinema</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2043.ts</link>
+			<title>AR: Al Nahar Al Youm</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/151.ts</link>
 		
 		<item>
-			<title>Al Nahar Al Yawm</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2186.ts</link>
+			<title>AR: Al Nahar Cinma</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/71.ts</link>
 		
 		<item>
-			<title>AR: Al Mehwar</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2040.ts</link>
+			<title>AR: Sada ALbalad HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/51.ts</link>
 		
 		<item>
-			<title>AR: Al Manar</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2166.ts</link>
+			<title>AR: Sada Albalad Drama</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/116.ts</link>
 		
 		<item>
-			<title>AR: Al Majd Quran</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/1966.ts</link>
+			<title>AR: Abu Dhabi Drama</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/55.ts</link>
 		
 		<item>
-			<title>TIME_QURAN</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/1976.ts</link>
+			<title>AR: Al Emarat tv HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/130.ts</link>
 		
 		<item>
-			<title>AR:QRANE</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/1977.ts</link>
+			<title>AR: Alhayat 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/109.ts</link>
 		
 		<item>
-			<title>AR: Al Majd</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/1975.ts</link>
+			<title>AR: Alhayat 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/111.ts</link>
 		
 		<item>
-			<title>AR: AL JAZEERA MASR</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2238.ts</link>
+			<title>AR: Alhayat Cinma</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/144.ts</link>
 		
 		<item>
-			<title>JSC</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2171.ts</link>
+			<title>AR: Alhayat Series</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/108.ts</link>
 		
 		<item>
-			<title>AR: Al Jazeera Documentary</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2173.ts</link>
+			<title>AR: Alhayat We Alnas</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/2200.ts</link>
 		
 		<item>
-			<title>Al Jazaairia</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/1945.ts</link>
+			<title>AR: Alkahera wal nas</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/141.ts</link>
 		
 		<item>
-			<title>AR: Al Jadeed</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2013.ts</link>
+			<title>AR: Alkahera wal nas 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/30.ts</link>
 		
 		<item>
-			<title>AR: Al Hurra HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2174.ts</link>
+			<title>AR: TEN</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/87.ts</link>
 		
 		<item>
-			<title>Al Hayat 2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2045.ts</link>
+			<title>AR: TEN +2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/34.ts</link>
 		
 		<item>
-			<title>Al hayat</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2044.ts</link>
+			<title>AR: Star Cinema 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/99.ts</link>
 		
 		<item>
-			<title>AR: Al Hakika</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/1989.ts</link>
+			<title>AR: Star Cinema 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/78.ts</link>
 		
 		<item>
-			<title>AR: Al Falastiniya</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2187.ts</link>
+			<title>AR: Masraweya Aflam</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/1271.ts</link>
 		
 		<item>
-			<title>Al Baghdadia</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2130.ts</link>
+			<title>AR: Majestic Cinema</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/156.ts</link>
 		
 		<item>
-			<title>Al Arabiya</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2178.ts</link>
+			<title>AR: Cima Alibaba</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/119.ts</link>
 		
 		<item>
-			<title>AR: Al Alam</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2167.ts</link>
+			<title>AR: LCD Movies</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/124.ts</link>
 		
 		<item>
-			<title>AR: AD Sports 2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2216.ts</link>
+			<title>AR: Time Taxi</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/120.ts</link>
 		
 		<item>
-			<title>AR: AD Sports 1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2215.ts</link>
+			<title>AR: Time Film</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/112.ts</link>
 		
 		<item>
-			<title>AR: Abou Dhabi HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2109.ts</link>
+			<title>AR: Time Comedy</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/150.ts</link>
 		
 		<item>
-			<title>AR: ABC Cinema</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/2143.ts</link>
+			<title>AR: Time Cinema</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/115.ts</link>
 		
 		<item>
-			<title>FR: Boing</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/1328.ts</link>
+			<title>AR: Cairo Cinema</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/84.ts</link>
 		
 		<item>
-			<title>NRT HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/1574.ts</link>
+			<title>AR: Cairo Drama</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/85.ts</link>
 		
 		<item>
-			<title>NRT 2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/1572.ts</link>
+			<title>AR: Cinma</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/57.ts</link>
 		
 		<item>
-			<title>newline HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/1575.ts</link>
+			<title>AR: Cinema_Pro</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/1260.ts</link>
 		
 		<item>
-			<title>IR:Nour TV Live</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://hdliveiptv.mazian.info:7879/live/samithest/exchsamithest/1573.ts</link>			
+			<title>AR: TokTok Cinma</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/64.ts</link>
+		
+		<item>
+			<title>AR: Sat 7</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/1257.ts</link>
+		
+		<item>
+			<title>AR: Centre Zahra tv</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/1226.ts</link>
+		
+		<item>
+			<title>AR: Funoon</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/127.ts</link>
+		
+		<item>
+			<title>AR: Nat Geoa</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/31.ts</link>
+		
+		<item>
+			<title>AR: Sama Dubai</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/29.ts</link>
+		
+		<item>
+			<title>AR: Abu Dhabi Emarat</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/39.ts</link>
+		
+		<item>
+			<title>AR: Dubai Aloula</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/40.ts</link>
+		
+		<item>
+			<title>AR: Dubai Sport</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/70.ts</link>
+		
+		<item>
+			<title>AR: Dubai one</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/148.ts</link>
+		
+		<item>
+			<title>AR: Dubai Drama</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/145.ts</link>
+		
+		<item>
+			<title>AR: Dubai Zaman</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/146.ts</link>
+		
+		<item>
+			<title>AR: Noor Dubai tv</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/147.ts</link>
+		
+		<item>
+			<title>AR: Spacetoon</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/114.ts</link>
+		
+		<item>
+			<title>AR: Majd Kids HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/131.ts</link>
+		
+		<item>
+			<title>AR: Toyor Aljanah</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/129.ts</link>
+		
+		<item>
+			<title>AR: Baraem</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/95.ts</link>
+		
+		<item>
+			<title>AR: Karameesh</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/96.ts</link>
+		
+		<item>
+			<title>AR: Sharqiya</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/133.ts</link>
+		
+		<item>
+			<title>AR: Baghdadia 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/137.ts</link>
+		
+		<item>
+			<title>AR: Sumaria TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/1251.ts</link>
+		
+		<item>
+			<title>AR: Ishtar tv</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/1256.ts</link>
+		
+		<item>
+			<title>AR: iraq tv</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/1254.ts</link>
+		
+		<item>
+			<title>AR: Beladi</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/2197.ts</link>
+		
+		<item>
+			<title>AR: National Geographic</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/56.ts</link>
+		
+		<item>
+			<title>AR: Hona baghdad</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/1250.ts</link>
+		
+		<item>
+			<title>AR: ALShqrqiya News</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/1252.ts</link>
+		
+		<item>
+			<title>AR: Fujera</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/1255.ts</link>
+		
+		<item>
+			<title>AR: Al Rasheed</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/69.ts</link>
+		
+		<item>
+			<title>AR: Baynounah tv HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/2203.ts</link>
+		
+		<item>
+			<title>AR: Al Aoula Maroc</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/140.ts</link>
+		
+		<item>
+			<title>AR: 2m maroc</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/135.ts</link>
+		
+		<item>
+			<title>AR: Arriadia Maroc</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/32.ts</link>
+		
+		<item>
+			<title>AR: Almaghribia</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/139.ts</link>
+		
+		<item>
+			<title>AR: Tamazight Maroc</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/106.ts</link>
+		
+		<item>
+			<title>AR: Assadisa Maroc</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/67.ts</link>
+		
+		<item>
+			<title>AR: Nessma</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/28.ts</link>
+		
+		<item>
+			<title>AR: Zaytoona</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/17.ts</link>
+		
+		<item>
+			<title>AR: Al Djazairia</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/63.ts</link>
+		
+		<item>
+			<title>AR: Elhiwar Ettounsia</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/60.ts</link>
+		
+		<item>
+			<title>AR: Tunssia 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/15.ts</link>
+		
+		<item>
+			<title>AR: Tunssia 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/16.ts</link>
+		
+		<item>
+			<title>AR: Al Nsan</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/143.ts</link>
+		
+		<item>
+			<title>AR: TNN Tunisia</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/134.ts</link>
+		
+		<item>
+			<title>AR: Ettounsia</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/132.ts</link>
+		
+		<item>
+			<title>AR: M Tunis</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/20.ts</link>
+		
+		<item>
+			<title>AR: Tunis First</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/19.ts</link>
+		
+		<item>
+			<title>AR: Echorouk tv</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/138.ts</link>
+		
+		<item>
+			<title>AR: Sharqia News</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/1258.ts</link>
+		
+		<item>
+			<title>AR: Hannibal</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/107.ts</link>
+		
+		<item>
+			<title>AR: Alsaeedah</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/2204.ts</link>
+		
+		<item>
+			<title>AR: Al Magharibia</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/2196.ts</link>
+		
+		<item>
+			<title>AR: Elheddaf</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/1267.ts</link>
+		
+		<item>
+			<title>AR: Canal Algerie</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/122.ts</link>
+		
+		<item>
+			<title>AR: kbc algeria</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/123.ts</link>
+		
+		<item>
+			<title>AR: Algeria 3</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/121.ts</link>
+		
+		<item>
+			<title>AR: Alnahar algeria</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/125.ts</link>
+		
+		<item>
+			<title>AR: Tamazigh 4</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/2190.ts</link>
+		
+		<item>
+			<title>AR: Samira Tv</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/2189.ts</link>
+		
+		<item>
+			<title>AR: Numedia News</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/2188.ts</link>
+		
+		<item>
+			<title>AR: NaharLaki</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/2187.ts</link>
+		
+		<item>
+			<title>AR: ENTV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/2186.ts</link>
+		
+		<item>
+			<title>AR: El Bilad News</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/2191.ts</link>
+		
+		<item>
+			<title>AR: Echorouk News</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/2193.ts</link>
+		
+		<item>
+			<title>AR: Echorouk Benna</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/2192.ts</link>
+		
+		<item>
+			<title>AR: Dzair News</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/2194.ts</link>
+		
+		<item>
+			<title>AR: Beur Tv</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/2195.ts</link>
+		
+		<item>
+			<title>AR: Cartoon Network</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/117.ts</link>
+		
+		<item>
+			<title>AR: Sudan TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/157.ts</link>
+		
+		<item>
+			<title>AR: palestine</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/128.ts</link>
+		
+		<item>
+			<title>AR: ALqudis</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/149.ts</link>
+		
+		<item>
+			<title>AR: Almada</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/2202.ts</link>
+		
+		<item>
+			<title>AR: Alarabiya</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/37.ts</link>
+		
+		<item>
+			<title>AR: Al Mayaden</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/58.ts</link>
+		
+		<item>
+			<title>AR: BBC News</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/66.ts</link>
+		
+		<item>
+			<title>AR: Orient News</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/1277.ts</link>
+		
+		<item>
+			<title>AR: Aljazera News</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/36.ts</link>
+		
+		<item>
+			<title>AR: Aljazera Mobashir</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/33.ts</link>
+		
+		<item>
+			<title>AR: Sky News HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/18.ts</link>
+		
+		<item>
+			<title>AR: AL Arabia Hadath</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/35.ts</link>
+		
+		<item>
+			<title>AR: Russiya Al Yaum</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/2198.ts</link>
+		
+		<item>
+			<title>AR: TV5 News</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/2205.ts</link>
+		
+		<item>
+			<title>AR: France24 News</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/2206.ts</link>
+		
+		<item>
+			<title>AR: Kurd KNN</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/1243.ts</link>
+		
+		<item>
+			<title>AR: Kurd Yol Tv</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/1239.ts</link>
+		
+		<item>
+			<title>AR: Kurd tv10</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/1241.ts</link>
+		
+		<item>
+			<title>AR: Kurd Sterk Tv</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/1227.ts</link>
+		
+		<item>
+			<title>AR: Kurd Zagros TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/1236.ts</link>
+		
+		<item>
+			<title>AR: Kurd sat News TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/1235.ts</link>
+		
+		<item>
+			<title>AR: Kurd Komala TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/1229.ts</link>
+		
+		<item>
+			<title>AR: Kurd NRT2 TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/1238.ts</link>
+		
+		<item>
+			<title>AR: Kurd NRT TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/1237.ts</link>
+		
+		<item>
+			<title>AR: Kurd Heber</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/1233.ts</link>
+		
+		<item>
+			<title>AR: Kurd Med Muzîk Tv</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/1230.ts</link>
+		
+		<item>
+			<title>AR: Kurd max TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/1242.ts</link>
+		
+		<item>
+			<title>AR: Kurd Haber TÃ¼rk</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/1232.ts</link>
+		
+		<item>
+			<title>AR: Kurd Gali</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/1228.ts</link>
+		
+		<item>
+			<title>AR: Kurd rudaw HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/1240.ts</link>
+		
+		<item>
+			<title>AR: Kurd Speda TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/1234.ts</link>
+		
+		<item>
+			<title>AR: Kurd MegaMax TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ipsatpro.com:8000/live/arabian1/arabian1/1231.ts</link>
+		
+	
+
+
+			
+			
+			
+			
+		
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
 			
 			
 			
@@ -785,608 +1186,3 @@
 			<title>"[COLOR red][B]SERVER 2[/B][/COLOR]"</title>
 			<link>http://......</link>	
 				
-		<item>
-			<title>AR: ZAHRAA</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/2095.ts</link>
-		
-		<item>
-			<title>AR: SHARQIA KARBALA</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/2096.ts</link>
-		
-		<item>
-			<title>AR: QATAR</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/2101.ts</link>
-		
-		<item>
-			<title>AR: NABA TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/2099.ts</link>
-		
-		<item>
-			<title>AR: MOTAWASSIT</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/2103.ts</link>
-		
-		<item>
-			<title>AR: KARBALA</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/2091.ts</link>
-		
-		<item>
-			<title>AR: IRAQIA</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/2092.ts</link>
-		
-		<item>
-			<title>AR: FIRST TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/2104.ts</link>
-		
-		<item>
-			<title>AR: DW TV ARABIA</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/2100.ts</link>
-		
-		<item>
-			<title>AR: DIJLA</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/2090.ts</link>
-		
-		<item>
-			<title>AR: AL SALAM</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/2102.ts</link>
-		
-		<item>
-			<title>AR: AL AQSA</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/2097.ts</link>
-		
-		<item>
-			<title>AR : ART HEKAYAT</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/2085.ts</link>
-		
-		<item>
-			<title>AR: ART HEKAYAT 2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/2086.ts</link>
-		
-		<item>
-			<title>AR: ART CINEMA</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/2087.ts</link>
-		
-		<item>
-			<title>AR:Saudia_Quran_tv</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/2073.ts</link>
-		
-		<item>
-			<title>AR:Mecca_Quran</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/2074.ts</link>
-		
-		<item>
-			<title>AR:IQRAA_TV3</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/2076.ts</link>
-		
-		<item>
-			<title>AR: ALBAGHDADIA</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/2089.ts</link>
-		
-		<item>
-			<title>AR: AL SHARQIA TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/2093.ts</link>
-		
-		<item>
-			<title>AR: AL SHARQIA NEWS</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/2094.ts</link>
-		
-		<item>
-			<title>AR: AL FORAT</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/2088.ts</link>
-		
-		<item>
-			<title>AR:Al_Haram</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/2078.ts</link>
-		
-		<item>
-			<title>AR: SPACETOON</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/2084.ts</link>
-		
-		<item>
-			<title>AR: ZAYTOUNA-HEDAYA</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1764.ts</link>
-		
-		<item>
-			<title>AR: SYRIA SAMA</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1871.ts</link>
-		
-		<item>
-			<title>AR: SYRIA DRAMA</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1872.ts</link>
-		
-		<item>
-			<title>AR: SYRIA AL IKHBARIA</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1874.ts</link>
-		
-		<item>
-			<title>AR: SHAM FM</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1875.ts</link>
-		
-		<item>
-			<title>AR: LIBYA TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1868.ts</link>
-		
-		<item>
-			<title>AR: LIBYA CHANNEL</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1870.ts</link>
-		
-		<item>
-			<title>AR: HALAB TODAY</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1873.ts</link>
-		
-		<item>
-			<title>AR: DUBAI SPORT TV 3</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1717.ts</link>
-		
-		<item>
-			<title>AR: ATTESSIA</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1867.ts</link>
-		
-		<item>
-			<title>AR: ALMAGHARIBIA</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1866.ts</link>
-		
-		<item>
-			<title>AR: ASSALAM</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1781.ts</link>
-		
-		<item>
-			<title>AR: ALHAYAT 2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1783.ts</link>
-		
-		<item>
-			<title>AR: ALHAYAT</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1782.ts</link>
-		
-		<item>
-			<title>AR: AL RAY</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1780.ts</link>
-		
-		<item>
-			<title>AR: AL RAHMAH</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1779.ts</link>
-		
-		<item>
-			<title>AR: AL RAFIDAIN</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1778.ts</link>
-		
-		<item>
-			<title>AR: AL KARAMA</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1777.ts</link>
-		
-		<item>
-			<title>AR: AL HURRA IRAQ</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1774.ts</link>
-		
-		<item>
-			<title>AR: AL FAYHAA</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1772.ts</link>
-		
-		<item>
-			<title>AR: AL FADY</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1771.ts</link>
-		
-		<item>
-			<title>AR: AL ARABIA HADATH</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1768.ts</link>
-		
-		<item>
-			<title>AR: AL AAN</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1773.ts</link>
-		
-		<item>
-			<title>AR: AJIYAL</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1767.ts</link>
-		
-		<item>
-			<title>AR: AGHANINA</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1766.ts</link>
-		
-		<item>
-			<title>AR: ALGERIE NATIONAL</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1634.ts</link>
-		
-		<item>
-			<title>AR-Samira</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1182.ts</link>
-		
-		<item>
-			<title>AR: ZAYTOUNA</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1619.ts</link>
-		
-		<item>
-			<title>AR: Tounesna</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1620.ts</link>
-		
-		<item>
-			<title>AR: ElHiwar Tounsi</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1618.ts</link>
-		
-		<item>
-			<title>AR- AL MAYADEEN</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1552.ts</link>
-		
-		<item>
-			<title>AR- AL JANOUBIA</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1551.ts</link>
-		
-		<item>
-			<title>AR: Tunisie Nationale 1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1477.ts</link>
-		
-		<item>
-			<title>AR: Tunisie Nationale 2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1478.ts</link>
-		
-		<item>
-			<title>AR: Toyor Al Janah Children</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1476.ts</link>
-		
-		<item>
-			<title>AR: Hanibal</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1480.ts</link>
-		
-		<item>
-			<title>AR: Tunisia</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1479.ts</link>
-		
-		<item>
-			<title>AR: KBC ALGERIA</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1458.ts</link>
-		
-		<item>
-			<title>AR: Tunisna</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1462.ts</link>
-		
-		<item>
-			<title>AR- ElHeddaf TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1272.ts</link>
-		
-		<item>
-			<title>AR- ELBILAD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1273.ts</link>
-		
-		<item>
-			<title>AR- ECHOUROUK TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1274.ts</link>
-		
-		<item>
-			<title>AR- ECHOUROUK NEWS</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1275.ts</link>
-		
-		<item>
-			<title>AR- DZAIR NEWS</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1277.ts</link>
-		
-		<item>
-			<title>AR:  CANAL ALGERIE</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1278.ts</link>
-		
-		<item>
-			<title>AR- ALGERIE TV CORAN</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1279.ts</link>
-		
-		<item>
-			<title>AR- ALGERIE 3</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1280.ts</link>
-		
-		<item>
-			<title>AR- ALDJAZAIRIA</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1281.ts</link>
-		
-		<item>
-			<title>AR: Hannibal</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1461.ts</link>
-		
-		<item>
-			<title>AR: ABUDABI OULA</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1454.ts</link>
-		
-		<item>
-			<title>AR: ABUDABI DRAMA</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1455.ts</link>
-		
-		<item>
-			<title>AR- Alan</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1338.ts</link>
-		
-		<item>
-			<title>AR: AJYAL SAUDI</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1339.ts</link>
-		
-		<item>
-			<title>AR- Panorama Drama</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1331.ts</link>
-		
-		<item>
-			<title>AR- Panorama Drama 2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1330.ts</link>
-		
-		<item>
-			<title>AR- Panorama Comedy</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1332.ts</link>
-		
-		<item>
-			<title>AR-  Alkass-1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1334.ts</link>
-		
-		<item>
-			<title>AR-  Alkass-2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1335.ts</link>
-		
-		<item>
-			<title>AR-  Alkass-4</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1336.ts</link>
-		
-		<item>
-			<title>AR-  Alkass-5</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1337.ts</link>
-		
-		<item>
-			<title>AR- FATAFEAT</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1270.ts</link>
-		
-		<item>
-			<title>AR: LBC</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1192.ts</link>
-		
-		<item>
-			<title>AR-Wesal</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1179.ts</link>
-		
-		<item>
-			<title>AR-Sunna</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1180.ts</link>
-		
-		<item>
-			<title>AR-Sky-News-Arabia</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1181.ts</link>
-		
-		<item>
-			<title>AR-Sama-Dubai</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1183.ts</link>
-		
-		<item>
-			<title>AR-Rotana-Cinema</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1184.ts</link>
-		
-		<item>
-			<title>AR-Panorama-Film</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1185.ts</link>
-		
-		<item>
-			<title>AR-Medi-1-Sat</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1188.ts</link>
-		
-		<item>
-			<title>AR: 2M-MONDE</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1191.ts</link>
-		
-		<item>
-			<title>AR- Arabe Box Office 1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/891.ts</link>
-		
-		<item>
-			<title>AR- Arabe Box Office 2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/890.ts</link>
-		
-		<item>
-			<title>AR- Arabe Box Office 3</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/889.ts</link>
-		
-		<item>
-			<title>AR- Arabe Box Office 4</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/888.ts</link>
-		
-		<item>
-			<title>AR- Arabe Box Office 5</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/887.ts</link>
-		
-		<item>
-			<title>AR- Rotana-music</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/725.ts</link>
-		
-		<item>
-			<title>AR- Rotana-Masriya</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/726.ts</link>
-		
-		<item>
-			<title>AR- Rotana-Khalijia</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/727.ts</link>
-		
-		<item>
-			<title>AR- Rotana-Clip</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/728.ts</link>
-		
-		<item>
-			<title>AR- Rotana-Classic</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/729.ts</link>
-		
-		<item>
-			<title>AR: Jordan-Sport</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/731.ts</link>
-		
-		<item>
-			<title>AR- DZair-TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/748.ts</link>
-		
-		<item>
-			<title>AR- AL-MANAR</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/732.ts</link>
-		
-		<item>
-			<title>AR- Al-Khabar-TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/733.ts</link>
-		
-		<item>
-			<title>AR- AL-IMAN-TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/734.ts</link>
-		
-		<item>
-			<title>OSN: On Demand</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/699.ts</link>
-		
-		<item>
-			<title>AR: MBC PRO SPORT 1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1153.ts</link>
-		
-		<item>
-			<title>AR: MBC PRO SPORT 2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/539.ts</link>
-		
-		<item>
-			<title>AR: MBC PRO SPORT 3 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/670.ts</link>
-		
-		<item>
-			<title>AR: EnnaharTV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/671.ts</link>
-		
-		<item>
-			<title>AR: France 24 AR</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1031.ts</link>
-		
-		<item>
-			<title>AR- Noor Dubai</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1025.ts</link>
-		
-		<item>
-			<title>AR- Nabaa</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1026.ts</link>
-		
-		<item>
-			<title>AR- Dubai Drama</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/681.ts</link>
-		
-		<item>
-			<title>AR- DUBAI ONE</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/682.ts</link>
-		
-		<item>
-			<title>AR- Charika Sport</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/683.ts</link>
-		
-		<item>
-			<title>AR- Charika Kabtv</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/684.ts</link>
-		
-		<item>
-			<title>AR-Baraem</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/686.ts</link>
-		
-		<item>
-			<title>AR- Aljadeed</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/688.ts</link>
-		
-		<item>
-			<title>AR: AL ARABIA NEWS</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/690.ts</link>
-		
-		<item>
-			<title>AR- Aljazeera englisch</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/484.ts</link>
-		
-		<item>
-			<title>Aljazeera Mubasher2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/485.ts</link>
-		
-		<item>
-			<title>AR- Aljazeera Balkans:</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/483.ts</link>
-		
-		<item>
-			<title>AR: Mbc Action</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/460.ts</link>
-		
-		<item>
-			<title>AR- Quran Tv</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/400.ts</link>
-		
-		<item>
-			<title>AR- Nour ACHAM</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/401.ts</link>
-		
-		<item>
-			<title>AR: MBC 1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/157.ts</link>
-		
-		<item>
-			<title>AR: MBC 2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/462.ts</link>
-		
-		<item>
-			<title>AR: MBC 3</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1464.ts</link>
-		
-		<item>
-			<title>AR: MBC 4</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/407.ts</link>
-		
-		<item>
-			<title>AR: MBC DRAMA</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/318.ts</link>
-		
-		<item>
-			<title>AR: MBC BOLLYWOOD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/394.ts</link>
-		
-		<item>
-			<title>AR-MBC MAX</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1189.ts</link>
-		
-		<item>
-			<title>AR: MBC MASR2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1190.ts</link>
-		
-		<item>
-			<title>AR- Nile Sport</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/402.ts</link>
-		
-		<item>
-			<title>AR- Nile Life</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/403.ts</link>
-		
-		<item>
-			<title>AR- Nile Comedy</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/404.ts</link>
-		
-		<item>
-			<title>AR- Nile Cinema</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/405.ts</link>
-		
-		<item>
-			<title>AR- Echorouk TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/409.ts</link>
-		
-		<item>
-			<title>AR- Alsharqiya</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/416.ts</link>
-		
-		<item>
-			<title>AR- Aljazeera</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/418.ts</link>
-		
-		<item>
-			<title>AR- OSN MOVIES HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/320.ts</link>
-		
-		<item>
-			<title>AR: ART AFLAM 2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/323.ts</link>
-		
-		<item>
-			<title>AR- Al Nahar Drama</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/324.ts</link>
-		
-		<item>
-			<title>AR: Nessma</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/295.ts</link>
-		
-		<item>
-			<title>AR: ART AFLAM 1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/298.ts</link>
-		
-		<item>
-			<title>AR: Art-Hekayat</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/300.ts</link>
-		
-
