@@ -1336,1553 +1336,176 @@
 			<link>http://......</link>	
 			
 		<item>
-			<title>UK: BT Sport 1 HD 1080p</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11686.ts</link>
+			<title>SkyUKSport1HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://esiptv.tn:7500/live/bass/bass/859.ts</link>
 		
 		<item>
-			<title>UK: BT Sport 1 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11687.ts</link>
+			<title>SkyUKSport2HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://esiptv.tn:7500/live/bass/bass/858.ts</link>
 		
 		<item>
-			<title>UK: BT Sport 1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11685.ts</link>
+			<title>SkyUKSport3HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://esiptv.tn:7500/live/bass/bass/857.ts</link>
 		
 		<item>
-			<title>UK: BT Sport 2 HD 1080p</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11689.ts</link>
+			<title>SkyUKSport4HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://esiptv.tn:7500/live/bass/bass/856.ts</link>
 		
 		<item>
-			<title>UK: BT Sport 2 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11690.ts</link>
+			<title>SkyUKSport5HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://esiptv.tn:7500/live/bass/bass/855.ts</link>
 		
 		<item>
-			<title>UK: BT Sport 2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11688.ts</link>
+			<title>BBC-One</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://esiptv.tn:7500/live/bass/bass/1337.ts</link>
 		
 		<item>
-			<title>UK: BT Sport 3 HD 1080p</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11692.ts</link>
+			<title>BBC-Two</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://esiptv.tn:7500/live/bass/bass/1338.ts</link>
 		
 		<item>
-			<title>UK: BT SPORT 3 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/9647.ts</link>
+			<title>BBC-Three</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://esiptv.tn:7500/live/bass/bass/1339.ts</link>
 		
 		<item>
-			<title>UK: BT Sport 3</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11691.ts</link>
+			<title>SkyThrillerUK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://esiptv.tn:7500/live/bass/bass/867.ts</link>
 		
 		<item>
-			<title>UK: BT Sport ESPN</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11693.ts</link>
+			<title>SkyShowCaseUK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://esiptv.tn:7500/live/bass/bass/868.ts</link>
 		
 		<item>
-			<title>UK: Sky Sports 1 HD 1080p</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11678.ts</link>
+			<title>SkySelectUK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://esiptv.tn:7500/live/bass/bass/869.ts</link>
 		
 		<item>
-			<title>UK: SKY SPORTS 1 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/2159.ts</link>
+			<title>SkySci-FihorrorUK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://esiptv.tn:7500/live/bass/bass/875.ts</link>
 		
 		<item>
-			<title>UK: SKY SPORTS 1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/1842.ts</link>
+			<title>SkyITMaxhd</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://esiptv.tn:7500/live/bass/bass/854.ts</link>
 		
 		<item>
-			<title>UK: Sky Sports 2 HD 1080p</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11679.ts</link>
+			<title>SkyGreatsUK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://esiptv.tn:7500/live/bass/bass/871.ts</link>
 		
 		<item>
-			<title>UK: SKY SPORTS 2 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/2160.ts</link>
+			<title>SkyFamilyUK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://esiptv.tn:7500/live/bass/bass/872.ts</link>
 		
 		<item>
-			<title>UK: SKY SPORTS 2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/1841.ts</link>
+			<title>SkyDramaRomanceUK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://esiptv.tn:7500/live/bass/bass/873.ts</link>
 		
 		<item>
-			<title>UK: Sky Sports 3 HD 1080p</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11680.ts</link>
+			<title>SkyDisneyUK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://esiptv.tn:7500/live/bass/bass/874.ts</link>
 		
 		<item>
-			<title>UK: SKY SPORTS 3 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/2161.ts</link>
+			<title>SkyActionUK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://esiptv.tn:7500/live/bass/bass/866.ts</link>
 		
 		<item>
-			<title>UK: SKY SPORTS 3</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/1840.ts</link>
+			<title>NICKELODEON</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://esiptv.tn:7500/live/bass/bass/1242.ts</link>
 		
 		<item>
-			<title>UK: Sky Sports 4 HD 1080p</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11681.ts</link>
+			<title>DISNEYXD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://esiptv.tn:7500/live/bass/bass/1239.ts</link>
 		
 		<item>
-			<title>UK: SKY SPORTS 4 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/2162.ts</link>
+			<title>BT-SPORTS2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://esiptv.tn:7500/live/bass/bass/1241.ts</link>
 		
 		<item>
-			<title>UK: SKY SPORTS 4</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/1839.ts</link>
+			<title>BT-SPORTS1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://esiptv.tn:7500/live/bass/bass/1240.ts</link>
 		
 		<item>
-			<title>UK: Sky Sports 5 HD 1080p</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11682.ts</link>
+			<title>SkyPremiereUK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://esiptv.tn:7500/live/bass/bass/870.ts</link>
 		
 		<item>
-			<title>UK: SKY SPORTS 5 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/2163.ts</link>
+			<title>SkyComedyUk</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://esiptv.tn:7500/live/bass/bass/865.ts</link>
 		
 		<item>
-			<title>UK: SKY SPORTS 5</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/1838.ts</link>
+			<title>CBS-RealityUK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://esiptv.tn:7500/live/bass/bass/1066.ts</link>
 		
 		<item>
-			<title>UK: Sky Sports News HD 1080p</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11684.ts</link>
+			<title>UK-Syfy</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://esiptv.tn:7500/live/bass/bass/1069.ts</link>
 		
 		<item>
-			<title>UK: SKY SPORTS NEWS HQ</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/2165.ts</link>
+			<title>UK-SKYArt1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://esiptv.tn:7500/live/bass/bass/1070.ts</link>
 		
 		<item>
-			<title>VIP UK: Sky Sports MIX</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/9778.ts</link>
+			<title>UK-Sky-Two</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://esiptv.tn:7500/live/bass/bass/1071.ts</link>
 		
 		<item>
-			<title>UK: Sky Sports F1 HD 1080p</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11683.ts</link>
+			<title>UK Sky-F1UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://esiptv.tn:7500/live/bass/bass/1072.ts</link>
 		
 		<item>
-			<title>UK: Sky Sports F1 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/3855.ts</link>
+			<title>TrueMovies2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://esiptv.tn:7500/live/bass/bass/864.ts</link>
 		
 		<item>
-			<title>UK: Eurosport 1 UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/3856.ts</link>
+			<title>TrueMovies1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://esiptv.tn:7500/live/bass/bass/863.ts</link>
 		
 		<item>
-			<title>UK: EUROSPORT 2 UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/2660.ts</link>
+			<title>True-Movies 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://esiptv.tn:7500/live/bass/bass/1068.ts</link>
 		
 		<item>
-			<title>UK: Premier HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11581.ts</link>
+			<title>Sky-Sp-News</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://esiptv.tn:7500/live/bass/bass/1073.ts</link>
 		
 		<item>
-			<title>VIP UK: EIR SPORT 1 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/9425.ts</link>
+			<title>Sky-One</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://esiptv.tn:7500/live/bass/bass/1074.ts</link>
 		
 		<item>
-			<title>UK: eir Sport 1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11846.ts</link>
+			<title>Sky-News</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://esiptv.tn:7500/live/bass/bass/399.ts</link>
 		
 		<item>
-			<title>VIP UK: EIR SPORT 2 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/9426.ts</link>
+			<title>National-GeoUK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://esiptv.tn:7500/live/bass/bass/1076.ts</link>
 		
 		<item>
-			<title>UK: eir Sport 2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11847.ts</link>
+			<title>NatGeoWildUK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://esiptv.tn:7500/live/bass/bass/862.ts</link>
 		
 		<item>
-			<title>UK: MUTV HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11695.ts</link>
+			<title>NATGEO-WILD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://esiptv.tn:7500/live/bass/bass/599.ts</link>
 		
 		<item>
-			<title>UK: MUTV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11694.ts</link>
+			<title>Movies-4men</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://esiptv.tn:7500/live/bass/bass/1077.ts</link>
 		
 		<item>
-			<title>UK: Chelsea FC</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/5745.ts</link>
+			<title>ITV1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://esiptv.tn:7500/live/bass/bass/1081.ts</link>
 		
 		<item>
-			<title>UK: LFC TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/5436.ts</link>
+			<title>ITV2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://esiptv.tn:7500/live/bass/bass/1080.ts</link>
 		
 		<item>
-			<title>UK: Motors TV UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/5749.ts</link>
+			<title>ITV3</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://esiptv.tn:7500/live/bass/bass/1079.ts</link>
 		
 		<item>
-			<title>UK: Racing UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/5769.ts</link>
-		
-		<item>
-			<title>UK: AT THE RACES</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/6906.ts</link>
-		
-		<item>
-			<title>UK: Horse & Country</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/8102.ts</link>
-		
-		<item>
-			<title>UK: BOX NATION  HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/2174.ts</link>
-		
-		<item>
-			<title>UK: FIGHTBOX HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11153.ts</link>
-		
-		<item>
-			<title>UK: Bike</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11696.ts</link>
-		
-		<item>
-			<title>VIP UK: BT SPORT EXTRA 1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/9419.ts</link>
-		
-		<item>
-			<title>VIP UK: BT SPORT EXTRA 2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/9420.ts</link>
-		
-		<item>
-			<title>VIP UK: BT SPORT EXTRA 3</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/9421.ts</link>
-		
-		<item>
-			<title>VIP UK: BT SPORT EXTRA 4</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/9422.ts</link>
-		
-		<item>
-			<title>VIP UK: BT SPORT EXTRA 5</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/9423.ts</link>
-		
-		<item>
-			<title>VIP UK: BT SPORT EXTRA 6</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/9424.ts</link>
-		
-		<item>
-			<title>UK: BT Sport Mosaic</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11732.ts</link>
-		
-		<item>
-			<title>UK: BT Sport Mosaic 2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11845.ts</link>
-		
-		<item>
-			<title>UK: Sky Cinema Premiere HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11635.ts</link>
-		
-		<item>
-			<title>UK: Sky Cinema Premiere</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/1420.ts</link>
-		
-		<item>
-			<title>UK: Sky Cinema Premiere +1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/6915.ts</link>
-		
-		<item>
-			<title>UK: Sky Cinema Action & Adventure HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11640.ts</link>
-		
-		<item>
-			<title>UK: Sky Cinema Action & Adventure</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/1427.ts</link>
-		
-		<item>
-			<title>UK: Sky Cinema SciFi & Horror HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11644.ts</link>
-		
-		<item>
-			<title>UK: Sky Cinema SciFi & Horror</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/1419.ts</link>
-		
-		<item>
-			<title>UK: Sky Cinema Family HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11639.ts</link>
-		
-		<item>
-			<title>UK: Sky Cinema Family</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/1422.ts</link>
-		
-		<item>
-			<title>UK: Sky Cinema Hits HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11636.ts</link>
-		
-		<item>
-			<title>UK: Sky Cinema Hits</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11633.ts</link>
-		
-		<item>
-			<title>UK: Sky Cinema Harry Potter HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11637.ts</link>
-		
-		<item>
-			<title>UK: Sky Cinema Harry Potter</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11634.ts</link>
-		
-		<item>
-			<title>UK: Sky Cinema Select HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11645.ts</link>
-		
-		<item>
-			<title>UK: Sky Cinema Select</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/2096.ts</link>
-		
-		<item>
-			<title>UK: Sky Cinema Drama & Romance HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11643.ts</link>
-		
-		<item>
-			<title>UK: Sky Cinema Drama & Romance</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/2097.ts</link>
-		
-		<item>
-			<title>UK: Sky Cinema Disney HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11638.ts</link>
-		
-		<item>
-			<title>UK: Sky Cinema Disney</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/1424.ts</link>
-		
-		<item>
-			<title>UK: Sky Cinema Crime & Thriller HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11642.ts</link>
-		
-		<item>
-			<title>UK: Sky Cinema Crime & Thriller</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/1416.ts</link>
-		
-		<item>
-			<title>UK: Sky Cinema Comedy HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11641.ts</link>
-		
-		<item>
-			<title>UK: Sky Cinema Comedy</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/1426.ts</link>
-		
-		<item>
-			<title>UK: Showcase</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11670.ts</link>
-		
-		<item>
-			<title>UK: Horror</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/5653.ts</link>
-		
-		<item>
-			<title>UK: horror ch +1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11648.ts</link>
-		
-		<item>
-			<title>UK: True Movies 1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/2437.ts</link>
-		
-		<item>
-			<title>UK: True Movies 2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/2436.ts</link>
-		
-		<item>
-			<title>UK: True Entertainment</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11617.ts</link>
-		
-		<item>
-			<title>UK: True Entertainment +1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11616.ts</link>
-		
-		<item>
-			<title>UK: True Crime</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11600.ts</link>
-		
-		<item>
-			<title>UK: True Crime +1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11618.ts</link>
-		
-		<item>
-			<title>UK: Drama</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11610.ts</link>
-		
-		<item>
-			<title>UK: Movies 4 Men</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/5748.ts</link>
-		
-		<item>
-			<title>UK: Movies 4 Men +1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/9540.ts</link>
-		
-		<item>
-			<title>UK: Movies 24</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11649.ts</link>
-		
-		<item>
-			<title>UK: Movies 24 +1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/9777.ts</link>
-		
-		<item>
-			<title>UK: Sony Movies</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/5743.ts</link>
-		
-		<item>
-			<title>UK: Sony Movies +1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/6554.ts</link>
-		
-		<item>
-			<title>UK: Film 4</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/3846.ts</link>
-		
-		<item>
-			<title>UK: Film4 +1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11646.ts</link>
-		
-		<item>
-			<title>UK: UNIVERSAL</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/6722.ts</link>
-		
-		<item>
-			<title>UK: Universal  +1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/10507.ts</link>
-		
-		<item>
-			<title>UK: SyFy</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/8134.ts</link>
-		
-		<item>
-			<title>UK: Syfy  +1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/10512.ts</link>
-		
-		<item>
-			<title>UK: Parament ch</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/6925.ts</link>
-		
-		<item>
-			<title>UK: FOX HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/7899.ts</link>
-		
-		<item>
-			<title>UK: Fox</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/6416.ts</link>
-		
-		<item>
-			<title>UK: FOX MOVIES</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/10162.ts</link>
-		
-		<item>
-			<title>UK: TCM</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/7894.ts</link>
-		
-		<item>
-			<title>UK: TCM +1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11647.ts</link>
-		
-		<item>
-			<title>UK: AMC</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/7236.ts</link>
-		
-		<item>
-			<title>UK: Nollywood</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11674.ts</link>
-		
-		<item>
-			<title>UK: Challenge</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11606.ts</link>
-		
-		<item>
-			<title>UK: Challenge +1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11612.ts</link>
-		
-		<item>
-			<title>UK: Sky Living</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/7897.ts</link>
-		
-		<item>
-			<title>UK: Sky Living  +1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/10513.ts</link>
-		
-		<item>
-			<title>UK: SKY ATLANTIC HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/7898.ts</link>
-		
-		<item>
-			<title>UK: Sky Atlantic  +1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/10514.ts</link>
-		
-		<item>
-			<title>UK: ITV1 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/1432.ts</link>
-		
-		<item>
-			<title>UK: ITV +1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11590.ts</link>
-		
-		<item>
-			<title>UK: ITV2 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/1431.ts</link>
-		
-		<item>
-			<title>UK: ITV2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11591.ts</link>
-		
-		<item>
-			<title>UK: ITV2 +1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11597.ts</link>
-		
-		<item>
-			<title>UK: ITV3 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/1430.ts</link>
-		
-		<item>
-			<title>UK: ITV3</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11592.ts</link>
-		
-		<item>
-			<title>UK: ITV3  +1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11593.ts</link>
-		
-		<item>
-			<title>UK: ITV4 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/1429.ts</link>
-		
-		<item>
-			<title>UK: ITV4</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11594.ts</link>
-		
-		<item>
-			<title>UK: ITV4 +1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11622.ts</link>
-		
-		<item>
-			<title>UK: ITV Encore</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/5594.ts</link>
-		
-		<item>
-			<title>UK: ITV Encore +1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11595.ts</link>
-		
-		<item>
-			<title>UK: ITVBe</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11596.ts</link>
-		
-		<item>
-			<title>UK: ITVBe +1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11623.ts</link>
-		
-		<item>
-			<title>UK: Citv</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11727.ts</link>
-		
-		<item>
-			<title>UK: BBC Entertainment</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/6718.ts</link>
-		
-		<item>
-			<title>UK: BBC1 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/1437.ts</link>
-		
-		<item>
-			<title>UK: BBC One NI HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11579.ts</link>
-		
-		<item>
-			<title>UK: BBC2 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/1436.ts</link>
-		
-		<item>
-			<title>UK: BBC3/CBBC HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/1435.ts</link>
-		
-		<item>
-			<title>UK: BBC4/CBEEBIES HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/1434.ts</link>
-		
-		<item>
-			<title>UK: BBC News</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/3858.ts</link>
-		
-		<item>
-			<title>UK: BBC RED BUTTON</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/9779.ts</link>
-		
-		<item>
-			<title>UK: SKY 1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/3822.ts</link>
-		
-		<item>
-			<title>UK: Sky1 +1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/8783.ts</link>
-		
-		<item>
-			<title>UK: SKY 2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/2166.ts</link>
-		
-		<item>
-			<title>UK: E! UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/7900.ts</link>
-		
-		<item>
-			<title>UK: E! +1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11628.ts</link>
-		
-		<item>
-			<title>UK: Channel 4 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/3820.ts</link>
-		
-		<item>
-			<title>UK: Channel 4  +1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11603.ts</link>
-		
-		<item>
-			<title>UK: Channel 5 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/6459.ts</link>
-		
-		<item>
-			<title>UK: Channel 5 +1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11615.ts</link>
-		
-		<item>
-			<title>UK: Channel 5  +24</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11582.ts</link>
-		
-		<item>
-			<title>UK: Channel 5 Star</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/6462.ts</link>
-		
-		<item>
-			<title>UK: Channel 5 USA</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/6461.ts</link>
-		
-		<item>
-			<title>UK: 5 USA +1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11626.ts</link>
-		
-		<item>
-			<title>UK: My5</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11614.ts</link>
-		
-		<item>
-			<title>UK: 5Star</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/5763.ts</link>
-		
-		<item>
-			<title>UK: 5Star +1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/10153.ts</link>
-		
-		<item>
-			<title>UK: 4seven</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11585.ts</link>
-		
-		<item>
-			<title>UK: Comedy Central</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/1445.ts</link>
-		
-		<item>
-			<title>UK: Comedy Central  +1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/10523.ts</link>
-		
-		<item>
-			<title>UK: Comedy Extra</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/5048.ts</link>
-		
-		<item>
-			<title>UK: Comedy Central Extra  +1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/10522.ts</link>
-		
-		<item>
-			<title>UK: CBS Drama</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/3824.ts</link>
-		
-		<item>
-			<title>UK: CBS Action</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/3823.ts</link>
-		
-		<item>
-			<title>UK: CBS Reality</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/2433.ts</link>
-		
-		<item>
-			<title>UK: CBS Reality +1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/8765.ts</link>
-		
-		<item>
-			<title>UK: More4</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/3838.ts</link>
-		
-		<item>
-			<title>UK: More4 +1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11605.ts</link>
-		
-		<item>
-			<title>UK: tru TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11620.ts</link>
-		
-		<item>
-			<title>UK: tru TV +1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11621.ts</link>
-		
-		<item>
-			<title>UK: PBS America</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11658.ts</link>
-		
-		<item>
-			<title>UK: Spike</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11611.ts</link>
-		
-		<item>
-			<title>UK: Pick</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/6904.ts</link>
-		
-		<item>
-			<title>UK: Pick +1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11607.ts</link>
-		
-		<item>
-			<title>UK: STV HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/10150.ts</link>
-		
-		<item>
-			<title>UK: STV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/10151.ts</link>
-		
-		<item>
-			<title>UK: S4C</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/10154.ts</link>
-		
-		<item>
-			<title>UK: 3e</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/3830.ts</link>
-		
-		<item>
-			<title>UK: TV3</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11586.ts</link>
-		
-		<item>
-			<title>UK: TV3  +1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11588.ts</link>
-		
-		<item>
-			<title>UK: TG4</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/6927.ts</link>
-		
-		<item>
-			<title>UK: RTE ONE</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/2435.ts</link>
-		
-		<item>
-			<title>UK: RTE One +1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11587.ts</link>
-		
-		<item>
-			<title>UK: RTE TWO</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/3528.ts</link>
-		
-		<item>
-			<title>UK: RTÉ News Now</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11159.ts</link>
-		
-		<item>
-			<title>UK: RT.jr</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11662.ts</link>
-		
-		<item>
-			<title>UK: E4</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/5599.ts</link>
-		
-		<item>
-			<title>UK: E4 +1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11604.ts</link>
-		
-		<item>
-			<title>UK: UTV HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11580.ts</link>
-		
-		<item>
-			<title>UK: UTV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11598.ts</link>
-		
-		<item>
-			<title>UK: UTV Ireland</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11584.ts</link>
-		
-		<item>
-			<title>UK: Irish TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11583.ts</link>
-		
-		<item>
-			<title>UK: REAL Live</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/5049.ts</link>
-		
-		<item>
-			<title>UK: Real Lives +1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11613.ts</link>
-		
-		<item>
-			<title>UK: YESTERDAY</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/6900.ts</link>
-		
-		<item>
-			<title>UK: YESTERDAY  +1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/9799.ts</link>
-		
-		<item>
-			<title>UK: GOLD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/5051.ts</link>
-		
-		<item>
-			<title>UK: GOLD +1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/10519.ts</link>
-		
-		<item>
-			<title>UK: Lifetime</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11608.ts</link>
-		
-		<item>
-			<title>UK: Lifetime +1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11609.ts</link>
-		
-		<item>
-			<title>UK: Nat Geo</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/3862.ts</link>
-		
-		<item>
-			<title>UK: Nat Geo +1hr</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11656.ts</link>
-		
-		<item>
-			<title>UK: Nat Geo Wild</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/3863.ts</link>
-		
-		<item>
-			<title>UK: Discovery</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/5652.ts</link>
-		
-		<item>
-			<title>UK: Discovery  +1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/10527.ts</link>
-		
-		<item>
-			<title>UK: DISCOVERY SHOWCASE HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/10160.ts</link>
-		
-		<item>
-			<title>UK: Discovery Science</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/3861.ts</link>
-		
-		<item>
-			<title>UK: Discovery Science  +1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/10525.ts</link>
-		
-		<item>
-			<title>UK: Discovery Turbo</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/2100.ts</link>
-		
-		<item>
-			<title>UK: Discovery History</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/2099.ts</link>
-		
-		<item>
-			<title>UK: Discovery History  +1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/10526.ts</link>
-		
-		<item>
-			<title>UK: Discovery Shed</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/2893.ts</link>
-		
-		<item>
-			<title>UK: DISCOVERY WORLD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/10159.ts</link>
-		
-		<item>
-			<title>UK: CRIME & INVESTIGATION</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/10152.ts</link>
-		
-		<item>
-			<title>UK: Crime investigation  +1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/10521.ts</link>
-		
-		<item>
-			<title>UK: Investigation Discovery</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/3864.ts</link>
-		
-		<item>
-			<title>UK: ID</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11655.ts</link>
-		
-		<item>
-			<title>UK: ID  +1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/10517.ts</link>
-		
-		<item>
-			<title>UK: ID Xtra HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11155.ts</link>
-		
-		<item>
-			<title>UK: Discovery Home & Health  +1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11630.ts</link>
-		
-		<item>
-			<title>UK: Discovery Home & Health</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/5545.ts</link>
-		
-		<item>
-			<title>UK: Home & Leisure</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11669.ts</link>
-		
-		<item>
-			<title>UK: Animal planet</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/3473.ts</link>
-		
-		<item>
-			<title>UK: Animal Planet  +1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/10740.ts</link>
-		
-		<item>
-			<title>UK: History</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/3865.ts</link>
-		
-		<item>
-			<title>UK: History +1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/10518.ts</link>
-		
-		<item>
-			<title>UK: H2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/6629.ts</link>
-		
-		<item>
-			<title>UK: Nautical HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11154.ts</link>
-		
-		<item>
-			<title>UK: Sky Arts</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/3836.ts</link>
-		
-		<item>
-			<title>UK: Travel Channel</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/5764.ts</link>
-		
-		<item>
-			<title>UK: Travel Channel +1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/10139.ts</link>
-		
-		<item>
-			<title>UK: Really</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/6902.ts</link>
-		
-		<item>
-			<title>UK: TLC</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/5752.ts</link>
-		
-		<item>
-			<title>UK: TLC  +1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/10510.ts</link>
-		
-		<item>
-			<title>UK: TLC  +2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/10509.ts</link>
-		
-		<item>
-			<title>UK: DMAX</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/5762.ts</link>
-		
-		<item>
-			<title>UK: DMAX +1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11629.ts</link>
-		
-		<item>
-			<title>UK: Alibi</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/5746.ts</link>
-		
-		<item>
-			<title>UK: alibi +1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11627.ts</link>
-		
-		<item>
-			<title>UK: Home</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/3809.ts</link>
-		
-		<item>
-			<title>UK: Home +1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11631.ts</link>
-		
-		<item>
-			<title>UK: EDEN</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/10157.ts</link>
-		
-		<item>
-			<title>UK: Eden +1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11657.ts</link>
-		
-		<item>
-			<title>UK: Living UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/6918.ts</link>
-		
-		<item>
-			<title>UK: LIVING PLUS +1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/10155.ts</link>
-		
-		<item>
-			<title>UK: FINE LIVING</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/10156.ts</link>
-		
-		<item>
-			<title>UK: Food Network</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/6926.ts</link>
-		
-		<item>
-			<title>UK: Food Netwrk +1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11632.ts</link>
-		
-		<item>
-			<title>UK: Good Food</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11601.ts</link>
-		
-		<item>
-			<title>UK: Good Food +1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/8438.ts</link>
-		
-		<item>
-			<title>UK: Dave</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/6914.ts</link>
-		
-		<item>
-			<title>UK: Dave ja vu</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11625.ts</link>
-		
-		<item>
-			<title>UK: Community</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11659.ts</link>
-		
-		<item>
-			<title>UK: revelation</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11671.ts</link>
-		
-		<item>
-			<title>UK: W</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11589.ts</link>
-		
-		<item>
-			<title>UK: W +1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11624.ts</link>
-		
-		<item>
-			<title>UK: Quest</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/6903.ts</link>
-		
-		<item>
-			<title>UK: QUEST +1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11619.ts</link>
-		
-		<item>
-			<title>UK: Your TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11602.ts</link>
-		
-		<item>
-			<title>UK: CBBC HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/3832.ts</link>
-		
-		<item>
-			<title>UK: CBeebies</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11733.ts</link>
-		
-		<item>
-			<title>UK: Cartoon Network</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/6920.ts</link>
-		
-		<item>
-			<title>UK: Cartoon Network +1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11660.ts</link>
-		
-		<item>
-			<title>UK: Boomerang</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/6921.ts</link>
-		
-		<item>
-			<title>UK: Boomerang +1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11664.ts</link>
-		
-		<item>
-			<title>UK: Disney Ch HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/3440.ts</link>
-		
-		<item>
-			<title>UK: Disney Channel  +1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/10524.ts</link>
-		
-		<item>
-			<title>UK: Disney XD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/5650.ts</link>
-		
-		<item>
-			<title>UK: Disney XD +1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11661.ts</link>
-		
-		<item>
-			<title>UK: Disney Junior</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/5651.ts</link>
-		
-		<item>
-			<title>UK: Nickelodeon</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/3866.ts</link>
-		
-		<item>
-			<title>UK: Nickelodeon  +1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/10515.ts</link>
-		
-		<item>
-			<title>UK: NickToons</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/3867.ts</link>
-		
-		<item>
-			<title>UK: Nick Jr</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11722.ts</link>
-		
-		<item>
-			<title>UK: Nick.Jr  +1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/5648.ts</link>
-		
-		<item>
-			<title>UK: nick jr too</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/8747.ts</link>
-		
-		<item>
-			<title>UK: Kix</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11667.ts</link>
-		
-		<item>
-			<title>UK: Kix +1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11668.ts</link>
-		
-		<item>
-			<title>UK: POP</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11663.ts</link>
-		
-		<item>
-			<title>UK: POP +1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11666.ts</link>
-		
-		<item>
-			<title>UK: Tiny Pop</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11665.ts</link>
-		
-		<item>
-			<title>UK: Tiny Pop  +1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/10511.ts</link>
-		
-		<item>
-			<title>UK: MTV Music</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/3849.ts</link>
-		
-		<item>
-			<title>UK: MTV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11599.ts</link>
-		
-		<item>
-			<title>UK: MTV  +1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/10520.ts</link>
-		
-		<item>
-			<title>UK: MTV Rocks</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/6087.ts</link>
-		
-		<item>
-			<title>UK: MTV Hits</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/6086.ts</link>
-		
-		<item>
-			<title>UK: MTV LIVE HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/10172.ts</link>
-		
-		<item>
-			<title>UK: MTV Dance HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/6085.ts</link>
-		
-		<item>
-			<title>UK: MTV Classic</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/3850.ts</link>
-		
-		<item>
-			<title>UK: MTV Base</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/6905.ts</link>
-		
-		<item>
-			<title>UK: VH1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/3847.ts</link>
-		
-		<item>
-			<title>UK: VH1 Classic</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/8820.ts</link>
-		
-		<item>
-			<title>UK: VIVA</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/6473.ts</link>
-		
-		<item>
-			<title>UK: Five</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/3821.ts</link>
-		
-		<item>
-			<title>UK: The Vault</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/3848.ts</link>
-		
-		<item>
-			<title>UK: The Box</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/10508.ts</link>
-		
-		<item>
-			<title>UK: Box Upfront</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11652.ts</link>
-		
-		<item>
-			<title>UK: Box Hits</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11651.ts</link>
-		
-		<item>
-			<title>UK: Vintage TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11716.ts</link>
-		
-		<item>
-			<title>UK: Starz TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11717.ts</link>
-		
-		<item>
-			<title>UK: 4Music</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11653.ts</link>
-		
-		<item>
-			<title>UK: Magic</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11650.ts</link>
-		
-		<item>
-			<title>UK: KISS</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11711.ts</link>
-		
-		<item>
-			<title>UK: Kerrang!</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11715.ts</link>
-		
-		<item>
-			<title>UK: NOW Music</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11736.ts</link>
-		
-		<item>
-			<title>UK: Smash Hits!</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11712.ts</link>
-		
-		<item>
-			<title>UK: Chart Show TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11713.ts</link>
-		
-		<item>
-			<title>UK: Chartshw Dnce</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11718.ts</link>
-		
-		<item>
-			<title>UK: Channel AKA</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11795.ts</link>
-		
-		<item>
-			<title>UK: Scuzz</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11714.ts</link>
-		
-		<item>
-			<title>UK: Flava</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/8620.ts</link>
-		
-		<item>
-			<title>UK: ShowBiz TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11801.ts</link>
-		
-		<item>
-			<title>UK: London Live</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/8136.ts</link>
-		
-		<item>
-			<title>UK: Vox Africa</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11676.ts</link>
-		
-		<item>
-			<title>UK: PTV Prime</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11672.ts</link>
-		
-		<item>
-			<title>UK: BEN</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11726.ts</link>
-		
-		<item>
-			<title>UK: Brit Asia TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11725.ts</link>
-		
-		<item>
-			<title>UK: AIT Int'l</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11731.ts</link>
-		
-		<item>
-			<title>UK: CNN Int</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/6928.ts</link>
-		
-		<item>
-			<title>UK: CNN</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11720.ts</link>
-		
-		<item>
-			<title>UK: Sky News</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/5770.ts</link>
-		
-		<item>
-			<title>UK: FOX NEWS</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/5047.ts</link>
-		
-		<item>
-			<title>UK: Al Jazeera Eng</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11800.ts</link>
-		
-		<item>
-			<title>UK: ABP News</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11812.ts</link>
-		
-		<item>
-			<title>UK: ARISE News</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11730.ts</link>
-		
-		<item>
-			<title>UK: FRANCE Eng</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11803.ts</link>
-		
-		<item>
-			<title>UK: EURONEWS</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11721.ts</link>
-		
-		<item>
-			<title>UK: CCTV News</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11723.ts</link>
-		
-		<item>
-			<title>UK: PCNE Chinese</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11673.ts</link>
-		
-		<item>
-			<title>UK: TVC News</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11734.ts</link>
-		
-		<item>
-			<title>UK: Times Now</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11819.ts</link>
-		
-		<item>
-			<title>UK: News18</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11831.ts</link>
-		
-		<item>
-			<title>UK: CNBC</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11677.ts</link>
-		
-		<item>
-			<title>UK: Bloomberg</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11719.ts</link>
-		
-		<item>
-			<title>UK: Oireachtas TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11792.ts</link>
-		
-		<item>
-			<title>UK: Notts TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11830.ts</link>
-		
-		<item>
-			<title>UK: IQRA TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11737.ts</link>
-		
-		<item>
-			<title>UK: Islam Channel</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11675.ts</link>
-		
-		<item>
-			<title>UK: Peace TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11735.ts</link>
-		
-		<item>
-			<title>UK: British Muslim</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11724.ts</link>
-		
-		<item>
-			<title>UK: Muslim Ummah</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11832.ts</link>
-		
-		<item>
-			<title>UK: mta-muslim tv</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11833.ts</link>
-		
-		<item>
-			<title>UK: MATV National</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11834.ts</link>
-		
-		<item>
-			<title>UK: Zing</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11815.ts</link>
-		
-		<item>
-			<title>UK: Zee TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11816.ts</link>
-		
-		<item>
-			<title>UK: Zee Punjabi</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11817.ts</link>
-		
-		<item>
-			<title>UK: Zee Cinema</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11818.ts</link>
-		
-		<item>
-			<title>UK: World Network</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11806.ts</link>
-		
-		<item>
-			<title>UK: UMP Movies</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11825.ts</link>
-		
-		<item>
-			<title>UK: TV One</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11826.ts</link>
-		
-		<item>
-			<title>UK: TBN UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11827.ts</link>
-		
-		<item>
-			<title>UK: Star Utsav</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11807.ts</link>
-		
-		<item>
-			<title>UK: Star Life OK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11797.ts</link>
-		
-		<item>
-			<title>UK: Star Jalsha</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11798.ts</link>
-		
-		<item>
-			<title>UK: Star GOLD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11799.ts</link>
-		
-		<item>
-			<title>UK: Sony SAB</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11808.ts</link>
-		
-		<item>
-			<title>UK: SonLife</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11828.ts</link>
-		
-		<item>
-			<title>UK: Flow TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11837.ts</link>
-		
-		<item>
-			<title>UK: Samaa</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11820.ts</link>
-		
-		<item>
-			<title>UK: Safeer TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11809.ts</link>
-		
-		<item>
-			<title>UK: Rishtey</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11810.ts</link>
-		
-		<item>
-			<title>UK: Psychic TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11805.ts</link>
-		
-		<item>
-			<title>UK: NTV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11829.ts</link>
-		
-		<item>
-			<title>UK: Made In Tn&Wr</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11821.ts</link>
-		
-		<item>
-			<title>UK: Made In Leeds</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11794.ts</link>
-		
-		<item>
-			<title>UK: Made In Cardiff</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11802.ts</link>
-		
-		<item>
-			<title>UK: Made In Bristol</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11793.ts</link>
-		
-		<item>
-			<title>UK: Islam Ch Urdu</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11835.ts</link>
-		
-		<item>
-			<title>UK: GOD Channel</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11836.ts</link>
-		
-		<item>
-			<title>UK: Glory TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11811.ts</link>
-		
-		<item>
-			<title>UK: GEO TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11796.ts</link>
-		
-		<item>
-			<title>UK: GEO News</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11822.ts</link>
-		
-		<item>
-			<title>UK: EWTN Catholic</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11838.ts</link>
-		
-		<item>
-			<title>UK: Dunya News</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11804.ts</link>
-		
-		<item>
-			<title>UK: DM Plus TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11839.ts</link>
-		
-		<item>
-			<title>UK: Believe TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11840.ts</link>
-		
-		<item>
-			<title>UK: B4U Music</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11841.ts</link>
-		
-		<item>
-			<title>UK: B4U Movies</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11842.ts</link>
-		
-		<item>
-			<title>UK: ARY News</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11843.ts</link>
-		
-		<item>
-			<title>UK: ARY Digital</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11823.ts</link>
-		
-		<item>
-			<title>UK: Akaal Channel</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11844.ts</link>
-		
-		<item>
-			<title>UK: ABN TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11813.ts</link>
-		
-		<item>
-			<title>UK: AAJ Tak</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11814.ts</link>
-		
-		<item>
-			<title>UK: &TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://dmtn-iptv.com:8080/live/tet/tet/11824.ts</link>
+			<title>ITV4</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://esiptv.tn:7500/live/bass/bass/1078.ts</link>
 		
 	
-
-
-		
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		
-	
-
 
