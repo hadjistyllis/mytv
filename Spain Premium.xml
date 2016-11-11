@@ -14,7 +14,370 @@
 			<title>"[COLOR red][B]SERVER 1[/B][/COLOR]"</title>
 			<link>http://......</link>
 				
-	
+		<item>
+			<title>ES: TVE1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/2144.ts</link>
+		
+		<item>
+			<title>ES: TVE LA 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/3629.ts</link>
+		
+		<item>
+			<title>ES: TVE LA 1 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/1770.ts</link>
+		
+		<item>
+			<title>ES: TVE LA 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/1771.ts</link>
+		
+		<item>
+			<title>ES: TV3 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/2145.ts</link>
+		
+		<item>
+			<title>ES: Antena 3</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/1772.ts</link>
+		
+		<item>
+			<title>ES: N Cuatro SD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/1773.ts</link>
+		
+		<item>
+			<title>ES: N Cuatro HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/2152.ts</link>
+		
+		<item>
+			<title>ES: Telecinco HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/3630.ts</link>
+		
+		<item>
+			<title>ES: Telecinco</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/1774.ts</link>
+		
+		<item>
+			<title>ES: la sexta HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/2154.ts</link>
+		
+		<item>
+			<title>ES: Baby TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/3651.ts</link>
+		
+		<item>
+			<title>ES: BOING</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/3650.ts</link>
+		
+		<item>
+			<title>ES: Anima Tv</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/3674.ts</link>
+		
+		<item>
+			<title>ES: Disney XD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/3654.ts</link>
+		
+		<item>
+			<title>ES: Disney Junior</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/3653.ts</link>
+		
+		<item>
+			<title>ES: Cartoon Network</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/3652.ts</link>
+		
+		<item>
+			<title>ES: Nickelodeon</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/3687.ts</link>
+		
+		<item>
+			<title>ES: Disney Channel</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/2162.ts</link>
+		
+		<item>
+			<title>ES: SYFY</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/2153.ts</link>
+		
+		<item>
+			<title>ES: FOX LIFE</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/2158.ts</link>
+		
+		<item>
+			<title>ES: FOX Life HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/3642.ts</link>
+		
+		<item>
+			<title>ES: FOX HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/3641.ts</link>
+		
+		<item>
+			<title>ES: Fox</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/2147.ts</link>
+		
+		<item>
+			<title>ES: Fox SD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/2159.ts</link>
+		
+		<item>
+			<title>ES: AXN White HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/3648.ts</link>
+		
+		<item>
+			<title>ES: AXN</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/3649.ts</link>
+		
+		<item>
+			<title>ES: Calle 13 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/3643.ts</link>
+		
+		<item>
+			<title>ES: Movistar Accion</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/3632.ts</link>
+		
+		<item>
+			<title>ES: Movistar Comedia</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/3633.ts</link>
+		
+		<item>
+			<title>ES: Movistar DCine</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/3631.ts</link>
+		
+		<item>
+			<title>ES: Movistar Xtra</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/3635.ts</link>
+		
+		<item>
+			<title>ES: Movistar Series Xtra</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/3637.ts</link>
+		
+		<item>
+			<title>ES: Movistar Series</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/3636.ts</link>
+		
+		<item>
+			<title>ES: Movistar Estrenos</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/3634.ts</link>
+		
+		<item>
+			<title>ES: Movistar Cine N</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/3639.ts</link>
+		
+		<item>
+			<title>ES: Canal HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/3638.ts</link>
+		
+		<item>
+			<title>ES: TNT</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/3646.ts</link>
+		
+		<item>
+			<title>ES: Comedy Central</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/3640.ts</link>
+		
+		<item>
+			<title>ES: Paramount Channel</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/3673.ts</link>
+		
+		<item>
+			<title>ES: Hollywood SD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/3645.ts</link>
+		
+		<item>
+			<title>ES: Hollywood HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/3644.ts</link>
+		
+		<item>
+			<title>ES: Factoria de Ficcion</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/3678.ts</link>
+		
+		<item>
+			<title>ES: Televisa HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/3679.ts</link>
+		
+		<item>
+			<title>ES: RT Español</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/2151.ts</link>
+		
+		<item>
+			<title>ES: Energy</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/3675.ts</link>
+		
+		<item>
+			<title>ES: TVE Clan</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/3647.ts</link>
+		
+		<item>
+			<title>ES: TVE 24H</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/3669.ts</link>
+		
+		<item>
+			<title>ES: Euronews Espanol</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/3685.ts</link>
+		
+		<item>
+			<title>ES: Neox Tv</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/3672.ts</link>
+		
+		<item>
+			<title>ES: National Geographic</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/3676.ts</link>
+		
+		<item>
+			<title>ES: Nat Geo Wild</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/3677.ts</link>
+		
+		<item>
+			<title>ES: History</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/2146.ts</link>
+		
+		<item>
+			<title>ES: Historia</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/3682.ts</link>
+		
+		<item>
+			<title>ES: Toros Tv</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/3668.ts</link>
+		
+		<item>
+			<title>ES: Viajar HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/3683.ts</link>
+		
+		<item>
+			<title>ES: Odisea Tv</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/3671.ts</link>
+		
+		<item>
+			<title>ES: Nova</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/3667.ts</link>
+		
+		<item>
+			<title>ES: Mega</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/3691.ts</link>
+		
+		<item>
+			<title>ES: MTV es</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/3690.ts</link>
+		
+		<item>
+			<title>ES: Proyecto 40</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/2150.ts</link>
+		
+		<item>
+			<title>ES: Crimen Investigation</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/3689.ts</link>
+		
+		<item>
+			<title>ES: Cosmo HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/3688.ts</link>
+		
+		<item>
+			<title>ES: Canal+ DeCasa</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/3686.ts</link>
+		
+		<item>
+			<title>ES: Canal Cocina</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/3684.ts</link>
+		
+		<item>
+			<title>ES: Movistar MotoGP</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/3680.ts</link>
+		
+		<item>
+			<title>ES: Movistar F1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/3681.ts</link>
+		
+		<item>
+			<title>ES: Andalucia Tv</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/3670.ts</link>
+		
+		<item>
+			<title>ES: RealMadrid TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/1589.ts</link>
+		
+		<item>
+			<title>ES: Taquilla 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/2628.ts</link>
+		
+		<item>
+			<title>ES: Taquilla 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/2629.ts</link>
+		
+		<item>
+			<title>ES: Taquilla 3</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/2630.ts</link>
+		
+		<item>
+			<title>ES: Taquilla 4</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/2631.ts</link>
+		
+		<item>
+			<title>ES: Taquilla 5</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/3655.ts</link>
+		
+		<item>
+			<title>ES: Taquilla 6</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/2632.ts</link>
+		
+		<item>
+			<title>ES: Taquilla 7</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/3656.ts</link>
+		
+		<item>
+			<title>ES: Taquilla 8</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/2633.ts</link>
+		
+		<item>
+			<title>ES: Taquilla 9</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/3657.ts</link>
+		
+		<item>
+			<title>ES: Taquilla 10</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/3658.ts</link>
+		
+		<item>
+			<title>ES: Salas de Cine 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/3659.ts</link>
+		
+		<item>
+			<title>ES: Salas de Cine 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/3660.ts</link>
+		
+		<item>
+			<title>ES: Salas de Cine 3</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/3661.ts</link>
+		
+		<item>
+			<title>ES: Salas de Cine 4</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/3662.ts</link>
+		
+		<item>
+			<title>ES: Salas de Cine 5</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/3663.ts</link>
+		
+		<item>
+			<title>ES: Salas de Cine 6</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/3664.ts</link>
+		
+		<item>
+			<title>ES: Salas de Cine 7</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/3665.ts</link>
+		
+		<item>
+			<title>ES: Salas de Cine 8</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/3666.ts</link>
+		
+		<item>
+			<title>ES: EUROSPORT</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/2161.ts</link>
+		
+		<item>
+			<title>ES: Canal  Deportes</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/2149.ts</link>
+		
+		<item>
+			<title>ES: Bein Sport Espagne</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/2143.ts</link>
+		
+		<item>
+			<title>ES: Barca TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/1585.ts</link>
+			
 		<item>
 			<title>SP: Live Spain Las Palmas LAS CANTERAS beach</title>
 			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/3865.ts</link>
