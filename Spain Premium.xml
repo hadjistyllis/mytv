@@ -7,143 +7,41 @@
 			<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=GA0N0Bu5JiE</link>
 
 			
+			
+			
+			
 		<item>
 			<title>"[COLOR red][B]SERVER 1[/B][/COLOR]"</title>
 			<link>http://......</link>
 				
+	
 		<item>
-			<title>ES: Tring Jolly HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1353.ts</link>
+			<title>SP: Live Spain Las Palmas LAS CANTERAS beach</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/3865.ts</link>
 		
 		<item>
-			<title>ES: Tring History</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1352.ts</link>
+			<title>SP: Spain Lloret de Mar Central beach</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/3868.ts</link>
 		
 		<item>
-			<title>ES: CANAL Estrenos</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1427.ts</link>
+			<title>SP: Spain Chiclana Marina de Sancti Petri</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/3866.ts</link>
 		
 		<item>
-			<title>ES: Comedy Central</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1428.ts</link>
-		
-		<item>
-			<title>ES: TCM</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1060.ts</link>
-		
-		<item>
-			<title>ES: Canal + Toros</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1061.ts</link>
-		
-		<item>
-			<title>ES: C+ SERIES XTRA</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1267.ts</link>
-		
-		<item>
-			<title>ES: BARCA TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/897.ts</link>
-		
-		<item>
-			<title>ES: Canal Futbol</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/764.ts</link>
-		
-		<item>
-			<title>ES: Canal Liga</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/765.ts</link>
-		
-		<item>
-			<title>ES: NATIONAL-GEOGRAPHIC</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/735.ts</link>
-		
-		<item>
-			<title>ES: HISTORIA</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/736.ts</link>
-		
-		<item>
-			<title>ES: FOX-LIFE</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/737.ts</link>
-		
-		<item>
-			<title>ES: DISNEY-JUNIOR</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/738.ts</link>
-		
-		<item>
-			<title>ES: TV3 CAT</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/644.ts</link>
-		
-		<item>
-			<title>ES: SYFY</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/646.ts</link>
-		
-		<item>
-			<title>ES: RT NOTICIAS</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/647.ts</link>
-		
-		<item>
-			<title>ES: REAL MADRID</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/648.ts</link>
-		
-		<item>
-			<title>ES: NICKELODEON</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/654.ts</link>
-		
-		<item>
-			<title>ES: FOX</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/649.ts</link>
-		
-		<item>
-			<title>ES: CANAL  ESTRENOS</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/656.ts</link>
-		
-		<item>
-			<title>ES: CANAL  DCINE</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/658.ts</link>
-		
-		<item>
-			<title>ES: CANAL  COMEDIA</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/659.ts</link>
-		
-		<item>
-			<title>ES: CANAL  ACCION</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/660.ts</link>
-		
-		<item>
-			<title>ES: CANAL SERIE</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/655.ts</link>
-		
-		<item>
-			<title>ES: CANAL DEPORTE</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/657.ts</link>
-		
-		<item>
-			<title>ES: CALLE 13</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/662.ts</link>
-		
-		<item>
-			<title>ES: Taquilla 1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1470.ts</link>
-		
-		<item>
-			<title>ES: Taquilla 2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1471.ts</link>
-		
-		<item>
-			<title>ES: Taquilla 3</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1472.ts</link>
-		
-		<item>
-			<title>ES: Taquilla 4</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1473.ts</link>
-		
-		<item>
-			<title>ES: Taquilla 5</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1474.ts</link>
-		
-		<item>
-			<title>ES: Taquilla 6</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1475.ts</link>
-		
-				
+			<title>SP: Spain Cadiz Beach Santa María del Mar</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/3867.ts</link>				
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
 			
 			
 		<item>
