@@ -15,8 +15,51 @@
 			<title>"[COLOR red][B]SERVER 1[/B][/COLOR]"</title>
 			<link>http://......</link>	
 
-	
 		<item>
+			<title>AR: beINSports 1 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/882.ts</link>
+		
+		<item>
+			<title>AR: beINSports 2 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/883.ts</link>
+		
+		<item>
+			<title>AR: beINSports 3 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/884.ts</link>
+		
+		<item>
+			<title>AR: beINSports 4 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/885.ts</link>
+		
+		<item>
+			<title>AR: beINSports 5 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/886.ts</link>
+		
+		<item>
+			<title>AR: beINSports 6 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/887.ts</link>
+		
+		<item>
+			<title>AR: beINSports 7 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/888.ts</link>
+		
+		<item>
+			<title>AR: beINSports 8 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/889.ts</link>
+		
+		<item>
+			<title>AR: beINSports 9 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/1729.ts</link>
+		
+		<item>
+			<title>AR: beINSports 10 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/1730.ts</link>
+		
+		<item>
+			<title>AR: beINSports 11 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/1769.ts</link>	
+
+			<item>
 			<title>AR:BeinMovie 4HD</title>
 			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/2741.ts</link>
 		
