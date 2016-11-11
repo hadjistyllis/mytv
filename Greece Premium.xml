@@ -13,25 +13,26 @@
 			
 
 		<item>
-			<title>GR: ERT1</title>
+			<title>GR: ERT World</title>
 			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/2318.ts</link>
 		
 		<item>
-			<title>GR: ERT2</title>
+			<title>GR: ANT1</title>
 			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/2317.ts</link>
-		
+
+		<item>
+			<title>GR: ANT1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/2326.ts</link>
+						
 		<item>
 			<title>GR: ERT3</title>
 			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/2319.ts</link>
 		
 		<item>
-			<title>GR: RIK Sat</title>
+			<title>CY: RIK Sat</title>
 			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/3728.ts</link>
 		
-		<item>
-			<title>GR: RIK 2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/3729.ts</link>
-		
+	
 		<item>
 			<title>GR: Skai</title>
 			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/2303.ts</link>
@@ -40,9 +41,6 @@
 			<title>GR: Action 24</title>
 			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/3727.ts</link>
 		
-		<item>
-			<title>GR: ANT1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/2326.ts</link>
 		
 		<item>
 			<title>GR: Alpha</title>
@@ -53,7 +51,7 @@
 			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/2309.ts</link>
 		
 		<item>
-			<title>GR: MegaOne</title>
+			<title>CY: MegaOne</title>
 			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/3722.ts</link>
 		
 		<item>
@@ -61,7 +59,7 @@
 			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/2302.ts</link>
 		
 		<item>
-			<title>GR: PLUS</title>
+			<title>CY: PLUS</title>
 			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/3730.ts</link>
 		
 		<item>
@@ -69,11 +67,11 @@
 			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/2959.ts</link>
 		
 		<item>
-			<title>GR: Capital</title>
+			<title>CY: Capital</title>
 			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/3731.ts</link>
 		
 		<item>
-			<title>GR: Sigma</title>
+			<title>CY: Sigma</title>
 			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/1646.ts</link>
 		
 		<item>
@@ -90,14 +88,14 @@
 		
 		<item>
 			<title>GR: Kids</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=mmsh://wpso.com:200/kids</link>
+			<link>mmsh://wpso.com:200/kids</link>
 		
 		<item>
 			<title>GR: itv</title>
 			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/3735.ts</link>
 		
 		<item>
-			<title>GR: Greek Natura</title>
+			<title>GR: Greek Cinema</title>
 			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/3736.ts</link>
 		
 		<item>
