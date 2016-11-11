@@ -12,37 +12,65 @@
 			<link>http://......</link>	
 			
 		<item>
-			<title>BE: La Une HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/772.ts</link>
+			<title>BE: VTMKAZOOM/ KANAL Z</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/2085.ts</link>
 		
 		<item>
-			<title>BE: La-Deux</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/571.ts</link>
+			<title>BE: Tvvesdre</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/2086.ts</link>
 		
 		<item>
-			<title>BE: La-Trois</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/570.ts</link>
+			<title>BE: TVO</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/2087.ts</link>
 		
 		<item>
-			<title>BE: RTL TVI HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1342.ts</link>
+			<title>BE: TVL</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/2088.ts</link>
 		
 		<item>
-			<title>BE: PLUG RTL</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1343.ts</link>
+			<title>BE: TV LUX</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/2089.ts</link>
 		
 		<item>
-			<title>BE: LA TROIS</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1344.ts</link>
+			<title>BE: RTL TVI</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/2090.ts</link>
 		
 		<item>
-			<title>BE: LA DEUX</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1345.ts</link>
+			<title>BE: Plug RTL</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/2091.ts</link>
 		
 		<item>
-			<title>BE: KETNET</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ip.kmsat.info:8000/live/salah/salah/1346.ts</link>
-			
+			<title>BE: La Une</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/2092.ts</link>
+		
+		<item>
+			<title>BE: La Trois</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/2093.ts</link>
+		
+		<item>
+			<title>BE: La Deux</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/2094.ts</link>
+		
+		<item>
+			<title>BE: CLUB RTL</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/2095.ts</link>
+		
+		<item>
+			<title>BE: BE SERIE</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/2082.ts</link>
+		
+		<item>
+			<title>BE: BE CINE</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/2083.ts</link>
+		
+		<item>
+			<title>BE: BE 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/2084.ts</link>
+		
+		<item>
+			<title>BE: 2BE</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/enigma10/VUNuVnnJhQ/2096.ts</link>
+		
 			
 			
 			
