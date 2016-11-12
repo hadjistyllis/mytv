@@ -479,473 +479,300 @@
 			<link>http://......</link>
 			
 		<item>
-			<title>UK: BBC 1 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/878.ts</link>
+			<title>UK|SKY_ONE_HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://sat.hitech0iptv.com:8000/live/lodewijk/lodewijk/165.ts</link>
 		
 		<item>
-			<title>UK:BBC_one</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/1838.ts</link>
+			<title>UK|Animal_Planet</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://sat.hitech0iptv.com:8000/live/lodewijk/lodewijk/208.ts</link>
 		
 		<item>
-			<title>UK:BBC Two</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/1839.ts</link>
+			<title>UK|Travel_Channel</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://sat.hitech0iptv.com:8000/live/lodewijk/lodewijk/366.ts</link>
 		
 		<item>
-			<title>UK:CBBC Three</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/1840.ts</link>
+			<title>UK|SKY_TWO</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://sat.hitech0iptv.com:8000/live/lodewijk/lodewijk/166.ts</link>
 		
 		<item>
-			<title>UK:BBC News</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/1841.ts</link>
+			<title>UK|Sky_Movies_ScFi_Horror</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://sat.hitech0iptv.com:8000/live/lodewijk/lodewijk/333.ts</link>
 		
 		<item>
-			<title>UK: BBC 4 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/1745.ts</link>
+			<title>UK|Sky_Movies_Showcase</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://sat.hitech0iptv.com:8000/live/lodewijk/lodewijk/334.ts</link>
 		
 		<item>
-			<title>UK: More4</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/3777.ts</link>
+			<title>UK|Sky_Movies_Disney</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://sat.hitech0iptv.com:8000/live/lodewijk/lodewijk/335.ts</link>
 		
 		<item>
-			<title>UK: CHANNEL 5</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/1742.ts</link>
+			<title>UK|SKY_MOVIES_THRILLER</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://sat.hitech0iptv.com:8000/live/lodewijk/lodewijk/167.ts</link>
 		
 		<item>
-			<title>UK: RTE Two</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/3759.ts</link>
+			<title>UK|SKY_MOVIES_SELECT</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://sat.hitech0iptv.com:8000/live/lodewijk/lodewijk/168.ts</link>
 		
 		<item>
-			<title>UK: RTE One</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/3758.ts</link>
+			<title>UK|SKY_MOVIE_PREMIERE</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://sat.hitech0iptv.com:8000/live/lodewijk/lodewijk/169.ts</link>
 		
 		<item>
-			<title>UK: RTE 3 J.R</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/3760.ts</link>
+			<title>UK|SKY_MOVIE_MODERN_GREAT</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://sat.hitech0iptv.com:8000/live/lodewijk/lodewijk/170.ts</link>
 		
 		<item>
-			<title>UK: 3E Ireland</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/3780.ts</link>
+			<title>UK|SKY_MOVIE_FAMILY</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://sat.hitech0iptv.com:8000/live/lodewijk/lodewijk/171.ts</link>
 		
 		<item>
-			<title>UK: E!</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/3779.ts</link>
+			<title>UK|SKY_MOVIE_DRAMA</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://sat.hitech0iptv.com:8000/live/lodewijk/lodewijk/172.ts</link>
 		
 		<item>
-			<title>UK: Itv Encore</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/3778.ts</link>
+			<title>UK|SKY_MOVIE_COMEDY</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://sat.hitech0iptv.com:8000/live/lodewijk/lodewijk/173.ts</link>
 		
 		<item>
-			<title>UK: ITV 1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/1267.ts</link>
+			<title>UK|SKY_MOVIE_ATLANTIC</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://sat.hitech0iptv.com:8000/live/lodewijk/lodewijk/174.ts</link>
 		
 		<item>
-			<title>UK: ITV 2 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/1266.ts</link>
+			<title>UK|SKY_MOVIE_ACTION</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://sat.hitech0iptv.com:8000/live/lodewijk/lodewijk/175.ts</link>
 		
 		<item>
-			<title>UK: ITV 3</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/1265.ts</link>
+			<title>UK|SKY_CBS_REALITY</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://sat.hitech0iptv.com:8000/live/lodewijk/lodewijk/176.ts</link>
 		
 		<item>
-			<title>UK: ITV 4</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/1264.ts</link>
+			<title>UK|British_Eurosport_2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://sat.hitech0iptv.com:8000/live/lodewijk/lodewijk/177.ts</link>
 		
 		<item>
-			<title>UK: Watch</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/1738.ts</link>
+			<title>UK|Yesterday</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://sat.hitech0iptv.com:8000/live/lodewijk/lodewijk/372.ts</link>
 		
 		<item>
-			<title>US: ABC</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/1928.ts</link>
+			<title>UK|WATCH</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://sat.hitech0iptv.com:8000/live/lodewijk/lodewijk/371.ts</link>
 		
 		<item>
-			<title>UK: TV Nasa</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/1568.ts</link>
+			<title>UK|SKY_LIVING</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://sat.hitech0iptv.com:8000/live/lodewijk/lodewijk/370.ts</link>
 		
 		<item>
-			<title>UK: TLC-IRELAND</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/1746.ts</link>
+			<title>UK|SETANTA_SPORT</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://sat.hitech0iptv.com:8000/live/lodewijk/lodewijk/346.ts</link>
 		
 		<item>
-			<title>FR: EuroNews</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/920.ts</link>
+			<title>UK|RACING_UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://sat.hitech0iptv.com:8000/live/lodewijk/lodewijk/345.ts</link>
 		
 		<item>
-			<title>UK: SYFY</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/3770.ts</link>
+			<title>UK|MTV_MUSIC</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://sat.hitech0iptv.com:8000/live/lodewijk/lodewijk/361.ts</link>
 		
 		<item>
-			<title>UK:FOX</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/1783.ts</link>
+			<title>UK|MTV_HITS</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://sat.hitech0iptv.com:8000/live/lodewijk/lodewijk/360.ts</link>
 		
 		<item>
-			<title>UK: Fox sd</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/3776.ts</link>
+			<title>UK|SYFY</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://sat.hitech0iptv.com:8000/live/lodewijk/lodewijk/357.ts</link>
 		
 		<item>
-			<title>UK: TCM (film)</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/3757.ts</link>
+			<title>UK|MOTORS_TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://sat.hitech0iptv.com:8000/live/lodewijk/lodewijk/344.ts</link>
 		
 		<item>
-			<title>UK:Life Time</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/1831.ts</link>
+			<title>UK|FOX_HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://sat.hitech0iptv.com:8000/live/lodewijk/lodewijk/349.ts</link>
 		
 		<item>
-			<title>UK: Comedy Central</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/2709.ts</link>
+			<title>UK|ITV4</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://sat.hitech0iptv.com:8000/live/lodewijk/lodewijk/318.ts</link>
 		
 		<item>
-			<title>UK: Sky One HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/1833.ts</link>
+			<title>UK|ITV3</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://sat.hitech0iptv.com:8000/live/lodewijk/lodewijk/319.ts</link>
 		
 		<item>
-			<title>UK: SKY Two HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/1259.ts</link>
+			<title>UK|ITV2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://sat.hitech0iptv.com:8000/live/lodewijk/lodewijk/320.ts</link>
 		
 		<item>
-			<title>UK: SKY Atlantic HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/1258.ts</link>
+			<title>UK|ITV1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://sat.hitech0iptv.com:8000/live/lodewijk/lodewijk/321.ts</link>
 		
 		<item>
-			<title>UK: SKY Movies Premier HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/1253.ts</link>
+			<title>UK|HOME</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://sat.hitech0iptv.com:8000/live/lodewijk/lodewijk/368.ts</link>
 		
 		<item>
-			<title>UK: Sky Movies  Premiere</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/1748.ts</link>
+			<title>UK|Food_Network</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://sat.hitech0iptv.com:8000/live/lodewijk/lodewijk/341.ts</link>
 		
 		<item>
-			<title>UK: Sky Movies Action & Adventure HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/1060.ts</link>
+			<title>UK|DAVE</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://sat.hitech0iptv.com:8000/live/lodewijk/lodewijk/340.ts</link>
 		
 		<item>
-			<title>UK: Sky Movies Hits Showcase HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/1795.ts</link>
+			<title>UK|Sky_News</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://sat.hitech0iptv.com:8000/live/lodewijk/lodewijk/358.ts</link>
 		
 		<item>
-			<title>UK: SkyShowcase</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/2712.ts</link>
+			<title>UK|BBC4</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://sat.hitech0iptv.com:8000/live/lodewijk/lodewijk/322.ts</link>
 		
 		<item>
-			<title>UK: Sky Movies Action</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/1747.ts</link>
+			<title>UK|BBC3</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://sat.hitech0iptv.com:8000/live/lodewijk/lodewijk/323.ts</link>
 		
 		<item>
-			<title>UK: Sky Movies Family HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/2708.ts</link>
+			<title>UK|BBC2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://sat.hitech0iptv.com:8000/live/lodewijk/lodewijk/324.ts</link>
 		
 		<item>
-			<title>UK: Sky Movies Comedy HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/1096.ts</link>
+			<title>UK|BBC1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://sat.hitech0iptv.com:8000/live/lodewijk/lodewijk/325.ts</link>
 		
 		<item>
-			<title>UK: Sky Movies Drama & Romance</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/1694.ts</link>
+			<title>UK|ALIBI</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://sat.hitech0iptv.com:8000/live/lodewijk/lodewijk/365.ts</link>
 		
 		<item>
-			<title>UK: Sky Movies Drama & Romance.</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/1794.ts</link>
+			<title>UK|HBO</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://sat.hitech0iptv.com:8000/live/lodewijk/lodewijk/354.ts</link>
 		
 		<item>
-			<title>UK: Sky Movies Crime &Thriller HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/1251.ts</link>
+			<title>UK|NICKELODEON</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://sat.hitech0iptv.com:8000/live/lodewijk/lodewijk/178.ts</link>
 		
 		<item>
-			<title>UK: Sky Thriller</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/1805.ts</link>
+			<title>UK|COMEDY_CENTRAL</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://sat.hitech0iptv.com:8000/live/lodewijk/lodewijk/179.ts</link>
 		
 		<item>
-			<title>UK: Sky Movies Sci-fi & Horror HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/1252.ts</link>
+			<title>UK|CBS_DRAMA</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://sat.hitech0iptv.com:8000/live/lodewijk/lodewijk/180.ts</link>
 		
 		<item>
-			<title>UK: Sky Movies Greats HD HarryPotter</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/1098.ts</link>
+			<title>UK|CBS_ACTION</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://sat.hitech0iptv.com:8000/live/lodewijk/lodewijk/181.ts</link>
 		
 		<item>
-			<title>UK: Sky Movies Select</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/1099.ts</link>
+			<title>UK|BOX_NATION_HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://sat.hitech0iptv.com:8000/live/lodewijk/lodewijk/182.ts</link>
 		
 		<item>
-			<title>UK: SkySelect</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/2714.ts</link>
+			<title>UK|TLC</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://sat.hitech0iptv.com:8000/live/lodewijk/lodewijk/186.ts</link>
 		
 		<item>
-			<title>UK: HBO Comedy HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/3768.ts</link>
+			<title>UK|Quest</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://sat.hitech0iptv.com:8000/live/lodewijk/lodewijk/188.ts</link>
 		
 		<item>
-			<title>UK: HBO</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/3766.ts</link>
+			<title>UK|National_Geographic</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://sat.hitech0iptv.com:8000/live/lodewijk/lodewijk/190.ts</link>
 		
 		<item>
-			<title>UK: Gold TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/3775.ts</link>
+			<title>UK|Nat_Geo_Wild</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://sat.hitech0iptv.com:8000/live/lodewijk/lodewijk/191.ts</link>
 		
 		<item>
-			<title>UK: SKY Movies Disney HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/1255.ts</link>
+			<title>UK|More_4</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://sat.hitech0iptv.com:8000/live/lodewijk/lodewijk/192.ts</link>
 		
 		<item>
-			<title>UK:Disney XD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/1832.ts</link>
+			<title>UK|History_Channel</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://sat.hitech0iptv.com:8000/live/lodewijk/lodewijk/194.ts</link>
 		
 		<item>
-			<title>UK: Disney Junior</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/1271.ts</link>
+			<title>UK|History_2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://sat.hitech0iptv.com:8000/live/lodewijk/lodewijk/195.ts</link>
 		
 		<item>
-			<title>UK: Cartoon Network</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/2378.ts</link>
+			<title>UK|British_Eurosport_1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://sat.hitech0iptv.com:8000/live/lodewijk/lodewijk/196.ts</link>
 		
 		<item>
-			<title>UK: NIck JR</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/1672.ts</link>
+			<title>UK|Film_4</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://sat.hitech0iptv.com:8000/live/lodewijk/lodewijk/197.ts</link>
 		
 		<item>
-			<title>UK: Nickelodeon</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/1261.ts</link>
+			<title>UK|Discovery_Science</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://sat.hitech0iptv.com:8000/live/lodewijk/lodewijk/200.ts</link>
 		
 		<item>
-			<title>UK: NickToons</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/3748.ts</link>
+			<title>UK|Discovery_History</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://sat.hitech0iptv.com:8000/live/lodewijk/lodewijk/202.ts</link>
 		
 		<item>
-			<title>UK: Nick JR+1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/3750.ts</link>
+			<title>UK|Discovery</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://sat.hitech0iptv.com:8000/live/lodewijk/lodewijk/203.ts</link>
 		
 		<item>
-			<title>UK: Nick JR Peppa</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/3751.ts</link>
+			<title>UK|Channel_5</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://sat.hitech0iptv.com:8000/live/lodewijk/lodewijk/205.ts</link>
 		
 		<item>
-			<title>UK: BoomeRang</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/891.ts</link>
+			<title>UK|Channel_4</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://sat.hitech0iptv.com:8000/live/lodewijk/lodewijk/206.ts</link>
 		
 		<item>
-			<title>UK: Boomerang+1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/2713.ts</link>
+			<title>UK|5_USA</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://sat.hitech0iptv.com:8000/live/lodewijk/lodewijk/210.ts</link>
 		
 		<item>
-			<title>UK: Baby TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/2927.ts</link>
+			<title>UK|Sky_Sports_News</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://sat.hitech0iptv.com:8000/live/lodewijk/lodewijk/331.ts</link>
 		
 		<item>
-			<title>UK: Movies4Man1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/3764.ts</link>
+			<title>UK|Sky_Sports_F1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://sat.hitech0iptv.com:8000/live/lodewijk/lodewijk/332.ts</link>
 		
 		<item>
-			<title>UK: Movies4Man</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/3763.ts</link>
+			<title>UK|Sky_Sports_5_HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://sat.hitech0iptv.com:8000/live/lodewijk/lodewijk/377.ts</link>
 		
 		<item>
-			<title>UK: Movies24</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/3774.ts</link>
+			<title>UK|Sky_Sports_4_HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://sat.hitech0iptv.com:8000/live/lodewijk/lodewijk/376.ts</link>
 		
 		<item>
-			<title>UK: CBS Action</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/1277.ts</link>
+			<title>UK|Sky_Sports_3_HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://sat.hitech0iptv.com:8000/live/lodewijk/lodewijk/375.ts</link>
 		
 		<item>
-			<title>UK: CBS Drama</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/1276.ts</link>
+			<title>UK|Sky_sports_2_HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://sat.hitech0iptv.com:8000/live/lodewijk/lodewijk/374.ts</link>
 		
 		<item>
-			<title>UK: CBS Reality</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/1275.ts</link>
+			<title>UK|Sky_Sports_1_HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://sat.hitech0iptv.com:8000/live/lodewijk/lodewijk/373.ts</link>
 		
 		<item>
-			<title>UK: True Movies 1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/2710.ts</link>
+			<title>UK|BT_Sports_1_HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://sat.hitech0iptv.com:8000/live/lodewijk/lodewijk/378.ts</link>
 		
 		<item>
-			<title>UK: True Movies 2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/2711.ts</link>
+			<title>UK|BT_Sport_2_HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://sat.hitech0iptv.com:8000/live/lodewijk/lodewijk/379.ts</link>
 		
 		<item>
-			<title>UK: Film 4 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/2715.ts</link>
+			<title>UK|BT_Sport_Europe</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://sat.hitech0iptv.com:8000/live/lodewijk/lodewijk/329.ts</link>
 		
 		<item>
-			<title>UK:Film 4</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/1813.ts</link>
+			<title>UK|BT_Sport_ESPN</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://sat.hitech0iptv.com:8000/live/lodewijk/lodewijk/330.ts</link>
 		
 		<item>
-			<title>UK:Channel 4</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/1820.ts</link>
-		
-		<item>
-			<title>UK_Sky Arts</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/1782.ts</link>
-		
-		<item>
-			<title>UK:Alibi</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/1793.ts</link>
-		
-		<item>
-			<title>UK: Star LifeOK (hindi)</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/3781.ts</link>
-		
-		<item>
-			<title>UK: Star Gold</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/3771.ts</link>
-		
-		<item>
-			<title>UK: SONY TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/3761.ts</link>
-		
-		<item>
-			<title>UK: Sony Sab</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/3772.ts</link>
-		
-		<item>
-			<title>UK: Sony Movie</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/3773.ts</link>
-		
-		<item>
-			<title>UK: Sony Max</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/3782.ts</link>
-		
-		<item>
-			<title>UK: MTV Rocks</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/3756.ts</link>
-		
-		<item>
-			<title>UK: MTV Music</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/3755.ts</link>
-		
-		<item>
-			<title>UK: MTV Hits</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/3754.ts</link>
-		
-		<item>
-			<title>UK: MTV Dance</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/3753.ts</link>
-		
-		<item>
-			<title>UK: MTV Base</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/3752.ts</link>
-		
-		<item>
-			<title>UK:5 USA</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/1824.ts</link>
-		
-		<item>
-			<title>UK:3E</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/1825.ts</link>
-		
-		<item>
-			<title>UK:Travel</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/1802.ts</link>
-		
-		<item>
-			<title>UK:TLC</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/1803.ts</link>
-		
-		<item>
-			<title>UK:Sky News</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/1829.ts</link>
-		
-		<item>
-			<title>UK:Good Food</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/1791.ts</link>
-		
-		<item>
-			<title>UK:Quest</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/1807.ts</link>
-		
-		<item>
-			<title>UK:PICK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/1808.ts</link>
-		
-		<item>
-			<title>UK: REALLY</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/1935.ts</link>
-		
-		<item>
-			<title>UK: ITVBE</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/1936.ts</link>
-		
-		<item>
-			<title>UK:Discovery Turbo</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/1815.ts</link>
-		
-		<item>
-			<title>UK:Discovery Science</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/1816.ts</link>
-		
-		<item>
-			<title>UK:Discovery Home Health</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/1817.ts</link>
-		
-		<item>
-			<title>UK:Discovery</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/1818.ts</link>
-		
-		<item>
-			<title>UK: Discovery Channel</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/1673.ts</link>
-		
-		<item>
-			<title>UK: Nat Geo Wild</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/1262.ts</link>
-		
-		<item>
-			<title>UK: National Geographic Channel</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/1322.ts</link>
-		
-		<item>
-			<title>UK: Nat Geo</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/1263.ts</link>
-		
-		<item>
-			<title>FR: Nat Geo HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/1290.ts</link>
-		
-		<item>
-			<title>UK: Discovery History</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/1274.ts</link>
-		
-		<item>
-			<title>UK: History Channel</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/1268.ts</link>
-		
-		<item>
-			<title>UK:Animal Planet</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/1822.ts</link>
-		
-		<item>
-			<title>UK:Dave</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/1790.ts</link>
-		
-		<item>
-			<title>UK:Chelsea TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/1835.ts</link>
-		
-		<item>
-			<title>UK:At The Races</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/1821.ts</link>
-		
-		<item>
-			<title>UK: Sky Sport News HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/1675.ts</link>
-		
-		<item>
-			<title>UK: Sky Sport F1 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/1120.ts</link>
-		
-		<item>
-			<title>UK: BT Sport ESPN</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/1671.ts</link>
-		
-		<item>
-			<title>UK: Setanta spor</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/2745.ts</link>
-		
-		<item>
-			<title>UK: EuroSport 2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mix10/vhiyrZqOYp/921.ts</link>			
-			
+			<title>UK|PREMIER_SPORTS</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://sat.hitech0iptv.com:8000/live/lodewijk/lodewijk/157.ts</link>
 			
 			
 			
@@ -969,7 +796,509 @@
 			<title>"[COLOR red][B]SERVER 3[/B][/COLOR]"</title>
 			<link>http://......</link>
 			
-
+		<item>
+			<title>UK:Motors_TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/19610.ts</link>
+		
+		<item>
+			<title>UK:Liverpool_TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/19611.ts</link>
+		
+		<item>
+			<title>UK:ITV_4_HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/19612.ts</link>
+		
+		<item>
+			<title>UK:iTV_3_HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/19613.ts</link>
+		
+		<item>
+			<title>UK:iTV_2_HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/19614.ts</link>
+		
+		<item>
+			<title>UK:iTV_1_HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/19615.ts</link>
+		
+		<item>
+			<title>UK:Investigation_Discovery</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/19616.ts</link>
+		
+		<item>
+			<title>UK:Eurosport_1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/19617.ts</link>
+		
+		<item>
+			<title>UK:BT_Sport_Europe</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/19618.ts</link>
+		
+		<item>
+			<title>UK:BT_Sport_2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/19619.ts</link>
+		
+		<item>
+			<title>UK:BT_Sport_1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/19620.ts</link>
+		
+		<item>
+			<title>UK:BT_ESPN_HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/19621.ts</link>
+		
+		<item>
+			<title>UK:Box_Nation</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/19622.ts</link>
+		
+		<item>
+			<title>UK: BBC 4 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10789.ts</link>
+		
+		<item>
+			<title>UK: UK Sky Sports F1 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10768.ts</link>
+		
+		<item>
+			<title>UK: UK Sky Sports 3 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10770.ts</link>
+		
+		<item>
+			<title>UK: UK Sky Sports 3</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10771.ts</link>
+		
+		<item>
+			<title>UK: UK Sky Sports 1 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10772.ts</link>
+		
+		<item>
+			<title>UK: UK Sky Sports 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10773.ts</link>
+		
+		<item>
+			<title>UK: Sky Atlantic</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10777.ts</link>
+		
+		<item>
+			<title>UK: Setanta Sports</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10778.ts</link>
+		
+		<item>
+			<title>UK: Really</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10779.ts</link>
+		
+		<item>
+			<title>UK: Film 4</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10781.ts</link>
+		
+		<item>
+			<title>UK: Discovery History</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10783.ts</link>
+		
+		<item>
+			<title>UK: Comedy Central</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10784.ts</link>
+		
+		<item>
+			<title>UK: BBC One</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10788.ts</link>
+		
+		<item>
+			<title>UK: Sky Movies Select</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/8075.ts</link>
+		
+		<item>
+			<title>UK: Nat Geo Wild</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/8076.ts</link>
+		
+		<item>
+			<title>UK: Sky Movies Thriller</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10062.ts</link>
+		
+		<item>
+			<title>UK: Premier Sport</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10063.ts</link>
+		
+		<item>
+			<title>UK: UTV_Ireland</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10070.ts</link>
+		
+		<item>
+			<title>UK: Sky Sports F1 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10072.ts</link>
+		
+		<item>
+			<title>UK: Sky Sports 3 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10076.ts</link>
+		
+		<item>
+			<title>UK:Sky Sports 3</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10077.ts</link>
+		
+		<item>
+			<title>UK: Sky Sports 2 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10078.ts</link>
+		
+		<item>
+			<title>UK: UK Sky Sports 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10079.ts</link>
+		
+		<item>
+			<title>UK: Sky Sports 1 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10080.ts</link>
+		
+		<item>
+			<title>UK:Sky Sports 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10081.ts</link>
+		
+		<item>
+			<title>UK: UK Setanta Sport</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10082.ts</link>
+		
+		<item>
+			<title>UK: MTV Hits</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10086.ts</link>
+		
+		<item>
+			<title>UK: MTV Dance</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10087.ts</link>
+		
+		<item>
+			<title>UK: MTV Classic</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10088.ts</link>
+		
+		<item>
+			<title>UK: MTV Base</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10089.ts</link>
+		
+		<item>
+			<title>UK: MTV 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10090.ts</link>
+		
+		<item>
+			<title>UK: Euro Sports 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10092.ts</link>
+		
+		<item>
+			<title>UK: UK Discovery Turbo</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10094.ts</link>
+		
+		<item>
+			<title>UK: Discovery Home & Health</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10095.ts</link>
+		
+		<item>
+			<title>=UK=: UK Chelsea TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10097.ts</link>
+		
+		<item>
+			<title>=UK=: UK BT Sport Europe HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10098.ts</link>
+		
+		<item>
+			<title>=UK=: UK BT Sport 2 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10099.ts</link>
+		
+		<item>
+			<title>=UK=: UK Box Office PPV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10101.ts</link>
+		
+		<item>
+			<title>=UK=: True Movies 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10102.ts</link>
+		
+		<item>
+			<title>=UK=: TG4</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10104.ts</link>
+		
+		<item>
+			<title>=UK=: Ten Golf</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10105.ts</link>
+		
+		<item>
+			<title>=UK=: Sky_History_HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10108.ts</link>
+		
+		<item>
+			<title>=UK=: Sky Two</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10109.ts</link>
+		
+		<item>
+			<title>=UK=: Sky Sport F1 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10111.ts</link>
+		
+		<item>
+			<title>=UK=: Sky SciFi & Horror</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10112.ts</link>
+		
+		<item>
+			<title>=UK=: Sky Sci-Fi</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10113.ts</link>
+		
+		<item>
+			<title>=UK=: Sky One</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10114.ts</link>
+		
+		<item>
+			<title>=UK=: Sky Movies ShowCase</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10115.ts</link>
+		
+		<item>
+			<title>=UK=: Sky Movies Sci-Fi HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10116.ts</link>
+		
+		<item>
+			<title>=UK=: Sky Movies Modern Great HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10118.ts</link>
+		
+		<item>
+			<title>=UK=: Sky Movies Modern Great</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10119.ts</link>
+		
+		<item>
+			<title>=UK=: Sky Movies Drama HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10120.ts</link>
+		
+		<item>
+			<title>=UK=: Sky Movies Action HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10122.ts</link>
+		
+		<item>
+			<title>=UK=: Sky MOVIE Drama</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10123.ts</link>
+		
+		<item>
+			<title>=UK=: Sky Living</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10124.ts</link>
+		
+		<item>
+			<title>=UK=: Sky Family</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10125.ts</link>
+		
+		<item>
+			<title>=UK=: Sky Drama</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10126.ts</link>
+		
+		<item>
+			<title>=UK=: Sky Disney</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10127.ts</link>
+		
+		<item>
+			<title>=UK=: Sky Atlantic</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10129.ts</link>
+		
+		<item>
+			<title>=UK=: Sky Arts 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10130.ts</link>
+		
+		<item>
+			<title>=UK=: Sky Action</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10131.ts</link>
+		
+		<item>
+			<title>=UK=: Setanta Sports</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10132.ts</link>
+		
+		<item>
+			<title>=UK=: Russia Documentary</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10133.ts</link>
+		
+		<item>
+			<title>=UK=: RTE Two</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10134.ts</link>
+		
+		<item>
+			<title>=UK=: RTE 2 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10136.ts</link>
+		
+		<item>
+			<title>=UK=: Really</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10138.ts</link>
+		
+		<item>
+			<title>=UK=: Racing</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10139.ts</link>
+		
+		<item>
+			<title>=UK=: NickToo</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10141.ts</link>
+		
+		<item>
+			<title>=UK=: Nick Junior</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10142.ts</link>
+		
+		<item>
+			<title>=UK=: National Geography Wild</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10144.ts</link>
+		
+		<item>
+			<title>=UK=: National Geography HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10145.ts</link>
+		
+		<item>
+			<title>=UK=: NATIONAL GEOGRAPHY</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10146.ts</link>
+		
+		<item>
+			<title>=UK=: National Geo WILD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10147.ts</link>
+		
+		<item>
+			<title>=UK=: Nat Geo Graphic</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10148.ts</link>
+		
+		<item>
+			<title>=UK=: MUTV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10149.ts</link>
+		
+		<item>
+			<title>=UK=: Movies 4 Men</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10150.ts</link>
+		
+		<item>
+			<title>=UK=: Mototrs TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10151.ts</link>
+		
+		<item>
+			<title>=UK=: More4</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10152.ts</link>
+		
+		<item>
+			<title>=UK=: LONDON LIFE</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10153.ts</link>
+		
+		<item>
+			<title>=UK=: ITV Encore</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10155.ts</link>
+		
+		<item>
+			<title>=UK=: ITV 4 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10156.ts</link>
+		
+		<item>
+			<title>=UK=: ITV 3 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10157.ts</link>
+		
+		<item>
+			<title>=UK=: ITV 2 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10158.ts</link>
+		
+		<item>
+			<title>=UK=: ITV 1 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10159.ts</link>
+		
+		<item>
+			<title>=UK=: Horror Channel</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10160.ts</link>
+		
+		<item>
+			<title>=UK=: Home</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10161.ts</link>
+		
+		<item>
+			<title>=UK=: Film4 UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10166.ts</link>
+		
+		<item>
+			<title>=UK=: Film 4</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10167.ts</link>
+		
+		<item>
+			<title>=UK=: Eurosport</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10168.ts</link>
+		
+		<item>
+			<title>=UK=: E4</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10170.ts</link>
+		
+		<item>
+			<title>=UK=: Drama</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10172.ts</link>
+		
+		<item>
+			<title>=UK=: Dmax</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10173.ts</link>
+		
+		<item>
+			<title>=UK=: Disney Channel</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10176.ts</link>
+		
+		<item>
+			<title>=UK=: Discovery Science HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10178.ts</link>
+		
+		<item>
+			<title>=UK=: Discovery Science</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10179.ts</link>
+		
+		<item>
+			<title>=UK=: Discovery History</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10180.ts</link>
+		
+		<item>
+			<title>=UK=: Dinseny Channel UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10181.ts</link>
+		
+		<item>
+			<title>=UK=: Dave</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10182.ts</link>
+		
+		<item>
+			<title>=UK=: Comedy Central Extra</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10184.ts</link>
+		
+		<item>
+			<title>=UK=: Comedy Central</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10185.ts</link>
+		
+		<item>
+			<title>=UK=: CHANNEL 5</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10187.ts</link>
+		
+		<item>
+			<title>=UK=: CHANNEL 4</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10188.ts</link>
+		
+		<item>
+			<title>=UK=: CBS Drama</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10189.ts</link>
+		
+		<item>
+			<title>=UK=: BT Sport ESPN</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10194.ts</link>
+		
+		<item>
+			<title>=UK=: BBC Two</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10196.ts</link>
+		
+		<item>
+			<title>=UK=: BBC One</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10197.ts</link>
+		
+		<item>
+			<title>=UK=: BBC 4</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10198.ts</link>
+		
+		<item>
+			<title>=UK=: BBC 3</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10199.ts</link>
+		
+		<item>
+			<title>=UK=: At The Races</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10200.ts</link>
+		
+		<item>
+			<title>=UK=: Animal Planet</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10201.ts</link>
+		
+		<item>
+			<title>=UK=: Alibi</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10202.ts</link>
+		
+		<item>
+			<title>=UK= Sky-Movies-Showcase</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/10207.ts</link>
+		
+		<item>
+			<title>UK:Racing</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/4972.ts</link>
 			
 			
 			
