@@ -11,339 +11,70 @@
 			<title>"[COLOR red][B]SERVER 1[/B][/COLOR]"</title>
 			<link>http://......</link>	
 			
-
 		<item>
-			<title>GR: ZOUGL@</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3305.ts</link>
+			<title>GR: ERT 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptvsale.info:8889/live/taki/taki/1074.ts</link>
 		
 		<item>
-			<title>GR: VOULI</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3306.ts</link>
+			<title>GR: ERT 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptvsale.info:8889/live/taki/taki/1075.ts</link>
 		
 		<item>
-			<title>GR: Vergina TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3333.ts</link>
-		
-		<item>
-			<title>GR: Tv100</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3307.ts</link>
-		
-		<item>
-			<title>GR: TV1 Siros</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3327.ts</link>
-		
-		<item>
-			<title>GR: TV Gold</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3308.ts</link>
-		
-		<item>
-			<title>GR: TV 1000</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3351.ts</link>
-		
-		<item>
-			<title>GR: TRT</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3309.ts</link>
-		
-		<item>
-			<title>GR: TILESPORT</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3310.ts</link>
-		
-		<item>
-			<title>GR: Thraki TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3311.ts</link>
-		
-		<item>
-			<title>GR: Thema TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3352.ts</link>
-		
-		<item>
-			<title>GR: Start TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3312.ts</link>
-		
-		<item>
-			<title>GR: Star TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3353.ts</link>
-		
-		<item>
-			<title>GR: Skai</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3338.ts</link>
-		
-		<item>
-			<title>GR: Sigma</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3339.ts</link>
-		
-		<item>
-			<title>GR: SBC</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3313.ts</link>
-		
-		<item>
-			<title>GR: SAMIAKI</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3314.ts</link>
-		
-		<item>
-			<title>GR: Omega TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3340.ts</link>
-		
-		<item>
-			<title>GR: OMEGA</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3315.ts</link>
-		
-		<item>
-			<title>IT | Premium Calcio 5*</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3613.ts</link>
-		
-		<item>
-			<title>IT | Premium Calcio 4*</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3612.ts</link>
-		
-		<item>
-			<title>IT | Premium Calcio 3*</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3611.ts</link>
-		
-		<item>
-			<title>IT | Premium Calcio 2*</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3610.ts</link>
-		
-		<item>
-			<title>IT | Premium Calcio 1*</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3609.ts</link>
-		
-		<item>
-			<title>GR: NOVA</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3354.ts</link>
-		
-		<item>
-			<title>GR: New TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3321.ts</link>
-		
-		<item>
-			<title>GR: NEA</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3319.ts</link>
-		
-		<item>
-			<title>GR: MESSINIA TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3320.ts</link>
-		
-		<item>
-			<title>GR: Mega</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3341.ts</link>
-		
-		<item>
-			<title>GR: Makeleio Web Tv</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3355.ts</link>
-		
-		<item>
-			<title>GR: Makedonia</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3322.ts</link>
-		
-		<item>
-			<title>GR: Lepanto</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3342.ts</link>
-		
-		<item>
-			<title>GR: KRITI TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3323.ts</link>
-		
-		<item>
-			<title>GR: KONTRA TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3324.ts</link>
-		
-		<item>
-			<title>GR: JAYZEE</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3325.ts</link>
-		
-		<item>
-			<title>GR: Hpeiros TV1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3356.ts</link>
-		
-		<item>
-			<title>GR: EXTRA</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3326.ts</link>
-		
-		<item>
-			<title>GR: Eurosport 2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3343.ts</link>
-		
-		<item>
-			<title>GR: Eurosport 1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3344.ts</link>
-		
-		<item>
-			<title>GR: Euronews</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3316.ts</link>
-		
-		<item>
-			<title>GR: ERT2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3345.ts</link>
-		
-		<item>
-			<title>GR: ERT 3</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3347.ts</link>
-		
-		<item>
-			<title>GR: EPIRUS TV1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3357.ts</link>
-		
-		<item>
-			<title>GR: Ellinikosfm TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3328.ts</link>
-		
-		<item>
-			<title>GR: E</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3348.ts</link>
-		
-		<item>
-			<title>GR: DIKTYO</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3358.ts</link>
-		
-		<item>
-			<title>GR: DIAVATA TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3317.ts</link>
-		
-		<item>
-			<title>GR: BLUE SKY</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3329.ts</link>
-		
-		<item>
-			<title>GR: Axeloos TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3330.ts</link>
-		
-		<item>
-			<title>GR: Astra</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3331.ts</link>
-		
-		<item>
-			<title>GR: Art</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3332.ts</link>
-		
-		<item>
-			<title>GR: Apeiro TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3359.ts</link>
-		
-		<item>
-			<title>GR: ANT1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3349.ts</link>
-		
-		<item>
-			<title>GR: Alpha</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3350.ts</link>
-		
-		<item>
-			<title>GR: AIGAIO TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3334.ts</link>
-		
-		<item>
-			<title>GR: ACTION 24</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3335.ts</link>
-		
-		<item>
-			<title>GR: 4E Star</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3337.ts</link>
-		
-		<item>
-			<title>GR: 4E</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3336.ts</link>
-		
-		<item>
-			<title>GR : TV Mytilini</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3318.ts</link>
-		
-		<item>
-			<title>GR: Vouli TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3657.ts</link>
+			<title>GR: ANT 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptvsale.info:8889/live/taki/taki/1076.ts</link>
 		
 		<item>
 			<title>GR: Star</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3654.ts</link>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptvsale.info:8889/live/taki/taki/812.ts</link>
 		
 		<item>
-			<title>GR: Smile</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3653.ts</link>
+			<title>GR: Mega</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptvsale.info:8889/live/taki/taki/813.ts</link>
 		
 		<item>
-			<title>GR: Rik</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3649.ts</link>
+			<title>GR: Alpha</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptvsale.info:8889/live/taki/taki/817.ts</link>
 		
 		<item>
-			<title>GR: Nickelodeon</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3648.ts</link>
-		
-		<item>
-			<title>GR: Nea Tv</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3647.ts</link>
-		
-		<item>
-			<title>GR: Nat Geo</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3675.ts</link>
-		
-		<item>
-			<title>GR: MTVeece</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3646.ts</link>
-		
-		<item>
-			<title>GR: Makedonia TV Delay</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3642.ts</link>
-		
-		<item>
-			<title>GR: Makedonia TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3641.ts</link>
+			<title>GR: 4E TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptvsale.info:8889/live/taki/taki/818.ts</link>
 		
 		<item>
 			<title>GR: Mad TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3640.ts</link>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptvsale.info:8889/live/taki/taki/814.ts</link>
 		
 		<item>
-			<title>GR: Krhth TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3639.ts</link>
+			<title>GR: Kontra TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptvsale.info:8889/live/taki/taki/816.ts</link>
 		
 		<item>
-			<title>GR: Kontra Channel</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3638.ts</link>
+			<title>GR: Zougla TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptvsale.info:8889/live/taki/taki/1069.ts</link>
 		
 		<item>
-			<title>GR: High TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3637.ts</link>
+			<title>GR: Sigma</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptvsale.info:8889/live/taki/taki/1070.ts</link>
 		
 		<item>
-			<title>GR: Extra Channel</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3636.ts</link>
+			<title>GR: Omega TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptvsale.info:8889/live/taki/taki/1071.ts</link>
 		
 		<item>
-			<title>GR: Ert HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3670.ts</link>
+			<title>GR: Nea TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptvsale.info:8889/live/taki/taki/1072.ts</link>
 		
 		<item>
-			<title>GR: Ept 2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3674.ts</link>
+			<title>GR: Euronews</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptvsale.info:8889/live/taki/taki/1073.ts</link>
 		
 		<item>
-			<title>GR: Ept 1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3672.ts</link>
+			<title>GR: KRHTH TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptvsale.info:8889/live/taki/taki/815.ts</link>
 		
-		<item>
-			<title>GR: Channel 9</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3668.ts</link>
-		
-		<item>
-			<title>GR: Boyah</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3651.ts</link>
-		
-		<item>
-			<title>GR: APT</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3673.ts</link>
-		
-		<item>
-			<title>GR: Ant1 Sat Delay</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3665.ts</link>
-		
-		<item>
-			<title>GR: Ant1 Cyprus</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3663.ts</link>
-		
-		<item>
-			<title>GR: AB Channel</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3659.ts</link>
-		
+	
+
+
+	
 	
 
 
@@ -375,81 +106,83 @@
 			<title>"[COLOR red][B]SERVER 2[/B][/COLOR]"</title>
 			<link>http://......</link>	
 			
+
+	
 		<item>
 			<title>GR: ERT1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/GEANT 12/zrjfnKOYgM/2318.ts</link>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mixzero14/xaAkPkoRyi/2318.ts</link>
 		
 		<item>
 			<title>GR: ERT2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/GEANT 12/zrjfnKOYgM/2317.ts</link>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mixzero14/xaAkPkoRyi/2317.ts</link>
 		
 		<item>
 			<title>GR: ERT3</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/GEANT 12/zrjfnKOYgM/2319.ts</link>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mixzero14/xaAkPkoRyi/2319.ts</link>
 		
 		<item>
 			<title>GR: RIK Sat</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/GEANT 12/zrjfnKOYgM/3728.ts</link>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mixzero14/xaAkPkoRyi/3728.ts</link>
 		
 		<item>
 			<title>GR: RIK 2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/GEANT 12/zrjfnKOYgM/3729.ts</link>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mixzero14/xaAkPkoRyi/3729.ts</link>
 		
 		<item>
 			<title>GR: Skai</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/GEANT 12/zrjfnKOYgM/2303.ts</link>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mixzero14/xaAkPkoRyi/2303.ts</link>
 		
 		<item>
 			<title>GR: Action 24</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/GEANT 12/zrjfnKOYgM/3727.ts</link>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mixzero14/xaAkPkoRyi/3727.ts</link>
 		
 		<item>
 			<title>GR: ANT1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/GEANT 12/zrjfnKOYgM/2326.ts</link>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mixzero14/xaAkPkoRyi/2326.ts</link>
 		
 		<item>
 			<title>GR: Alpha</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/GEANT 12/zrjfnKOYgM/2327.ts</link>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mixzero14/xaAkPkoRyi/2327.ts</link>
 		
 		<item>
 			<title>GR: Mega</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/GEANT 12/zrjfnKOYgM/2309.ts</link>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mixzero14/xaAkPkoRyi/2309.ts</link>
 		
 		<item>
 			<title>GR: MegaOne</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/GEANT 12/zrjfnKOYgM/3722.ts</link>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mixzero14/xaAkPkoRyi/3722.ts</link>
 		
 		<item>
 			<title>GR: Star TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/GEANT 12/zrjfnKOYgM/2302.ts</link>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mixzero14/xaAkPkoRyi/2302.ts</link>
 		
 		<item>
 			<title>GR: PLUS</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/GEANT 12/zrjfnKOYgM/3730.ts</link>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mixzero14/xaAkPkoRyi/3730.ts</link>
 		
 		<item>
 			<title>GR: TV1 Siros</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/GEANT 12/zrjfnKOYgM/2959.ts</link>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mixzero14/xaAkPkoRyi/2959.ts</link>
 		
 		<item>
 			<title>GR: Capital</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/GEANT 12/zrjfnKOYgM/3731.ts</link>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mixzero14/xaAkPkoRyi/3731.ts</link>
 		
 		<item>
 			<title>GR: Sigma</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/GEANT 12/zrjfnKOYgM/1646.ts</link>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mixzero14/xaAkPkoRyi/1646.ts</link>
 		
 		<item>
 			<title>GR: West Channel</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/GEANT 12/zrjfnKOYgM/3738.ts</link>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mixzero14/xaAkPkoRyi/3738.ts</link>
 		
 		<item>
 			<title>GR: NetTV Toronto</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/GEANT 12/zrjfnKOYgM/3732.ts</link>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mixzero14/xaAkPkoRyi/3732.ts</link>
 		
 		<item>
 			<title>GR: Nickelodeon</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/GEANT 12/zrjfnKOYgM/3725.ts</link>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mixzero14/xaAkPkoRyi/3725.ts</link>
 		
 		<item>
 			<title>GR: Kids</title>
@@ -457,165 +190,163 @@
 		
 		<item>
 			<title>GR: itv</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/GEANT 12/zrjfnKOYgM/3735.ts</link>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mixzero14/xaAkPkoRyi/3735.ts</link>
 		
 		<item>
 			<title>GR: Greek Natura</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/GEANT 12/zrjfnKOYgM/3736.ts</link>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mixzero14/xaAkPkoRyi/3736.ts</link>
 		
 		<item>
 			<title>GR: MAD GR</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/GEANT 12/zrjfnKOYgM/3724.ts</link>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mixzero14/xaAkPkoRyi/3724.ts</link>
 		
 		<item>
 			<title>GR: Zougl@ Tv</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/GEANT 12/zrjfnKOYgM/2329.ts</link>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mixzero14/xaAkPkoRyi/2329.ts</link>
 		
 		<item>
 			<title>GR: JayZeeHD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/GEANT 12/zrjfnKOYgM/2325.ts</link>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mixzero14/xaAkPkoRyi/2325.ts</link>
 		
 		<item>
 			<title>GR: Euronews Gr</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/GEANT 12/zrjfnKOYgM/3734.ts</link>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mixzero14/xaAkPkoRyi/3734.ts</link>
 		
 		<item>
 			<title>GR: National Geographic</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/GEANT 12/zrjfnKOYgM/2328.ts</link>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mixzero14/xaAkPkoRyi/2328.ts</link>
 		
 		<item>
 			<title>GR: Epiloges Tv</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/GEANT 12/zrjfnKOYgM/3740.ts</link>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mixzero14/xaAkPkoRyi/3740.ts</link>
 		
 		<item>
 			<title>GR: Cannali Musiki</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/GEANT 12/zrjfnKOYgM/3733.ts</link>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mixzero14/xaAkPkoRyi/3733.ts</link>
 		
 		<item>
 			<title>GR: Bakalo Tv</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/GEANT 12/zrjfnKOYgM/3737.ts</link>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mixzero14/xaAkPkoRyi/3737.ts</link>
 		
 		<item>
 			<title>GR: AB Channel</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/GEANT 12/zrjfnKOYgM/3726.ts</link>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mixzero14/xaAkPkoRyi/3726.ts</link>
 		
 		<item>
 			<title>GR: Smile</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/GEANT 12/zrjfnKOYgM/3721.ts</link>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mixzero14/xaAkPkoRyi/3721.ts</link>
 		
 		<item>
 			<title>GR: Thraki TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/GEANT 12/zrjfnKOYgM/2300.ts</link>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mixzero14/xaAkPkoRyi/2300.ts</link>
 		
 		<item>
 			<title>GR: 4E Star</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/GEANT 12/zrjfnKOYgM/1647.ts</link>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mixzero14/xaAkPkoRyi/1647.ts</link>
 		
 		<item>
 			<title>GR: TILESPORT</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/GEANT 12/zrjfnKOYgM/2299.ts</link>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mixzero14/xaAkPkoRyi/2299.ts</link>
 		
 		<item>
 			<title>GR: Kontra TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/GEANT 12/zrjfnKOYgM/978.ts</link>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mixzero14/xaAkPkoRyi/978.ts</link>
 		
 		<item>
 			<title>GR: Makedonia Gr</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/GEANT 12/zrjfnKOYgM/3723.ts</link>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mixzero14/xaAkPkoRyi/3723.ts</link>
 		
 		<item>
 			<title>GR: Eurosport 1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/GEANT 12/zrjfnKOYgM/2316.ts</link>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mixzero14/xaAkPkoRyi/2316.ts</link>
 		
 		<item>
 			<title>GR: Eurosport 2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/GEANT 12/zrjfnKOYgM/2315.ts</link>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mixzero14/xaAkPkoRyi/2315.ts</link>
 		
 		<item>
 			<title>GR: SBC</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/GEANT 12/zrjfnKOYgM/2304.ts</link>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mixzero14/xaAkPkoRyi/2304.ts</link>
 		
 		<item>
 			<title>GR: SAMIAKI</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/GEANT 12/zrjfnKOYgM/2305.ts</link>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mixzero14/xaAkPkoRyi/2305.ts</link>
 		
 		<item>
 			<title>GR: Omega TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/GEANT 12/zrjfnKOYgM/1645.ts</link>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mixzero14/xaAkPkoRyi/1645.ts</link>
 		
 		<item>
 			<title>GR: OMEGA</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/GEANT 12/zrjfnKOYgM/2306.ts</link>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mixzero14/xaAkPkoRyi/2306.ts</link>
 		
 		<item>
 			<title>GR: Ipiros Tv 1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/GEANT 12/zrjfnKOYgM/2307.ts</link>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mixzero14/xaAkPkoRyi/2307.ts</link>
 		
 		<item>
 			<title>GR: MESSINIA TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/GEANT 12/zrjfnKOYgM/2308.ts</link>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mixzero14/xaAkPkoRyi/2308.ts</link>
 		
 		<item>
 			<title>GR: Lepanto</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/GEANT 12/zrjfnKOYgM/2311.ts</link>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mixzero14/xaAkPkoRyi/2311.ts</link>
 		
 		<item>
 			<title>GR: EXTRA</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/GEANT 12/zrjfnKOYgM/2314.ts</link>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mixzero14/xaAkPkoRyi/2314.ts</link>
 		
 		<item>
 			<title>GR: E</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/GEANT 12/zrjfnKOYgM/2322.ts</link>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mixzero14/xaAkPkoRyi/2322.ts</link>
 		
 		<item>
 			<title>GR: Blue Sky</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/GEANT 12/zrjfnKOYgM/1642.ts</link>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mixzero14/xaAkPkoRyi/1642.ts</link>
 		
 		<item>
 			<title>GR: Axeloos TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/GEANT 12/zrjfnKOYgM/2323.ts</link>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mixzero14/xaAkPkoRyi/2323.ts</link>
 		
 		<item>
 			<title>GR: Art</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/GEANT 12/zrjfnKOYgM/2324.ts</link>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mixzero14/xaAkPkoRyi/2324.ts</link>
 		
 		<item>
 			<title>GR: VOULI</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/GEANT 12/zrjfnKOYgM/2297.ts</link>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mixzero14/xaAkPkoRyi/2297.ts</link>
 		
 		<item>
 			<title>GR: TV100</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/GEANT 12/zrjfnKOYgM/1648.ts</link>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mixzero14/xaAkPkoRyi/1648.ts</link>
 		
 		<item>
 			<title>GR: Thema TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/GEANT 12/zrjfnKOYgM/2301.ts</link>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mixzero14/xaAkPkoRyi/2301.ts</link>
 		
 		<item>
 			<title>GR: TRT Greek</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/GEANT 12/zrjfnKOYgM/2310.ts</link>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mixzero14/xaAkPkoRyi/2310.ts</link>
 		
 		<item>
 			<title>GR: KRITI TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/GEANT 12/zrjfnKOYgM/2312.ts</link>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mixzero14/xaAkPkoRyi/2312.ts</link>
 		
 		<item>
 			<title>GR: Start TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/GEANT 12/zrjfnKOYgM/2313.ts</link>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mixzero14/xaAkPkoRyi/2313.ts</link>
 		
 		<item>
 			<title>GR: New Tv</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/GEANT 12/zrjfnKOYgM/2320.ts</link>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mixzero14/xaAkPkoRyi/2320.ts</link>
 		
 		<item>
 			<title>GR: Ellinikosfm TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/GEANT 12/zrjfnKOYgM/2321.ts</link>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mixzero14/xaAkPkoRyi/2321.ts</link>
 		
 		<item>
 			<title>GR: DIKTYO</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/GEANT 12/zrjfnKOYgM/2298.ts</link>
-
-	
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/mixzero14/xaAkPkoRyi/2298.ts</link>
 
 
 		
@@ -667,248 +398,7 @@
 			<link>http://......</link>	
 						
 	
-		<item>
-			<title>GR: ERT1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/drenbox12./uwoA4RGMBL/2318.ts</link>
-		
-		<item>
-			<title>GR: ERT2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/drenbox12./uwoA4RGMBL/2317.ts</link>
-		
-		<item>
-			<title>GR: ERT3</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/drenbox12./uwoA4RGMBL/2319.ts</link>
-		
-		<item>
-			<title>GR: RIK Sat</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/drenbox12./uwoA4RGMBL/3728.ts</link>
-		
-		<item>
-			<title>GR: RIK 2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/drenbox12./uwoA4RGMBL/3729.ts</link>
-		
-		<item>
-			<title>GR: Skai</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/drenbox12./uwoA4RGMBL/2303.ts</link>
-		
-		<item>
-			<title>GR: Action 24</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/drenbox12./uwoA4RGMBL/3727.ts</link>
-		
-		<item>
-			<title>GR: ANT1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/drenbox12./uwoA4RGMBL/2326.ts</link>
-		
-		<item>
-			<title>GR: Alpha</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/drenbox12./uwoA4RGMBL/2327.ts</link>
-		
-		<item>
-			<title>GR: Mega</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/drenbox12./uwoA4RGMBL/2309.ts</link>
-		
-		<item>
-			<title>GR: MegaOne</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/drenbox12./uwoA4RGMBL/3722.ts</link>
-		
-		<item>
-			<title>GR: Star TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/drenbox12./uwoA4RGMBL/2302.ts</link>
-		
-		<item>
-			<title>GR: PLUS</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/drenbox12./uwoA4RGMBL/3730.ts</link>
-		
-		<item>
-			<title>GR: TV1 Siros</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/drenbox12./uwoA4RGMBL/2959.ts</link>
-		
-		<item>
-			<title>GR: Capital</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/drenbox12./uwoA4RGMBL/3731.ts</link>
-		
-		<item>
-			<title>GR: Sigma</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/drenbox12./uwoA4RGMBL/1646.ts</link>
-		
-		<item>
-			<title>GR: West Channel</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/drenbox12./uwoA4RGMBL/3738.ts</link>
-		
-		<item>
-			<title>GR: NetTV Toronto</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/drenbox12./uwoA4RGMBL/3732.ts</link>
-		
-		<item>
-			<title>GR: Nickelodeon</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/drenbox12./uwoA4RGMBL/3725.ts</link>
-		
-		<item>
-			<title>GR: Kids</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=mmsh://wpso.com:200/kids</link>
-		
-		<item>
-			<title>GR: itv</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/drenbox12./uwoA4RGMBL/3735.ts</link>
-		
-		<item>
-			<title>GR: Greek Natura</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/drenbox12./uwoA4RGMBL/3736.ts</link>
-		
-		<item>
-			<title>GR: MAD GR</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/drenbox12./uwoA4RGMBL/3724.ts</link>
-		
-		<item>
-			<title>GR: Zougl@ Tv</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/drenbox12./uwoA4RGMBL/2329.ts</link>
-		
-		<item>
-			<title>GR: JayZeeHD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/drenbox12./uwoA4RGMBL/2325.ts</link>
-		
-		<item>
-			<title>GR: Euronews Gr</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/drenbox12./uwoA4RGMBL/3734.ts</link>
-		
-		<item>
-			<title>GR: National Geographic</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/drenbox12./uwoA4RGMBL/2328.ts</link>
-		
-		<item>
-			<title>GR: Epiloges Tv</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/drenbox12./uwoA4RGMBL/3740.ts</link>
-		
-		<item>
-			<title>GR: Cannali Musiki</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/drenbox12./uwoA4RGMBL/3733.ts</link>
-		
-		<item>
-			<title>GR: Bakalo Tv</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/drenbox12./uwoA4RGMBL/3737.ts</link>
-		
-		<item>
-			<title>GR: AB Channel</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/drenbox12./uwoA4RGMBL/3726.ts</link>
-		
-		<item>
-			<title>GR: Smile</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/drenbox12./uwoA4RGMBL/3721.ts</link>
-		
-		<item>
-			<title>GR: Thraki TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/drenbox12./uwoA4RGMBL/2300.ts</link>
-		
-		<item>
-			<title>GR: 4E Star</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/drenbox12./uwoA4RGMBL/1647.ts</link>
-		
-		<item>
-			<title>GR: TILESPORT</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/drenbox12./uwoA4RGMBL/2299.ts</link>
-		
-		<item>
-			<title>GR: Kontra TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/drenbox12./uwoA4RGMBL/978.ts</link>
-		
-		<item>
-			<title>GR: Makedonia Gr</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/drenbox12./uwoA4RGMBL/3723.ts</link>
-		
-		<item>
-			<title>GR: Eurosport 1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/drenbox12./uwoA4RGMBL/2316.ts</link>
-		
-		<item>
-			<title>GR: Eurosport 2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/drenbox12./uwoA4RGMBL/2315.ts</link>
-		
-		<item>
-			<title>GR: SBC</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/drenbox12./uwoA4RGMBL/2304.ts</link>
-		
-		<item>
-			<title>GR: SAMIAKI</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/drenbox12./uwoA4RGMBL/2305.ts</link>
-		
-		<item>
-			<title>GR: Omega TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/drenbox12./uwoA4RGMBL/1645.ts</link>
-		
-		<item>
-			<title>GR: OMEGA</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/drenbox12./uwoA4RGMBL/2306.ts</link>
-		
-		<item>
-			<title>GR: Ipiros Tv 1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/drenbox12./uwoA4RGMBL/2307.ts</link>
-		
-		<item>
-			<title>GR: MESSINIA TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/drenbox12./uwoA4RGMBL/2308.ts</link>
-		
-		<item>
-			<title>GR: Lepanto</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/drenbox12./uwoA4RGMBL/2311.ts</link>
-		
-		<item>
-			<title>GR: EXTRA</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/drenbox12./uwoA4RGMBL/2314.ts</link>
-		
-		<item>
-			<title>GR: E</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/drenbox12./uwoA4RGMBL/2322.ts</link>
-		
-		<item>
-			<title>GR: Blue Sky</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/drenbox12./uwoA4RGMBL/1642.ts</link>
-		
-		<item>
-			<title>GR: Axeloos TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/drenbox12./uwoA4RGMBL/2323.ts</link>
-		
-		<item>
-			<title>GR: Art</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/drenbox12./uwoA4RGMBL/2324.ts</link>
-		
-		<item>
-			<title>GR: VOULI</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/drenbox12./uwoA4RGMBL/2297.ts</link>
-		
-		<item>
-			<title>GR: TV100</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/drenbox12./uwoA4RGMBL/1648.ts</link>
-		
-		<item>
-			<title>GR: Thema TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/drenbox12./uwoA4RGMBL/2301.ts</link>
-		
-		<item>
-			<title>GR: TRT Greek</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/drenbox12./uwoA4RGMBL/2310.ts</link>
-		
-		<item>
-			<title>GR: KRITI TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/drenbox12./uwoA4RGMBL/2312.ts</link>
-		
-		<item>
-			<title>GR: Start TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/drenbox12./uwoA4RGMBL/2313.ts</link>
-		
-		<item>
-			<title>GR: New Tv</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/drenbox12./uwoA4RGMBL/2320.ts</link>
-		
-		<item>
-			<title>GR: Ellinikosfm TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/drenbox12./uwoA4RGMBL/2321.ts</link>
-		
-		<item>
-			<title>GR: DIKTYO</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ksportiptv.com:1557/live/drenbox12./uwoA4RGMBL/2298.ts</link>
-			
-			
-			
+
 			
 			
 			
