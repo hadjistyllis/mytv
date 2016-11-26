@@ -524,6 +524,288 @@
 			<title>"[COLOR red][B]SERVER 2[/B][/COLOR]"</title>
 			<link>http://......</link>	
 
+		<item>
+			<title>USA:, TSN 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/3986.ts</link>
+		
+		<item>
+			<title>USA:, TSN 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/3987.ts</link>
+		
+		<item>
+			<title>USA|, TSN 2 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/6412.ts</link>
+		
+		<item>
+			<title>USA:, TSN 3</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/3988.ts</link>
+		
+		<item>
+			<title>USA:, TSN 4</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/3989.ts</link>
+		
+		<item>
+			<title>USA|, TSN 4 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/6414.ts</link>
+		
+		<item>
+			<title>USA|, TSN 5</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/3990.ts</link>
+		
+		<item>
+			<title>VIP:USA: WWE Network</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/5212.ts</link>
+		
+		<item>
+			<title>VIP_USA: FOX SPORT 1 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/5080.ts</link>
+		
+		<item>
+			<title>VIP_USA: FOX SPORT 2 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/5081.ts</link>
+		
+		<item>
+			<title>VIP_US:ASTRO SPORT 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/5082.ts</link>
+		
+		<item>
+			<title>VIP_USA: ASTRO SPORT 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/5083.ts</link>
+		
+		<item>
+			<title>VIP_USA:ASTRO SPORT 3</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/5084.ts</link>
+		
+		<item>
+			<title>VIP_USA: TSN 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/5085.ts</link>
+		
+		<item>
+			<title>VIP_USA: TSN 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/5086.ts</link>
+		
+		<item>
+			<title>VIP_USA: TSN 3</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/5087.ts</link>
+		
+		<item>
+			<title>VIP_USA: TSN 4</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/5088.ts</link>
+		
+		<item>
+			<title>VIP_USA: TSN 5</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/5089.ts</link>
+		
+		<item>
+			<title>VIP_USA: ESPN</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/5091.ts</link>
+		
+		<item>
+			<title>VIP_USA: ESPN 2 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/5092.ts</link>
+		
+		<item>
+			<title>VIP_USA:NBA</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/5093.ts</link>
+		
+		<item>
+			<title>VIP_USA: CNBC</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/5090.ts</link>
+		
+		<item>
+			<title>USA: ESPN</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/3992.ts</link>
+		
+		<item>
+			<title>USA: ESPN 2 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/3993.ts</link>
+		
+		<item>
+			<title>USA: CNBC</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/3991.ts</link>
+		
+		<item>
+			<title>USA: NBA</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/3995.ts</link>
+		
+		<item>
+			<title>USA: ABC</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/3994.ts</link>
+		
+		<item>
+			<title>US|,HALLMARK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/6915.ts</link>
+		
+		<item>
+			<title>US|,Fox 59 News</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/6908.ts</link>
+		
+		<item>
+			<title>US|,FOX</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/6900.ts</link>
+		
+		<item>
+			<title>US|,BYU Sports TV HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/6902.ts</link>
+		
+		<item>
+			<title>US|,AFN SPORTS HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/6909.ts</link>
+		
+		<item>
+			<title>US|,AFN Sports 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/6901.ts</link>
+		
+		<item>
+			<title>USA|,WWE HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/6899.ts</link>
+		
+		<item>
+			<title>USA|,Versus HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/6896.ts</link>
+		
+		<item>
+			<title>USA|,USA Net</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/6907.ts</link>
+		
+		<item>
+			<title>USA|,TBS HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/6903.ts</link>
+		
+		<item>
+			<title>USA|,Starz Comedy</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/6912.ts</link>
+		
+		<item>
+			<title>USA|,Starz Cinema</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/6913.ts</link>
+		
+		<item>
+			<title>USA|,NBC Golf</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/6897.ts</link>
+		
+		<item>
+			<title>USA|,Fox SPORTS 506 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/6914.ts</link>
+		
+		<item>
+			<title>USA|,FOX NEWS HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/6898.ts</link>
+		
+		<item>
+			<title>USA|,CW HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/6905.ts</link>
+		
+		<item>
+			<title>USA|,CNN HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/6904.ts</link>
+		
+		<item>
+			<title>USA|,ABC HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/6906.ts</link>
+		
+		<item>
+			<title>USA, Spike HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/6383.ts</link>
+		
+		<item>
+			<title>USA, Lifetime HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/6409.ts</link>
+		
+		<item>
+			<title>USA, A&E HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/6389.ts</link>
+		
+		<item>
+			<title>USA, AMC HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/6384.ts</link>
+		
+		<item>
+			<title>USA, CBS Action</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/6402.ts</link>
+		
+		<item>
+			<title>USA|, Fox News HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/6423.ts</link>
+		
+		<item>
+			<title>USA|, ABC News HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/6411.ts</link>
+		
+		<item>
+			<title>USA, Discovery Science HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/6400.ts</link>
+		
+		<item>
+			<title>USA, Willow Cricket HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/6395.ts</link>
+		
+		<item>
+			<title>USA|, Fox Sports 1 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/6420.ts</link>
+		
+		<item>
+			<title>USA|, Fox Sports 2 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/6419.ts</link>
+		
+		<item>
+			<title>USA, AFN Sports 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/6405.ts</link>
+		
+		<item>
+			<title>USA, AFN Sports 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/6404.ts</link>
+		
+		<item>
+			<title>USA, ESPN HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/6392.ts</link>
+		
+		<item>
+			<title>USA, ESPN 2 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/6391.ts</link>
+		
+		<item>
+			<title>USA|, Sports 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/6416.ts</link>
+		
+		<item>
+			<title>USA, NBC HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/6386.ts</link>
+		
+		<item>
+			<title>USA, NBA TV HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/6387.ts</link>
+		
+		<item>
+			<title>USA, NBA HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/6407.ts</link>
+		
+		<item>
+			<title>USA, Bein Sports US HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/6388.ts</link>
+		
+		<item>
+			<title>USA, WWE Raw Network HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/6406.ts</link>
+		
+		<item>
+			<title>USA, Astro Sports</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/6398.ts</link>
+		
+		<item>
+			<title>USA, Sprout HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/6390.ts</link>
+		
+		<item>
+			<title>USA, Network HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/6393.ts</link>
+		
+		<item>
+			<title>USA|,NBCSN HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/6910.ts</link>
+		
+	
+
 
 	
 
