@@ -11,70 +11,7 @@
 			<title>"[COLOR red][B]SERVER 1[/B][/COLOR]"</title>
 			<link>http://......</link>	
 			
-		<item>
-			<title>GR:Zougla</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.tjurk.com:8000/live/alim/alim/536.ts</link>
-		
-		<item>
-			<title>GR:Star</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.tjurk.com:8000/live/alim/alim/525.ts</link>
-		
-		<item>
-			<title>GR:SKAI</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.tjurk.com:8000/live/alim/alim/538.ts</link>
-		
-		<item>
-			<title>GR:Sigma</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.tjurk.com:8000/live/alim/alim/542.ts</link>
-		
-		<item>
-			<title>GR:Omega</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.tjurk.com:8000/live/alim/alim/537.ts</link>
-		
-		<item>
-			<title>GR:Mega</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.tjurk.com:8000/live/alim/alim/526.ts</link>
-		
-		<item>
-			<title>GR:Mad</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.tjurk.com:8000/live/alim/alim/527.ts</link>
-		
-		<item>
-			<title>GR:KontraTV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.tjurk.com:8000/live/alim/alim/528.ts</link>
-		
-		<item>
-			<title>GR:Astra</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.tjurk.com:8000/live/alim/alim/532.ts</link>
-		
-		<item>
-			<title>GR:ANT</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.tjurk.com:8000/live/alim/alim/533.ts</link>
-		
-		<item>
-			<title>GR:ALPHA</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.tjurk.com:8000/live/alim/alim/524.ts</link>
-		
-		<item>
-			<title>GR:4E</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.tjurk.com:8000/live/alim/alim/534.ts</link>
-		
-		<item>
-			<title>GR:ERT Promo</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.tjurk.com:8000/live/alim/alim/529.ts</link>
-		
-		<item>
-			<title>GR:EPT 1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.tjurk.com:8000/live/alim/alim/539.ts</link>
-		
-		<item>
-			<title>GR:EPT 2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.tjurk.com:8000/live/alim/alim/540.ts</link>
-		
-		<item>
-			<title>GR:EPT 3</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.tjurk.com:8000/live/alim/alim/541.ts</link
-	
+
 
 
 	
