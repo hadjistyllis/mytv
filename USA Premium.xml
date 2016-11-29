@@ -11,496 +11,234 @@
 			<title>"[COLOR red][B]SERVER 1[/B][/COLOR]"</title>
 			<link>http://......</link>	
 			
+		<item>
+			<title>US: Famly HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://163.172.6.8:8000/live/ashley/ashley/1161.ts</link>
 		
 		<item>
-			<title>USA:FIGHT-SPORT</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/19388.ts</link>
+			<title>US: Sport Pag TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://163.172.6.8:8000/live/ashley/ashley/1442.ts</link>
 		
 		<item>
-			<title>USA:FIGHT-NETWORK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/19389.ts</link>
+			<title>US: Sport Network</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://163.172.6.8:8000/live/ashley/ashley/1172.ts</link>
 		
 		<item>
-			<title>USA: TBS HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/19390.ts</link>
+			<title>US: Sports Versus HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://163.172.6.8:8000/live/ashley/ashley/1431.ts</link>
 		
 		<item>
-			<title>USA: ESPN 2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/19391.ts</link>
+			<title>US: World Fashion TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://163.172.6.8:8000/live/ashley/ashley/1432.ts</link>
 		
 		<item>
-			<title>USA TNT HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/19398.ts</link>
+			<title>US: Sports NFL Now HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://163.172.6.8:8000/live/ashley/ashley/1434.ts</link>
 		
 		<item>
-			<title>USA SYFY HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/19399.ts</link>
+			<title>US: HBO 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://163.172.6.8:8000/live/ashley/ashley/1433.ts</link>
 		
 		<item>
-			<title>USA NICKELODEN HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/19400.ts</link>
+			<title>US: Sports MLS Soccer</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://163.172.6.8:8000/live/ashley/ashley/1151.ts</link>
 		
 		<item>
-			<title>USA Network (US)</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/19401.ts</link>
+			<title>US: Sports Tonight</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://163.172.6.8:8000/live/ashley/ashley/1158.ts</link>
 		
 		<item>
-			<title>USA HISTORY HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/19402.ts</link>
+			<title>US: Sports Fight Sports</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://163.172.6.8:8000/live/ashley/ashley/1436.ts</link>
 		
 		<item>
-			<title>USA FOX NEWS HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/19403.ts</link>
+			<title>US: FOX 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://163.172.6.8:8000/live/ashley/ashley/1435.ts</link>
 		
 		<item>
-			<title>USA ESPN HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/19404.ts</link>
+			<title>US: Sport LTVE HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://163.172.6.8:8000/live/ashley/ashley/1153.ts</link>
 		
 		<item>
-			<title>USA CW HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/19405.ts</link>
+			<title>US: Starz Edge</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://163.172.6.8:8000/live/ashley/ashley/1451.ts</link>
 		
 		<item>
-			<title>USA COMEDY CENTRAL HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/19406.ts</link>
+			<title>US: C-Span 1 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://163.172.6.8:8000/live/ashley/ashley/1148.ts</link>
 		
 		<item>
-			<title>USA CNN HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/19407.ts</link>
+			<title>US: C-Span 2 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://163.172.6.8:8000/live/ashley/ashley/1160.ts</link>
 		
 		<item>
-			<title>USA CBS</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/19408.ts</link>
+			<title>US: C-Span 3 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://163.172.6.8:8000/live/ashley/ashley/1162.ts</link>
 		
 		<item>
-			<title>USA BRAVO HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/19409.ts</link>
+			<title>US: Sport TSN 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://163.172.6.8:8000/live/ashley/ashley/1177.ts</link>
 		
 		<item>
-			<title>USA ANIMAL PLANET HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/19410.ts</link>
+			<title>US: Sport TSN 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://163.172.6.8:8000/live/ashley/ashley/1438.ts</link>
 		
 		<item>
-			<title>USA ABC NEWS HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/19411.ts</link>
+			<title>US: Sport TSN 3</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://163.172.6.8:8000/live/ashley/ashley/1169.ts</link>
 		
 		<item>
-			<title>USA ABC HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/19412.ts</link>
+			<title>US: Sport TSN 4</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://163.172.6.8:8000/live/ashley/ashley/1175.ts</link>
 		
 		<item>
-			<title>USA | Versus HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/19392.ts</link>
+			<title>US: Sport TSN 5</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://163.172.6.8:8000/live/ashley/ashley/1176.ts</link>
 		
 		<item>
-			<title>USA | PAC-12 Oregon</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/19393.ts</link>
+			<title>US: Sport Snet 360</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://163.172.6.8:8000/live/ashley/ashley/1441.ts</link>
 		
 		<item>
-			<title>USA | PAC-12 Los Angeles</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/19394.ts</link>
+			<title>US: NHL Network HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://163.172.6.8:8000/live/ashley/ashley/1429.ts</link>
 		
 		<item>
-			<title>USA | PAC-12 Bay Area</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/19395.ts</link>
+			<title>US: Sport Snet Central</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://163.172.6.8:8000/live/ashley/ashley/1430.ts</link>
 		
 		<item>
-			<title>USA | PAC-12 Arizona</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/19396.ts</link>
+			<title>US: Espn Sport</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://163.172.6.8:8000/live/ashley/ashley/1164.ts</link>
 		
 		<item>
-			<title>USA | ESPN</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/19397.ts</link>
+			<title>US: AFN Movies HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://163.172.6.8:8000/live/ashley/ashley/1146.ts</link>
 		
 		<item>
-			<title>USA : HBO HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/19414.ts</link>
+			<title>US: Thai CH8</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://163.172.6.8:8000/live/ashley/ashley/1168.ts</link>
 		
 		<item>
-			<title>USA : HBO East</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/19415.ts</link>
+			<title>US: AMC</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://163.172.6.8:8000/live/ashley/ashley/1157.ts</link>
 		
 		<item>
-			<title>USA : DISCCOVERY HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/19416.ts</link>
+			<title>US: Fox Movies</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://163.172.6.8:8000/live/ashley/ashley/1447.ts</link>
 		
 		<item>
-			<title>USA : CBSN HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/19417.ts</link>
+			<title>US: Fox Action</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://163.172.6.8:8000/live/ashley/ashley/1448.ts</link>
 		
 		<item>
-			<title>USA : BYU TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/19418.ts</link>
+			<title>US: Amazing Music</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://163.172.6.8:8000/live/ashley/ashley/1446.ts</link>
 		
 		<item>
-			<title>USA : AMC HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/19419.ts</link>
+			<title>US: TBS Channle</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://163.172.6.8:8000/live/ashley/ashley/1449.ts</link>
 		
 		<item>
-			<title>US: USA Network HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/19420.ts</link>
+			<title>US: Starz East</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://163.172.6.8:8000/live/ashley/ashley/1450.ts</link>
 		
 		<item>
-			<title>US: TSN 5 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/19383.ts</link>
+			<title>US: NFL Live HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://163.172.6.8:8000/live/ashley/ashley/1178.ts</link>
 		
 		<item>
-			<title>US: TSN 4 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/19384.ts</link>
+			<title>US: ShowTime HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://163.172.6.8:8000/live/ashley/ashley/1439.ts</link>
 		
 		<item>
-			<title>US: TSN 3HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/19385.ts</link>
+			<title>US: A&E Network</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://163.172.6.8:8000/live/ashley/ashley/1173.ts</link>
 		
 		<item>
-			<title>US: TSN 2HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/19386.ts</link>
+			<title>US: BeIN Sports US</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://163.172.6.8:8000/live/ashley/ashley/1166.ts</link>
 		
 		<item>
-			<title>US: TSN 1 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/19387.ts</link>
+			<title>US: SYFY HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://163.172.6.8:8000/live/ashley/ashley/1154.ts</link>
 		
 		<item>
-			<title>US: NICKELODEN HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/19421.ts</link>
+			<title>US: Bravo</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://163.172.6.8:8000/live/ashley/ashley/1165.ts</link>
 		
 		<item>
-			<title>US: NBC Extra Time HD1 ( During Games Only )</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/19422.ts</link>
+			<title>US: Fox Clasic</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://163.172.6.8:8000/live/ashley/ashley/1443.ts</link>
 		
 		<item>
-			<title>US: HIFI</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/19423.ts</link>
-		
-		<item>
-			<title>US: H2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/19424.ts</link>
+			<title>US: Disccovery HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://163.172.6.8:8000/live/ashley/ashley/1150.ts</link>
 		
 		<item>
 			<title>US: FX HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/19425.ts</link>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://163.172.6.8:8000/live/ashley/ashley/1149.ts</link>
 		
 		<item>
-			<title>US: FreeRom HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/19426.ts</link>
+			<title>US: TMN 1 Moves</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://163.172.6.8:8000/live/ashley/ashley/1152.ts</link>
 		
 		<item>
-			<title>US: FOXX HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/19427.ts</link>
+			<title>US: AMG Entertainment</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://163.172.6.8:8000/live/ashley/ashley/1437.ts</link>
 		
 		<item>
-			<title>US: Food Network HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/19428.ts</link>
+			<title>US: Daystart</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://163.172.6.8:8000/live/ashley/ashley/1145.ts</link>
 		
 		<item>
-			<title>US: DIY Network</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/19429.ts</link>
-		
-		<item>
-			<title>US: Discovery Science HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/19430.ts</link>
-		
-		<item>
-			<title>US: Cinemax East</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/19431.ts</link>
-		
-		<item>
-			<title>US: BTN Sport HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/19434.ts</link>
-		
-		<item>
-			<title>US: Bein Sports USA HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/19435.ts</link>
-		
-		<item>
-			<title>US: AFN SPORTS 2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/19436.ts</link>
-		
-		<item>
-			<title>US: AFN SPORTS</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/19437.ts</link>
-		
-		<item>
-			<title>US: AFN SPECTRUM</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/19438.ts</link>
-		
-		<item>
-			<title>US: AFN PULSE</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/19439.ts</link>
-		
-		<item>
-			<title>US: AFN PRIME PACIFIC</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/19440.ts</link>
-		
-		<item>
-			<title>US: AFN PRIME ATLANTIC</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/19441.ts</link>
-		
-		<item>
-			<title>US: AFN NEWS</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/19442.ts</link>
-		
-		<item>
-			<title>USA: VirginTV Radio</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/17366.ts</link>
-		
-		<item>
-			<title>USA: University of California TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/17368.ts</link>
-		
-		<item>
-			<title>USA: TVO KIDS HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/17344.ts</link>
-		
-		<item>
-			<title>USA: TVO KIDS</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/17369.ts</link>
-		
-		<item>
-			<title>USA: TMN ACTION</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/17370.ts</link>
-		
-		<item>
-			<title>USA: SERIES9</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/17351.ts</link>
-		
-		<item>
-			<title>USA: SERIES8</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/17352.ts</link>
-		
-		<item>
-			<title>USA: SERIES7</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/17353.ts</link>
-		
-		<item>
-			<title>USA: SERIES6</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/17354.ts</link>
-		
-		<item>
-			<title>USA: SERIES5</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/17355.ts</link>
-		
-		<item>
-			<title>USA: SERIES4</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/17356.ts</link>
-		
-		<item>
-			<title>USA: SERIES3</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/17357.ts</link>
-		
-		<item>
-			<title>USA: SERIES2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/17358.ts</link>
-		
-		<item>
-			<title>USA: SERIES10</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/17359.ts</link>
-		
-		<item>
-			<title>USA: SERIES1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/17360.ts</link>
-		
-		<item>
-			<title>USA: OMNI TORONTO</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/17377.ts</link>
-		
-		<item>
-			<title>USA: NFL NOW</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/17378.ts</link>
-		
-		<item>
-			<title>USA: NFL Channel HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/17379.ts</link>
-		
-		<item>
-			<title>USA: NBC TORONTO</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/17380.ts</link>
-		
-		<item>
-			<title>USA: NBC Sports Network</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/17364.ts</link>
-		
-		<item>
-			<title>USA: NBC GOLF HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/17361.ts</link>
-		
-		<item>
-			<title>USA: NBA</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/17381.ts</link>
-		
-		<item>
-			<title>USA: LMN</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/17384.ts</link>
-		
-		<item>
-			<title>USA: ID</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/17385.ts</link>
-		
-		<item>
-			<title>USA: HSN</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/17386.ts</link>
-		
-		<item>
-			<title>USA: FMLY CHANNEL</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/17391.ts</link>
-		
-		<item>
-			<title>USA: D23</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/17395.ts</link>
-		
-		<item>
-			<title>USA: CRCOL HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/17396.ts</link>
-		
-		<item>
-			<title>USA: CNN</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/17399.ts</link>
-		
-		<item>
-			<title>USA: Bloomberg.</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/17402.ts</link>
-		
-		<item>
-			<title>USA: AMC</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/17404.ts</link>
-		
-		<item>
-			<title>USA: Al Jazeera</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/17405.ts</link>
-		
-		<item>
-			<title>USA: ABC News</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/17406.ts</link>
-		
-		<item>
-			<title>USA_PAC_12_Mountain_HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/17340.ts</link>
-		
-		<item>
-			<title>USA_PAC_12_Los_Angeles_HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/17341.ts</link>
-		
-		<item>
-			<title>US: SHOWTIME_HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/17339.ts</link>
-		
-		<item>
-			<title>US: WWE Network</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/12617.ts</link>
-		
-		<item>
-			<title>US: TSN 5</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/12600.ts</link>
-		
-		<item>
-			<title>US: TSN 4</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/12599.ts</link>
-		
-		<item>
-			<title>US: TSN 3</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/12598.ts</link>
-		
-		<item>
-			<title>US: TSN 2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/12597.ts</link>
-		
-		<item>
-			<title>US: TSB HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/12583.ts</link>
-		
-		<item>
-			<title>US: Travel Channel</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/12585.ts</link>
-		
-		<item>
-			<title>US: Spike HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/12594.ts</link>
-		
-		<item>
-			<title>US: NBCSN</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/12607.ts</link>
-		
-		<item>
-			<title>US: NBC Golf</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/12616.ts</link>
-		
-		<item>
-			<title>US: HSN 2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/12605.ts</link>
+			<title>US: Hallmark HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://163.172.6.8:8000/live/ashley/ashley/1159.ts</link>
 		
 		<item>
 			<title>US: HSN</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/12604.ts</link>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://163.172.6.8:8000/live/ashley/ashley/1170.ts</link>
 		
 		<item>
-			<title>US: Hallmark</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/12586.ts</link>
+			<title>US: Cinemax</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://163.172.6.8:8000/live/ashley/ashley/1163.ts</link>
 		
 		<item>
-			<title>US: Fox Sports 2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/12611.ts</link>
+			<title>US: TNT</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://163.172.6.8:8000/live/ashley/ashley/1156.ts</link>
 		
 		<item>
-			<title>US: Fox Sports 1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/12610.ts</link>
+			<title>US: NBA TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://163.172.6.8:8000/live/ashley/ashley/1174.ts</link>
 		
 		<item>
-			<title>US: Fox News</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/12613.ts</link>
+			<title>US: ABC NEWS HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://163.172.6.8:8000/live/ashley/ashley/1179.ts</link>
 		
 		<item>
-			<title>US: Fox Life</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/12612.ts</link>
+			<title>US: Poker Central</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://163.172.6.8:8000/live/ashley/ashley/1155.ts</link>
 		
 		<item>
-			<title>US: ESPN 2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/12606.ts</link>
+			<title>US: California TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://163.172.6.8:8000/live/ashley/ashley/1171.ts</link>
 		
 		<item>
-			<title>US: Discovery Science</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/12587.ts</link>
+			<title>US: Bloomberg</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://163.172.6.8:8000/live/ashley/ashley/1180.ts</link>
 		
 		<item>
-			<title>US: CNBC</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/12580.ts</link>
+			<title>US: Amazing Discoveries</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://163.172.6.8:8000/live/ashley/ashley/1181.ts</link>
 		
 		<item>
-			<title>US: CBSN</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/12581.ts</link>
+			<title>US: BYU</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://163.172.6.8:8000/live/ashley/ashley/1147.ts</link>
 		
-		<item>
-			<title>US: Astro SuperSport 1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/12618.ts</link>
+	
+
 		
-		<item>
-			<title>US: ABC News</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/12582.ts</link>
 		
-		<item>
-			<title>USA_VERSUS_HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/6399.ts</link>
-		
-		<item>
-			<title>USA_DISCOVERY_CHANNEL_HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/6402.ts</link>
-		
-		<item>
-			<title>USA_BYU_SPORTS_TV_HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/6404.ts</link>
-		
-		<item>
-			<title>US-National-Geo</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/5811.ts</link>
-		
-		<item>
-			<title>US-Fox Sports 1 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/5816.ts</link>
-		
-		<item>
-			<title>US-CNN HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://live.softiptv.com:9900/live/525/525/5821.ts</link>
-			
-			
 			
 			
 			
@@ -524,287 +262,6 @@
 			<title>"[COLOR red][B]SERVER 2[/B][/COLOR]"</title>
 			<link>http://......</link>	
 
-		<item>
-			<title>USA:, TSN 1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/3986.ts</link>
-		
-		<item>
-			<title>USA:, TSN 2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/3987.ts</link>
-		
-		<item>
-			<title>USA|, TSN 2 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/6412.ts</link>
-		
-		<item>
-			<title>USA:, TSN 3</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/3988.ts</link>
-		
-		<item>
-			<title>USA:, TSN 4</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/3989.ts</link>
-		
-		<item>
-			<title>USA|, TSN 4 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/6414.ts</link>
-		
-		<item>
-			<title>USA|, TSN 5</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/3990.ts</link>
-		
-		<item>
-			<title>VIP:USA: WWE Network</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/5212.ts</link>
-		
-		<item>
-			<title>VIP_USA: FOX SPORT 1 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/5080.ts</link>
-		
-		<item>
-			<title>VIP_USA: FOX SPORT 2 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/5081.ts</link>
-		
-		<item>
-			<title>VIP_US:ASTRO SPORT 1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/5082.ts</link>
-		
-		<item>
-			<title>VIP_USA: ASTRO SPORT 2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/5083.ts</link>
-		
-		<item>
-			<title>VIP_USA:ASTRO SPORT 3</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/5084.ts</link>
-		
-		<item>
-			<title>VIP_USA: TSN 1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/5085.ts</link>
-		
-		<item>
-			<title>VIP_USA: TSN 2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/5086.ts</link>
-		
-		<item>
-			<title>VIP_USA: TSN 3</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/5087.ts</link>
-		
-		<item>
-			<title>VIP_USA: TSN 4</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/5088.ts</link>
-		
-		<item>
-			<title>VIP_USA: TSN 5</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/5089.ts</link>
-		
-		<item>
-			<title>VIP_USA: ESPN</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/5091.ts</link>
-		
-		<item>
-			<title>VIP_USA: ESPN 2 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/5092.ts</link>
-		
-		<item>
-			<title>VIP_USA:NBA</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/5093.ts</link>
-		
-		<item>
-			<title>VIP_USA: CNBC</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/5090.ts</link>
-		
-		<item>
-			<title>USA: ESPN</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/3992.ts</link>
-		
-		<item>
-			<title>USA: ESPN 2 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/3993.ts</link>
-		
-		<item>
-			<title>USA: CNBC</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/3991.ts</link>
-		
-		<item>
-			<title>USA: NBA</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/3995.ts</link>
-		
-		<item>
-			<title>USA: ABC</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/3994.ts</link>
-		
-		<item>
-			<title>US|,HALLMARK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/6915.ts</link>
-		
-		<item>
-			<title>US|,Fox 59 News</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/6908.ts</link>
-		
-		<item>
-			<title>US|,FOX</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/6900.ts</link>
-		
-		<item>
-			<title>US|,BYU Sports TV HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/6902.ts</link>
-		
-		<item>
-			<title>US|,AFN SPORTS HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/6909.ts</link>
-		
-		<item>
-			<title>US|,AFN Sports 2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/6901.ts</link>
-		
-		<item>
-			<title>USA|,WWE HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/6899.ts</link>
-		
-		<item>
-			<title>USA|,Versus HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/6896.ts</link>
-		
-		<item>
-			<title>USA|,USA Net</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/6907.ts</link>
-		
-		<item>
-			<title>USA|,TBS HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/6903.ts</link>
-		
-		<item>
-			<title>USA|,Starz Comedy</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/6912.ts</link>
-		
-		<item>
-			<title>USA|,Starz Cinema</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/6913.ts</link>
-		
-		<item>
-			<title>USA|,NBC Golf</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/6897.ts</link>
-		
-		<item>
-			<title>USA|,Fox SPORTS 506 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/6914.ts</link>
-		
-		<item>
-			<title>USA|,FOX NEWS HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/6898.ts</link>
-		
-		<item>
-			<title>USA|,CW HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/6905.ts</link>
-		
-		<item>
-			<title>USA|,CNN HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/6904.ts</link>
-		
-		<item>
-			<title>USA|,ABC HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/6906.ts</link>
-		
-		<item>
-			<title>USA, Spike HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/6383.ts</link>
-		
-		<item>
-			<title>USA, Lifetime HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/6409.ts</link>
-		
-		<item>
-			<title>USA, A&E HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/6389.ts</link>
-		
-		<item>
-			<title>USA, AMC HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/6384.ts</link>
-		
-		<item>
-			<title>USA, CBS Action</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/6402.ts</link>
-		
-		<item>
-			<title>USA|, Fox News HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/6423.ts</link>
-		
-		<item>
-			<title>USA|, ABC News HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/6411.ts</link>
-		
-		<item>
-			<title>USA, Discovery Science HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/6400.ts</link>
-		
-		<item>
-			<title>USA, Willow Cricket HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/6395.ts</link>
-		
-		<item>
-			<title>USA|, Fox Sports 1 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/6420.ts</link>
-		
-		<item>
-			<title>USA|, Fox Sports 2 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/6419.ts</link>
-		
-		<item>
-			<title>USA, AFN Sports 1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/6405.ts</link>
-		
-		<item>
-			<title>USA, AFN Sports 2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/6404.ts</link>
-		
-		<item>
-			<title>USA, ESPN HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/6392.ts</link>
-		
-		<item>
-			<title>USA, ESPN 2 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/6391.ts</link>
-		
-		<item>
-			<title>USA|, Sports 1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/6416.ts</link>
-		
-		<item>
-			<title>USA, NBC HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/6386.ts</link>
-		
-		<item>
-			<title>USA, NBA TV HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/6387.ts</link>
-		
-		<item>
-			<title>USA, NBA HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/6407.ts</link>
-		
-		<item>
-			<title>USA, Bein Sports US HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/6388.ts</link>
-		
-		<item>
-			<title>USA, WWE Raw Network HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/6406.ts</link>
-		
-		<item>
-			<title>USA, Astro Sports</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/6398.ts</link>
-		
-		<item>
-			<title>USA, Sprout HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/6390.ts</link>
-		
-		<item>
-			<title>USA, Network HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/6393.ts</link>
-		
-		<item>
-			<title>USA|,NBCSN HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://37.187.159.218:8000/live/8880/8880/6910.ts</link>
-		
-	
 
 
 	
