@@ -7,9 +7,12 @@
 			<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=GA0N0Bu5JiE</link>
 	
 			
-			
-			
+<item>				
+	<title>"[COLOR red][B]test[/B][/COLOR]"</title>
+	<link>plugin://plugin.video.SportsDevil/?item=title=UK+Channels&url=http://www.shadow-net.me/categories/UK-Channels/?sort=alphaasc&cfg=shadownet.ro.cfg@Channels&definedIn=customs/shadownet.ro.cfg&director=ShadowNet.ro&genre=Live+TV&type=rss&icon=http://www.sdw-net.co/product_images/logon.png|Referer=http://www.sdw-net.co/&User-Agent=Mozilla/5.0+(Windows+NT+6.3)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/48.0.2564.116+Safari/537.36&amp;mode=1</link>		
 
+		
+		
 		<item>
 			<title>"[COLOR red][B]SERVER 1[/B][/COLOR]"</title>
 			<link>http://......</link>
