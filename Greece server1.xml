@@ -8,7 +8,7 @@
 
 
 		<item>
-			<title>"[COLOR red][B]SERVER 3[/B][/COLOR]"</title>
+			<title> ------------------[COLOR yellow][B]SERVER 1[/B][/COLOR]------------------ </title>
 			<link>http://......</link>
 			
 		<item>
@@ -84,15 +84,15 @@
 			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://smartvespana.ddns.net:8080/live/onzalez6/6/17605.ts</link>
 		
 		<item>
-			<title>GR: OTE CINEMA 1 HD (TEST)</title>
+			<title>GR: COSMOTE CINEMA 1 HD</title>
 			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://smartvespana.ddns.net:8080/live/onzalez6/6/17588.ts</link>
 		
 		<item>
-			<title>GR: OTE CINEMA 2 HD (TEST)</title>
+			<title>GR: COSMOTE CINEMA 2 HD</title>
 			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://smartvespana.ddns.net:8080/live/onzalez6/6/17589.ts</link>
 		
 		<item>
-			<title>GR: OTE CINEMA 3 HD (TEST)</title>
+			<title>GR: COSMOTE CINEMA 3 HD</title>
 			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://smartvespana.ddns.net:8080/live/onzalez6/6/17591.ts</link>
 		
 		<item>
@@ -108,7 +108,7 @@
 			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://smartvespana.ddns.net:8080/live/onzalez6/6/17596.ts</link>
 		
 		<item>
-			<title>GR:  ALPHA CINEMA 1</title>
+			<title>GR: ALPHA CINEMA 1</title>
 			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://smartvespana.ddns.net:8080/live/onzalez6/6/17601.ts</link>
 		
 		<item>
@@ -152,11 +152,11 @@
 			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://smartvespana.ddns.net:8080/live/onzalez6/6/17560.ts</link>
 		
 		<item>
-			<title>GR: SYGMA CY</title>
+			<title>CY: SIGMA</title>
 			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://smartvespana.ddns.net:8080/live/onzalez6/6/17480.ts</link>
 		
 		<item>
-			<title>GR: RIK</title>
+			<title>CY: RIK SAT</title>
 			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://smartvespana.ddns.net:8080/live/onzalez6/6/17569.ts</link>
 		
 		<item>
@@ -272,23 +272,23 @@
 			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://smartvespana.ddns.net:8080/live/onzalez6/6/17564.ts</link>
 		
 		<item>
-			<title>GR: OTE SPORTS 1 HD</title>
+			<title>GR: COSMOTE SPORTS 1 HD</title>
 			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://smartvespana.ddns.net:8080/live/onzalez6/6/17393.ts</link>
 		
 		<item>
-			<title>GR: OTE SPORTS 2 HD</title>
+			<title>GR: COSMOTE SPORTS 2 HD</title>
 			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://smartvespana.ddns.net:8080/live/onzalez6/6/17482.ts</link>
 		
 		<item>
-			<title>GR: OTE SPORTS 3 HD</title>
+			<title>GR: COSMOTE SPORTS 3 HD</title>
 			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://smartvespana.ddns.net:8080/live/onzalez6/6/17594.ts</link>
 		
 		<item>
-			<title>GR: OTE SPORTS 4 HD</title>
+			<title>GR: COSMOTE SPORTS 4 HD</title>
 			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://smartvespana.ddns.net:8080/live/onzalez6/6/17599.ts</link>
 		
 		<item>
-			<title>GR:  OTE SPORT HIGHLIGHTS HD (TEST)</title>
+			<title>GR: COSMOTE SPORT HIGHLIGHTS HD</title>
 			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://smartvespana.ddns.net:8080/live/onzalez6/6/17593.ts</link>
 		
 		<item>
@@ -300,18 +300,18 @@
 			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://smartvespana.ddns.net:8080/live/onzalez6/6/17573.ts</link>
 		
 		<item>
-			<title>GR:  NOVA SPORT 1 HD (TEST)</title>
+			<title>GR:  NOVA SPORT 1 HD </title>
 			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://smartvespana.ddns.net:8080/live/onzalez6/6/17584.ts</link>
 		
 		<item>
-			<title>GR:  NOVA SPORT 2 HD (TEST)</title>
+			<title>GR:  NOVA SPORT 2 HD </title>
 			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://smartvespana.ddns.net:8080/live/onzalez6/6/17585.ts</link>
 		
 		<item>
-			<title>GR:  NOVA SPORT 3 HD (TEST)</title>
+			<title>GR:  NOVA SPORT 3 HD </title>
 			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://smartvespana.ddns.net:8080/live/onzalez6/6/17587.ts</link>
 		
 		<item>
-			<title>GR:  NOVA SPORT 4 HD (TEST)</title>
+			<title>GR:  NOVA SPORT 4 HD </title>
 			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://smartvespana.ddns.net:8080/live/onzalez6/6/17592.ts</link>
 		
