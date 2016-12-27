@@ -10,7 +10,7 @@
 <item>
 <title> ----------------->[COLOR yellow][B]SERVER 1[/B][/COLOR]<----------------- </title>
 <link>http://ignore.me</link>
-<jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=61&name=%5bCOLOR%20FF11b500%5dS4%20special%5b%2fCOLOR%5d&url=http%3a%2f%2fpastebin.com%2fraw%2fsLU4cGUg%5bgettext%5d%7cUser-Agent%3dDalvik%2f1.6.0%20(Linux%3b%20U%3b%20Android%204.4.2%3b%20SM-G900F%20Build%2fKOT49H)%7cUser-Agent%3dhttps%3a%2f%2fpastebin.com%2fraw%2fyK6gbK41<jsonrpc>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=title%3dSports4u.tv%26url%3dtv%252Fsports4u.tv.cfg%26definedIn%3dtv.cfg%26director%3dsports4u.tv%26genre%3dTV%26type%3drss%26icon%3dC%253A%255CUsers%255CAndreas%255CAppData%255CRoaming%255CKodi%255Caddons%255Cplugin.video.SportsDevil%255Cresources%255Cimages%255Csports4u.png&mode=1<jsonrpc>
 <genre></genre>
 </item>	
 			
