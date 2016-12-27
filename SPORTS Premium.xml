@@ -10,7 +10,7 @@
 <item>
 <title> ----------------->[COLOR yellow][B]SERVER 1[/B][/COLOR]<----------------- </title>
 <link>http://ignore.me</link>
-<jsonrpc>plugin://plugin.video.SportsDevil/?item=title%3dSports4u.tv%26url%3dtv%252Fsports4u.tv.cfg%26definedIn%3dtv.cfg%26director%3dsports4u.tv%26genre%3dTV%26type%3drss%26icon%3dC%253A%255CUsers%255CAndreas%255CAppData%255CRoaming%255CKodi%255Caddons%255Cplugin.video.SportsDevil%255Cresources%255Cimages%255Csports4u.png&mode=1<jsonrpc>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=title%3dSports4u.tv%26url%3dtv%252Fsports4u.tv.cfg%26definedIn%3dtv.cfg%26director%3dsports4u.tv%26genre%3dTV%26type%3drss&mode=1<jsonrpc>
 <genre></genre>
 </item>	
 			
