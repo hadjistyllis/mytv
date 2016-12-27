@@ -10,7 +10,7 @@
 <item>
 <title> ----------------->[COLOR yellow][B]SERVER 1[/B][/COLOR]<----------------- </title>
 <link>http://ignore.me</link>
-<externallink>plugin://plugin.video.ZemTV-shani/?mode=61&name=%5bCOLOR%20FF11b500%5dS1%5b%2fCOLOR%5d&url=http%3a%2f%2fcp.dmbshare.net%3a8000%2fget.php%3fusername%3dthomas1%26password%3dthomas1%26type%3dm3u</externallink>
+<jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=61&name=%5bCOLOR%20FF11b500%5dS1%5b%2fCOLOR%5d&url=http%3a%2f%2fcp.dmbshare.net%3a8000%2fget.php%3fusername%3dthomas1%26password%3dthomas1%26type%3dm3u<jsonrpc>
 <genre></genre>
 </item>	
 			
