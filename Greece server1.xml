@@ -12,306 +12,151 @@
 			<link>http://......</link>
 			
 		<item>
-			<title>---------- Γενικού ενδιαφέροντος-ειδήσεις -----------</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://smartvespana.ddns.net:8080/live/onzalez6/6/17558.ts</link>
-		
-		<item>
-			<title>GR: ERT HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://smartvespana.ddns.net:8080/live/onzalez6/6/1734.ts</link>
-		
-		<item>
-			<title>GR: ERT 2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://smartvespana.ddns.net:8080/live/onzalez6/6/1736.ts</link>
-		
-		<item>
-			<title>GR: ERT 3</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://smartvespana.ddns.net:8080/live/onzalez6/6/1735.ts</link>
-		
-		<item>
-			<title>GR: Ant1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://smartvespana.ddns.net:8080/live/onzalez6/6/1740.ts</link>
-		
-		<item>
-			<title>GR: MEGA TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://smartvespana.ddns.net:8080/live/onzalez6/6/17565.ts</link>
-		
-		<item>
-			<title>GR: ALPHA</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://smartvespana.ddns.net:8080/live/onzalez6/6/17451.ts</link>
-		
-		<item>
-			<title>GR: STAR</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://smartvespana.ddns.net:8080/live/onzalez6/6/17452.ts</link>
-		
-		<item>
-			<title>GR: SKAI</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://smartvespana.ddns.net:8080/live/onzalez6/6/1731.ts</link>
-		
-		<item>
-			<title>GR: E</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://smartvespana.ddns.net:8080/live/onzalez6/6/17458.ts</link>
-		
-		<item>
-			<title>GR: VOULI</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://smartvespana.ddns.net:8080/live/onzalez6/6/17476.ts</link>
-		
-		<item>
-			<title>GR: Makedonia TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://smartvespana.ddns.net:8080/live/onzalez6/6/17566.ts</link>
-		
-		<item>
-			<title>GR: ALERT</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://smartvespana.ddns.net:8080/live/onzalez6/6/17463.ts</link>
-		
-		<item>
-			<title>GR: Action24</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://smartvespana.ddns.net:8080/live/onzalez6/6/17474.ts</link>
-		
-		<item>
-			<title>GR: ART</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://smartvespana.ddns.net:8080/live/onzalez6/6/17473.ts</link>
-		
-		<item>
-			<title>GR: KONTRA</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://smartvespana.ddns.net:8080/live/onzalez6/6/17457.ts</link>
-		
-		<item>
-			<title>GR: EXTRA</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://smartvespana.ddns.net:8080/live/onzalez6/6/17456.ts</link>
-		
-		<item>
-			<title>---------- Σινεμά -----------</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://smartvespana.ddns.net:8080/live/onzalez6/6/17605.ts</link>
-		
-		<item>
-			<title>GR: COSMOTE CINEMA 1 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://smartvespana.ddns.net:8080/live/onzalez6/6/17588.ts</link>
-		
-		<item>
-			<title>GR: COSMOTE CINEMA 2 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://smartvespana.ddns.net:8080/live/onzalez6/6/17589.ts</link>
-		
-		<item>
-			<title>GR: COSMOTE CINEMA 3 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://smartvespana.ddns.net:8080/live/onzalez6/6/17591.ts</link>
-		
-		<item>
-			<title>GR: VILLAGE CINEMA</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://smartvespana.ddns.net:8080/live/onzalez6/6/17600.ts</link>
-		
-		<item>
-			<title>GR:  FOX HD </title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://smartvespana.ddns.net:8080/live/onzalez6/6/17586.ts</link>
-		
-		<item>
-			<title>GR: FOX LIFE HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://smartvespana.ddns.net:8080/live/onzalez6/6/17596.ts</link>
-		
-		<item>
-			<title>GR: ALPHA CINEMA 1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://smartvespana.ddns.net:8080/live/onzalez6/6/17601.ts</link>
-		
-		<item>
-			<title>GR: ALPHA CINEMA 2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://smartvespana.ddns.net:8080/live/onzalez6/6/17602.ts</link>
-		
-		<item>
-			<title>GR: ALPHA CINEMA 3</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://smartvespana.ddns.net:8080/live/onzalez6/6/17603.ts</link>
-		
-		<item>
-			<title>---------- Τοπικά -----------</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://smartvespana.ddns.net:8080/live/onzalez6/6/17559.ts</link>
-		
-		<item>
-			<title>GR: HIGH TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://smartvespana.ddns.net:8080/live/onzalez6/6/17567.ts</link>
-		
-		<item>
-			<title>GR: ZOUGLA</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://smartvespana.ddns.net:8080/live/onzalez6/6/17464.ts</link>
-		
-		<item>
-			<title>GR: 4E</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://smartvespana.ddns.net:8080/live/onzalez6/6/17465.ts</link>
-		
-		<item>
-			<title>GR: KRHTH TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://smartvespana.ddns.net:8080/live/onzalez6/6/17469.ts</link>
-		
+			<title>---------- Cyprus -----------</title>
+			<link>http://......</link>
+			
 		<item>
-			<title>GR: NEA TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://smartvespana.ddns.net:8080/live/onzalez6/6/17468.ts</link>
+			<title>PIK1 </title>
+			<link>http://188.165.119.235:65113 </link>
 		
 		<item>
-			<title>GR: HPEIROS TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://smartvespana.ddns.net:8080/live/onzalez6/6/17466.ts</link>
+			<title>PIK2 </title>
+			<link>http://188.165.119.235:65114 </link>
 		
 		<item>
-			<title>---------- Κύπρος -----------</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://smartvespana.ddns.net:8080/live/onzalez6/6/17560.ts</link>
+			<title>SIGMA </title>
+			<link>http://188.165.119.235:65115 </link>
 		
 		<item>
-			<title>CY: SIGMA</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://smartvespana.ddns.net:8080/live/onzalez6/6/17480.ts</link>
+			<title>ANT1CY </title>
+			<link>http://188.165.119.235:65116 </link>
 		
 		<item>
-			<title>CY: RIK SAT</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://smartvespana.ddns.net:8080/live/onzalez6/6/17569.ts</link>
+			<title>MEGACY </title>
+			<link>http://188.165.119.235:65117 </link>
 		
 		<item>
-			<title>---------- Παιδικά -----------</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://smartvespana.ddns.net:8080/live/onzalez6/6/17561.ts</link>
+			<title>ALPHACY </title>
+			<link>http://188.165.119.235:65121 </link>
 		
 		<item>
-			<title>GR: NICKELODEON.</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://smartvespana.ddns.net:8080/live/onzalez6/6/17453.ts</link>
+			<title>CAPITAL </title>
+			<link>http://188.165.119.235:65118 </link>
 		
 		<item>
-			<title>GR: Disney Junior</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://smartvespana.ddns.net:8080/live/onzalez6/6/17568.ts</link>
+			<title>EXTRA </title>
+			<link>http://188.165.119.235:65119 </link>
 		
 		<item>
-			<title>GR: DISNEY CHANNEL</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://smartvespana.ddns.net:8080/live/onzalez6/6/17597.ts</link>
+			<title>PLUS </title>
+			<link>http://188.165.119.235:65120 </link>
 		
 		<item>
-			<title>GR: Jim Jam</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://smartvespana.ddns.net:8080/live/onzalez6/6/17572.ts</link>
-		
-		<item>
-			<title>GR: ALPHA KIDS</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://smartvespana.ddns.net:8080/live/onzalez6/6/17604.ts</link>
-		
-		<item>
-			<title>GR: DISNEY XD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://smartvespana.ddns.net:8080/live/onzalez6/6/17598.ts</link>
-		
-		<item>
-			<title>---------- Ντοκυμαντέρ -----------</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://smartvespana.ddns.net:8080/live/onzalez6/6/17562.ts</link>
-		
-		<item>
-			<title>GR: Animal Planet</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://smartvespana.ddns.net:8080/live/onzalez6/6/17395.ts</link>
-		
-		<item>
-			<title>GR: Discovery</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://smartvespana.ddns.net:8080/live/onzalez6/6/17396.ts</link>
-		
-		<item>
-			<title>GR: Discovery sci HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://smartvespana.ddns.net:8080/live/onzalez6/6/17570.ts</link>
-		
-		<item>
-			<title>GR: Discovery Turbo  XTRA</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://smartvespana.ddns.net:8080/live/onzalez6/6/17571.ts</link>
-		
+			<title>MAD </title>
+			<link>http://188.165.119.235:65213 </link>	
+			
+			
+			
 		<item>
-			<title>GR: Discovery Science</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://smartvespana.ddns.net:8080/live/onzalez6/6/17398.ts</link>
-		
-		<item>
-			<title>GR: Discovery ID</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://smartvespana.ddns.net:8080/live/onzalez6/6/17399.ts</link>
-		
+			<title>---------- Greece -----------</title>
+			<link>http://......</link>
+			
+			
+			
 		<item>
-			<title>GR: Discovery ID X</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://smartvespana.ddns.net:8080/live/onzalez6/6/17400.ts</link>
+			<title>EPT1 </title>
+			<link>http://188.165.119.235:65101</link>
 		
 		<item>
-			<title>GR: Discovery ID TX</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://smartvespana.ddns.net:8080/live/onzalez6/6/17401.ts</link>
+			<title>EPT2 </title>
+			<link>http://188.165.119.235:65102 </link>
 		
 		<item>
-			<title>GR: National Geografic</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://smartvespana.ddns.net:8080/live/onzalez6/6/17402.ts</link>
+			<title>EPT3 </title>
+			<link>http://188.165.119.235:65103 </link>
 		
 		<item>
-			<title>GR: History HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://smartvespana.ddns.net:8080/live/onzalez6/6/17394.ts</link>
+			<title>VOULI </title>
+			<link>http://188.165.119.235:65104 </link>
 		
 		<item>
-			<title>GR: Show Case</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://smartvespana.ddns.net:8080/live/onzalez6/6/17397.ts</link>
+			<title>ALPHA </title>
+			<link>http://188.165.119.235:65105 </link>
 		
 		<item>
-			<title>GR: Sundance</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://smartvespana.ddns.net:8080/live/onzalez6/6/17405.ts</link>
+			<title>ANT1 </title>
+			<link>http://188.165.119.235:65106 </link>
 		
 		<item>
-			<title>GR: TLC</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://smartvespana.ddns.net:8080/live/onzalez6/6/17404.ts</link>
+			<title>APT </title>
+			<link>http://188.165.119.235:65107 </link>
 		
 		<item>
-			<title>GR: Travel Channel</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://smartvespana.ddns.net:8080/live/onzalez6/6/17403.ts</link>
+			<title>EPSILON </title>
+			<link>http://188.165.119.235:65108 </link>
 		
 		<item>
-			<title>---------- Μουσικά -----------</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://smartvespana.ddns.net:8080/live/onzalez6/6/17563.ts</link>
+			<title>MACEDONIA </title>
+			<link>http://188.165.119.235:65109 </link>
 		
 		<item>
-			<title>GR: RISE</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://smartvespana.ddns.net:8080/live/onzalez6/6/17461.ts</link>
+			<title>MEGA </title>
+			<link>http://188.165.119.235:65110 </link>
 		
 		<item>
-			<title>GR: MAD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://smartvespana.ddns.net:8080/live/onzalez6/6/17459.ts</link>
+			<title>STAR </title>
+			<link>http://188.165.119.235:65111 </link>
 		
 		<item>
-			<title>GR: MAD CY</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://smartvespana.ddns.net:8080/live/onzalez6/6/17481.ts</link>
-		
-		<item>
-			<title>GR: MAD GREEKZ</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://smartvespana.ddns.net:8080/live/onzalez6/6/17595.ts</link>
-		
+			<title>SKAI </title>
+			<link>http://188.165.119.235:65112 </link>
+				
 		<item>
-			<title>---------- Αθλητικά -----------</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://smartvespana.ddns.net:8080/live/onzalez6/6/17564.ts</link>
+			<title>ANIMAL </title>
+			<link>http://188.165.119.235:65210 </link>
 		
 		<item>
-			<title>GR: COSMOTE SPORTS 1 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://smartvespana.ddns.net:8080/live/onzalez6/6/17393.ts</link>
+			<title>DISCOVERY </title>
+			<link>http://188.165.119.235:65204 </link>
 		
 		<item>
-			<title>GR: COSMOTE SPORTS 2 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://smartvespana.ddns.net:8080/live/onzalez6/6/17482.ts</link>
+			<title>SCIENCE </title>
+			<link>http://188.165.119.235:65212 </link>
 		
 		<item>
-			<title>GR: COSMOTE SPORTS 3 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://smartvespana.ddns.net:8080/live/onzalez6/6/17594.ts</link>
+			<title>IDX </title>
+			<link>http://188.165.119.235:65208 </link>
 		
 		<item>
-			<title>GR: COSMOTE SPORTS 4 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://smartvespana.ddns.net:8080/live/onzalez6/6/17599.ts</link>
+			<title>EUROSPORT1 </title>
+			<link>http://188.165.119.235:65265 </link>
 		
 		<item>
-			<title>GR: COSMOTE SPORT HIGHLIGHTS HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://smartvespana.ddns.net:8080/live/onzalez6/6/17593.ts</link>
+			<title>EUROSPORT2 </title>
+			<link>http://188.165.119.235:65266 </link>
 		
 		<item>
-			<title>GR: EUROSPORT 1 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://smartvespana.ddns.net:8080/live/onzalez6/6/17462.ts</link>
+			<title>ARENA SPORTS1 </title>
+			<link>http://188.165.119.235:65267 </link>
 		
 		<item>
-			<title>GR: EUROSPORT 2 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://smartvespana.ddns.net:8080/live/onzalez6/6/17573.ts</link>
+			<title>ARENA SPORTS2 </title>
+			<link>http://188.165.119.235:65268 </link>
 		
 		<item>
-			<title>GR:  NOVA SPORT 1 HD (Mono se live)</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://smartvespana.ddns.net:8080/live/onzalez6/6/17584.ts</link>
+			<title>ARENA SPORTS3 </title>
+			<link>http://188.165.119.235:65269 </link>
 		
 		<item>
-			<title>GR:  NOVA SPORT 2 HD (Mono se live)</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://smartvespana.ddns.net:8080/live/onzalez6/6/17585.ts</link>
+			<title>ARENA SPORTS4 </title>
+			<link>http://188.165.119.235:65270 </link>
 		
 		<item>
-			<title>GR:  NOVA SPORT 3 HD (Mono se live)</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://smartvespana.ddns.net:8080/live/onzalez6/6/17587.ts</link>
+			<title>S </title>
+			<link>http://188.165.119.235:65275 </link>
 		
 		<item>
-			<title>GR:  NOVA SPORT 4 HD (Mono se live)</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://smartvespana.ddns.net:8080/live/onzalez6/6/17592.ts</link>
+			<title>S </title>
+			<link>http://188.165.119.235:65277</link>
 		
+	
