@@ -11,554 +11,359 @@
 			<title> ------------------[COLOR yellow][B]SERVER 1[/B][/COLOR]------------------ </title>
 			<link>http://......</link>
 			
-		<item>
-			<title>(UK) BBC 1 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/332.ts</link>
-		
-		<item>
-			<title>(UK) BBC 2 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/333.ts</link>
-		
-		<item>
-			<title>(UK) BBC 3 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/319.ts</link>
-		
-		<item>
-			<title>(UK) BBC 4 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/334.ts</link>
-		
-		<item>
-			<title>(UK) BBC Entertainment</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/323.ts</link>
-		
-		<item>
-			<title>(UK) Channel 4</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/1560.ts</link>
-		
-		<item>
-			<title>(UK) Channel 4 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11471.ts</link>
-		
-		<item>
-			<title>(UK) Channel 5</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/1561.ts</link>
-		
-		<item>
-			<title>(UK) Channel 5 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11472.ts</link>
-		
-		<item>
-			<title>(UK) iTV 1 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/328.ts</link>
-		
-		<item>
-			<title>(UK) iTV 2 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/329.ts</link>
-		
-		<item>
-			<title>(UK) iTV 3 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/330.ts</link>
-		
-		<item>
-			<title>(UK) ITV 4 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/464.ts</link>
-		
-		<item>
-			<title>(UK) iTV Be</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/8153.ts</link>
-		
-		<item>
-			<title>(UK) 3E</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11424.ts</link>
-		
-		<item>
-			<title>(UK) 4Seven HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11473.ts</link>
-		
-		<item>
-			<title>(UK) More 4</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11428.ts</link>
-		
-		<item>
-			<title>(UK) E4</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/1566.ts</link>
-		
-		<item>
-			<title>(UK) Five</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/331.ts</link>
-		
-		<item>
-			<title>(UK) 5 Star</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11430.ts</link>
-		
-		<item>
-			<title>(UK) Gold</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/191.ts</link>
-		
-		<item>
-			<title>(UK) TCM</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11422.ts</link>
-		
-		<item>
-			<title>(UK) E!</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11411.ts</link>
-		
-		<item>
-			<title>(UK) Sky Living UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/327.ts</link>
-		
-		<item>
-			<title>(UK) RTE 1 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/1569.ts</link>
-		
-		<item>
-			<title>(UK) RTE 2 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11404.ts</link>
-		
-		<item>
-			<title>(UK) RTE Junior</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11416.ts</link>
-		
-		<item>
-			<title>(UK) Quest</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11414.ts</link>
-		
-		<item>
-			<title>(UK) H2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11421.ts</link>
-		
-		<item>
-			<title>(UK) Dave</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11436.ts</link>
-		
-		<item>
-			<title>(UK) Pick TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11426.ts</link>
-		
-		<item>
-			<title>(UK) Dmax</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/1565.ts</link>
-		
-		<item>
-			<title>☆☆☆☆☆ UK - NEWS ☆☆☆☆☆</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11447.ts</link>
-		
-		<item>
-			<title>(UK) BBC News</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11412.ts</link>
-		
-		<item>
-			<title>(UK) Sky News HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/204.ts</link>
-		
-		<item>
-			<title>(UK) CNN News</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11443.ts</link>
-		
-		<item>
-			<title>(UK) Bloomberg</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11440.ts</link>
-		
-		<item>
-			<title>(UK) Al Jazeera UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11423.ts</link>
+
+			
+					<item>
+			<title>---ENTERTAIMENTUK---</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2855.ts</link>
 		
 		<item>
-			<title>☆☆☆☆☆ UK - DOCUMENTARY ☆☆☆☆☆</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/7132.ts</link>
+			<title>SKY NEWS HD UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2856.ts</link>
 		
 		<item>
-			<title>(UK) Discovery Channel</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/195.ts</link>
+			<title>Al-Jazeera English UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2857.ts</link>
 		
 		<item>
-			<title>(UK) Discovery History</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/193.ts</link>
+			<title>Comedy Central UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2858.ts</link>
 		
 		<item>
-			<title>(UK) Discovery Science</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/1563.ts</link>
+			<title>SKY ONE UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2859.ts</link>
 		
 		<item>
-			<title>(UK) Discovery Turbo</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11410.ts</link>
+			<title>Sky 2 UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2860.ts</link>
 		
 		<item>
-			<title>(UK) Discovery Shed</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11445.ts</link>
+			<title>Sky Atlantic UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2861.ts</link>
 		
 		<item>
-			<title>(UK) Discovery Home&Health</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11420.ts</link>
+			<title>Sky Living UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2862.ts</link>
 		
 		<item>
-			<title>(UK) Investigation Discovery</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/196.ts</link>
+			<title>Sky Arts 1 UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2863.ts</link>
 		
 		<item>
-			<title>(UK) National Geographic Channel</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/194.ts</link>
+			<title>ANIMAL PLANET UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/22043.ts</link>
 		
 		<item>
-			<title>(UK) National Geographic Wild</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/1568.ts</link>
+			<title>True TV UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2864.ts</link>
 		
 		<item>
-			<title>(UK) History Channel</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11415.ts</link>
+			<title>True Entertainment UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2865.ts</link>
 		
 		<item>
-			<title>(UK) Animal Planet</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/192.ts</link>
+			<title>THE VAULT UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2866.ts</link>
 		
 		<item>
-			<title>(UK) Travel Channel</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11425.ts</link>
+			<title>TG4 UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2867.ts</link>
 		
 		<item>
-			<title>☆☆☆☆☆ UK - MUSIC ☆☆☆☆☆</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/7133.ts</link>
+			<title>Watch UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2868.ts</link>
 		
 		<item>
-			<title>(UK) Vevo 1 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11405.ts</link>
+			<title>TV-3 UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2869.ts</link>
 		
 		<item>
-			<title>(UK) Vevo 2 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11406.ts</link>
+			<title>TLC UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2870.ts</link>
 		
 		<item>
-			<title>(UK) Vevo 3 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11407.ts</link>
+			<title>--- SPORT UK ---</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2871.ts</link>
 		
 		<item>
-			<title>(UK) MTV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/8171.ts</link>
+			<title>Box Nation UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/22045.ts</link>
 		
 		<item>
-			<title>(UK) MTV +1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11171.ts</link>
+			<title>Sky Sport News UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2872.ts</link>
 		
 		<item>
-			<title>(UK) MTV Music</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/1580.ts</link>
+			<title>Sky Sports 1 HD UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2873.ts</link>
 		
 		<item>
-			<title>(UK) MTV Music +1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11174.ts</link>
+			<title>Sky Sports 2 UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2874.ts</link>
 		
 		<item>
-			<title>(UK) MTV Dance</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/349.ts</link>
+			<title>Sky Sports 3 HD UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2875.ts</link>
 		
 		<item>
-			<title>(UK) MTV Hits</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/347.ts</link>
+			<title>Sky Sports 4 HD UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2876.ts</link>
 		
 		<item>
-			<title>(UK) MTV Rocks</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/348.ts</link>
+			<title>Sky Sports 5 HD UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2877.ts</link>
 		
 		<item>
-			<title>(UK) MTV Base</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11172.ts</link>
+			<title>Sky Sports F1 UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2878.ts</link>
 		
 		<item>
-			<title>(UK) MTV Classic</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11173.ts</link>
+			<title>BT SPORTS EXTRA UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2879.ts</link>
 		
 		<item>
-			<title>(UK) VH1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/350.ts</link>
+			<title>BT Sports 1 HD UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2880.ts</link>
 		
 		<item>
-			<title>(UK) Viva</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11170.ts</link>
+			<title>BT Sports 2 UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2881.ts</link>
 		
 		<item>
-			<title>☆☆☆☆☆ UK - KIDS ☆☆☆☆☆</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/7134.ts</link>
+			<title>BT Sports ESPN UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2882.ts</link>
 		
 		<item>
-			<title>(UK) Comedy Central</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11408.ts</link>
+			<title>BT Europe HD UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2883.ts</link>
 		
 		<item>
-			<title>(UK) Comedy Xtra</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11409.ts</link>
+			<title>Premier sport UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2884.ts</link>
 		
 		<item>
-			<title>(UK) Disney Channel</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/2522.ts</link>
+			<title>Setanta Sports UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2885.ts</link>
 		
 		<item>
-			<title>(UK) Disney Junior</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/1564.ts</link>
+			<title>Chelsea UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2886.ts</link>
 		
 		<item>
-			<title>(UK) Cartoon Network</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/359.ts</link>
+			<title>Mio Stadium 1 HD UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2887.ts</link>
 		
 		<item>
-			<title>(UK) Nickelodeon</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11434.ts</link>
+			<title>Mio Stadium 2 HD UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2888.ts</link>
 		
 		<item>
-			<title>(UK) Nick Junior</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/1581.ts</link>
+			<title>Mio Stadium 3 HD UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2889.ts</link>
 		
 		<item>
-			<title>(UK) NickToons</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11433.ts</link>
+			<title>Mio Stadium 4 HD UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2890.ts</link>
 		
 		<item>
-			<title>(UK) Boomerang</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11439.ts</link>
+			<title>Mio Stadium 5 HD UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2891.ts</link>
 		
 		<item>
-			<title>(UK) Baby TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11441.ts</link>
+			<title>Mio Stadium 6 HK UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2892.ts</link>
 		
 		<item>
-			<title>☆☆☆☆☆ UK - CINEMA ☆☆☆☆☆</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/7130.ts</link>
+			<title>--- CINEMA UK ---</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2893.ts</link>
 		
 		<item>
-			<title>(UK) SyFy HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/17.ts</link>
+			<title>Sky Movies Premiere UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2894.ts</link>
 		
 		<item>
-			<title>(UK) Sky One HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/1582.ts</link>
+			<title>Sky Movies Premiere 1 UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2895.ts</link>
 		
 		<item>
-			<title>(UK) Sky Two</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/2519.ts</link>
+			<title>Sky Movies Comedy UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2896.ts</link>
 		
 		<item>
-			<title>(UK) Sky Arts</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/1570.ts</link>
+			<title>Sky Movies Drama UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2897.ts</link>
 		
 		<item>
-			<title>(UK) Sky Atlantic HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/1575.ts</link>
+			<title>Sky Movies Sci-Fi UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2898.ts</link>
 		
 		<item>
-			<title>(UK) Sky Movies Drama & Romance HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/565.ts</link>
+			<title>Sky Movies Greats HD UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2899.ts</link>
 		
 		<item>
-			<title>(UK) Sky Movies Action & Adventure</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/199.ts</link>
+			<title>Sky Action UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2900.ts</link>
 		
 		<item>
-			<title>(UK) Sky Movies Comedy HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/201.ts</link>
+			<title>Sky Family UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2901.ts</link>
 		
 		<item>
-			<title>(UK) Sky Movies Crime & Thriller HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/200.ts</link>
+			<title>Sky Super Hero UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2902.ts</link>
 		
 		<item>
-			<title>(UK) Sky Movies Disney</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/1577.ts</link>
+			<title>Sky Two UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2903.ts</link>
 		
 		<item>
-			<title>(UK) Sky Movies Family HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/202.ts</link>
+			<title>Sky Select UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2904.ts</link>
 		
 		<item>
-			<title>(UK) Sky Movies Select HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/569.ts</link>
+			<title>Sky Showcase UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2905.ts</link>
 		
 		<item>
-			<title>(UK) Sky Movies Premiere HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/198.ts</link>
+			<title>True Movies 1 UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2906.ts</link>
 		
 		<item>
-			<title>(UK) Sky Movies Sci-Fi & Horror</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/203.ts</link>
+			<title>True Movies 2 UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2907.ts</link>
 		
 		<item>
-			<title>(UK) Sky Movies Showcase</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11431.ts</link>
+			<title>True Drama UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2908.ts</link>
 		
 		<item>
-			<title>(UK) Sky Movies Greats HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11432.ts</link>
+			<title>Thrill UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2909.ts</link>
 		
 		<item>
-			<title>(UK) True Movies 1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11418.ts</link>
+			<title>SONY MOVIES UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2910.ts</link>
 		
 		<item>
-			<title>(UK) True Movies 2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11419.ts</link>
+			<title>Spike UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2911.ts</link>
 		
 		<item>
-			<title>(UK) Movies 4 Men</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11427.ts</link>
+			<title>TCM UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2912.ts</link>
 		
 		<item>
-			<title>(UK) Horror Channel</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11438.ts</link>
+			<title>History UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/22046.ts</link>
 		
 		<item>
-			<title>(UK) Film 4</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11437.ts</link>
+			<title>Disney Junior UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/22057.ts</link>
 		
 		<item>
-			<title>(UK) Drama UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11429.ts</link>
+			<title>Disney Channel UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/22056.ts</link>
 		
 		<item>
-			<title>☆☆☆☆☆ UK - SPORTS ☆☆☆☆☆</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/7131.ts</link>
+			<title>CBS Action UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/22047.ts</link>
 		
 		<item>
-			<title>(UK) Sky Sport News HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/1571.ts</link>
+			<title>BBC 3HD UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/22042.ts</link>
 		
 		<item>
-			<title>(UK) Sky Sports 1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/7641.ts</link>
+			<title>BBC 2HD UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/22041.ts</link>
 		
 		<item>
-			<title>(UK) Sky Sports 1 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/209.ts</link>
+			<title>BBC 1HD UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/22040.ts</link>
 		
 		<item>
-			<title>(UK) Sky Sports 2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11399.ts</link>
+			<title>--- DOCUMENTARY UK ---</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2913.ts</link>
 		
 		<item>
-			<title>(UK) Sky Sports 2 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/210.ts</link>
+			<title>CBS REALITY UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/22049.ts</link>
 		
 		<item>
-			<title>(UK) Sky Sports 3</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/211.ts</link>
+			<title>Discovery UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2914.ts</link>
 		
 		<item>
-			<title>(UK) Sky Sports 3 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11400.ts</link>
+			<title>DISCOVERY TURBO UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/22055.ts</link>
 		
 		<item>
-			<title>(UK) Sky Sports 4</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/212.ts</link>
+			<title>Discovery Science UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/22053.ts</link>
 		
 		<item>
-			<title>(UK) Sky Sports 4 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11401.ts</link>
+			<title>Discovery Home&Health UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/22052.ts</link>
 		
 		<item>
-			<title>(UK) Sky Sports 5</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/213.ts</link>
+			<title>Discovery History UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/22051.ts</link>
 		
 		<item>
-			<title>(UK) Sky Sports 5 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11402.ts</link>
+			<title>Nat Geo Wild UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2915.ts</link>
 		
 		<item>
-			<title>(UK) Sky Sports F1 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/214.ts</link>
+			<title>TRAVEL CHANNEL UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2916.ts</link>
 		
 		<item>
-			<title>(UK) BT Sport 1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/206.ts</link>
+			<title>YESTERDAY UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2917.ts</link>
 		
 		<item>
-			<title>(UK) BT Sport 1 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11484.ts</link>
+			<title>--- CARTOONS UK ---</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2918.ts</link>
 		
 		<item>
-			<title>(UK) BT Sport 2</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/207.ts</link>
+			<title>Sky Disney UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2919.ts</link>
 		
 		<item>
-			<title>(UK) BT Sport 2 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11485.ts</link>
+			<title>Nickelodeon UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2920.ts</link>
 		
 		<item>
-			<title>(UK) BT Sport Europe</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/988.ts</link>
+			<title>Cartoon Network UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2921.ts</link>
 		
 		<item>
-			<title>(UK) BT Sport Europe HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11486.ts</link>
+			<title>Nick Junior UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2922.ts</link>
 		
 		<item>
-			<title>(UK) BT ESPN HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/316.ts</link>
+			<title>RTE Junior UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2923.ts</link>
 		
 		<item>
-			<title>(UK) BT Sport Extra</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/7640.ts</link>
+			<title>--- MUSIC UK ---</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2924.ts</link>
 		
 		<item>
-			<title>(UK) CTH Stadium X</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/5345.ts</link>
+			<title>VH1 UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2925.ts</link>
 		
 		<item>
-			<title>(UK) CTH Stadium 1 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/1948.ts</link>
+			<title>VH1 Classic UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2926.ts</link>
 		
 		<item>
-			<title>(UK) CTH Stadium 2 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/1949.ts</link>
+			<title>VIVA UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2927.ts</link>
 		
 		<item>
-			<title>(UK) CTH Stadium 3 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/1950.ts</link>
+			<title>THE BOX UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2928.ts</link>
 		
-		<item>
-			<title>(UK) CTH Stadium 4 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/1951.ts</link>
-		
-		<item>
-			<title>(UK) CTH Stadium 5 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/1952.ts</link>
-		
-		<item>
-			<title>(UK) CTH Stadium 6 HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/1953.ts</link>
-		
-		<item>
-			<title>(UK) Eurosport 1</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/985.ts</link>
-		
-		<item>
-			<title>(UK) MUTV HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11435.ts</link>
-		
-		<item>
-			<title>(UK) Chelsea TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/1576.ts</link>
-		
-		<item>
-			<title>(UK) Liverpool TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/1785.ts</link>
-		
-		<item>
-			<title>(UK) Box Nation</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/458.ts</link>
-		
-		<item>
-			<title>(UK) Motors TV</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/1579.ts</link>
-		
-		<item>
-			<title>(UK) Premier Sports HD</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/313.ts</link>
-		
-		<item>
-			<title>(UK) Setanta Sports</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/1594.ts</link>
-		
-		<item>
-			<title>(UK) Racing UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11403.ts</link>
-		
-		<item>
-			<title>(UK) At the Races</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11442.ts</link>
+	
+
