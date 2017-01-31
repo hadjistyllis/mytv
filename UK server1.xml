@@ -13,357 +13,817 @@
 			
 
 			
-					<item>
-			<title>---ENTERTAIMENTUK---</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2855.ts</link>
+		<item>
+			<title>UK: Sky Sports 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/1.ts</link>
+		
+		<item>
+			<title>UK: Sky Sports 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/2.ts</link>
+		
+		<item>
+			<title>UK: Sky Sports 3</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/3.ts</link>
+		
+		<item>
+			<title>UK: Sky Sports 4</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/4.ts</link>
+		
+		<item>
+			<title>UK: Sky Sports 5</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/5.ts</link>
+		
+		<item>
+			<title>UK: Sky Sports F1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/6.ts</link>
+		
+		<item>
+			<title>UK: Sky Sports News</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/7.ts</link>
+		
+		<item>
+			<title>UK: Sky Sports Mix</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/2074.ts</link>
+		
+		<item>
+			<title>UK: Sky Box Office</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/2075.ts</link>
+		
+		<item>
+			<title>UK: ESPN</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/8.ts</link>
+		
+		<item>
+			<title>UK: BT Sport 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/9.ts</link>
+		
+		<item>
+			<title>UK: BT Sport 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/10.ts</link>
+		
+		<item>
+			<title>UK: BT Sport Europe</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/11.ts</link>
+		
+		<item>
+			<title>UK: BT SPORT 3</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/119.ts</link>
+		
+		<item>
+			<title>UK: British Eurosport</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/12.ts</link>
+		
+		<item>
+			<title>UK: British Eurosport 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/13.ts</link>
+		
+		<item>
+			<title>UK: Premier Sports</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/14.ts</link>
+		
+		<item>
+			<title>UK: Racing UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/15.ts</link>
+		
+		<item>
+			<title>UK: Setanta Ireland</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/16.ts</link>
+		
+		<item>
+			<title>UK: Chelsea</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/17.ts</link>
+		
+		<item>
+			<title>UK: MUTV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/18.ts</link>
+		
+		<item>
+			<title>UK: BoxNation</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/19.ts</link>
+		
+		<item>
+			<title>UK: Liverpool</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/20.ts</link>
+		
+		<item>
+			<title>UK: RealMadrid</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/21.ts</link>
+		
+		<item>
+			<title>UK: Sky Sports 1 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/22.ts</link>
+		
+		<item>
+			<title>UK: Sky Sports 2 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/23.ts</link>
+		
+		<item>
+			<title>UK: Sky Sports 3 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/24.ts</link>
+		
+		<item>
+			<title>UK: Sky Sports 4 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/25.ts</link>
+		
+		<item>
+			<title>UK: Sky Sports 5 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/26.ts</link>
+		
+		<item>
+			<title>UK: Sky Sports News HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/27.ts</link>
+		
+		<item>
+			<title>UK: Sky Sports F1 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/28.ts</link>
+		
+		<item>
+			<title>UK: BT Sport 1 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/29.ts</link>
+		
+		<item>
+			<title>UK: BT Sport 2 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/30.ts</link>
+		
+		<item>
+			<title>UK: BT Sport europe HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/31.ts</link>
+		
+		<item>
+			<title>UK: Eurosport 1 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/1926.ts</link>
+		
+		<item>
+			<title>UK: Eurosport 2 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/1913.ts</link>
+		
+		<item>
+			<title>UK: FIGHTBOX HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/1941.ts</link>
+		
+		<item>
+			<title>UK: At The Races UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/32.ts</link>
+		
+		<item>
+			<title>UK: Motor TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/86.ts</link>
+		
+		<item>
+			<title>UK: BT Sport Mosaic1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/2802.ts</link>
+		
+		<item>
+			<title>UK: BT Sport Mosaic2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/2803.ts</link>
+		
+		<item>
+			<title>UK: BT Sport eXtra 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/2804.ts</link>
+		
+		<item>
+			<title>UK: BT Sport eXtra2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/2805.ts</link>
+		
+		<item>
+			<title>UK: BT Sport eXtra3</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/2806.ts</link>
+		
+		<item>
+			<title>UK: BT Sport eXtra4</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/2807.ts</link>
+		
+		<item>
+			<title>UK: BT Sport eXtra5</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/2808.ts</link>
+		
+		<item>
+			<title>UK: BT Sport eXtra6</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/2809.ts</link>
+		
+		<item>
+			<title>UK: Sky Select</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/33.ts</link>
+		
+		<item>
+			<title>UK: Sky Scifi and horror</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/34.ts</link>
+		
+		<item>
+			<title>UK: Sky Premiere +1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/35.ts</link>
+		
+		<item>
+			<title>UK: Sky Premiere</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/36.ts</link>
+		
+		<item>
+			<title>UK: Sky ShowCase</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/37.ts</link>
+		
+		<item>
+			<title>UK: Sky Greats</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/38.ts</link>
+		
+		<item>
+			<title>UK: Sky Family</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/39.ts</link>
+		
+		<item>
+			<title>UK: Sky Drama</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/40.ts</link>
+		
+		<item>
+			<title>UK: Sky Action</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/41.ts</link>
+		
+		<item>
+			<title>UK: Sky Thriller</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/42.ts</link>
+		
+		<item>
+			<title>UK: Sky Comedy</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/43.ts</link>
+		
+		<item>
+			<title>UK: Sky Atlantic</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/44.ts</link>
+		
+		<item>
+			<title>UK: Sky Atlantic +1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/123.ts</link>
+		
+		<item>
+			<title>UK: Sky Movies ShowCase</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/100.ts</link>
+		
+		<item>
+			<title>UK: Sky One HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/45.ts</link>
+		
+		<item>
+			<title>UK: Sky One HD +1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/1942.ts</link>
+		
+		<item>
+			<title>UK: Sky Two HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/46.ts</link>
+		
+		<item>
+			<title>UK: Sky Arts +1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/47.ts</link>
+		
+		<item>
+			<title>UK: TCM</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/58.ts</link>
+		
+		<item>
+			<title>UK: Challenge</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/1924.ts</link>
+		
+		<item>
+			<title>UK: Horror Channel</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/122.ts</link>
+		
+		<item>
+			<title>UK: True Movies</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/55.ts</link>
+		
+		<item>
+			<title>UK: True Movies 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/56.ts</link>
+		
+		<item>
+			<title>UK: Sony Movie Channel</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/1937.ts</link>
+		
+		<item>
+			<title>UK: Sony Movie Channel +1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/1944.ts</link>
+		
+		<item>
+			<title>UK: Sony Movie +1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/2071.ts</link>
+		
+		<item>
+			<title>UK: MOVIES24</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/1909.ts</link>
+		
+		<item>
+			<title>UK: Comedy Central</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/54.ts</link>
+		
+		<item>
+			<title>UK: Comedy Central Extra</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/1917.ts</link>
+		
+		<item>
+			<title>UK: RTEjr</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/1903.ts</link>
+		
+		<item>
+			<title>UK: RTE 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/72.ts</link>
+		
+		<item>
+			<title>UK: RTE 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/73.ts</link>
+		
+		<item>
+			<title>UK: Universal</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/1889.ts</link>
+		
+		<item>
+			<title>UK: History +1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/124.ts</link>
+		
+		<item>
+			<title>UK: Film 4 UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/52.ts</link>
+		
+		<item>
+			<title>UK: Movies 4 Men</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/87.ts</link>
+		
+		<item>
+			<title>UK: Fox</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/90.ts</link>
+		
+		<item>
+			<title>UK: Dmax</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/79.ts</link>
+		
+		<item>
+			<title>UK: E!</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/1900.ts</link>
+		
+		<item>
+			<title>UK: SyFy</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/51.ts</link>
+		
+		<item>
+			<title>UK: Syfy +1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/121.ts</link>
+		
+		<item>
+			<title>UK: Dave</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/53.ts</link>
+		
+		<item>
+			<title>UK: Spike</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/1902.ts</link>
+		
+		<item>
+			<title>UK: Drama</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/1899.ts</link>
+		
+		<item>
+			<title>UK: Tru TV UK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/1927.ts</link>
+		
+		<item>
+			<title>UK: CBS Action</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/1896.ts</link>
+		
+		<item>
+			<title>UK: CBS Drama</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/1895.ts</link>
+		
+		<item>
+			<title>UK: CBS Reality</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/1894.ts</link>
+		
+		<item>
+			<title>UK: Tiny Pop</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/120.ts</link>
+		
+		<item>
+			<title>UK: Utv</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/1932.ts</link>
+		
+		<item>
+			<title>UK: UTV Ireland</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/1901.ts</link>
+		
+		<item>
+			<title>UK: Flava</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/2072.ts</link>
+		
+		<item>
+			<title>UK: BET</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/1951.ts</link>
+		
+		<item>
+			<title>UK: BBC Entertainment</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/1893.ts</link>
+		
+		<item>
+			<title>UK: BBC One HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/59.ts</link>
+		
+		<item>
+			<title>UK: BBC2 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/60.ts</link>
+		
+		<item>
+			<title>UK: BBC 3 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/61.ts</link>
+		
+		<item>
+			<title>UK: BBC 4 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/62.ts</link>
+		
+		<item>
+			<title>UK: BBC News</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/63.ts</link>
+		
+		<item>
+			<title>UK: ITV Encore</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/64.ts</link>
+		
+		<item>
+			<title>UK: ITV BE</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/65.ts</link>
+		
+		<item>
+			<title>UK: ITV 1 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/66.ts</link>
+		
+		<item>
+			<title>UK: ITV One SD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/67.ts</link>
+		
+		<item>
+			<title>UK: ITV One HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/68.ts</link>
+		
+		<item>
+			<title>UK: ITV 2 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/69.ts</link>
+		
+		<item>
+			<title>UK: ITV 3 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/70.ts</link>
+		
+		<item>
+			<title>UK: ITV 4 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/71.ts</link>
+		
+		<item>
+			<title>UK: Yesterday</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/57.ts</link>
+		
+		<item>
+			<title>UK: More4</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/75.ts</link>
 		
 		<item>
-			<title>SKY NEWS HD UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2856.ts</link>
+			<title>UK: Sky Living</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/76.ts</link>
 		
 		<item>
-			<title>Al-Jazeera English UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2857.ts</link>
+			<title>UK: Sky Living +1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/1943.ts</link>
 		
 		<item>
-			<title>Comedy Central UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2858.ts</link>
+			<title>UK: REAL Lives</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/1907.ts</link>
 		
 		<item>
-			<title>SKY ONE UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2859.ts</link>
+			<title>UK: Alibi</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/84.ts</link>
 		
 		<item>
-			<title>Sky 2 UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2860.ts</link>
+			<title>UK: Comedy Central +1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/1934.ts</link>
 		
 		<item>
-			<title>Sky Atlantic UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2861.ts</link>
+			<title>UK: TV3</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/48.ts</link>
 		
 		<item>
-			<title>Sky Living UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2862.ts</link>
+			<title>UK: Home</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/77.ts</link>
 		
 		<item>
-			<title>Sky Arts 1 UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2863.ts</link>
+			<title>UK: Gold</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/78.ts</link>
 		
 		<item>
-			<title>ANIMAL PLANET UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/22043.ts</link>
+			<title>UK: Channel5</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/80.ts</link>
 		
 		<item>
-			<title>True TV UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2864.ts</link>
+			<title>UK: Channel 5 USA</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/81.ts</link>
 		
 		<item>
-			<title>True Entertainment UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2865.ts</link>
+			<title>UK: Channel 5Star</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/82.ts</link>
 		
 		<item>
-			<title>THE VAULT UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2866.ts</link>
+			<title>UK: Channel4 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/83.ts</link>
 		
 		<item>
-			<title>TG4 UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2867.ts</link>
+			<title>UK: Pick TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/85.ts</link>
 		
 		<item>
-			<title>Watch UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2868.ts</link>
+			<title>UK: 3E</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/1888.ts</link>
 		
 		<item>
-			<title>TV-3 UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2869.ts</link>
+			<title>UK: TV3 IE</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/1887.ts</link>
 		
 		<item>
-			<title>TLC UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2870.ts</link>
+			<title>UK: E4</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/88.ts</link>
 		
 		<item>
-			<title>--- SPORT UK ---</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2871.ts</link>
+			<title>UK: Watch</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/49.ts</link>
 		
 		<item>
-			<title>Box Nation UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/22045.ts</link>
+			<title>UK: Vintage TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/1949.ts</link>
 		
 		<item>
-			<title>Sky Sport News UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2872.ts</link>
+			<title>UK: Quest</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/1898.ts</link>
 		
 		<item>
-			<title>Sky Sports 1 HD UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2873.ts</link>
+			<title>UK: Five</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/1897.ts</link>
 		
 		<item>
-			<title>Sky Sports 2 UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2874.ts</link>
+			<title>UK: The Box</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/1948.ts</link>
 		
 		<item>
-			<title>Sky Sports 3 HD UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2875.ts</link>
+			<title>UK: CITV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/1933.ts</link>
 		
 		<item>
-			<title>Sky Sports 4 HD UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2876.ts</link>
+			<title>UK: Lifetime</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/1925.ts</link>
 		
 		<item>
-			<title>Sky Sports 5 HD UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2877.ts</link>
+			<title>UK: iConcerts HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/1947.ts</link>
 		
 		<item>
-			<title>Sky Sports F1 UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2878.ts</link>
+			<title>UK: Nautical HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/1945.ts</link>
 		
 		<item>
-			<title>BT SPORTS EXTRA UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2879.ts</link>
+			<title>UK: REALLY</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/1908.ts</link>
 		
 		<item>
-			<title>BT Sports 1 HD UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2880.ts</link>
+			<title>UK: The Vault</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/1906.ts</link>
 		
 		<item>
-			<title>BT Sports 2 UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2881.ts</link>
+			<title>UK: Eden</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/1905.ts</link>
 		
 		<item>
-			<title>BT Sports ESPN UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2882.ts</link>
+			<title>UK: Magic</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/1910.ts</link>
 		
 		<item>
-			<title>BT Europe HD UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2883.ts</link>
+			<title>UK: Cartoon Network</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/89.ts</link>
 		
 		<item>
-			<title>Premier sport UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2884.ts</link>
+			<title>UK: Cartoon Network +1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/2073.ts</link>
 		
 		<item>
-			<title>Setanta Sports UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2885.ts</link>
+			<title>UK: Nicktoons</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/91.ts</link>
 		
 		<item>
-			<title>Chelsea UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2886.ts</link>
+			<title>UK: Nickelodeon Jr</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/92.ts</link>
 		
 		<item>
-			<title>Mio Stadium 1 HD UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2887.ts</link>
+			<title>UK: Nickelodeon</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/93.ts</link>
 		
 		<item>
-			<title>Mio Stadium 2 HD UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2888.ts</link>
+			<title>UK: Baby Tv</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/94.ts</link>
 		
 		<item>
-			<title>Mio Stadium 3 HD UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2889.ts</link>
+			<title>UK: Boomerang</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/95.ts</link>
 		
 		<item>
-			<title>Mio Stadium 4 HD UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2890.ts</link>
+			<title>UK: NickJr Too</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/1916.ts</link>
 		
 		<item>
-			<title>Mio Stadium 5 HD UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2891.ts</link>
+			<title>UK: Sky Disney</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/96.ts</link>
 		
 		<item>
-			<title>Mio Stadium 6 HK UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2892.ts</link>
+			<title>UK: Disney Channel</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/97.ts</link>
 		
 		<item>
-			<title>--- CINEMA UK ---</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2893.ts</link>
+			<title>UK: Disney Channel +1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/125.ts</link>
 		
 		<item>
-			<title>Sky Movies Premiere UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2894.ts</link>
+			<title>UK: DISNEY JUNIOR</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/98.ts</link>
 		
 		<item>
-			<title>Sky Movies Premiere 1 UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2895.ts</link>
+			<title>UK: Disney Junior +1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/127.ts</link>
 		
 		<item>
-			<title>Sky Movies Comedy UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2896.ts</link>
+			<title>UK: Disney XD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/99.ts</link>
 		
 		<item>
-			<title>Sky Movies Drama UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2897.ts</link>
+			<title>UK: Disney XD +1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/126.ts</link>
 		
 		<item>
-			<title>Sky Movies Sci-Fi UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2898.ts</link>
+			<title>UK: Viva</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/1928.ts</link>
 		
 		<item>
-			<title>Sky Movies Greats HD UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2899.ts</link>
+			<title>UK: Vh1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/115.ts</link>
 		
 		<item>
-			<title>Sky Action UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2900.ts</link>
+			<title>UK: MTV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/116.ts</link>
 		
 		<item>
-			<title>Sky Family UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2901.ts</link>
+			<title>UK: MTV Music</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/117.ts</link>
 		
 		<item>
-			<title>Sky Super Hero UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2902.ts</link>
+			<title>UK: MTV Hits</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/118.ts</link>
 		
 		<item>
-			<title>Sky Two UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2903.ts</link>
+			<title>UK: MTV Live HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/1923.ts</link>
 		
 		<item>
-			<title>Sky Select UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2904.ts</link>
+			<title>UK: MTV +1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/1922.ts</link>
 		
 		<item>
-			<title>Sky Showcase UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2905.ts</link>
+			<title>UK: MTV Base</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/1921.ts</link>
 		
 		<item>
-			<title>True Movies 1 UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2906.ts</link>
+			<title>UK: MTV Dance</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/1920.ts</link>
 		
 		<item>
-			<title>True Movies 2 UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2907.ts</link>
+			<title>UK: MTV Rocks</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/1919.ts</link>
 		
 		<item>
-			<title>True Drama UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2908.ts</link>
+			<title>UK: MTV Classic</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/1918.ts</link>
 		
 		<item>
-			<title>Thrill UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2909.ts</link>
+			<title>UK: Nat Geo Channel</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/102.ts</link>
 		
 		<item>
-			<title>SONY MOVIES UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2910.ts</link>
+			<title>UK: Animal planet</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/1890.ts</link>
 		
 		<item>
-			<title>Spike UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2911.ts</link>
+			<title>UK: TLC +1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/1950.ts</link>
 		
 		<item>
-			<title>TCM UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2912.ts</link>
+			<title>UK: ID Xtra HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/1946.ts</link>
 		
 		<item>
-			<title>History UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/22046.ts</link>
+			<title>UK: Crime Investigation</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/1939.ts</link>
 		
 		<item>
-			<title>Disney Junior UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/22057.ts</link>
+			<title>UK: Fine Living Network</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/1938.ts</link>
 		
 		<item>
-			<title>Disney Channel UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/22056.ts</link>
+			<title>UK: National Geography Wild</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/101.ts</link>
 		
 		<item>
-			<title>CBS Action UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/22047.ts</link>
+			<title>UK: National Geographic HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/1931.ts</link>
 		
 		<item>
-			<title>BBC 3HD UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/22042.ts</link>
+			<title>UK: NatGeo Wild HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/1930.ts</link>
 		
 		<item>
-			<title>BBC 2HD UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/22041.ts</link>
+			<title>UK: Horse and Country</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/1929.ts</link>
 		
 		<item>
-			<title>BBC 1HD UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/22040.ts</link>
+			<title>UK: Animal Planet HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/1915.ts</link>
 		
 		<item>
-			<title>--- DOCUMENTARY UK ---</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2913.ts</link>
+			<title>UK: H2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/50.ts</link>
 		
 		<item>
-			<title>CBS REALITY UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/22049.ts</link>
+			<title>UK: Discovery Channel</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/104.ts</link>
 		
 		<item>
-			<title>Discovery UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2914.ts</link>
+			<title>UK: TLC +2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/1914.ts</link>
 		
 		<item>
-			<title>DISCOVERY TURBO UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/22055.ts</link>
+			<title>UK: Discovery Home &amp; Health</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/1912.ts</link>
 		
 		<item>
-			<title>Discovery Science UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/22053.ts</link>
+			<title>UK: Discovery Shed</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/1911.ts</link>
 		
 		<item>
-			<title>Discovery Home&Health UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/22052.ts</link>
+			<title>UK: Discovery History</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/105.ts</link>
 		
 		<item>
-			<title>Discovery History UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/22051.ts</link>
+			<title>UK: Discovery Science</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/106.ts</link>
 		
 		<item>
-			<title>Nat Geo Wild UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2915.ts</link>
+			<title>UK: Discovery Turbo</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/107.ts</link>
 		
 		<item>
-			<title>TRAVEL CHANNEL UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2916.ts</link>
+			<title>UK: Investion Discovery</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/103.ts</link>
 		
 		<item>
-			<title>YESTERDAY UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2917.ts</link>
+			<title>UK: TLC</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/108.ts</link>
 		
 		<item>
-			<title>--- CARTOONS UK ---</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2918.ts</link>
+			<title>UK: History Channel</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/109.ts</link>
 		
 		<item>
-			<title>Sky Disney UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2919.ts</link>
+			<title>UK: Travel Channel</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/110.ts</link>
 		
 		<item>
-			<title>Nickelodeon UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2920.ts</link>
+			<title>UK: Food Network</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/111.ts</link>
 		
 		<item>
-			<title>Cartoon Network UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2921.ts</link>
+			<title>UK: TG4</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/74.ts</link>
 		
 		<item>
-			<title>Nick Junior UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2922.ts</link>
+			<title>UK: RT News</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/1935.ts</link>
 		
 		<item>
-			<title>RTE Junior UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2923.ts</link>
+			<title>UK: SkyNews</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/112.ts</link>
 		
 		<item>
-			<title>--- MUSIC UK ---</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2924.ts</link>
+			<title>UK: Fox News</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/1904.ts</link>
 		
 		<item>
-			<title>VH1 UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2925.ts</link>
+			<title>UK: Discovery Sci HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/1940.ts</link>
 		
 		<item>
-			<title>VH1 Classic UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2926.ts</link>
+			<title>UK: NHK World</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/1936.ts</link>
 		
 		<item>
-			<title>VIVA UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2927.ts</link>
+			<title>UK: Bloomberg</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/114.ts</link>
 		
 		<item>
-			<title>THE BOX UK</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://newlook.ddns.net:9880/live/amy1_94940/45028/2928.ts</link>
+			<title>UK: Cnn Int</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://217.23.12.7:58080/live/deynekci/Y5lrn0gQM7/113.ts</link>
 		
 	
 
