@@ -12,151 +12,60 @@
 			<link>http://......</link>
 			
 		<item>
-			<title>---------- Cyprus -----------</title>
-			<link>http://......</link>
-			
-		<item>
-			<title>PIK1 </title>
-			<link>http://188.165.119.235:65113 </link>
+			<title>GR:Alpha</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://151.80.99.90:16000/live/KEBTON/12000888/922.ts</link>
 		
 		<item>
-			<title>PIK2 </title>
-			<link>http://188.165.119.235:65114 </link>
+			<title>GR:Animal_Planet</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://151.80.99.90:16000/live/KEBTON/12000888/929.ts</link>
 		
 		<item>
-			<title>SIGMA </title>
-			<link>http://188.165.119.235:65115 </link>
+			<title>GR:Ant_1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://151.80.99.90:16000/live/KEBTON/12000888/920.ts</link>
 		
 		<item>
-			<title>ANT1CY </title>
-			<link>http://188.165.119.235:65116 </link>
+			<title>GR:DISCOVERY</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://151.80.99.90:16000/live/KEBTON/12000888/928.ts</link>
 		
 		<item>
-			<title>MEGACY </title>
-			<link>http://188.165.119.235:65117 </link>
+			<title>GR:DISCOVERY_DTX</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://151.80.99.90:16000/live/KEBTON/12000888/926.ts</link>
 		
 		<item>
-			<title>ALPHACY </title>
-			<link>http://188.165.119.235:65121 </link>
+			<title>GR:DISCOVERY_ID</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://151.80.99.90:16000/live/KEBTON/12000888/927.ts</link>
 		
 		<item>
-			<title>CAPITAL </title>
-			<link>http://188.165.119.235:65118 </link>
+			<title>GR:DISCOVERY_SCIENCE</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://151.80.99.90:16000/live/KEBTON/12000888/925.ts</link>
 		
 		<item>
-			<title>EXTRA </title>
-			<link>http://188.165.119.235:65119 </link>
+			<title>GR:DISCOVERY_Showcase</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://151.80.99.90:16000/live/KEBTON/12000888/924.ts</link>
 		
 		<item>
-			<title>PLUS </title>
-			<link>http://188.165.119.235:65120 </link>
+			<title>GR:ERT</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://151.80.99.90:16000/live/KEBTON/12000888/916.ts</link>
 		
 		<item>
-			<title>MAD </title>
-			<link>http://188.165.119.235:65213 </link>	
-			
-			
-			
-		<item>
-			<title>---------- Greece -----------</title>
-			<link>http://......</link>
-			
-			
-			
-		<item>
-			<title>EPT1 </title>
-			<link>http://188.165.119.235:65101</link>
+			<title>GR:ERT_1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://151.80.99.90:16000/live/KEBTON/12000888/917.ts</link>
 		
 		<item>
-			<title>EPT2 </title>
-			<link>http://188.165.119.235:65102 </link>
+			<title>GR:ERT_2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://151.80.99.90:16000/live/KEBTON/12000888/918.ts</link>
 		
 		<item>
-			<title>EPT3 </title>
-			<link>http://188.165.119.235:65103 </link>
+			<title>GR:MEGA</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://151.80.99.90:16000/live/KEBTON/12000888/921.ts</link>
 		
 		<item>
-			<title>VOULI </title>
-			<link>http://188.165.119.235:65104 </link>
+			<title>GR:Nickelodeon</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://151.80.99.90:16000/live/KEBTON/12000888/923.ts</link>
 		
 		<item>
-			<title>ALPHA </title>
-			<link>http://188.165.119.235:65105 </link>
-		
-		<item>
-			<title>ANT1 </title>
-			<link>http://188.165.119.235:65106 </link>
-		
-		<item>
-			<title>APT </title>
-			<link>http://188.165.119.235:65107 </link>
-		
-		<item>
-			<title>EPSILON </title>
-			<link>http://188.165.119.235:65108 </link>
-		
-		<item>
-			<title>MACEDONIA </title>
-			<link>http://188.165.119.235:65109 </link>
-		
-		<item>
-			<title>MEGA </title>
-			<link>http://188.165.119.235:65110 </link>
-		
-		<item>
-			<title>STAR </title>
-			<link>http://188.165.119.235:65111 </link>
-		
-		<item>
-			<title>SKAI </title>
-			<link>http://188.165.119.235:65112 </link>
-				
-		<item>
-			<title>ANIMAL </title>
-			<link>http://188.165.119.235:65210 </link>
-		
-		<item>
-			<title>DISCOVERY </title>
-			<link>http://188.165.119.235:65204 </link>
-		
-		<item>
-			<title>SCIENCE </title>
-			<link>http://188.165.119.235:65212 </link>
-		
-		<item>
-			<title>IDX </title>
-			<link>http://188.165.119.235:65208 </link>
-		
-		<item>
-			<title>EUROSPORT1 </title>
-			<link>http://188.165.119.235:65265 </link>
-		
-		<item>
-			<title>EUROSPORT2 </title>
-			<link>http://188.165.119.235:65266 </link>
-		
-		<item>
-			<title>ARENA SPORTS1 </title>
-			<link>http://188.165.119.235:65267 </link>
-		
-		<item>
-			<title>ARENA SPORTS2 </title>
-			<link>http://188.165.119.235:65268 </link>
-		
-		<item>
-			<title>ARENA SPORTS3 </title>
-			<link>http://188.165.119.235:65269 </link>
-		
-		<item>
-			<title>ARENA SPORTS4 </title>
-			<link>http://188.165.119.235:65270 </link>
-		
-		<item>
-			<title>S </title>
-			<link>http://188.165.119.235:65275 </link>
-		
-		<item>
-			<title>S </title>
-			<link>http://188.165.119.235:65277</link>
+			<title>GR:STAR</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://151.80.99.90:16000/live/KEBTON/12000888/919.ts</link>
 		
 	
+
