@@ -14,109 +14,120 @@
       
  
 		<item>
-			<title>Alpha Sat</title>
-			<link>http://s2.greekelitetv.com:1935/alpha_sat/alpha_sat.stream/playlist.m3u8</link>
+			<title>-----CYPRUS-----</title>
+			<link>http://......</link>
 		
 		<item>
-			<title>MEGA Cosmos</title>
-			<link>http://s2.greekelitetv.com:1935/mega_cosmos/mega_cosmos.stream/playlist.m3u8</link>
+			<title>RIK 1</title>
+			<link>http://38.99.163.117/nimble_live/rik1_low/playlist.m3u8</link>
+
+		<item>
+			<title>ΡΙΚ1 -7hrs</title>
+			<link>http://38.99.163.117/nimble_live/rik1_low/playlist_dvr_timeshift-25200.m3u8</link>
 		
 		<item>
-			<title>RIK SAT</title>
-			<link>http://s2.greekelitetv.com:1935/riksat/riksat.stream/playlist.m3u8</link>
-		
+			<title>RIK2</title>
+			<link>http://38.99.163.117/nimble_live/rik2_low/playlist.m3u8</link>
+
 		<item>
-			<title>ERT HD</title>
-			<link>http://s2.greekelitetv.com:1935/erthd/erthd.stream/playlist.m3u8</link>
-		
-		<item>
-			<title>AB</title>
-			<link>http://s2.greekelitetv.com:1935/abchannel/abchannel.stream/playlist.m3u8</link>
-		
-		<item>
-			<title>ACTION24</title>
-			<link>http://s2.greekelitetv.com:1935/action24/action24.stream/playlist.m3u8</link>
-		
-		<item>
-			<title>Attica</title>
-			<link>http://s2.greekelitetv.com:1935/attica/attica.stream/playlist.m3u8</link>
-		
-		<item>
-			<title>E -7hrs</title>
-			<link>http://s2.greekelitetv.com:1935/epsilon-7/epsilon-7.stream/playlist.m3u8</link>
-		
-		<item>
-			<title>E -10hrs</title>
-			<link>http://s2.greekelitetv.com:1935/epsilon-10/epsilon-10.stream/playlist.m3u8</link>
-		
-		<item>
-			<title>Alpha -7hrs</title>
-			<link>http://s2.greekelitetv.com:1935/alpha-7/alpha-7.stream/playlist.m3u8</link>
-		
-		<item>
-			<title>Alpha -10hrs</title>
-			<link>http://s2.greekelitetv.com:1935/alpha-10/alpha-10.stream/playlist.m3u8</link>
-		
-		<item>
-			<title>SMILE</title>
-			<link>http://s2.greekelitetv.com:1935/smile/smile.stream/playlist.m3u8</link>
-		
-		<item>
-			<title>EuroNews Greece</title>
-			<link>http://s2.greekelitetv.com:1935/euronews/euronews.stream/playlist.m3u8</link>
-		
-		<item>
-			<title>STAR -7hrs</title>
-			<link>http://s2.greekelitetv.com:1935/star-7/star-7.stream/playlist.m3u8</link>
-		
-		<item>
-			<title>STAR -10hrs</title>
-			<link>http://s2.greekelitetv.com:1935/star-10/star-10.stream/playlist.m3u8</link>
-		
-		<item>
-			<title>SKAI -7hrs</title>
-			<link>http://s2.greekelitetv.com:1935/skai-7/skai-7.stream/playlist.m3u8</link>
-		
-		<item>
-			<title>EXTRA</title>
-			<link>http://s2.greekelitetv.com:1935/extra/extra.stream/playlist.m3u8</link>
-		
-		<item>
-			<title>SKAI -10hrs</title>
-			<link>http://s2.greekelitetv.com:1935/skai-10/skai-10.stream/playlist.m3u8</link>
-		
-		<item>
-			<title>BlueSky</title>
-			<link>http://s2.greekelitetv.com:1935/bluesky/bluesky.stream/playlist.m3u8</link>
-		
-		<item>
-			<title>nickelodeon</title>
-			<link>http://38.99.163.117/nickelodeon/nickelodeon/playlist.m3u8</link>
-		
-		<item>
-			<title>EuroSport 2</title>
-			<link>http://38.99.163.117/nimble_live/EUROSPORT2/playlist.m3u8</link>
-		
-		<item>
-			<title>EuroSport 1</title>
-			<link>http://38.99.163.117/nimble_live/EUROSPORT1/playlist.m3u8</link>
-		
+			<title>RIK2 -7hrs</title>
+			<link>http://38.99.163.117/nimble_live/rik2_low/playlist_dvr_timeshift-25200.m3u8</link>
+
 		<item>
 			<title>Ant1 Κύπρος</title>
 			<link>http://38.99.163.117/nimble_live/ant1CY_low/playlist.m3u8</link>
+
+		<item>
+			<title>ANT1 Κύπρος -7hrs</title>
+			<link>http://38.99.163.117/nimble_live/ant1CY_low/playlist_dvr_timeshift-25200.m3u8</link>
+
+		<item>
+			<title>MEGAONE</title>
+			<link>http://38.99.163.117/nimble_live/megaCY_low/playlist.m3u8</link>
+
+		<item>
+			<title>MEGAONE -7hrs</title>
+			<link>http://38.99.163.117/nimble_live/megaCY_low/playlist_dvr_timeshift-25200.m3u8</link>
+
+		<item>
+			<title>SIGMA</title>
+			<link>http://38.99.163.117/nimble_live/sigma/playlist.m3u8</link>
+
+		<item>
+			<title>SIGMA -7hrs</title>
+			<link>http://38.99.163.117/nimble_live/sigma/playlist_dvr_timeshift-25200.m3u8</link>
+
+		<item>
+			<title>Alpha Κύπρος</title>
+			<link>http://38.99.163.117/nimble_live/alphaCY_low/playlist.m3u8</link>
+
+		<item>
+			<title>ALPHA Κύπρος -7hrs</title>
+			<link>http://38.99.163.117/nimble_live/alphaCY_low/playlist_dvr_timeshift-25200.m3u8</link>
 		
 		<item>
-			<title>CINEMA3</title>
-			<link>http://38.99.163.117/nimble_live/SORTS12_low/playlist.m3u8</link>
+			<title>Capital</title>
+			<link>http://38.99.163.117/nimble_live/capital_low/playlist.m3u8</link>
+
+		<item>
+			<title>Capital -7hrs</title>
+			<link>http://38.99.163.117/nimble_live/capital_low/playlist_dvr_timeshift-25200.m3u8</link>
+
+		<item>
+			<title>Plus</title>
+			<link>http://38.99.163.117/nimble_live/plus_low/playlist.m3u8</link>
+
+		<item>
+			<title>Plus -7hrs</title>
+			<link>http://38.99.163.117/nimble_live/plus_low/playlist_dvr_timeshift-25200.m3u8</link>
+
+		<item>
+			<title>EXTRA</title>
+			<link>http://38.99.163.117/nimble_live/extra_low/playlist.m3u8</link>
+
+		<item>
+			<title>MAD Κύπρος</title>
+			<link>http://38.99.163.117/nimble_live/mad_low/playlist.m3u8</link>
+
+
+
+
+
+
+
+
+		<item>
+			<title>-----GREECE-----</title>
+			<link>http://......</link>
+
+		<item>
+			<title>ERT1</title>
+			<link>http://38.99.163.117/nimble_live/ert1_low/playlist.m3u8</link>
 		
 		<item>
-			<title>CINEMA2</title>
-			<link>http://38.99.163.117/nimble_live/SPORTS11_LOW/playlist.m3u8</link>
+			<title>ERT 2</title>
+			<link>http://38.99.163.117/nimble_live/ert2_low/playlist.m3u8</link>
+
+		<item>
+			<title>ERT2 -7hrs</title>
+			<link>http://38.99.163.117/nimble_live/ert2_low/playlist_dvr_timeshift-25200.m3u8</link>
 		
 		<item>
-			<title>CINEMA1</title>
-			<link>http://38.99.163.117/nimble_live/SPORTS10_low/playlist.m3u8</link>
-		
+			<title>ERT 3</title>
+			<link>http://38.99.163.117/nimble_live/et3_low/playlist.m3u8</link>
+
+		<item>
+			<title>ERT3 -7hrs</title>
+			<link>http://38.99.163.117/nimble_live/et3_low/playlist_dvr_timeshift-25200.m3u8</link>
+
+		<item>
+			<title>ANT1</title>
+			<link>http://38.99.163.117/nimble_live/ant1_low/playlist.m3u8</link>
+
+		<item>
+			<title>ANT1 -7hrs</title>
+			<link>http://38.99.163.117/nimble_live/ant1_low/playlist_dvr_timeshift-25200.m3u8</link>
+
 		<item>
 			<title>ANT1 Sat</title>
 			<link>http://38.99.163.117/antsat/main/playlist.m3u8</link>
@@ -126,44 +137,12 @@
 			<link>http://38.99.163.117/nimble_live/Alpha_low/playlist.m3u8</link>
 		
 		<item>
-			<title>ANT1</title>
-			<link>http://38.99.163.117/nimble_live/ant1_low/playlist.m3u8</link>
-		
-		<item>
 			<title>MEGA</title>
 			<link>http://38.99.163.117/nimble_live/mega_low/playlist.m3u8</link>
-		
+
 		<item>
-			<title>MEGA Κύπρος</title>
-			<link>http://38.99.163.117/nimble_live/megaCY_low/playlist.m3u8</link>
-		
-		<item>
-			<title>ERT1</title>
-			<link>http://38.99.163.117/nimble_live/ert1_low/playlist.m3u8</link>
-		
-		<item>
-			<title>ERT 2</title>
-			<link>http://38.99.163.117/nimble_live/ert2_low/playlist.m3u8</link>
-		
-		<item>
-			<title>ERT 3</title>
-			<link>http://38.99.163.117/nimble_live/et3_low/playlist.m3u8</link>
-		
-		<item>
-			<title>SIGMA</title>
-			<link>http://38.99.163.117/nimble_live/sigma/playlist.m3u8</link>
-		
-		<item>
-			<title>Capital</title>
-			<link>http://38.99.163.117/nimble_live/capital_low/playlist.m3u8</link>
-		
-		<item>
-			<title>RIK 1</title>
-			<link>http://38.99.163.117/nimble_live/rik1_low/playlist.m3u8</link>
-		
-		<item>
-			<title>RIK2</title>
-			<link>http://38.99.163.117/nimble_live/rik2_low/playlist.m3u8</link>
+			<title>MEGA -7hrs</title>
+			<link>http://38.99.163.117/nimble_live/mega_low/playlist_dvr_timeshift-25200.m3u8</link>
 		
 		<item>
 			<title>E</title>
@@ -174,68 +153,114 @@
 			<link>http://38.99.163.117/nimble_live/skai_low/playlist.m3u8</link>
 		
 		<item>
-			<title>ART_low</title>
+			<title>ART</title>
 			<link>http://38.99.163.117/nimble_live/art_low/playlist.m3u8</link>
-		
-		<item>
-			<title>EXTRA_low</title>
-			<link>http://38.99.163.117/nimble_live/extra_low/playlist.m3u8</link>
 		
 		<item>
 			<title>MAKEDONIA</title>
 			<link>http://38.99.163.117/nimble_live/macedonia/playlist.m3u8</link>
+
+		<item>
+			<title>STAR</title>
+			<link>http://38.99.163.117/nimble_live/star_low/playlist.m3u8</link>
+
+		<item>
+			<title>KRHTH</title>
+			<link>http://live.cretetv.gr:1935/cretetv/myStream/chunklist_w2135212658.m3u8</link>
 		
 		<item>
-			<title>MAD Κύπρος</title>
-			<link>http://38.99.163.117/nimble_live/mad_low/playlist.m3u8</link>
+			<title>Makedonia -7hrs</title>
+			<link>http://38.99.163.117/nimble_live/macedonia/playlist_dvr_timeshift-25200.m3u8</link>
+
+		<item>
+			<title>WZRA Kids</title>
+			<link>http://38.99.163.117/wzrakids/wzrakids/playlist.m3u8</link>
+
+		<item>
+			<title>Greek Voice FL</title>
+			<link>http://38.99.163.117/wpso/wpso/playlist.m3u8</link>
+
+
+
+
+
+
+
+
+
 		
+		<item>
+			<title>-----International Greek-----</title>
+			<link>http://......</link>
+
+
+
+		<item>
+			<title>nickelodeon</title>
+			<link>http://38.99.163.117/nickelodeon/nickelodeon/playlist.m3u8</link>
+
+		<item>
+			<title>Nickolodeon -7hrs</title>
+			<link>http://38.99.163.117/nickelodeon/nickelodeon/playlist_dvr_timeshift-25200.m3u8</link>
+
 		<item>
 			<title>Discovery GR</title>
 			<link>http://38.99.163.117/nimble_live/discovery_low/playlist.m3u8</link>
 		
 		<item>
+			<title>DISCOVERYGR -7hrs</title>
+			<link>http://38.99.163.117/nimble_live/discovery_low/playlist_dvr_timeshift-25200.m3u8</link>
+
+		<item>
 			<title>Science GR</title>
 			<link>http://38.99.163.117/nimble_live/science_low/playlist.m3u8</link>
 		
 		<item>
+			<title>SCIENCE_GR -7HR</title>
+			<link>http://38.99.163.117/nimble_live/science_low/playlist_dvr_timeshift-25200.m3u8</link>
+		
+		<item>
 			<title>Animal Ch GR</title>
 			<link>http://38.99.163.117/nimble_live/animal_low/playlist.m3u8</link>
+
+		<item>
+			<title>AnimalchGR -7hrs</title>
+			<link>http://38.99.163.117/nimble_live/animal_low/playlist_dvr_timeshift-25200.m3u8</link>
+
+		<item>
+			<title>IDxtra GR</title>
+			<link>http://38.99.163.117/nimble_live/idx_low/playlist.m3u8</link>
+
+
+		<item>
+			<title>EuroSport 1</title>
+			<link>http://38.99.163.117/nimble_live/EUROSPORT1/playlist.m3u8</link>
+		
 		
 		<item>
-			<title>Greek Voice FL</title>
-			<link>http://38.99.163.117/wpso/wpso/playlist.m3u8</link>
+			<title>EuroSport 2</title>
+			<link>http://38.99.163.117/nimble_live/EUROSPORT2/playlist.m3u8</link>
+		
+
+
+		
+
+		
+
 		
 		<item>
-			<title>ANT1 Κύπρος -7hrs</title>
-			<link>http://38.99.163.117/nimble_live/ant1CY_low/playlist_dvr_timeshift-25200.m3u8</link>
+			<title>-----SPORTS-----</title>
+			<link>http://......</link>
 		
-		<item>
-			<title>STAR</title>
-			<link>http://38.99.163.117/nimble_live/star_low/playlist.m3u8</link>
-		
-		<item>
-			<title>WZRA Kids</title>
-			<link>http://38.99.163.117/wzrakids/wzrakids/playlist.m3u8</link>
-		
-		<item>
-			<title>Extra Sport 2</title>
-			<link>http://38.99.163.117/extra2/extra2/playlist.m3u8</link>
-		
+
+
 		<item>
 			<title>Extra Sport 1</title>
 			<link>http://38.99.163.117/extra1/extra1/playlist.m3u8</link>
 		
 		<item>
-			<title>SIGMA -7hrs</title>
-			<link>http://38.99.163.117/nimble_live/sigma/playlist_dvr_timeshift-25200.m3u8</link>
-		
-		<item>
-			<title>ANT1 -7hrs</title>
-			<link>http://38.99.163.117/nimble_live/ant1_low/playlist_dvr_timeshift-25200.m3u8</link>
-		
-		<item>
-			<title>Plus</title>
-			<link>http://38.99.163.117/nimble_live/plus_low/playlist.m3u8</link>
+			<title>Extra Sport 2</title>
+			<link>http://38.99.163.117/extra2/extra2/playlist.m3u8</link>
 		
 		<item>
 			<title>ArenaSport 1</title>
@@ -254,240 +279,41 @@
 			<link>http://38.99.163.117/nimble_live/Sport4/playlist.m3u8</link>
 		
 		<item>
-			<title>SPORT5_low</title>
+			<title>SPORT5</title>
 			<link>http://38.99.163.117/nimble_live/SPORTS5_low/playlist.m3u8</link>
 		
 		<item>
-			<title>SPORT6_low</title>
+			<title>SPORT6</title>
 			<link>http://38.99.163.117/nimble_live/SPORT6_low/playlist.m3u8</link>
-		
-		<item>
-			<title>IDxtra GR</title>
-			<link>http://38.99.163.117/nimble_live/idx_low/playlist.m3u8</link>
-		
-		<item>
-			<title>SCIENCE_GR -7HR</title>
-			<link>http://38.99.163.117/nimble_live/science_low/playlist_dvr_timeshift-25200.m3u8</link>
-		
-		<item>
-			<title>ALPHA Κύπρος -7hrs</title>
-			<link>http://38.99.163.117/nimble_live/alphaCY_low/playlist_dvr_timeshift-25200.m3u8</link>
-		
-		<item>
-			<title>Alpha Κύπρος</title>
-			<link>http://38.99.163.117/nimble_live/alphaCY_low/playlist.m3u8</link>
-		
-		<item>
-			<title>Capital -7hrs</title>
-			<link>http://38.99.163.117/nimble_live/capital_low/playlist_dvr_timeshift-25200.m3u8</link>
-		
+			
 		<item>
 			<title>sports8</title>
 			<link>http://38.99.163.117/sport8/sports8/playlist.m3u8</link>
 		
-		<item>
-			<title>ERT2 -7hrs</title>
-			<link>http://38.99.163.117/nimble_live/ert2_low/playlist_dvr_timeshift-25200.m3u8</link>
+
 		
+
 		<item>
-			<title>ERT3 -7hrs</title>
-			<link>http://38.99.163.117/nimble_live/et3_low/playlist_dvr_timeshift-25200.m3u8</link>
-		
-		<item>
-			<title>MEGA -7hrs</title>
-			<link>http://38.99.163.117/nimble_live/mega_low/playlist_dvr_timeshift-25200.m3u8</link>
-		
-		<item>
-			<title>Spicy</title>
-			<link>http://178.33.196.122:1935/ReloadtvGreek/ReloadtvGreek/playlist.m3u8</link>
-		
-		<item>
-			<title>MEGA Κύπρος -7hrs</title>
-			<link>http://38.99.163.117/nimble_live/megaCY_low/playlist_dvr_timeshift-25200.m3u8</link>
-		
-		<item>
-			<title>ΡΙΚ1 -7hrs</title>
-			<link>http://38.99.163.117/nimble_live/rik1_low/playlist_dvr_timeshift-25200.m3u8</link>
-		
-		<item>
-			<title>RIK2 -7hrs</title>
-			<link>http://38.99.163.117/nimble_live/rik2_low/playlist_dvr_timeshift-25200.m3u8</link>
-		
-		<item>
-			<title>AnimalchGR -7hrs</title>
-			<link>http://38.99.163.117/nimble_live/animal_low/playlist_dvr_timeshift-25200.m3u8</link>
+			<title>-----CINEMA-----</title>
+			<link>http://......</link>		
+
 		
 		<item>
 			<title>CINEMA</title>
 			<link>http://38.99.163.117/nimble_live/sports9_low/playlist.m3u8</link>
 		
 		<item>
-			<title>KRHTH</title>
-			<link>http://live.cretetv.gr:1935/cretetv/myStream/chunklist_w2135212658.m3u8</link>
+			<title>CINEMA1</title>
+			<link>http://38.99.163.117/nimble_live/SPORTS10_low/playlist.m3u8</link>
 		
 		<item>
-			<title>Makedonia -7hrs</title>
-			<link>http://38.99.163.117/nimble_live/macedonia/playlist_dvr_timeshift-25200.m3u8</link>
-		
+			<title>CINEMA2</title>
+			<link>http://38.99.163.117/nimble_live/SPORTS11_LOW/playlist.m3u8</link>
 		<item>
-			<title>Nickolodeon -7hrs</title>
-			<link>http://38.99.163.117/nickelodeon/nickelodeon/playlist_dvr_timeshift-25200.m3u8</link>
+			<title>CINEMA3</title>
+			<link>http://38.99.163.117/nimble_live/SORTS12_low/playlist.m3u8</link>
 		
-		<item>
-			<title>Plus -7hrs</title>
-			<link>http://38.99.163.117/nimble_live/plus_low/playlist_dvr_timeshift-25200.m3u8</link>
-		
-		<item>
-			<title>DISCOVERYGR -7hrs</title>
-			<link>http://38.99.163.117/nimble_live/discovery_low/playlist_dvr_timeshift-25200.m3u8</link>
-		
-		<item>
-			<title>SAMIAKI TV</title>
-			<link>http://94.23.218.186:1935/samiaki/samiaki/playlist.m3u8</link>
-		
-		<item>
-			<title>START TV</title>
-			<link>http://94.23.218.186:1935/StartMedia/StartMedia/playlist.m3u8</link>
-		
-		<item>
-			<title>MagicTV</title>
-			<link>http://94.23.218.186:1935/magictv/magictv/playlist.m3u8</link>
-		
-		<item>
-			<title>XalastraTV</title>
-			<link>http://94.23.218.186:1935/xalastratv/xalastratv/playlist.m3u8</link>
-		
-		<item>
-			<title>EllasRadioTV</title>
-			<link>http://94.23.218.186:1935/ellradiotv/ellradiotv/playlist.m3u8</link>
-		
-		<item>
-			<title>ΤΗΛΕΜΟΥΣΙΚΗ HD</title>
-			<link>http://stream.ssh101.com:1935/live/greekmusic/playlist.m3u8</link>
-		
-		<item>
-			<title>GREEK CINEMA</title>
-			<link>http://stream.ssh101.com:1935/live/NATURATV/playlist.m3u8</link>
-		
-		<item>
-			<title>FOXTV</title>
-			<link>http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8</link>
-		
-		<item>
-			<title>NGRadio</title>
-			<link>http://live.streams.ovh:1935/NGradio/NGradio_360p/playlist.m3u8</link>
-		
-		<item>
-			<title>CANALI</title>
-			<link>http://live.streams.ovh:1935/cannali/cannali/playlist.m3u8</link>
-		
-		<item>
-			<title>Lampsi TV</title>
-			<link>http://live.streams.ovh:1935/LampsiTV/LampsiTV/playlist.m3u8</link>
-		
-		<item>
-			<title>HIGH TV</title>
-			<link>http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8</link>
-		
-		<item>
-			<title>CINEFIL GR</title>
-			<link>http://web.onair-radio.eu:1935/moviesgr/moviesgr/playlist.m3u8</link>
-		
-		<item>
-			<title>cartoonTV</title>
-			<link>http://web.onair-radio.eu:1935/cartoonstv/cartoonstv/playlist.m3u8</link>
-		
-		<item>
-			<title>CINEMANIA</title>
-			<link>http://web.onair-radio.eu:1935/rocktv/rocktv/playlist.m3u8</link>
-		
-		<item>
-			<title>ALPHA MUSIC</title>
-			<link>http://138.201.25.26:1935/Alpha-Music/Alpha-Music/playlist.m3u8</link>
-		
-		<item>
-			<title>SuperStar</title>
-			<link>http://138.201.25.26:1935/nikos/nikos/playlist.m3u8</link>
-		
-		<item>
-			<title>Palmos</title>
-			<link>http://138.201.25.26:1935/ellinikos-palmos/ellinikos-palmos/playlist.m3u8</link>
-		
-		<item>
-			<title>CORFUTV</title>
-			<link>http://iphone-streaming.ustream.tv/uhls/22608117/streams/live/iphone/playlist.m3u8</link>
-		
-		<item>
-			<title>EPIRUS TV</title>
-			<link>http://iphone-streaming.ustream.tv/uhls/158633/streams/live/iphon/playlist.m3u8</link>
-		
-		<item>
-			<title>ITV</title>
-			<link>http://iphone-streaming.ustream.tv/uhls/6066221/streams/live/iphone/playlist.m3u8</link>
-		
-		<item>
-			<title>RELOAD</title>
-			<link>http://178.33.196.122:1935/reloadtv/reloadtv/playlist.m3u8</link>
-		
-		<item>
-			<title>DNA TV</title>
-			<link>http://178.33.196.122:1935/greekvideo/greekvideo/playlist.m3u8</link>
-		
-		<item>
-			<title>CRETA</title>
-			<link>http://srv.viiideo.gr:1935/tvcreta/live/playlist.m3u8</link>
-		
-		<item>
-			<title>NEA TV</title>
-			<link>http://srv.viiideo.gr:1935/neatv/live/playlist.m3u8</link>
-		
-		<item>
-			<title>EllinikosFM</title>
-			<link>http://o98d0njv.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/EllinikosFM.m3u8</link>
-		
-		<item>
-			<title>ZouglaTV</title>
-			<link>http://zouglahd-f.akamaihd.net/i/zougla_1@56341/master.m3u8</link>
-		
-		<item>
-			<title>4ETV</title>
-			<link>http://82.192.84.30:554/live/myStream.sdp/playlist.m3u8</link>
-		
-		<item>
-			<title>NETV TORONTO</title>
-			<link>http://live.netvtoronto.com:1935/NetvToronto/NetvToronto/playlist.m3u8</link>
-		
-		<item>
-			<title>MAD CY</title>
-			<link>http://eradio.networksolutions.com.cy:1935/live/livestream/playlist.m3u8</link>
-		
-		<item>
-			<title>IONIAN</title>
-			<link>http://stream.ioniantv.gr:8081/ionian/live/playlist.m3u8</link>
-		
-		<item>
-			<title>SBC</title>
-			<link>http://xsbcgrx.api.channel.livestream.com/3.0/playlist.m3u8</link>
-		
-		<item>
-			<title>TEST ET1</title>
-			<link>http://gatoni.ddns.net:65101</link>
-		
-		<item>
-			<title>Astra TV</title>
-			<link>http://www.astratv.gr:8090/hls/livestream.m3u8</link>
-		
-		<item>
-			<title>ELLASTV</title>
-			<link>http://176.9.123.140:1935/hellastv/_definst_/mp4:stream/master.m3u8</link>
-		
-		<item>
-			<title>VOULI</title>
-			<link>http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8</link>
-		
-		<item>
-			<title>ERT1 -7hrs</title>
-			<link>http://s2.greekelitetv.com:1935/ert1-7/ert1-7.stream/playlist.m3u8</link>
-		
-	
 
+		
+
+		
