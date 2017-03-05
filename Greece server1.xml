@@ -11,6 +11,62 @@
 			<title> ------------------[COLOR yellow][B]SERVER 1[/B][/COLOR]------------------ </title>
 			<link>http://......</link>
 			
+			
+		<item>
+			<title>-----[COLOR red][B]CYPRUS[/B][/COLOR]-----</title>
+			<link>http://......</link>
+			
+			
+		<item>
+			<title> PIK1</title>
+			<link>http://188.165.119.235:65113/</link>
+		
+		<item>
+			<title> PIK2</title>
+			<link>http://188.165.119.235:65114/</link>
+		
+		<item>
+			<title> SIGMA</title>
+			<link>http://188.165.119.235:65115/</link>
+		
+		<item>
+			<title> ANT1CY</title>
+			<link>http://188.165.119.235:65116/</link>
+		
+		<item>
+			<title> MEGACY</title>
+			<link>http://188.165.119.235:65117/</link>
+		
+		<item>
+			<title> ALPHACY</title>
+			<link>http://188.165.119.235:65121/</link>
+		
+		<item>
+			<title> CAPITAL</title>
+			<link>http://188.165.119.235:65118/</link>
+		
+		<item>
+			<title> EXTRA</title>
+			<link>http://188.165.119.235:65119/</link>
+		
+		<item>
+			<title> PLUS</title>
+			<link>http://188.165.119.235:65120/</link>
+		
+		<item>
+			<title> MAD</title>
+			<link>http://188.165.119.235:65213/</link>
+			
+			
+			
+			
+			
+			
+			
+			
+		<item>
+			<title>-----[COLOR red][B]GREECE[/B][/COLOR]-----</title>
+			<link>http://......</link>			
 		<item>
 			<title> EPT1</title>
 			<link>http://188.165.119.235:65101/</link>
@@ -59,46 +115,18 @@
 			<title> SKAI</title>
 			<link>http://188.165.119.235:65112/</link>
 		
+
+			
+			
+			
+			
+			
+			
+			
+			
 		<item>
-			<title> PIK1</title>
-			<link>http://188.165.119.235:65113/</link>
-		
-		<item>
-			<title> PIK2</title>
-			<link>http://188.165.119.235:65114/</link>
-		
-		<item>
-			<title> SIGMA</title>
-			<link>http://188.165.119.235:65115/</link>
-		
-		<item>
-			<title> ANT1CY</title>
-			<link>http://188.165.119.235:65116/</link>
-		
-		<item>
-			<title> MEGACY</title>
-			<link>http://188.165.119.235:65117/</link>
-		
-		<item>
-			<title> ALPHACY</title>
-			<link>http://188.165.119.235:65121/</link>
-		
-		<item>
-			<title> CAPITAL</title>
-			<link>http://188.165.119.235:65118/</link>
-		
-		<item>
-			<title> EXTRA</title>
-			<link>http://188.165.119.235:65119/</link>
-		
-		<item>
-			<title> PLUS</title>
-			<link>http://188.165.119.235:65120/</link>
-		
-		<item>
-			<title> MAD</title>
-			<link>http://188.165.119.235:65213/</link>
-		
+			<title>-----[COLOR red][B]International Greek[/B][/COLOR]-----</title>
+			<link>http://......</link>		
 		<item>
 			<title> ANIMAL</title>
 			<link>http://188.165.119.235:65210/</link>
@@ -122,7 +150,15 @@
 		<item>
 			<title> EUROSPORT2</title>
 			<link>http://188.165.119.235:65266/</link>
-		
+			
+			
+			
+			
+			
+			
+		<item>
+			<title>-----[COLOR red][B]SPORTS[/B][/COLOR]-----</title>
+			<link>http://......</link>		
 		<item>
 			<title> SPORTS1</title>
 			<link>http://188.165.119.235:65267/</link>
@@ -154,6 +190,13 @@
 		<item>
 			<title> SPORTS8</title>
 			<link>http://188.165.119.235:65274/</link>
+			
+			
+			
+			
+		<item>
+			<title>-----[COLOR red][B]CINEMA[/B][/COLOR]-----</title>
+			<link>http://......</link>		
 		
 		<item>
 			<title> CINEMA1</title>
