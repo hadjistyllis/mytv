@@ -14,319 +14,501 @@
       
  
 		<item>
-			<title>-----[COLOR red][B]CYPRUS[/B][/COLOR]-----</title>
-			<link>http://......</link>
+			<title>---------- [COLOR red]Γενικού ενδιαφέροντος-ειδήσεις[/COLOR] -----------</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/17558.ts</link>
 		
 		<item>
-			<title>RIK 1</title>
-			<link>http://38.99.163.117/nimble_live/rik1_low/playlist.m3u8</link>
-
-		<item>
-			<title>ΡΙΚ1 -7hrs</title>
-			<link>http://38.99.163.117/nimble_live/rik1_low/playlist_dvr_timeshift-25200.m3u8</link>
+			<title>GR: ERT HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/1734.ts</link>
 		
 		<item>
-			<title>RIK2</title>
-			<link>http://38.99.163.117/nimble_live/rik2_low/playlist.m3u8</link>
-
-		<item>
-			<title>RIK2 -7hrs</title>
-			<link>http://38.99.163.117/nimble_live/rik2_low/playlist_dvr_timeshift-25200.m3u8</link>
-
-		<item>
-			<title>Ant1 Κύπρος</title>
-			<link>http://38.99.163.117/nimble_live/ant1CY_low/playlist.m3u8</link>
-
-		<item>
-			<title>ANT1 Κύπρος -7hrs</title>
-			<link>http://38.99.163.117/nimble_live/ant1CY_low/playlist_dvr_timeshift-25200.m3u8</link>
-
-		<item>
-			<title>MEGAONE</title>
-			<link>http://38.99.163.117/nimble_live/megaCY_low/playlist.m3u8</link>
-
-		<item>
-			<title>MEGAONE -7hrs</title>
-			<link>http://38.99.163.117/nimble_live/megaCY_low/playlist_dvr_timeshift-25200.m3u8</link>
-
-		<item>
-			<title>SIGMA</title>
-			<link>http://38.99.163.117/nimble_live/sigma/playlist.m3u8</link>
-
-		<item>
-			<title>SIGMA -7hrs</title>
-			<link>http://38.99.163.117/nimble_live/sigma/playlist_dvr_timeshift-25200.m3u8</link>
-
-		<item>
-			<title>Alpha Κύπρος</title>
-			<link>http://38.99.163.117/nimble_live/alphaCY_low/playlist.m3u8</link>
-
-		<item>
-			<title>ALPHA Κύπρος -7hrs</title>
-			<link>http://38.99.163.117/nimble_live/alphaCY_low/playlist_dvr_timeshift-25200.m3u8</link>
+			<title>GR: ERT 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/17723.ts</link>
 		
 		<item>
-			<title>Capital</title>
-			<link>http://38.99.163.117/nimble_live/capital_low/playlist.m3u8</link>
-
-		<item>
-			<title>Capital -7hrs</title>
-			<link>http://38.99.163.117/nimble_live/capital_low/playlist_dvr_timeshift-25200.m3u8</link>
-
-		<item>
-			<title>Plus</title>
-			<link>http://38.99.163.117/nimble_live/plus_low/playlist.m3u8</link>
-
-		<item>
-			<title>Plus -7hrs</title>
-			<link>http://38.99.163.117/nimble_live/plus_low/playlist_dvr_timeshift-25200.m3u8</link>
-
-		<item>
-			<title>EXTRA</title>
-			<link>http://38.99.163.117/nimble_live/extra_low/playlist.m3u8</link>
-
-		<item>
-			<title>MAD Κύπρος</title>
-			<link>http://38.99.163.117/nimble_live/mad_low/playlist.m3u8</link>
-
-
-
-
-
-
-
-
-		<item>
-			<title>-----[COLOR red][B]GREECE[/B][/COLOR]-----</title>
-			<link>http://......</link>
-
-		<item>
-			<title>ERT1</title>
-			<link>http://38.99.163.117/nimble_live/ert1_low/playlist.m3u8</link>
+			<title>GR: ERT 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/1736.ts</link>
 		
 		<item>
-			<title>ERT 2</title>
-			<link>http://38.99.163.117/nimble_live/ert2_low/playlist.m3u8</link>
-
-		<item>
-			<title>ERT2 -7hrs</title>
-			<link>http://38.99.163.117/nimble_live/ert2_low/playlist_dvr_timeshift-25200.m3u8</link>
+			<title>GR: ERT 3</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/1735.ts</link>
 		
 		<item>
-			<title>ERT 3</title>
-			<link>http://38.99.163.117/nimble_live/et3_low/playlist.m3u8</link>
-
-		<item>
-			<title>ERT3 -7hrs</title>
-			<link>http://38.99.163.117/nimble_live/et3_low/playlist_dvr_timeshift-25200.m3u8</link>
-
-		<item>
-			<title>ANT1</title>
-			<link>http://38.99.163.117/nimble_live/ant1_low/playlist.m3u8</link>
-
-		<item>
-			<title>ANT1 -7hrs</title>
-			<link>http://38.99.163.117/nimble_live/ant1_low/playlist_dvr_timeshift-25200.m3u8</link>
-
-		<item>
-			<title>ANT1 Sat</title>
-			<link>http://38.99.163.117/antsat/main/playlist.m3u8</link>
+			<title>GR: ANT1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/1740.ts</link>
 		
 		<item>
-			<title>Alpha</title>
-			<link>http://38.99.163.117/nimble_live/Alpha_low/playlist.m3u8</link>
+			<title>GR: ANT1 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/18058.ts</link>
 		
 		<item>
-			<title>MEGA</title>
-			<link>http://38.99.163.117/nimble_live/mega_low/playlist.m3u8</link>
-
-		<item>
-			<title>MEGA -7hrs</title>
-			<link>http://38.99.163.117/nimble_live/mega_low/playlist_dvr_timeshift-25200.m3u8</link>
+			<title>GR: STAR</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/17452.ts</link>
 		
 		<item>
-			<title>E</title>
-			<link>http://38.99.163.117/nimble_live/epsilon_low/playlist.m3u8</link>
+			<title>GR: STAR HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/18057.ts</link>
 		
 		<item>
-			<title>SKAI</title>
-			<link>http://38.99.163.117/nimble_live/skai_low/playlist.m3u8</link>
+			<title>GR: MEGA TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/17565.ts</link>
 		
 		<item>
-			<title>ART</title>
-			<link>http://38.99.163.117/nimble_live/art_low/playlist.m3u8</link>
+			<title>GR: ALPHA</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/17451.ts</link>
 		
 		<item>
-			<title>MAKEDONIA</title>
-			<link>http://38.99.163.117/nimble_live/macedonia/playlist.m3u8</link>
-
-		<item>
-			<title>STAR</title>
-			<link>http://38.99.163.117/nimble_live/star_low/playlist.m3u8</link>
-
-		<item>
-			<title>KRHTH</title>
-			<link>http://live.cretetv.gr:1935/cretetv/myStream/chunklist_w2135212658.m3u8</link>
+			<title>GR: ALPHA HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/18055.ts</link>
 		
 		<item>
-			<title>Makedonia -7hrs</title>
-			<link>http://38.99.163.117/nimble_live/macedonia/playlist_dvr_timeshift-25200.m3u8</link>
-
-		<item>
-			<title>WZRA Kids</title>
-			<link>http://38.99.163.117/wzrakids/wzrakids/playlist.m3u8</link>
-
-		<item>
-			<title>Greek Voice FL</title>
-			<link>http://38.99.163.117/wpso/wpso/playlist.m3u8</link>
-
-
-
-
-
-
-
-
-
+			<title>GR: SKAI</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/1731.ts</link>
 		
 		<item>
-			<title>-----[COLOR red][B]International Greek[/B][/COLOR]-----</title>
-			<link>http://......</link>
-
-
-
-		<item>
-			<title>nickelodeon</title>
-			<link>http://38.99.163.117/nickelodeon/nickelodeon/playlist.m3u8</link>
-
-		<item>
-			<title>Nickolodeon -7hrs</title>
-			<link>http://38.99.163.117/nickelodeon/nickelodeon/playlist_dvr_timeshift-25200.m3u8</link>
-
-		<item>
-			<title>Discovery GR</title>
-			<link>http://38.99.163.117/nimble_live/discovery_low/playlist.m3u8</link>
+			<title>GR: SKAI HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/18056.ts</link>
 		
 		<item>
-			<title>DISCOVERYGR -7hrs</title>
-			<link>http://38.99.163.117/nimble_live/discovery_low/playlist_dvr_timeshift-25200.m3u8</link>
-
-		<item>
-			<title>Science GR</title>
-			<link>http://38.99.163.117/nimble_live/science_low/playlist.m3u8</link>
+			<title>GR: E</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/17458.ts</link>
 		
 		<item>
-			<title>SCIENCE_GR -7HR</title>
-			<link>http://38.99.163.117/nimble_live/science_low/playlist_dvr_timeshift-25200.m3u8</link>
+			<title>GR: VOULI</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/17476.ts</link>
 		
 		<item>
-			<title>Animal Ch GR</title>
-			<link>http://38.99.163.117/nimble_live/animal_low/playlist.m3u8</link>
-
-		<item>
-			<title>AnimalchGR -7hrs</title>
-			<link>http://38.99.163.117/nimble_live/animal_low/playlist_dvr_timeshift-25200.m3u8</link>
-
-		<item>
-			<title>IDxtra GR</title>
-			<link>http://38.99.163.117/nimble_live/idx_low/playlist.m3u8</link>
-
-
-		<item>
-			<title>EuroSport 1</title>
-			<link>http://38.99.163.117/nimble_live/EUROSPORT1/playlist.m3u8</link>
-		
+			<title>GR: Makedonia TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/17566.ts</link>
 		
 		<item>
-			<title>EuroSport 2</title>
-			<link>http://38.99.163.117/nimble_live/EUROSPORT2/playlist.m3u8</link>
-		
-
-
-		
-
-		
-
+			<title>GR: ALERT</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/17463.ts</link>
 		
 		<item>
-			<title>-----[COLOR red][B]SPORTS[/B][/COLOR]-----</title>
-			<link>http://......</link>
-		
-
-
-		<item>
-			<title>Extra Sport 1</title>
-			<link>http://38.99.163.117/extra1/extra1/playlist.m3u8</link>
+			<title>GR: Action24</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/17474.ts</link>
 		
 		<item>
-			<title>Extra Sport 2</title>
-			<link>http://38.99.163.117/extra2/extra2/playlist.m3u8</link>
+			<title>GR: ART</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/17473.ts</link>
 		
 		<item>
-			<title>ArenaSport 1</title>
-			<link>http://38.99.163.117/nimble_live/Sports1/playlist.m3u8</link>
+			<title>GR: EXTRA</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/17456.ts</link>
 		
 		<item>
-			<title>Arena Sport 2</title>
-			<link>http://38.99.163.117/nimble_live/sports2_low/playlist.m3u8</link>
+			<title>GR: KONTRA</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/17457.ts</link>
 		
 		<item>
-			<title>ArenaSport 3</title>
-			<link>http://38.99.163.117/nimble_live/Sport3/playlist.m3u8</link>
+			<title>GR: Montreal Greek TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/18355.ts</link>
 		
-		<item>
-			<title>ArenaSport 4</title>
-			<link>http://38.99.163.117/nimble_live/Sport4/playlist.m3u8</link>
-		
-		<item>
-			<title>SPORT5</title>
-			<link>http://38.99.163.117/nimble_live/SPORTS5_low/playlist.m3u8</link>
-		
-		<item>
-			<title>SPORT6</title>
-			<link>http://38.99.163.117/nimble_live/SPORT6_low/playlist.m3u8</link>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
 			
 			
 		<item>
-			<title>SPORT7 test</title>
-			<link>http://38.99.163.117/nimble_live/SPORT7_low/playlist.m3u8</link>
+			<title>---------- [COLOR red]Σινεμά[/COLOR] -----------</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/17605.ts</link>
+		
+		<item>
+			<title>GR:  FOX HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/17586.ts</link>
+		
+		<item>
+			<title>GR: FOX LIFE HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/17596.ts</link>
+		
+		<item>
+			<title>GR: OTE CINEMA 1 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/17588.ts</link>
+		
+		<item>
+			<title>GR: OTE CINEMA 2 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/17589.ts</link>
+		
+		<item>
+			<title>GR: OTE CINEMA 3 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/17591.ts</link>
+		
+		<item>
+			<title>GR: OTE CINEMA 4 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/17720.ts</link>
+		
+		<item>
+			<title>GR: VILLAGE CINEMA</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/17600.ts</link>
+		
+		<item>
+			<title>GR: ALPHA ACTION</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/18048.ts</link>
+		
+		<item>
+			<title>GR: ALPHA COMEDY</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/18050.ts</link>
+		
+		<item>
+			<title>GR: ALPHA DRAMA</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/18049.ts</link>
+		
+		<item>
+			<title>GR: ALPHA CLASSIC</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/18051.ts</link>
+		
+		<item>
+			<title>GR: ALPHA HORROR/THRILLER</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/18061.ts</link>
+		
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
 			
 		<item>
-			<title>SPORT7 test</title>
-			<link>http://38.99.163.117/nimble_live/Sport7/playlist.m3u8</link>
+			<title>---------- [COLOR red]Τοπικά[/COLOR] -----------</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/17559.ts</link>
+		
+		<item>
+			<title>GR: ZOUGLA</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/17464.ts</link>
+		
+		<item>
+			<title>GR: 4E</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/17465.ts</link>
+		
+		<item>
+			<title>GR: KRHTH TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/17469.ts</link>
+		
+		<item>
+			<title>GR: NEA TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/17468.ts</link>
+		
+		<item>
+			<title>GR: HPEIROS TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/17466.ts</link>
+		
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
 			
 		<item>
-			<title>sports7 test</title>
-			<link>http://38.99.163.117/sport7/sports7/playlist.m3u8</link>						
+			<title>---------- [COLOR red]Κύπρος[/COLOR] -----------</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/17560.ts</link>
+		
+		<item>
+			<title>GR: RIK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/17569.ts</link>
+		
+		<item>
+			<title>GR: RIK 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/18351.ts</link>
+		
+		<item>
+			<title>GR: SYGMA CY</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/17480.ts</link>
+		
+		<item>
+			<title>GR: Alpha TV Cyprus</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/18348.ts</link>
+		
+		<item>
+			<title>GR: Ant1 Cyprus</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/18353.ts</link>
+		
+		<item>
+			<title>GR: lus</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/18349.ts</link>
+		
+		<item>
+			<title>GR: sigma</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/18350.ts</link>
+		
+		<item>
+			<title>GR: EXTRA TV Cyprus</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/18352.ts</link>
+		
+		<item>
+			<title>GR: Mega Cyprus</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/18354.ts</link>
+		
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
 			
 		<item>
-			<title>sports8</title>
-			<link>http://38.99.163.117/sport8/sports8/playlist.m3u8</link>
-		
-
-		
-
-		<item>
-			<title>-----[COLOR red][B]CINEMA[/B][/COLOR]-----</title>
-			<link>http://......</link>		
-
+			<title>----------[COLOR red] Παιδικά[/COLOR] -----------</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/17561.ts</link>
 		
 		<item>
-			<title>CINEMA</title>
-			<link>http://38.99.163.117/nimble_live/sports9_low/playlist.m3u8</link>
+			<title>GR: NICKELODEON.</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/17453.ts</link>
 		
 		<item>
-			<title>CINEMA1</title>
-			<link>http://38.99.163.117/nimble_live/SPORTS10_low/playlist.m3u8</link>
+			<title>GR: Disney Junior</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/17568.ts</link>
 		
 		<item>
-			<title>CINEMA2</title>
-			<link>http://38.99.163.117/nimble_live/SPORTS11_LOW/playlist.m3u8</link>
+			<title>GR: DISNEY CHANNEL</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/17597.ts</link>
+		
 		<item>
-			<title>CINEMA3</title>
-			<link>http://38.99.163.117/nimble_live/SORTS12_low/playlist.m3u8</link>
+			<title>GR: Jim Jam</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/17572.ts</link>
+		
+		<item>
+			<title>GR: DISNEY XD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/17598.ts</link>
+		
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		<item>
+			<title>---------- [COLOR red]Ντοκυμαντέρ[/COLOR] -----------</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/17562.ts</link>
+		
+		<item>
+			<title>GR: Animal Planet</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/17395.ts</link>
+		
+		<item>
+			<title>GR: Discovery</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/17396.ts</link>
+		
+		<item>
+			<title>GR: Discovery sci HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/17570.ts</link>
+		
+		<item>
+			<title>GR: Discovery Turbo  XTRA</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/17571.ts</link>
+		
+		<item>
+			<title>GR: Discovery Science</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/17398.ts</link>
+		
+		<item>
+			<title>GR: Discovery ID</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/17399.ts</link>
+		
+		<item>
+			<title>GR: Discovery ID X</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/17400.ts</link>
+		
+		<item>
+			<title>GR: National Geografic HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/17402.ts</link>
+		
+		<item>
+			<title>GR: NAT GEO WILD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/17717.ts</link>
+		
+		<item>
+			<title>GR: Discovery ID TX</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/17401.ts</link>
+		
+		<item>
+			<title>GR: History HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/17394.ts</link>
+		
+		<item>
+			<title>GR: Show Case</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/17397.ts</link>
+		
+		<item>
+			<title>GR: Sundance</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/17405.ts</link>
+		
+		<item>
+			<title>GR: TLC</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/17404.ts</link>
+		
+		<item>
+			<title>GR: Travel Channel</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/17403.ts</link>
+		
+		<item>
+			<title>GR: FISHING</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/18053.ts</link>
+		
+		<item>
+			<title>GR: HUNTING</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/18054.ts</link>
 		
 
+			
+			
+			
+			
+			
+		
+			
+			
+			
+		<item>
+			<title>---------- [COLOR red]Μουσικά[/COLOR] -----------</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/17563.ts</link>
+		
+		<item>
+			<title>GR: RISE</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/17461.ts</link>
+		
+		<item>
+			<title>GR: MAD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/17459.ts</link>
+		
+		<item>
+			<title>GR: MAD CY</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/17481.ts</link>
+		
+		<item>
+			<title>GR: MAD GREEKZ</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/17595.ts</link>
 		
 
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		<item>
+			<title>---------- [COLOR red]Αθλητικά[/COLOR] -----------</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/17564.ts</link>
 		
+		<item>
+			<title>GR: OTE SPORTS 1 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/17393.ts</link>
+		
+		<item>
+			<title>GR: OTE SPORTS 2 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/17482.ts</link>
+		
+		<item>
+			<title>GR: OTE SPORTS 3 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/17594.ts</link>
+		
+		<item>
+			<title>GR: OTE SPORTS 4 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/17599.ts</link>
+		
+		<item>
+			<title>GR: OTE SPORTS 5 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/17742.ts</link>
+		
+		<item>
+			<title>GR: OTE SPORTS 6 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/18345.ts</link>
+		
+		<item>
+			<title>GR: OTE SPORTS 7 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/18346.ts</link>
+		
+		<item>
+			<title>GR: OTE SPORTS 8 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/18358.ts</link>
+		
+		<item>
+			<title>GR: EUROSPORT 1 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/17462.ts</link>
+		
+		<item>
+			<title>GR: EUROSPORT 2 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/17573.ts</link>
+		
+		<item>
+			<title>GR:  NOVA SPORT 1 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/17584.ts</link>
+		
+		<item>
+			<title>GR: NOVA SPORT 1 HD (B)</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/17734.ts</link>
+		
+		<item>
+			<title>GR:  NOVA SPORT 2 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/17585.ts</link>
+		
+		<item>
+			<title>GR: NOVA SPORT 2 HD (B)</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/17735.ts</link>
+		
+		<item>
+			<title>GR:  NOVA SPORT 3 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/17587.ts</link>
+		
+		<item>
+			<title>GR: NOVA SPORT 3 HD (B)</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/18360.ts</link>
+		
+		<item>
+			<title>GR:  NOVA SPORT 4 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/17592.ts</link>
+		
+		<item>
+			<title>GR: NOVA SPORT (LIVE ONLY)</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/17724.ts</link>
+		
+		<item>
+			<title>GR: NOVA SPORT 24 HD (TEST)</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/17721.ts</link>
+		
+		<item>
+			<title>GR: TEST</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://193.70.12.239:8080/live/ster/ster/17725.ts</link>
+		
+	
+
