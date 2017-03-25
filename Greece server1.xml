@@ -24,7 +24,7 @@
 			<link>http://38.99.163.117/nimble_live/rik1_low/playlist.m3u8</link>
 
 		<item>
-			<title>???1 -7hrs</title>
+			<title>Rik1 -7hrs</title>
 			<link>http://38.99.163.117/nimble_live/rik1_low/playlist_dvr_timeshift-25200.m3u8</link>
 		
 		<item>
@@ -36,11 +36,11 @@
 			<link>http://38.99.163.117/nimble_live/rik2_low/playlist_dvr_timeshift-25200.m3u8</link>
 
 		<item>
-			<title>Ant1 ??p???</title>
+			<title>Ant1 CY</title>
 			<link>http://38.99.163.117/nimble_live/ant1CY_low/playlist.m3u8</link>
 
 		<item>
-			<title>ANT1 ??p??? -7hrs</title>
+			<title>ANT1 Cy -7hrs</title>
 			<link>http://38.99.163.117/nimble_live/ant1CY_low/playlist_dvr_timeshift-25200.m3u8</link>
 
 		<item>
@@ -60,11 +60,11 @@
 			<link>http://38.99.163.117/nimble_live/sigma/playlist_dvr_timeshift-25200.m3u8</link>
 
 		<item>
-			<title>Alpha ??p???</title>
+			<title>Alpha cy</title>
 			<link>http://38.99.163.117/nimble_live/alphaCY_low/playlist.m3u8</link>
 
 		<item>
-			<title>ALPHA ??p??? -7hrs</title>
+			<title>ALPHA cy -7hrs</title>
 			<link>http://38.99.163.117/nimble_live/alphaCY_low/playlist_dvr_timeshift-25200.m3u8</link>
 		
 		<item>
@@ -86,9 +86,13 @@
 		<item>
 			<title>EXTRA</title>
 			<link>http://38.99.163.117/nimble_live/extra_low/playlist.m3u8</link>
+			
+		<item>
+			<title>EXTRA -7hrs</title>
+			<link>http://38.99.163.117/nimble_live/extra_low/playlist_dvr_timeshift-25200.m3u8</link>		
 
 		<item>
-			<title>MAD ??p???</title>
+			<title>MAD cy</title>
 			<link>http://38.99.163.117/nimble_live/mad_low/playlist.m3u8</link>
 
 
@@ -105,6 +109,10 @@
 		<item>
 			<title>ERT1</title>
 			<link>http://38.99.163.117/nimble_live/ert1_low/playlist.m3u8</link>
+			
+		<item>
+			<title>ERT1 -7hrs</title>
+			<link>http://38.99.163.117/nimble_live/ert1_low/playlist_dvr_timeshift-25200.m3u8</link>
 		
 		<item>
 			<title>ERT 2</title>
@@ -139,6 +147,10 @@
 			<link>http://38.99.163.117/nimble_live/Alpha_low/playlist.m3u8</link>
 		
 		<item>
+			<title>Alpha -7hrs</title>
+			<link>http://38.99.163.117/nimble_live/Alpha_low/playlist_dvr_timeshift-25200.m3u</link>			
+			
+		<item>
 			<title>MEGA</title>
 			<link>http://38.99.163.117/nimble_live/mega_low/playlist.m3u8</link>
 
@@ -149,31 +161,43 @@
 		<item>
 			<title>E</title>
 			<link>http://38.99.163.117/nimble_live/epsilon_low/playlist.m3u8</link>
-		
+					
+		<item>
+			<title>E -7hrs</title>			
+			<link>http://38.99.163.117/nimble_live/epsilon_low/playlist_dvr_timeshift-25200.m3u8</link>
+			
 		<item>
 			<title>SKAI</title>
 			<link>http://38.99.163.117/nimble_live/skai_low/playlist.m3u8</link>
+			
+		<item>
+			<title>SKAI -7hrs</title>
+			<link>http://38.99.163.117/nimble_live/skai_low/playlist_dvr_timeshift-25200.m3u8</link>
 		
 		<item>
 			<title>ART</title>
 			<link>http://38.99.163.117/nimble_live/art_low/playlist.m3u8</link>
-		
+			
+		<item>
+			<title>ART -7hrs</title>
+			<link>http://38.99.163.117/nimble_live/art_low/playlist_dvr_timeshift-25200.m3u8</link>			
+			
 		<item>
 			<title>MAKEDONIA</title>
 			<link>http://38.99.163.117/nimble_live/macedonia/playlist.m3u8</link>
-
+			
+		<item>
+			<title>MAKEDONIA -7hrs</title>
+			<link>http://38.99.163.117/nimble_live/macedonia/playlist_dvr_timeshift-25200.m3u8</link>
+						
 		<item>
 			<title>STAR</title>
 			<link>http://38.99.163.117/nimble_live/star_low/playlist.m3u8</link>
-
+			
 		<item>
-			<title>KRHTH</title>
-			<link>http://live.cretetv.gr:1935/cretetv/myStream/chunklist_w2135212658.m3u8</link>
+			<title>STAR -7hrs</title>
+			<link>http://38.99.163.117/nimble_live/star_low/playlist_dvr_timeshift-25200.m3u8</link>			
 		
-		<item>
-			<title>Makedonia -7hrs</title>
-			<link>http://38.99.163.117/nimble_live/macedonia/playlist_dvr_timeshift-25200.m3u8</link>
-
 		<item>
 			<title>WZRA Kids</title>
 			<link>http://38.99.163.117/wzrakids/wzrakids/playlist.m3u8</link>
@@ -210,41 +234,41 @@
 			<link>http://38.99.163.117/nimble_live/discovery_low/playlist.m3u8</link>
 		
 		<item>
-			<title>DISCOVERYGR -7hrs</title>
+			<title>DISCOVERY GR -7hrs</title>
 			<link>http://38.99.163.117/nimble_live/discovery_low/playlist_dvr_timeshift-25200.m3u8</link>
 
 		<item>
-			<title>Science GR</title>
+			<title>DISCOVERY Science GR</title>
 			<link>http://38.99.163.117/nimble_live/science_low/playlist.m3u8</link>
 		
 		<item>
-			<title>SCIENCE_GR -7HR</title>
+			<title>DISCOVERY SCIENCE GR -7HR</title>
 			<link>http://38.99.163.117/nimble_live/science_low/playlist_dvr_timeshift-25200.m3u8</link>
 		
 		<item>
-			<title>Animal Ch GR</title>
+			<title>Animal Planet GR</title>
 			<link>http://38.99.163.117/nimble_live/animal_low/playlist.m3u8</link>
 
 		<item>
-			<title>AnimalchGR -7hrs</title>
+			<title>Animal Planet GR -7hrs</title>
 			<link>http://38.99.163.117/nimble_live/animal_low/playlist_dvr_timeshift-25200.m3u8</link>
 
 		<item>
 			<title>IDxtra GR</title>
 			<link>http://38.99.163.117/nimble_live/idx_low/playlist.m3u8</link>
 
+		<item>
+			<title>IDxtra GR -7hrs</title>
+			<link>http://38.99.163.117/nimble_live/idx_low/playlist_dvr_timeshift-25200.m3u8</link>
 
 		<item>
 			<title>EuroSport 1</title>
 			<link>http://38.99.163.117/nimble_live/EUROSPORT1/playlist.m3u8</link>
-		
-		
+					
 		<item>
 			<title>EuroSport 2</title>
 			<link>http://38.99.163.117/nimble_live/EUROSPORT2/playlist.m3u8</link>
 		
-
-
 		
 
 		
