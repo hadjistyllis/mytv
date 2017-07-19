@@ -1,10 +1,10 @@
 <streamingInfos>
 		<item>	
 			<title>"[COLOR red][B]Powered by e-doctor[/B][/COLOR]"</title>
-			<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=GA0N0Bu5JiE</link>
+			<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=O4c2bOldxd0&t</link>
 		<item>
 			<title>"[COLOR red][B]http://edoctorcy.xyz[/B][/COLOR]"</title>
-			<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=GA0N0Bu5JiE</link>
+			<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=O4c2bOldxd0&t</link>
 
 
 		<item>
@@ -22,12 +22,20 @@
 		
 		<item>
 			<title>SIGMA</title>
+			<link>https://hls.fearfulale.xyz/s/sigmamy4617/22a3687fa0f4048a2d8a671d5122b15c.m3u8?</link>
+		
+		<item>
+			<title>SIGMA</title>
 			<link>http://81.21.47.74/hls/live.m3u8</link>
 		
+						
 		<item>
 			<title>ALPHA CY</title>
 			<link>http://l4.cloudskep.com/alphacy/acy/playlist.m3u8</link>
 		
+		<item>
+			<title>TV Mall</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=46k1mMe_DYE</link>
 		<item>
 			<title>MAD CY</title>
 			<link>rtmp://144.76.2.213/live/livestream swfUrl=http://jwplayer.mediaserve.com/player.swf live=1 timeout=10</link>
@@ -63,27 +71,31 @@
 		
 		<item>
 			<title>ERT3 Worldwide WebTV</title>
-			<link>plugin://plugin.video.youtube/play/?video_id=ECbJrjrcCUE</link>
+			<link>plugin://plugin.video.youtube/play/?video_id=O3Hs5AZqi4U</link>
 		
 		<item>
 			<title>ERT WORLD WebTV</title>
 			<link>plugin://plugin.video.youtube/play/?video_id=qRY56sJJ2to</link>
+			
+		<item>
+			<title>ERT Play Worldwide WebTV</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=Ba4voPNmZUU</link>			
 		
 		<item>
 			<title>ANT1</title>
 			<link>http://antglantennatv-lh.akamaihd.net/i/live_1@421307/index_1000_av-p.m3u8?sd=10&rebase=on</link>
 		
 		<item>
-			<title>ANT1</title>
-			<link>http://137.74.171.115:1935/galanos/a1951live/playlist.m3u8</link>
+			<title>MEGA</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=tug1qABlQ-M</link>
 		
 		<item>
-			<title>MEGA</title>
-			<link>plugin://plugin.video.youtube/play/?video_id=2Y8qsS_xH2Y</link>
+			<title>MEGA COSMOS</title>
+			<link>http://stream2.svbllc.com:1935/mega/mega.stream/playlist.m3u8</link>
 		
 		<item>
 			<title>SKAI</title>
-			<link>plugin://plugin.video.youtube/play/?video_id=6H-OQayZbqE</link>
+			<link>plugin://plugin.video.youtube/play/?video_id=E3objzlER3s</link>
 		
 		<item>
 			<title>ALPHA (Country Limitation)</title>
@@ -91,7 +103,11 @@
 		
 		<item>
 			<title>ALPHA</title>
-			<link>http://193.92.37.235:1935/LiveEdgeTV/live@720/manifest.m3u8</link>
+			<link>http://193.92.37.235:1935/LiveEdgeTV/live@720/master.m3u8</link>
+		
+		<item>
+			<title>ALPHA SAT</title>
+			<link>http://stream2.svbllc.com:1935/alpha/alpha.stream/playlist.m3u8</link>
 		
 		<item>
 			<title>NETV TORONTO</title>
@@ -103,23 +119,19 @@
 		
 		<item>
 			<title>E</title>
-			<link>http://iphone-streaming.ustream.tv/uhls/17099727/streams/live/iphone/playlist.m3u8</link>
+			<link>https://s2.streamings.gr/epsilontv/epsilontv.m3u8</link>
+		
+		<item>
+			<title>E</title>
+			<link>https://57b1c3ae400ed.streamlock.net/live/epsilontv/playlist.m3u8</link>
 		
 		<item>
 			<title>STAR</title>
 			<link>http://4.31.30.145:9080</link>
 		
 		<item>
-			<title>STAR</title>
-			<link>http://stream-11.dc3.dailymotion.com/49/dm/1/xqjey2/live.isml/live.m3u8?e=1497163959&st=Royd_0alE7orSt6QABfJwg#cell=lvty&hls_liveSyncDuration=24</link>
-		
-		<item>
 			<title>VOULI</title>
 			<link>http://streamer-cache.grnet.gr/parliament/parltv.sdp/master.m3u8</link>
-		
-		<item>
-			<title>ART </title>
-			<link>http://stream-ec2.vty.dailymotion.com/42/dm/1/x4x174r/live.isml/events(live-1479355216)/live-audio=128000-video=700000.m3u8</link>
 		
 		<item>
 			<title>ART Sportzone</title>
@@ -131,35 +143,19 @@
 		
 		<item>
 			<title>BEST TV </title>
-			<link>http://138.201.57.212:1935/best/myStream/chunklist_w1637880698.m3u8</link>
+			<link>http://s.bizr.gr:8080/hls/best.m3u8</link>
 		
 		<item>
-			<title>BEST TV</title>
+			<title>BEST Deal TV</title>
 			<link>http://78.129.184.15:23319/streaming/stream/playlist.m3u8</link>
 		
 		<item>
-			<title>BEST TV</title>
-			<link>http://138.201.57.212:1935/best/myStream/playlist.m3u8</link>
-		
-		<item>
 			<title>TV100</title>
-			<link>http://178.62.176.153:1935/TV100/myStream/playlist.m3u8</link>
-		
-		<item>
-			<title>TPT</title>
-			<link>http://xelladalivex.api.channel.livestream.com/3.0/playlist.m3u8</link>
+			<link>http://178.62.176.153/hls/tv100/index.m3u8</link>
 		
 		<item>
 			<title>START</title>
 			<link>http://94.23.218.186:1935/StartMedia/StartMedia/playlist.m3u8</link>
-		
-		<item>
-			<title>EXTRA</title>
-			<link>rtmp://213.16.167.186:1935/live/mpegts_256.stream</link>
-		
-		<item>
-			<title>SBC</title>
-			<link>http://xsbcgrx.api.channel.livestream.com/3.0/playlist.m3u8</link>
 		
 		<item>
 			<title>SAMOS</title>
@@ -170,56 +166,20 @@
 			<link>http://stream2.omegatv.net/hls-live/livepkgr/_definst_/liveevent/omegatv.m3u8</link>
 		
 		<item>
-			<title>OMEGA</title>
-			<link>rtmp://stream2.omegatv.net:1935/livepkgr/omegatv live=1 timeout=10</link>
-		
-		<item>
 			<title>NEW TV</title>
-			<link>http://wowzacontrol.com:1935/8108/8108/playlist.m3u8</link>
+			<link>http://w11.streamgb.com:1935/Newtv/Newtv/playlist.m3u8</link>
 		
 		<item>
 			<title>NEA</title>
 			<link>http://srv.viiideo.gr:1935/neatv/live/playlist.m3u8</link>
 		
 		<item>
-			<title>MAKELEIO</title>
-			<link>http://makeliolive-lh.akamaihd.net/i/event_1@167269/master.m3u8</link>
-		
-		<item>
-			<title>CORFU CHANNEL</title>
-			<link>http://iphone-streaming.ustream.tv/uhls/22608117/streams/live/iphon/playlist.m3u8</link>
-		
-		<item>
-			<title>BHMA TV</title>
-			<link>http://iphone-streaming.ustream.tv/uhls/10731431/streams/live/iphone/playlist.m3u8</link>
-		
-		<item>
 			<title>FLASH TV</title>
-			<link>plugin://plugin.video.youtube/play/?video_id=Fcomx2jV1Cw</link>
-		
-		<item>
-			<title>ALITHEIA TV</title>
-			<link>plugin://plugin.video.youtube/play/?video_id=PWDIYlrWnKg</link>
-		
-		<item>
-			<title>VOLCANO</title>
-			<link>rtmp://176.9.123.140:1935/santorini/santorini</link>
+			<link>http://www.dailymotion.com/embed/video/x5d9lwu?autoPlay=1</link>
 		
 		<item>
 			<title>TV FILOPOLI</title>
 			<link>http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8</link>
-		
-		<item>
-			<title>DRAMA TV</title>
-			<link>plugin://plugin.video.youtube/play/?video_id=rOBW6DJwlv0</link>
-		
-		<item>
-			<title>TV EPILOGES</title>
-			<link>http://iphone-streaming.ustream.tv/uhls/14718903/streams/live/iphone/playlist.m3u8</link>
-		
-		<item>
-			<title>TOP CHANNEL</title>
-			<link>http://iphone-streaming.ustream.tv/uhls/18640065/streams/live/iphone/playlist.m3u8</link>
 		
 		<item>
 			<title>MAKEDONIA / M.TV HD</title>
@@ -234,32 +194,20 @@
 			<link>rtmp://live.cretetv.gr/cretetv/myStream</link>
 		
 		<item>
-			<title>CretaTV</title>
-			<link>http://srv.viiideo.gr:1935/tvcreta/live/playlist.m3u8</link>
-		
-		<item>
-			<title>Creta WEB TV </title>
-			<link>rtmp://94.23.218.186:1935/cretatv/cretatv</link>
+			<title>#EXTINF:-1 tvg-logo=https://goo.gl/naS6gM ,CretaTV</title>
+			<link>http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8</link>
 		
 		<item>
 			<title>KONTRA</title>
 			<link>http://flashcloud.mediacdn.com/live/kontratv/.m3u8</link>
 		
 		<item>
-			<title>KONTRA</title>
-			<link>rtmp://stream.greekelitetv.com:1935/kontra/kontra.stream</link>
-		
-		<item>
 			<title>ENA</title>
-			<link>http://wpc.68FC.edgecastcdn.net/hls-live/2068FC/ena-channel-live/video/video.m3u8</link>
+			<link>plugin://plugin.video.youtube/play/?video_id=OD4np_3szmo</link>
 		
 		<item>
 			<title>AIGAIO</title>
-			<link>http://stream.ssh101.com:1935/live/aigaiotvlive/playlist.m3u8</link>
-		
-		<item>
-			<title>DIKTYO TV</title>
-			<link>http://iphone-streaming.ustream.tv/uhls/2785459/streams/live/iphone/playlist.m3u8</link>
+			<link>http://xaigaiotelevisionx.api.channel.livestream.com/3.0/playlist.m3u8</link>
 		
 		<item>
 			<title>AXELOOS</title>
@@ -275,16 +223,11 @@
 		
 		<item>
 			<title>SUPER B</title>
-			<link>plugin://plugin.video.youtube/play/?video_id=kgzoqnTmssY</link>
+			<link>plugin://plugin.video.youtube/play/?video_id=_inRNwfm5mY</link>
 		
 		<item>
 			<title>EURONEWS</title>
-			<link>rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/gr_vidan750_rtp.sdp</link>
-		
-		
-		<item>
-			<title>HPEIROS TV1</title>
-			<link>http://xepirustv1livex.api.channel.livestream.com/3.0/playlist.m3u8</link>
+			<link>plugin://plugin.video.youtube/play/?video_id=iVp0HDyFlVo</link>
 		
 		<item>
 			<title>TV1</title>
@@ -299,40 +242,12 @@
 			<link>rtmp://cp77174.live.edgefcs.net/live/123456@19937</link>
 		
 		<item>
-			<title>Action 24</title>
-			<link>http://stream-ec2.vty.dailymotion.com/48/dm/1/x2p626q/live.isml/events(live-1479293970)/live-audio=64000-video=400000.m3u8</link>
-		
-		<item>
-			<title>DELTA TV</title>
-			<link>mms://deltatv1.dyndns.org:1194</link>
-		
-		<item>
-			<title>TOP CHANNEL</title>
-			<link>http://iphone-streaming.ustream.tv/uhls/18640065/streams/live/iphone/playlist.m3u8</link>
-		
-		<item>
 			<title>THRAKI NET</title>
 			<link>rtmp://hls.onestreaming.com:1935/live/thrakinettv</link>
 		
 		<item>
 			<title>Blue Sky</title>
-			<link>http://136.243.200.184:1935/live/tvlive/playlist.m3u8</link>
-		
-		<item>
-			<title>ALERT TV</title>
-			<link>plugin://plugin.video.youtube/play/?video_id=4TxS3Je89Iw</link>
-		
-		<item>
-			<title>RELoad</title>
-			<link>http://bit.ly/2msHzVg</link>
-		
-		<item>
-			<title>Patra</title>
-			<link>mmsh://wm1.gmlogic.com/ch-patra?ovpsv=2.3.1.0&MSWMExt=.asf</link>
-		
-		<item>
-			<title>Patra</title>
-			<link>mmsh://144.76.5.122:80/ch-patra?ovpsv=2.3.1.0&MSWMExt=.asf</link>
+			<link>plugin://plugin.video.youtube/play/?video_id=z7623T7f0c0</link>
 		
 		<item>
 			<title>LYXNOC</title>
@@ -340,39 +255,19 @@
 		
 		<item>
 			<title>CHANNEL 9 </title>
-			<link>rtmp://204.77.214.15:80/mogulus-stream-edge/channel9gr/rtmp://212-47.livestream.com/affiliateStream/channel9gr/6c69766572657065617465723a72746d703a2f2f3231322d34372e6c69766573747265616d2e636f6d2f6d6f67756c75732f6368616e6e656c3967722f6368616e6e656c39</link>
+			<link>plugin://plugin.video.youtube/play/?video_id=jpLkobPwiwE</link>
 		
 		<item>
 			<title>GR CINEMA </title>
-			<link>http://bit.ly/2r8oSfy</link>
-		
-		<item>
-			<title>SPICY</title>
-			<link>http://bit.ly/2lKaVOW</link>
-		
-		<item>
-			<title>FUN TV</title>
-			<link>rtmp://live.streams.ovh/Ellastv/Ellastv</link>
+			<link>http://bit.ly/2rp95bt</link>
 		
 		<item>
 			<title>Movie Play</title>
 			<link>http://bit.ly/2l0o6Os</link>
 		
 		<item>
-			<title>DIAVATA TV</title>
-			<link>http://138.201.25.26:1935/diavatatv/diavatatv/playlist.m3u8</link>
-		
-		<item>
 			<title>MPAXALO TV</title>
 			<link>http://xmpaxalotv1x.api.channel.livestream.com/3.0/playlist.m3u8</link>
-		
-		<item>
-			<title>BERGINA</title>
-			<link>http://195.81.140.80:1935/live/VerginaStream1/playlist.m3u8</link>
-		
-		<item>
-			<title>PALMOS</title>
-			<link>http://bit.ly/2lJzwVs</link>
 		
 		<item>
 			<title>MESSINIA WEB TV</title>
@@ -383,20 +278,16 @@
 			<link>mmsh://wpso.com:200/music</link>
 		
 		<item>
-			<title>THLE MOUSIKH</title>
-			<link>http://stream.ssh101.com:1935/live/greekmusic/playlist.m3u8</link>
+			<title>JAYZEE </title>
+			<link>http://77.92.76.135:1935/jayzee/livestream/master.m3u8</link>
 		
 		<item>
 			<title>ROCK TV</title>
-			<link>http://bit.ly/2mk3eSs</link>
+			<link>mmsh://mediatv2.topix.it/24RockOne66</link>
 		
 		<item>
 			<title>ELLINIKOS FM WEB TV</title>
 			<link>http://o98d0njv.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/EllinikosFM.m3u8</link>
-		
-		<item>
-			<title>KLIK FM WEB TV</title>
-			<link>plugin://plugin.video.youtube/play/?video_idR-Cnr1cm6E4</link>
 		
 		<item>
 			<title>CANNALI</title>
@@ -404,7 +295,7 @@
 		
 		<item>
 			<title>HIGH TV</title>
-			<link>rtmp://5.189.174.222:5119/live/high</link>
+			<link>http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8</link>
 		
 		<item>
 			<title>EBS</title>
@@ -416,23 +307,11 @@
 		
 		<item>
 			<title>4E</title>
-			<link>http://mail.tv4e.gr:1935/live/myStream.sdp/playlist.m3u8</link>
-		
-		<item>
-			<title>4E</title>
 			<link>rtmp://82.192.84.30:1935/live/myStream.sdp</link>
 		
 		<item>
 			<title>4E</title>
 			<link>rtmp://stream2.svbllc.com:1935/4e/4e.stream</link>
-		
-		<item>
-			<title>VOICE OF GOD</title>
-			<link>mmsh://5.79.85.111:80/VoiceofGod300GR?MSWMExt=.asf</link>
-		
-		<item>
-			<title>AGIOS NIKOLAOS CINCINATI WEB TV</title>
-			<link>rtmp://fls.8.c3.audiovideoweb.com:443/live/il81flslive3150</link>
 		
 		<item>
 			<title>AGIOS NIKOLAOS MICHIGAN WEB TV</title>
@@ -443,20 +322,8 @@
 			<link>mmsh://wpso.com:200/kids?MSWMExt=.asf</link>
 		
 		<item>
-			<title>Nickelodeon</title>
-			<link>http://bit.ly/2lLgg6P</link>
-		
-		<item>
-			<title>Movies TV</title>
-			<link>rtmp://live.cast-control.eu/MoviesTv/MoviesTv</link>
-		
-		<item>
-			<title>Movies TV</title>
-			<link>rtsp://live.cast-control.eu/MoviesTv/MoviesTv</link>
-		
-		<item>
-			<title>Yolo TV</title>
-			<link>http://live.cast-control.eu:1935/yolotelevision/yolotelevision/playlist.m3u8</link>
+			<title>MIX</title>
+			<link>http://wpso.com:1936/hls/wzra.m3u8</link>
 		
 	
 
