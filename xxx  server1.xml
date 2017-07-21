@@ -13,5 +13,9 @@
 			
 
 		<item>
-			<title>  4K: VOD1</title>
+			<title>Jasmin</title>
 			<link>rtmp://109.71.162.112:1935/live/sd.jasminchannel.stream playpath=sd.jasminchannel.stream swfUrl=http://flash.dditscdn.com/jsm2/3316/memberapplet/wowza/memberapplet.swf live=1 pageUrl=http://jasmin.com/pt/girl</link>
+
+		<item>
+			<title>Brazzer Europe</title>
+			<link>http://inetcom.tv/get_channel.php?id=280</link>
