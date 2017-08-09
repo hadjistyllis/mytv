@@ -25,95 +25,136 @@
       
 			
 		<item>
-			<title>RIK SAT</title>
-			<link>http://s2.greekelitetv.com:1935/riksat/riksat.stream/playlist.m3u8</link>		
+ +			<title>RIK SAT</title>
+ +			<link>http://s2.greekelitetv.com:1935/riksat/riksat.stream/playlist.m3u8</link>
+ +			
+ + 		<item>
+ +			<title>MEGAONE</title>
+ +			<link>http://s2.greekelitetv.com:1935/megacyprus/megacyprus.stream/playlist.m3u8</link>
+			
+			
+			
+			
+			
+			
+			
+			
+			
 			
 		  <item>
 			<title>-----[COLOR red][B]GREECE[/B][/COLOR]-----</title>
 			<link>http://.......</link>
       
 				      
-		<item>
-			<title>ERT1 -7hrs</title>
-			<link>http://s2.greekelitetv.com:1935/ert1-7/ert1-7.stream/playlist.m3u8</link>				      
-				      
-				      
- 		
-		<item>
-			<title>ERT HD</title>
-			<link>http://s2.greekelitetv.com:1935/erthd/erthd.stream/playlist.m3u8</link>
-		
-		<item>
-			<title>AB</title>
-			<link>http://s2.greekelitetv.com:1935/abchannel/abchannel.stream/playlist.m3u8</link>
-		
-		<item>
-			<title>ACTION24</title>
-			<link>http://s2.greekelitetv.com:1935/action24/action24.stream/playlist.m3u8</link>
-		
-		<item>
-			<title>Attica</title>
-			<link>http://s2.greekelitetv.com:1935/attica/attica.stream/playlist.m3u8</link>
-		
-		<item>
-			<title>E -7hrs</title>
-			<link>http://s2.greekelitetv.com:1935/epsilon-7/epsilon-7.stream/playlist.m3u8</link>
-		
-		<item>
-			<title>E -10hrs</title>
-			<link>http://s2.greekelitetv.com:1935/epsilon-10/epsilon-10.stream/playlist.m3u8</link>
-		
-		<item>
-			<title>Alpha -7hrs</title>
-			<link>http://s2.greekelitetv.com:1935/alpha-7/alpha-7.stream/playlist.m3u8</link>
-		
-		<item>
-			<title>Alpha -10hrs</title>
-			<link>http://s2.greekelitetv.com:1935/alpha-10/alpha-10.stream/playlist.m3u8</link>
-		
-		<item>
-			<title>SMILE</title>
-			<link>http://s2.greekelitetv.com:1935/smile/smile.stream/playlist.m3u8</link>
-		
-		<item>
-			<title>EuroNews Greece</title>
-			<link>http://s2.greekelitetv.com:1935/euronews/euronews.stream/playlist.m3u8</link>
-		
-		<item>
-			<title>STAR -7hrs</title>
-			<link>http://s2.greekelitetv.com:1935/star-7/star-7.stream/playlist.m3u8</link>
-		
-		<item>
-			<title>STAR -10hrs</title>
-			<link>http://s2.greekelitetv.com:1935/star-10/star-10.stream/playlist.m3u8</link>
-		
-		<item>
-			<title>SKAI -7hrs</title>
-			<link>http://s2.greekelitetv.com:1935/skai-7/skai-7.stream/playlist.m3u8</link>
-		
-		<item>
-			<title>EXTRA</title>
-			<link>http://s2.greekelitetv.com:1935/extra/extra.stream/playlist.m3u8</link>
-		
-		<item>
-			<title>SKAI -10hrs</title>
-			<link>http://s2.greekelitetv.com:1935/skai-10/skai-10.stream/playlist.m3u8</link>
-		
-		<item>
-			<title>BlueSky</title>
-			<link>http://s2.greekelitetv.com:1935/bluesky/bluesky.stream/playlist.m3u8</link>
 
-
-      
-      
-      
-      
-      
-      
-      
-      
-      
-
-            
-            
- 
+ +			
+ + 		<item>
+ +			<title>ERT1</title>
+ +			<link>http://s2.greekelitetv.com:1935/ert1/ert1.stream/playlist.m3u8</link>
+ +				
+ +		<item>
+ +			<title>ERT1 -7hrs</title>
+ +			<link>http://s2.greekelitetv.com:1935/ert1-7/ert1-7.stream/playlist.m3u8</link>
+ +			
+ +		<item>
+ +			<title>ERT2</title>
+ +			<link>http://s2.greekelitetv.com:1935/ert2/ert2.stream/playlist.m3u8</link>
+ +			
+ +		<item>
+ +			<title>ERT3</title>
+ +			<link>http://s2.greekelitetv.com:1935/ert3/ert3.stream/playlist.m3u8</link>
+ +			
+ +			
+ +		<item>
+ +			<title>ERT HD</title>
+ +			<link>http://s2.greekelitetv.com:1935/erthd/erthd.stream/playlist.m3u8</link>
+ +						
+ +		<item>
+ +			<title>Alpha</title>
+ +			<link>http://s2.greekelitetv.com:1935/alpha/alpha.stream/playlist.m3u8</link>
+ +			
+ +		<item>
+ +			<title>Alpha -7hrs</title>
+ +			<link>http://s2.greekelitetv.com:1935/alpha-7/alpha-7.stream/playlist.m3u8</link>
+ +						
+ +		<item>
+ +			<title>Alpha -10hrs</title>
+ +			<link>http://s2.greekelitetv.com:1935/alpha-10/alpha-10.stream/playlist.m3u8</link>
+ +	
+ +		<item>
+ +			<title>STAR</title>
+ +			<link>http://s2.greekelitetv.com:1935/star/star.stream/playlist.m3u8</link>
+ +						
+ +		<item>
+ +			<title>STAR -7hrs</title>
+ +			<link>http://s2.greekelitetv.com:1935/star-7/star-7.stream/playlist.m3u8</link>
+ +		
+ +		<item>
+ +			<title>STAR -10hrs</title>
+ +			<link>http://s2.greekelitetv.com:1935/star-10/star-10.stream/playlist.m3u8</link>
+ +			
+ +		<item>
+ +			<title>E</title>
+ +			<link>http://s2.greekelitetv.com:1935/epsilon/epsilon.stream/playlist.m3u8</link>
+ +						
+ +		<item>
+ +			<title>E -7hrs</title>
+ +			<link>http://s2.greekelitetv.com:1935/epsilon-7/epsilon-7.stream/playlist.m3u8</link>
+ +		
+ +		<item>
+ +			<title>E -10hrs</title>
+ +			<link>http://s2.greekelitetv.com:1935/epsilon-10/epsilon-10.stream/playlist.m3u8</link>
+ +			
+ +		<item>
+ +			<title>SKAI</title>
+ +			<link>http://s2.greekelitetv.com:1935/skai/skai.stream/playlist.m3u8</link>
+ +			
+ +		<item>
+ +			<title>SKAI -7hrs</title>
+ +			<link>http://s2.greekelitetv.com:1935/skai-7/skai-7.stream/playlist.m3u8</link>
+ +			
+ +		<item>
+ +			<title>SKAI -10hrs</title>
+ +			<link>http://s2.greekelitetv.com:1935/skai-10/skai-10.stream/playlist.m3u8</link>
+ +		
+ +		<item>
+ +			<title>EXTRA</title>
+ +			<link>http://s2.greekelitetv.com:1935/extra/extra.stream/playlist.m3u8</link>
+ +		
+ +		
+ +		<item>
+ +			<title>MEGA</title>
+ +			<link>http://s2.greekelitetv.com:1935/mega/mega.stream/playlist.m3u8</link>
+ +			
+ +		<item>
+ +			<title>MEGA Cosmos</title>
+ +			<link>http://s2.greekelitetv.com:1935/mega_cosmos/mega_cosmos.stream/playlist.m3u8</link>
+ +	
+ +		<item>
+ +			<title>AB</title>
+ +			<link>http://s2.greekelitetv.com:1935/abchannel/abchannel.stream/playlist.m3u8</link>
+ +		
+ +		<item>
+ +			<title>ACTION24</title>
+ +			<link>http://s2.greekelitetv.com:1935/action24/action24.stream/playlist.m3u8</link>
+ +			
+ +		<item>
+ +			<title>BlueSky</title>
+ +			<link>http://s2.greekelitetv.com:1935/bluesky/bluesky.stream/playlist.m3u8</link>
+ +		
+ +		<item>
+ +			<title>Attica</title>
+ +			<link>http://s2.greekelitetv.com:1935/attica/attica.stream/playlist.m3u8</link>
+ +		
+ +		<item>
+ +			<title>VOULI</title>
+ +			<link>http://s2.greekelitetv.com:1935/vouli/vouli.stream/playlist.m3u8</link>
+ +			
+ +		<item>
+ +			<title>SMILE</title>
+ +			<link>http://s2.greekelitetv.com:1935/smile/smile.stream/playlist.m3u8</link>
+ +		
+ +		<item>
+ +			<title>EuroNews Greece</title>
+ +			<link>http://s2.greekelitetv.com:1935/euronews/euronews.stream/playlist.m3u8</link>
+ +		
