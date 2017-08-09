@@ -23,349 +23,97 @@
 			<title>-----[COLOR red][B]CYPRUS[/B][/COLOR]-----</title>
 			<link>http://.......</link>
       
-   		<item>
-			<title>RIK 1 (GR)</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ok1.se:8000/live/travis/travis/4134.ts</link>
-		
+			
 		<item>
-			<title>RIK 2 (GR)</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ok1.se:8000/live/travis/travis/4135.ts</link>
-		   
-    	<item>
-			<title>MEGAONE (GR)</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ok1.se:8000/live/travis/travis/4094.ts</link>
-		
-		<item>
-			<title>EXTRA CYPRUS (GR)</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ok1.se:8000/live/travis/travis/4127.ts</link>
-		      
-		<item>
-			<title>PLUS CYPRUS (GR)</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ok1.se:8000/live/travis/travis/4126.ts</link>
-		      
-  		<item>
-			<title>SIGMA CYPRUS (GR)</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ok1.se:8000/live/travis/travis/7640.ts</link>
-
- 
-		<item>
-			<title>ALPHA CYPRUS (GR)</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ok1.se:8000/live/travis/travis/4125.ts</link>
-		         
- 		<item>
-			<title>CAPITAL CYPRUS (GR)</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ok1.se:8000/live/travis/travis/4128.ts</link>
-		
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      <item>
+			<title>RIK SAT</title>
+			<link>http://s2.greekelitetv.com:1935/riksat/riksat.stream/playlist.m3u8</link>		
+			
+		  <item>
 			<title>-----[COLOR red][B]GREECE[/B][/COLOR]-----</title>
 			<link>http://.......</link>
       
+				      
+		<item>
+			<title>ERT1 -7hrs</title>
+			<link>http://s2.greekelitetv.com:1935/ert1-7/ert1-7.stream/playlist.m3u8</link>				      
+				      
+				      
+ 		
+		<item>
+			<title>ERT HD</title>
+			<link>http://s2.greekelitetv.com:1935/erthd/erthd.stream/playlist.m3u8</link>
+		
+		<item>
+			<title>AB</title>
+			<link>http://s2.greekelitetv.com:1935/abchannel/abchannel.stream/playlist.m3u8</link>
+		
+		<item>
+			<title>ACTION24</title>
+			<link>http://s2.greekelitetv.com:1935/action24/action24.stream/playlist.m3u8</link>
+		
+		<item>
+			<title>Attica</title>
+			<link>http://s2.greekelitetv.com:1935/attica/attica.stream/playlist.m3u8</link>
+		
+		<item>
+			<title>E -7hrs</title>
+			<link>http://s2.greekelitetv.com:1935/epsilon-7/epsilon-7.stream/playlist.m3u8</link>
+		
+		<item>
+			<title>E -10hrs</title>
+			<link>http://s2.greekelitetv.com:1935/epsilon-10/epsilon-10.stream/playlist.m3u8</link>
+		
+		<item>
+			<title>Alpha -7hrs</title>
+			<link>http://s2.greekelitetv.com:1935/alpha-7/alpha-7.stream/playlist.m3u8</link>
+		
+		<item>
+			<title>Alpha -10hrs</title>
+			<link>http://s2.greekelitetv.com:1935/alpha-10/alpha-10.stream/playlist.m3u8</link>
+		
+		<item>
+			<title>SMILE</title>
+			<link>http://s2.greekelitetv.com:1935/smile/smile.stream/playlist.m3u8</link>
+		
+		<item>
+			<title>EuroNews Greece</title>
+			<link>http://s2.greekelitetv.com:1935/euronews/euronews.stream/playlist.m3u8</link>
+		
+		<item>
+			<title>STAR -7hrs</title>
+			<link>http://s2.greekelitetv.com:1935/star-7/star-7.stream/playlist.m3u8</link>
+		
+		<item>
+			<title>STAR -10hrs</title>
+			<link>http://s2.greekelitetv.com:1935/star-10/star-10.stream/playlist.m3u8</link>
+		
+		<item>
+			<title>SKAI -7hrs</title>
+			<link>http://s2.greekelitetv.com:1935/skai-7/skai-7.stream/playlist.m3u8</link>
+		
+		<item>
+			<title>EXTRA</title>
+			<link>http://s2.greekelitetv.com:1935/extra/extra.stream/playlist.m3u8</link>
+		
+		<item>
+			<title>SKAI -10hrs</title>
+			<link>http://s2.greekelitetv.com:1935/skai-10/skai-10.stream/playlist.m3u8</link>
+		
+		<item>
+			<title>BlueSky</title>
+			<link>http://s2.greekelitetv.com:1935/bluesky/bluesky.stream/playlist.m3u8</link>
+
+
+      
+      
+      
+      
+      
+      
+      
+      
+      
+
             
             
-     <item>
-			<title>STAR (NA) (GR)</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ok1.se:8000/live/travis/travis/4083.ts</link>
-		
-		<item>
-			<title>EPSILON (NA) (GR)</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ok1.se:8000/live/travis/travis/4078.ts</link>
-		
-		<item>
-			<title>ALPHA (NA) (GR)</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ok1.se:8000/live/travis/travis/4076.ts</link>
-		
-		<item>
-			<title>ANT (NA) (GR)</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ok1.se:8000/live/travis/travis/4077.ts</link>
-		
-		<item>
-			<title>ERT1 (NA) (GR)</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ok1.se:8000/live/travis/travis/4079.ts</link>
-		
-		<item>
-			<title>ERT2 (NA) (GR)</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ok1.se:8000/live/travis/travis/4080.ts</link>
-		
-		<item>
-			<title>MEGA (NA) (GR)</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ok1.se:8000/live/travis/travis/4081.ts</link>
-		
-		<item>
-			<title>SKAI (NA) (GR)</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ok1.se:8000/live/travis/travis/4082.ts</link>
-		
-		<item>
-			<title>ALPHA HD (GR)</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ok1.se:8000/live/travis/travis/4119.ts</link>
-		
-		<item>
-			<title>SKAI HD (GR)</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ok1.se:8000/live/travis/travis/4121.ts</link>
-		
-		<item>
-			<title>STAR HD (GR)</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ok1.se:8000/live/travis/travis/4120.ts</link>
-		
-		<item>
-			<title>ANT 1 SAT HD (GR)</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ok1.se:8000/live/travis/travis/4118.ts</link>
-		
-		<item>
-			<title>ANT1 HD (GR)</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ok1.se:8000/live/travis/travis/4117.ts</link>
-		
-		<item>
-			<title>EPSILON HD (GR)</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ok1.se:8000/live/travis/travis/4122.ts</link>
-		
-		<item>
-			<title>ERT HD (GR)</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ok1.se:8000/live/travis/travis/4102.ts</link>
-		
-		<item>
-			<title>ERT 1 (GR)</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ok1.se:8000/live/travis/travis/4105.ts</link>
-		
-		<item>
-			<title>ERT 2 (GR)</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ok1.se:8000/live/travis/travis/4104.ts</link>
-		
-		<item>
-			<title>ERT 3 (GR)</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ok1.se:8000/live/travis/travis/4103.ts</link>
-		
-
-		<item>
-			<title>SKAI (GR)</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ok1.se:8000/live/travis/travis/4088.ts</link>
-		
-		<item>
-			<title>HIGH TV (GR)</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ok1.se:8000/live/travis/travis/7641.ts</link>
-		
-
- 		<item>
-			<title>ALERT (GR)</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ok1.se:8000/live/travis/travis/7639.ts</link>
-		
-		<item>
-			<title>MAKEDONIA TV (GR)</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ok1.se:8000/live/travis/travis/4097.ts</link>
-		
-		<item>
-			<title>MEGA (GR)</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ok1.se:8000/live/travis/travis/4096.ts</link>
-		
-		<item>
-			<title>MEGA COSMOS (GR)</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ok1.se:8000/live/travis/travis/4095.ts</link>
-		
-	
-		<item>
-			<title>4E (GR)</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ok1.se:8000/live/travis/travis/4116.ts</link>
-		
-		<item>
-			<title>ACTION 24 (GR)</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ok1.se:8000/live/travis/travis/4114.ts</link>
-		
-		<item>
-			<title>ALPHA (GR)</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ok1.se:8000/live/travis/travis/4113.ts</link>
-		     
-  		<item>
-			<title>ALPHA SAT (GR)</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ok1.se:8000/live/travis/travis/4112.ts</link>
-		
-		<item>
-			<title>BLUESKY (GR)</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ok1.se:8000/live/travis/travis/4108.ts</link>
-		    
-      
- 		<item>
-			<title>ANT1 (GR)</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ok1.se:8000/live/travis/travis/4111.ts</link>
-		
-		<item>
-			<title>ATTICA TV (GR)</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ok1.se:8000/live/travis/travis/4109.ts</link>
-		
-		<item>
-			<title>CHANNEL 9 (GR)</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ok1.se:8000/live/travis/travis/4107.ts</link>
-		
-
-		<item>
-			<title>EPSILON (GR)</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ok1.se:8000/live/travis/travis/4106.ts</link>
-		
-		<item>
-			<title>EXTRA (GR)</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ok1.se:8000/live/travis/travis/4101.ts</link>
-		
-
-		<item>
-			<title>KONTRA TV (GR)</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ok1.se:8000/live/travis/travis/4099.ts</link>
-		
-		<item>
-			<title>KRHTH TV (GR)</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ok1.se:8000/live/travis/travis/4098.ts</link>
-		
-		<item>
-			<title>MAD (GR)</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ok1.se:8000/live/travis/travis/4129.ts</link>
-		
-		<item>
-			<title>MAD HITS (GR)</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ok1.se:8000/live/travis/travis/4131.ts</link>
-		
-		<item>
-			<title>APT (GR)</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ok1.se:8000/live/travis/travis/4136.ts</link>
-		     
-      	<item>
-			<title>AB CHANNEL (GR)</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ok1.se:8000/live/travis/travis/4115.ts</link>
-		
-		<item>
-			<title>STAR (GR)</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ok1.se:8000/live/travis/travis/4086.ts</link>
-		
-      
-    		<item>
-			<title>VOULI (GR)</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ok1.se:8000/live/travis/travis/4085.ts</link>
-		  
-      
-      
-      
-      
-      
-      
-      
-   		<item>
-			<title>-----[COLOR red][B]International Greek[/B][/COLOR]-----</title>
-			<link>http://......</link>   
-      
-      
-      
-      
-		<item>
-			<title>VIASAT HISTORY (GR)</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ok1.se:8000/live/travis/travis/7638.ts</link>
-		
-		<item>
-			<title>SMILE (GR)</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ok1.se:8000/live/travis/travis/4087.ts</link>
-		
-
-		<item>
-			<title>CINEMA 80'S (GR)</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ok1.se:8000/live/travis/travis/4138.ts</link>
-		
-		<item>
-			<title>CINEMANIA 80'S (GR)</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ok1.se:8000/live/travis/travis/4137.ts</link>
-		
-
-	
-		<item>
-			<title>MTV (GR)</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ok1.se:8000/live/travis/travis/4093.ts</link>
-		
-		<item>
-			<title>NICKELELODEON (GR)</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ok1.se:8000/live/travis/travis/4092.ts</link>
-		
-
-		<item>
-			<title>SBC (GR)</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ok1.se:8000/live/travis/travis/4089.ts</link>
-		
-		<item>
-			<title>DTX (GR)</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ok1.se:8000/live/travis/travis/4133.ts</link>
-		
-		<item>
-			<title>SPORT PLUS (GR)</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ok1.se:8000/live/travis/travis/4130.ts</link>
-		
-
-		<item>
-			<title>TRAVEL (GR)</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ok1.se:8000/live/travis/travis/4132.ts</link>
-		
-
-		<item>
-			<title>OTE CINEMA 1 (GR)</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ok1.se:8000/live/travis/travis/4748.ts</link>
-		
-		<item>
-			<title>OTE CINEMA 2 (GR)</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ok1.se:8000/live/travis/travis/4747.ts</link>
-		
-		<item>
-			<title>OTE CINEMA 3 (GR)</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ok1.se:8000/live/travis/travis/4746.ts</link>
-		
-		<item>
-			<title>OTE CINEMA 4 (GR)</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ok1.se:8000/live/travis/travis/4745.ts</link>
-		
-		<item>
-			<title>OTE HISTORY (GR)</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ok1.se:8000/live/travis/travis/4744.ts</link>
-		
-		<item>
-			<title>NOVA SPORTS 1 HD (GR)</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ok1.se:8000/live/travis/travis/6447.ts</link>
-		
-		<item>
-			<title>NOVA SPORTS 2 HD (GR)</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ok1.se:8000/live/travis/travis/6448.ts</link>
-		
-		<item>
-			<title>OTE SPORT 1 (GR)</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ok1.se:8000/live/travis/travis/4743.ts</link>
-		
-		<item>
-			<title>OTE SPORT 2 (GR)</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ok1.se:8000/live/travis/travis/4742.ts</link>
-		
-		<item>
-			<title>OTE SPORT 3 (GR)</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ok1.se:8000/live/travis/travis/4741.ts</link>
-		
-		<item>
-			<title>OTE SPORT 4 (GR)</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ok1.se:8000/live/travis/travis/4740.ts</link>
-		
-		<item>
-			<title>OTE SPORT 5 (GR)</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ok1.se:8000/live/travis/travis/4739.ts</link>
-		
-		<item>
-			<title>OTE SPORT 6 (GR)</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ok1.se:8000/live/travis/travis/4738.ts</link>
-		
-		<item>
-			<title>OTE SPORT 7 (GR)</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ok1.se:8000/live/travis/travis/4737.ts</link>
-		
-		<item>
-			<title>OTE SPORT 8 (GR)</title>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://ok1.se:8000/live/travis/travis/4736.ts</link>
-		
-	
-
+ 
