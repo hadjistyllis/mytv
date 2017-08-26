@@ -11,7 +11,7 @@
 
 
 		<item>
-			<title> ------------------[COLOR yellow][B]SERVER 2[/B][/COLOR]------------------ </title>
+			<title> ------------------[COLOR yellow][B]SERVER 3[/B][/COLOR]------------------ </title>
 			<link>http://......</link>
       
       
@@ -23,14 +23,43 @@
 			<title>-----[COLOR red][B]CYPRUS[/B][/COLOR]-----</title>
 			<link>http://.......</link>
       
+	
+		<item>
+			<title>RIK 1 Cyprus</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/5820.ts</link>
+		
+		<item>
+			<title>RIK 2 Cyprus</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/5819.ts</link>
+		
+		<item>
+			<title>Alpha Cyprus</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/5818.ts</link>
 			
 		<item>
- +			<title>RIK SAT</title>
- +			<link>http://s2.greekelitetv.com:1935/riksat/riksat.stream/playlist.m3u8</link>
- +			
- + 		<item>
- +			<title>MEGAONE</title>
- +			<link>http://s2.greekelitetv.com:1935/megacyprus/megacyprus.stream/playlist.m3u8</link>
+			<title>Capital Cyprus</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/5815.ts</link>
+					
+		<item>
+			<title>MAD TV Cyprus</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/5814.ts</link>
+	
+		<item>
+			<title>MegaOne Cyprus</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/5817.ts</link>
+		
+		<item>
+			<title>Plus Cyprus</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/5816.ts</link>
+				
+		<item>
+			<title>Sigma</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/2231.ts</link>
+					
+			
+			
+			
+			
 			
 			
 			
@@ -45,116 +74,565 @@
 			<title>-----[COLOR red][B]GREECE[/B][/COLOR]-----</title>
 			<link>http://.......</link>
       
-				      
+		<item>
+			<title>4E</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/2221.ts</link>
+		
+		<item>
+			<title>Action24</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/2220.ts</link>
+		
+		<item>
+			<title>Alpha</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/2219.ts</link>
+		
+		<item>
+			<title>Ant 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/2239.ts</link>
+		
+		<item>
+			<title>Antena 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/2218.ts</link>
+		
+		<item>
+			<title>Blue Sky</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/2217.ts</link>
+						      
+		<item>
+			<title>4E Star</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/2238.ts</link>
 
- +			
- + 		<item>
- +			<title>ERT1</title>
- +			<link>http://s2.greekelitetv.com:1935/ert1/ert1.stream/playlist.m3u8</link>
- +				
- +		<item>
- +			<title>ERT1 -7hrs</title>
- +			<link>http://s2.greekelitetv.com:1935/ert1-7/ert1-7.stream/playlist.m3u8</link>
- +			
- +		<item>
- +			<title>ERT2</title>
- +			<link>http://s2.greekelitetv.com:1935/ert2/ert2.stream/playlist.m3u8</link>
- +			
- +		<item>
- +			<title>ERT3</title>
- +			<link>http://s2.greekelitetv.com:1935/ert3/ert3.stream/playlist.m3u8</link>
- +			
- +			
- +		<item>
- +			<title>ERT HD</title>
- +			<link>http://s2.greekelitetv.com:1935/erthd/erthd.stream/playlist.m3u8</link>
- +						
- +		<item>
- +			<title>Alpha</title>
- +			<link>http://s2.greekelitetv.com:1935/alpha/alpha.stream/playlist.m3u8</link>
- +			
- +		<item>
- +			<title>Alpha -7hrs</title>
- +			<link>http://s2.greekelitetv.com:1935/alpha-7/alpha-7.stream/playlist.m3u8</link>
- +						
- +		<item>
- +			<title>Alpha -10hrs</title>
- +			<link>http://s2.greekelitetv.com:1935/alpha-10/alpha-10.stream/playlist.m3u8</link>
- +	
- +		<item>
- +			<title>STAR</title>
- +			<link>http://s2.greekelitetv.com:1935/star/star.stream/playlist.m3u8</link>
- +						
- +		<item>
- +			<title>STAR -7hrs</title>
- +			<link>http://s2.greekelitetv.com:1935/star-7/star-7.stream/playlist.m3u8</link>
- +		
- +		<item>
- +			<title>STAR -10hrs</title>
- +			<link>http://s2.greekelitetv.com:1935/star-10/star-10.stream/playlist.m3u8</link>
- +			
- +		<item>
- +			<title>E</title>
- +			<link>http://s2.greekelitetv.com:1935/epsilon/epsilon.stream/playlist.m3u8</link>
- +						
- +		<item>
- +			<title>E -7hrs</title>
- +			<link>http://s2.greekelitetv.com:1935/epsilon-7/epsilon-7.stream/playlist.m3u8</link>
- +		
- +		<item>
- +			<title>E -10hrs</title>
- +			<link>http://s2.greekelitetv.com:1935/epsilon-10/epsilon-10.stream/playlist.m3u8</link>
- +			
- +		<item>
- +			<title>SKAI</title>
- +			<link>http://s2.greekelitetv.com:1935/skai/skai.stream/playlist.m3u8</link>
- +			
- +		<item>
- +			<title>SKAI -7hrs</title>
- +			<link>http://s2.greekelitetv.com:1935/skai-7/skai-7.stream/playlist.m3u8</link>
- +			
- +		<item>
- +			<title>SKAI -10hrs</title>
- +			<link>http://s2.greekelitetv.com:1935/skai-10/skai-10.stream/playlist.m3u8</link>
- +		
- +		<item>
- +			<title>EXTRA</title>
- +			<link>http://s2.greekelitetv.com:1935/extra/extra.stream/playlist.m3u8</link>
- +		
- +		
- +		<item>
- +			<title>MEGA</title>
- +			<link>http://s2.greekelitetv.com:1935/mega/mega.stream/playlist.m3u8</link>
- +			
- +		<item>
- +			<title>MEGA Cosmos</title>
- +			<link>http://s2.greekelitetv.com:1935/mega_cosmos/mega_cosmos.stream/playlist.m3u8</link>
- +	
- +		<item>
- +			<title>AB</title>
- +			<link>http://s2.greekelitetv.com:1935/abchannel/abchannel.stream/playlist.m3u8</link>
- +		
- +		<item>
- +			<title>ACTION24</title>
- +			<link>http://s2.greekelitetv.com:1935/action24/action24.stream/playlist.m3u8</link>
- +			
- +		<item>
- +			<title>BlueSky</title>
- +			<link>http://s2.greekelitetv.com:1935/bluesky/bluesky.stream/playlist.m3u8</link>
- +		
- +		<item>
- +			<title>Attica</title>
- +			<link>http://s2.greekelitetv.com:1935/attica/attica.stream/playlist.m3u8</link>
- +		
- +		<item>
- +			<title>VOULI</title>
- +			<link>http://s2.greekelitetv.com:1935/vouli/vouli.stream/playlist.m3u8</link>
- +			
- +		<item>
- +			<title>SMILE</title>
- +			<link>http://s2.greekelitetv.com:1935/smile/smile.stream/playlist.m3u8</link>
- +		
- +		<item>
- +			<title>EuroNews Greece</title>
- +			<link>http://s2.greekelitetv.com:1935/euronews/euronews.stream/playlist.m3u8</link>
- +		
+		<item>
+			<title>E!</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/2216.ts</link>
+		
+		<item>
+			<title>ERT 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/2215.ts</link>
+		
+		<item>
+			<title>ERT 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/2214.ts</link>
+		
+		<item>
+			<title>ERT 3</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/2213.ts</link>
+
+		<item>
+			<title>ERT HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/5836.ts</link>
+		
+		<item>
+			<title>ERT Web TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/5835.ts</link>
+				  
+
+		<item>
+			<title>Extra</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/2229.ts</link>
+		
+		<item>
+			<title>Kontra</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/2210.ts</link>
+		
+		<item>
+			<title>Kriti TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/2209.ts</link>
+		
+		<item>
+			<title>Makedonia</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/2208.ts</link>
+		
+		<item>
+			<title>Mega</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/2235.ts</link>
+		
+		<item>
+			<title>Messinia TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/2207.ts</link>
+		
+		<item>
+			<title>Nea TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/2206.ts</link>
+		
+		<item>
+			<title>Net TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/2205.ts</link>
+					  
+		<item>
+			<title>Samiaki</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/2202.ts</link>
+		
+		<item>
+			<title>SBC HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/2228.ts</link>
+					  
+		<item>
+			<title>Skai</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/2201.ts</link>
+					  
+		<item>
+			<title>Star</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/2199.ts</link>
+		
+		<item>
+			<title>TileSport TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/2198.ts</link>
+					  
+		<item>
+			<title>Vouli</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/2227.ts</link>
+		
+		<item>
+			<title>Zougla</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/2226.ts</link>
+					  
+		<item>
+			<title>ART Channel</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/5822.ts</link>
+					  
+		<item>
+			<title>AB</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/5827.ts</link>
+		
+		<item>
+			<title>Acheloos TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/5821.ts</link>
+		
+	
+		<item>
+			<title>Alpha HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/5833.ts</link>
+					  
+		<item>
+			<title>E</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/5825.ts</link>
+		
+		<item>
+			<title>Epirus TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/5824.ts</link>
+		
+		<item>
+			<title>Epsilon</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/5829.ts</link>
+		
+		<item>
+			<title>Epsilon HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/5828.ts</link>
+		
+		<item>
+			<title>Ioannina TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/5823.ts</link>
+					  
+		<item>
+			<title>ANT1 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/5834.ts</link>
+					  
+		<item>
+			<title>MAD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/5839.ts</link>
+	
+	
+		<item>
+			<title>Makedonia TV HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/5830.ts</link>
+		
+		<item>
+			<title>RISE</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/5838.ts</link>
+		
+		<item>
+			<title>Skai HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/5832.ts</link>
+		
+		<item>
+			<title>Star HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/5831.ts</link>
+					  	
+		<item>
+			<title>Toronto TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/5826.ts</link>
+		
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			  
+			  
+			  
+
+			  
+		<item>
+			<title>-----[COLOR red][B]OTE[/B][/COLOR]-----</title>
+			<link>http://......</link>
+						
+		<item>
+			<title>OTE Cinema 1 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/6110.ts</link>
+		
+		<item>
+			<title>OTE Cinema 2 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/6111.ts</link>
+		
+		<item>
+			<title>OTE Sport 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/2225.ts</link>
+		
+		<item>
+			<title>OTE Sport 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/2224.ts</link>
+		
+		<item>
+			<title>OTE Sport 3</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/2223.ts</link>
+		
+		<item>
+			<title>OTE Sport 4</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/2222.ts</link>
+		
+		<item>
+			<title>OTE Sport 1 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/5702.ts</link>
+		
+		<item>
+			<title>OTE Sport 2 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/5703.ts</link>
+		
+		<item>
+			<title>OTE Sport 3 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/5704.ts</link>
+		
+		<item>
+			<title>OTE Sport 4 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/5705.ts</link>
+		
+		<item>
+			<title>OTE Sport 5 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/5706.ts</link>
+		
+		<item>
+			<title>OTE Sport 6 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/5707.ts</link>
+		
+		<item>
+			<title>OTE Sport 7 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/5708.ts</link>
+		
+		<item>
+			<title>OTE Sport 8 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/5709.ts</link>							
+
+		<item>
+			<title>OTE History</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/5863.ts</link>
+		
+							
+						
+						
+						
+			
+		
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		<item>
+			<title>-----[COLOR red][B]NOVA[/B][/COLOR]-----</title>
+			<link>http://......</link>
+			
+		
+		<item>
+			<title>Nova</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/2204.ts</link>
+				
+		<item>
+			<title>NovaCinema 1 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/5881.ts</link>
+		
+		<item>
+			<title>Nova Sport 1 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/5880.ts</link>
+					
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		<item>
+			<title>-----[COLOR red][B]GREEK PREMIUM[/B][/COLOR]-----</title>
+			<link>http://......</link>			
+			
+		<item>
+			<title>Fishing Ellinika</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/5854.ts</link>
+		
+		<item>
+			<title>Greek Cinema 80s 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/5871.ts</link>
+		
+		<item>
+			<title>Greek Cinema 80s 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/5870.ts</link>
+		
+		<item>
+			<title>Greek Cinema 80s 3</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/5869.ts</link>
+		
+		<item>
+			<title>Greek Mix</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/5837.ts</link>
+		
+		<item>
+			<title>Greek Old Movies 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/5868.ts</link>
+		
+		<item>
+			<title>Greek Old Movies 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/5867.ts</link>
+		
+		<item>
+			<title>Greek Old Movies 3</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/5866.ts</link>
+		
+		<item>
+			<title>Greek Series 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/5865.ts</link>
+		
+		<item>
+			<title>Greek Series 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/5864.ts</link>
+		
+		<item>
+			<title>Hunting Ellinika</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/5855.ts</link>
+					
+		<item>
+			<title>Kids 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/5849.ts</link>
+		
+		<item>
+			<title>Kids 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/5848.ts</link>
+		
+		<item>
+			<title>Kids 3</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/5847.ts</link>
+		
+		<item>
+			<title>Kids 4</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/5846.ts</link>
+		
+		<item>
+			<title>Kids 5</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/5845.ts</link>
+		
+		<item>
+			<title>Kids 6</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/5844.ts</link>
+		
+		<item>
+			<title>Kids 7</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/5843.ts</link>
+		
+		<item>
+			<title>Kids 9</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/5841.ts</link>
+		
+		<item>
+			<title>Kids 10</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/5840.ts</link>
+		
+		<item>
+			<title>Zouzounia</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/5842.ts</link>
+		
+				
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+						
+			  
+			  
+		 <item>
+			<title>-----[COLOR red][B]International Greek[/B][/COLOR]-----</title>
+			<link>http://......</link>
+
+
+
+			 
+		<item>
+			<title>Disney Channel</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/5853.ts</link>
+		
+		<item>
+			<title>Disney Junior</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/5852.ts</link>
+		
+		<item>
+			<title>Disney XD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/5851.ts</link>
+		
+		<item>
+			<title>Nickelodeon</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/2196.ts</link>
+				 
+
+		<item>
+			<title>Smile</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/2200.ts</link>
+				 
+		<item>
+			<title>Baby TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/5850.ts</link>
+
+			
+			
+			
+			
+			 
+		 <item>
+			<title>Animal Planet</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/2237.ts</link>
+		
+
+		<item>
+			<title>Nat Geo HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/2236.ts</link>
+		
+
+		<item>
+			<title>EuroNews</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/2230.ts</link>
+		
+		<item>
+			<title>EuroSport 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/2212.ts</link>
+		
+
+
+		<item>
+			<title>Omega TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/2203.ts</link>
+		
+		<item>
+			<title>Nat Geo Wild HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/2234.ts</link>
+		
+		<item>
+			<title>History HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/2233.ts</link>
+		
+		<item>
+			<title>Discovery Channel</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/2232.ts</link>
+		
+	
+
+		<item>
+			<title>Discovery ShowCase HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/2197.ts</link>
+		
+		<item>
+			<title>Travel Channel HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/2211.ts</link>
+		
+
+		<item>
+			<title>Animal Planet HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/5862.ts</link>
+	
+
+		
+	
+		<item>
+			<title>Discovery ID</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/5859.ts</link>
+		
+		<item>
+			<title>Discovery IDX</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/5860.ts</link>
+		
+		<item>
+			<title>Discovery Science</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/5857.ts</link>
+		
+
+		<item>
+			<title>DTX</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/5858.ts</link>
+		
+		<item>
+			<title>TLC</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/5856.ts</link>
+		<item>
+			<title>Viasat History</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/5861.ts</link>
+		
+			
+			
+			
+			
+		<item>
+			<title>Best Movies 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/5879.ts</link>
+		
+		<item>
+			<title>Best Movies 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/5878.ts</link>
+		
+		<item>
+			<title>Best Movies 3</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/5877.ts</link>
+		
+		<item>
+			<title>Best Movies 4</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/5876.ts</link>
+		
+		<item>
+			<title>Best Movies 5</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/5875.ts</link>
+		
+		<item>
+			<title>Best Movies 6</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/5874.ts</link>		
+
+		<item>
+			<title>Cinemaeek 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/5873.ts</link>
+		
+		<item>
+			<title>Cinemaeek 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://portal.geniptv.com:8080/live/0P1zD9OgCO/pllvFwete7/5872.ts</link>
+	
