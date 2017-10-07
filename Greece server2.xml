@@ -28,11 +28,20 @@
 			<title>SIGMA</title>
 			<link>http://81.21.47.74/hls/live.m3u8</link>
 		
-						
 		<item>
-			<title>ALPHA CY</title>
-			<link>http://l4.cloudskep.com/alphacy/acy/playlist.m3u8</link>
-		
+			<title>SIGMA</title>
+			<link>http://master.cystreams.com:25461/live/greek/koutrafas/12.ts</link>	
+
+		<item>
+			<title>Capital</title>
+			<link>http://master.cystreams.com:25461/live/greek/koutrafas/14.ts</link>	
+		<item>
+			<title>EXTRA</title>
+			<link>http://master.cystreams.com:25461/live/greek/koutrafas/15.ts</link>	
+		<item>
+			<title>SMILE TV</title>
+			<link>http://master.cystreams.com:25461/live/greek/koutrafas/119.ts</link>	
+			
 		<item>
 			<title>TV Mall</title>
 			<link>plugin://plugin.video.youtube/play/?video_id=46k1mMe_DYE</link>
@@ -71,7 +80,7 @@
 		
 		<item>
 			<title>ERT3 Worldwide WebTV</title>
-			<link>plugin://plugin.video.youtube/play/?video_id=O3Hs5AZqi4U</link>
+			<link>plugin://plugin.video.youtube/play/?video_id=5r5iftFbASw</link>
 		
 		<item>
 			<title>ERT WORLD WebTV</title>
@@ -82,12 +91,20 @@
 			<link>plugin://plugin.video.youtube/play/?video_id=Ba4voPNmZUU</link>			
 		
 		<item>
-			<title>ANT1</title>
-			<link>http://antglantennatv-lh.akamaihd.net/i/live_1@421307/index_1000_av-p.m3u8?sd=10&rebase=on</link>
+			<title>NETV TORONTO</title>
+			<link>rtmp://live.netvtoronto.com:1935/NetvToronto/NetvToronto</link>
 		
 		<item>
-			<title>MEGA</title>
+			<title>ANT1</title>
+			<link>http://antglantennatv-lh.akamaihd.net/i/live_1@421307/master.m3u8</link>
+		
+		<item>
+			<title>MEGA (Youtube)</title>
 			<link>plugin://plugin.video.youtube/play/?video_id=tug1qABlQ-M</link>
+		
+		<item>
+			<title>MEGA </title>
+			<link>http://master.cystreams.com:25461/live/greek/koutrafas/43.ts</link>
 		
 		<item>
 			<title>MEGA COSMOS</title>
@@ -95,14 +112,18 @@
 		
 		<item>
 			<title>SKAI</title>
-			<link>plugin://plugin.video.youtube/play/?video_id=E3objzlER3s</link>
+			<link>http://master.cystreams.com:25461/live/greek/koutrafas/42.ts</link>
 		
 		<item>
-			<title>ALPHA (Country Limitation)</title>
+			<title>SKAI (Youtube)</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=7Yo7A5QVVOE</link>
+		
+		<item>
+			<title>ALPHA (Country Limitation) (Youtube)</title>
 			<link>plugin://plugin.video.youtube/play/?video_id=a67XGboEcdw</link>
 		
 		<item>
-			<title>ALPHA</title>
+			<title>ALPHA (Country Limitation)</title>
 			<link>http://193.92.37.235:1935/LiveEdgeTV/live@720/master.m3u8</link>
 		
 		<item>
@@ -110,44 +131,40 @@
 			<link>http://stream2.svbllc.com:1935/alpha/alpha.stream/playlist.m3u8</link>
 		
 		<item>
-			<title>NETV TORONTO</title>
-			<link>http://live.netvtoronto.com:1935/NetvToronto/NetvToronto/playlist.m3u8</link>
+			<title>ZOUGLA</title>
+			<link>http://zouglahd-f.akamaihd.net/i/zougla_1@56341/master.m3u8</link>
 		
 		<item>
 			<title>ZOUGLA</title>
-			<link>http://zouglahd-f.akamaihd.net/i/zougla_1@56341/master.m3u8</link>
+			<link>http://zglive1.mdc.akamaized.net/hls/live/570950/z1/master_Layer1.m3u8</link>
 		
 		<item>
 			<title>E</title>
 			<link>https://s2.streamings.gr/epsilontv/epsilontv.m3u8</link>
 		
 		<item>
-			<title>E</title>
-			<link>https://57b1c3ae400ed.streamlock.net/live/epsilontv/playlist.m3u8</link>
-		
-		<item>
 			<title>STAR</title>
-			<link>http://4.31.30.145:9080</link>
+			<link>http://master.cystreams.com:25461/live/greek/koutrafas/40.ts</link>
 		
 		<item>
 			<title>VOULI</title>
 			<link>http://streamer-cache.grnet.gr/parliament/parltv.sdp/master.m3u8</link>
 		
 		<item>
-			<title>ART Sportzone</title>
-			<link>http://tv1.streampulse.eu:1935/tilesport/movie1/live.m3u8</link>
+			<title>ART TV (Youtube)</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=1TjMeU9dlIo</link>
 		
 		<item>
 			<title>TILESPORT</title>
 			<link>rtmp://78.47.151.114/tilesport/movie1</link>
 		
 		<item>
-			<title>BEST TV </title>
-			<link>http://s.bizr.gr:8080/hls/best.m3u8</link>
+			<title>Action 24</title>
+			<link>http://stream-13.dc3.dailymotion.com/24/dm/3/x5j0ses/live-2.m3u8</link>
 		
 		<item>
-			<title>BEST Deal TV</title>
-			<link>http://78.129.184.15:23319/streaming/stream/playlist.m3u8</link>
+			<title>BEST TV </title>
+			<link>http://s.bizr.gr:8080/hls/best.m3u8</link>
 		
 		<item>
 			<title>TV100</title>
@@ -174,10 +191,6 @@
 			<link>http://srv.viiideo.gr:1935/neatv/live/playlist.m3u8</link>
 		
 		<item>
-			<title>FLASH TV</title>
-			<link>http://www.dailymotion.com/embed/video/x5d9lwu?autoPlay=1</link>
-		
-		<item>
 			<title>TV FILOPOLI</title>
 			<link>http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8</link>
 		
@@ -194,7 +207,7 @@
 			<link>rtmp://live.cretetv.gr/cretetv/myStream</link>
 		
 		<item>
-			<title>#EXTINF:-1 tvg-logo=https://goo.gl/naS6gM ,CretaTV</title>
+			<title>CretaTV</title>
 			<link>http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8</link>
 		
 		<item>
@@ -202,8 +215,8 @@
 			<link>http://flashcloud.mediacdn.com/live/kontratv/.m3u8</link>
 		
 		<item>
-			<title>ENA</title>
-			<link>plugin://plugin.video.youtube/play/?video_id=OD4np_3szmo</link>
+			<title>ENA (Youtube)</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=Hk1IcqPqS_0</link>
 		
 		<item>
 			<title>AIGAIO</title>
@@ -215,19 +228,15 @@
 		
 		<item>
 			<title>ASTRA</title>
-			<link>http://www.astratv.gr:8090/hls/livestream.m3u8</link>
-		
-		<item>
-			<title>ASTRA</title>
-			<link>rtmp://www.astratv.gr:1935/astratv/livestream</link>
+			<link>http://stream-01.dc3.dailymotion.com/57/dm/3/x62oght/live-2.m3u8</link>
 		
 		<item>
 			<title>SUPER B</title>
-			<link>plugin://plugin.video.youtube/play/?video_id=_inRNwfm5mY</link>
+			<link>plugin://plugin.video.youtube/play/?video_id=25cca6ooLS4</link>
 		
 		<item>
-			<title>EURONEWS</title>
-			<link>plugin://plugin.video.youtube/play/?video_id=iVp0HDyFlVo</link>
+			<title>EURONEWS (Youtube)</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=-PUMTIfTvVo  </link>
 		
 		<item>
 			<title>TV1</title>
@@ -246,8 +255,8 @@
 			<link>rtmp://hls.onestreaming.com:1935/live/thrakinettv</link>
 		
 		<item>
-			<title>Blue Sky</title>
-			<link>plugin://plugin.video.youtube/play/?video_id=z7623T7f0c0</link>
+			<title>Blue Sky (Youtube)</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=JvYn98J9Edo</link>
 		
 		<item>
 			<title>LYXNOC</title>
@@ -255,10 +264,10 @@
 		
 		<item>
 			<title>CHANNEL 9 </title>
-			<link>plugin://plugin.video.youtube/play/?video_id=jpLkobPwiwE</link>
+			<link>http://stream-02.dc3.dailymotion.com/42/dm/3/x5vheaj/live-1.m3u8</link>
 		
 		<item>
-			<title>GR CINEMA </title>
+			<title>CINEMA </title>
 			<link>http://bit.ly/2rp95bt</link>
 		
 		<item>
@@ -276,6 +285,22 @@
 		<item>
 			<title>THLE MOUSIKH</title>
 			<link>mmsh://wpso.com:200/music</link>
+		
+		<item>
+			<title>Magic TV</title>
+			<link>http://94.23.218.186:1935/magictv/magictv/playlist.m3u8</link>
+		
+		<item>
+			<title>Xalastra TV</title>
+			<link>http://94.23.218.186:1935/xalastratv/xalastratv/playlist.m3u8</link>
+		
+		<item>
+			<title>FOX TV</title>
+			<link>http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8</link>
+		
+		<item>
+			<title>NGRadio</title>
+			<link>http://live.streams.ovh:1935/NGradio/NGradio_360p/playlist.m3u8</link>
 		
 		<item>
 			<title>JAYZEE </title>
