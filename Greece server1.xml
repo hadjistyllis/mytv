@@ -14,330 +14,219 @@
 			
 		
 	
-
 		<item>
-			<title>-----[COLOR red][B]CYPRUS[/B][/COLOR]-----</title>
-			<link>http://......</link>
+			<title>GR: 4E</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/76952.ts</link>
 		
 		<item>
-			<title>RIK 1</title>
-			<link>http://38.99.163.117/nimble_live/rik1_low/playlist.m3u8</link>
-
-		<item>
-			<title>Rik1 -7hrs</title>
-			<link>http://38.99.163.117/nimble_live/rik1_low/playlist_dvr_timeshift-25200.m3u8</link>
+			<title>GR: ACTION 24</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/76951.ts</link>
 		
 		<item>
-			<title>RIK2</title>
-			<link>http://38.99.163.117/nimble_live/rik2_low/playlist.m3u8</link>
-
-		<item>
-			<title>RIK2 -7hrs</title>
-			<link>http://38.99.163.117/nimble_live/rik2_low/playlist_dvr_timeshift-25200.m3u8</link>
-
-		<item>
-			<title>Ant1 CY</title>
-			<link>http://38.99.163.117/nimble_live/ant1CY_low/playlist.m3u8</link>
-
-		<item>
-			<title>ANT1 Cy -7hrs</title>
-			<link>http://38.99.163.117/nimble_live/ant1CY_low/playlist_dvr_timeshift-25200.m3u8</link>
-
-		<item>
-			<title>MEGAONE</title>
-			<link>http://38.99.163.117/nimble_live/megaCY_low/playlist.m3u8</link>
-
-		<item>
-			<title>MEGAONE -7hrs</title>
-			<link>http://38.99.163.117/nimble_live/megaCY_low/playlist_dvr_timeshift-25200.m3u8</link>
-
-		<item>
-			<title>SIGMA</title>
-			<link>http://38.99.163.117/nimble_live/sigma/playlist.m3u8</link>
-
-		<item>
-			<title>SIGMA -7hrs</title>
-			<link>http://38.99.163.117/nimble_live/sigma/playlist_dvr_timeshift-25200.m3u8</link>
-
-		<item>
-			<title>Alpha cy</title>
-			<link>http://38.99.163.117/nimble_live/alphaCY_low/playlist.m3u8</link>
-
-		<item>
-			<title>ALPHA cy -7hrs</title>
-			<link>http://38.99.163.117/nimble_live/alphaCY_low/playlist_dvr_timeshift-25200.m3u8</link>
+			<title>GR: AGIOS</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/76931.ts</link>
 		
 		<item>
-			<title>Capital</title>
-			<link>http://38.99.163.117/nimble_live/capital_low/playlist.m3u8</link>
-
-		<item>
-			<title>Capital -7hrs</title>
-			<link>http://38.99.163.117/nimble_live/capital_low/playlist_dvr_timeshift-25200.m3u8</link>
-
-		<item>
-			<title>Plus</title>
-			<link>http://38.99.163.117/nimble_live/plus_low/playlist.m3u8</link>
-
-		<item>
-			<title>Plus -7hrs</title>
-			<link>http://38.99.163.117/nimble_live/plus_low/playlist_dvr_timeshift-25200.m3u8</link>
-
-		<item>
-			<title>EXTRA</title>
-			<link>http://38.99.163.117/nimble_live/extra_low/playlist.m3u8</link>
-			
-		<item>
-			<title>EXTRA -7hrs</title>
-			<link>http://38.99.163.117/nimble_live/extra_low/playlist_dvr_timeshift-25200.m3u8</link>		
-
-		<item>
-			<title>MAD cy</title>
-			<link>http://38.99.163.117/nimble_live/mad_low/playlist.m3u8</link>
-
-
-
-
-
-
-
-
-		<item>
-			<title>-----[COLOR red][B]GREECE[/B][/COLOR]-----</title>
-			<link>http://......</link>
-
-		<item>
-			<title>ERT1</title>
-			<link>http://38.99.163.117/nimble_live/ert1_low/playlist.m3u8</link>
-			
-		<item>
-			<title>ERT1 -7hrs</title>
-			<link>http://38.99.163.117/nimble_live/ert1_low/playlist_dvr_timeshift-25200.m3u8</link>
+			<title>GR: ALPHA</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/76950.ts</link>
 		
 		<item>
-			<title>ERT 2</title>
-			<link>http://38.99.163.117/nimble_live/ert2_low/playlist.m3u8</link>
-
-		<item>
-			<title>ERT2 -7hrs</title>
-			<link>http://38.99.163.117/nimble_live/ert2_low/playlist_dvr_timeshift-25200.m3u8</link>
+			<title>GR: ALPHA CYP</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/76949.ts</link>
 		
 		<item>
-			<title>ERT 3</title>
-			<link>http://38.99.163.117/nimble_live/et3_low/playlist.m3u8</link>
-
-		<item>
-			<title>ERT3 -7hrs</title>
-			<link>http://38.99.163.117/nimble_live/et3_low/playlist_dvr_timeshift-25200.m3u8</link>
-
-		<item>
-			<title>ANT1</title>
-			<link>http://38.99.163.117/nimble_live/ant1_low/playlist.m3u8</link>
-
-		<item>
-			<title>ANT1 -7hrs</title>
-			<link>http://38.99.163.117/nimble_live/ant1_low/playlist_dvr_timeshift-25200.m3u8</link>
-
-		<item>
-			<title>ANT1 Sat</title>
-			<link>http://38.99.163.117/antsat/main/playlist.m3u8</link>
+			<title>GR: Alpha Sat</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/76930.ts</link>
 		
 		<item>
-			<title>Alpha</title>
-			<link>http://38.99.163.117/nimble_live/Alpha_low/playlist.m3u8</link>
+			<title>GR: ANT 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/76948.ts</link>
 		
 		<item>
-			<title>Alpha -7hrs</title>
-			<link>http://38.99.163.117/nimble_live/Alpha_low/playlist_dvr_timeshift-25200.m3u</link>			
-			
-		<item>
-			<title>MEGA</title>
-			<link>http://38.99.163.117/nimble_live/mega_low/playlist.m3u8</link>
-
-		<item>
-			<title>MEGA -7hrs</title>
-			<link>http://38.99.163.117/nimble_live/mega_low/playlist_dvr_timeshift-25200.m3u8</link>
+			<title>GR: ANT 1 CYP</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/76947.ts</link>
 		
 		<item>
-			<title>E</title>
-			<link>http://38.99.163.117/nimble_live/epsilon_low/playlist.m3u8</link>
-					
-		<item>
-			<title>E -7hrs</title>			
-			<link>http://38.99.163.117/nimble_live/epsilon_low/playlist_dvr_timeshift-25200.m3u8</link>
-			
-		<item>
-			<title>SKAI</title>
-			<link>http://38.99.163.117/nimble_live/skai_low/playlist.m3u8</link>
-			
-		<item>
-			<title>SKAI -7hrs</title>
-			<link>http://38.99.163.117/nimble_live/skai_low/playlist_dvr_timeshift-25200.m3u8</link>
+			<title>GR: ART</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/76946.ts</link>
 		
 		<item>
-			<title>ART</title>
-			<link>http://38.99.163.117/nimble_live/art_low/playlist.m3u8</link>
-			
-		<item>
-			<title>ART -7hrs</title>
-			<link>http://38.99.163.117/nimble_live/art_low/playlist_dvr_timeshift-25200.m3u8</link>			
-			
-		<item>
-			<title>MAKEDONIA</title>
-			<link>http://38.99.163.117/nimble_live/macedonia/playlist.m3u8</link>
-			
-		<item>
-			<title>MAKEDONIA -7hrs</title>
-			<link>http://38.99.163.117/nimble_live/macedonia/playlist_dvr_timeshift-25200.m3u8</link>
-						
-		<item>
-			<title>STAR</title>
-			<link>http://38.99.163.117/nimble_live/star_low/playlist.m3u8</link>
-			
-		<item>
-			<title>STAR -7hrs</title>
-			<link>http://38.99.163.117/nimble_live/star_low/playlist_dvr_timeshift-25200.m3u8</link>			
+			<title>GR: AXELOOS TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/76929.ts</link>
 		
 		<item>
-			<title>WZRA Kids</title>
-			<link>http://38.99.163.117/wzrakids/wzrakids/playlist.m3u8</link>
-
-		<item>
-			<title>Greek Voice FL</title>
-			<link>http://38.99.163.117/wpso/wpso/playlist.m3u8</link>
-
-
-
-
-
-
-
-
-
+			<title>GR: BLUE SKY</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/76945.ts</link>
 		
 		<item>
-			<title>-----[COLOR red][B]International Greek[/B][/COLOR]-----</title>
-			<link>http://......</link>
+			<title>GR: CRETA  TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/76928.ts</link>
+		
+		<item>
+			<title>GR: EBS</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/76927.ts</link>
+		
+		<item>
+			<title>GR: EBS PLUS</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/76926.ts</link>
+		
+		<item>
+			<title>GR: Epsilon TV Cy</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/76925.ts</link>
+		
+		<item>
+			<title>GR: ERT 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/76924.ts</link>
+		
+		<item>
+			<title>GR: ERT 2</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/76944.ts</link>
+		
+		<item>
+			<title>GR: ERT 3</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/76943.ts</link>
+		
+		<item>
+			<title>GR: ERT1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/76923.ts</link>
+		
+		<item>
+			<title>GR: ERT3</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/76922.ts</link>
+		
+		<item>
+			<title>GR: EXTRA</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/76942.ts</link>
+		
+		<item>
+			<title>GR: KONTRA</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/76941.ts</link>
+		
+		<item>
+			<title>GR: KONTRA TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/76940.ts</link>
+		
+		<item>
+			<title>GR: KPHTH TV GR</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/76921.ts</link>
+		
+		<item>
+			<title>GR: KPHTI TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/76920.ts</link>
+		
+		<item>
+			<title>GR: KRHTH TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/76919.ts</link>
+		
+		<item>
+			<title>GR: LYCHNOS</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/76918.ts</link>
+		
+		<item>
+			<title>GR: MAD TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/76917.ts</link>
+		
+		<item>
+			<title>GR: MAKEDONIA</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/76939.ts</link>
+		
+		<item>
+			<title>GR: MEGA</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/76938.ts</link>
+		
+		<item>
+			<title>GR: MEGA CYP</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/76916.ts</link>
+		
+		<item>
+			<title>GR: MESSINIA TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/76915.ts</link>
+		
+		<item>
+			<title>GR: NEA TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/76914.ts</link>
+		
+		<item>
+			<title>GR: OMEGA</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/76913.ts</link>
+		
+		<item>
+			<title>GR: RIK</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/76937.ts</link>
+		
+		<item>
+			<title>GR: SKAI</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/76936.ts</link>
+		
+		<item>
+			<title>GR: STAR</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/76935.ts</link>
+		
+		<item>
+			<title>GR: TILE SPORT</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/76912.ts</link>
+		
+		<item>
+			<title>GR: TILE SPORT TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/76911.ts</link>
+		
+		<item>
+			<title>GR: VOULI</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/76934.ts</link>
+		
+		<item>
+			<title>GR: VOULI TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/76910.ts</link>
+		
+		<item>
+			<title>GR: ZOUGLA</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/76909.ts</link>
+		
+		<item>
+			<title>GR: ZOUGLA TV</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/76908.ts</link>
+		
+		<item>
+			<title>GR: ERT 1</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/76933.ts</link>
+		
+		<item>
+			<title>GR: VOULI</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/76932.ts</link>
+		
+		<item>
+			<title>GR: OTE Sport 1 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/73616.ts</link>
+		
+		<item>
+			<title>GR: OTE Sport 2 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/73615.ts</link>
+		
+		<item>
+			<title>GR: OTE Sport 3 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/73614.ts</link>
+		
+		<item>
+			<title>GR: OTE Sport 4 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/73613.ts</link>
+		
+		<item>
+			<title>GR: OTE Sport 5 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/73612.ts</link>
+		
+		<item>
+			<title>GR: OTE Sport 6 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/73611.ts</link>
+		
+		<item>
+			<title>GR: OTE Sport 7 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/73610.ts</link>
+		
+		<item>
+			<title>GR: OTE Sport 8 HD</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Powered_By_e-Doctor_e-Modder;url=http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/73609.ts</link>
+		
+	
 
 
 
-		<item>
-			<title>nickelodeon</title>
-			<link>http://38.99.163.117/nickelodeon/nickelodeon/playlist.m3u8</link>
-
-		<item>
-			<title>Nickolodeon -7hrs</title>
-			<link>http://38.99.163.117/nickelodeon/nickelodeon/playlist_dvr_timeshift-25200.m3u8</link>
-
-		<item>
-			<title>Discovery GR</title>
-			<link>http://38.99.163.117/nimble_live/discovery_low/playlist.m3u8</link>
-		
-		<item>
-			<title>DISCOVERY GR -7hrs</title>
-			<link>http://38.99.163.117/nimble_live/discovery_low/playlist_dvr_timeshift-25200.m3u8</link>
-
-		<item>
-			<title>DISCOVERY Science GR</title>
-			<link>http://38.99.163.117/nimble_live/science_low/playlist.m3u8</link>
-		
-		<item>
-			<title>DISCOVERY SCIENCE GR -7HR</title>
-			<link>http://38.99.163.117/nimble_live/science_low/playlist_dvr_timeshift-25200.m3u8</link>
-		
-		<item>
-			<title>Animal Planet GR</title>
-			<link>http://38.99.163.117/nimble_live/animal_low/playlist.m3u8</link>
-
-		<item>
-			<title>Animal Planet GR -7hrs</title>
-			<link>http://38.99.163.117/nimble_live/animal_low/playlist_dvr_timeshift-25200.m3u8</link>
-
-		<item>
-			<title>IDxtra GR</title>
-			<link>http://38.99.163.117/nimble_live/idx_low/playlist.m3u8</link>
-
-		<item>
-			<title>IDxtra GR -7hrs</title>
-			<link>http://38.99.163.117/nimble_live/idx_low/playlist_dvr_timeshift-25200.m3u8</link>
-
-		<item>
-			<title>EuroSport 1</title>
-			<link>http://38.99.163.117/nimble_live/EUROSPORT1/playlist.m3u8</link>
-					
-		<item>
-			<title>EuroSport 2</title>
-			<link>http://38.99.163.117/nimble_live/EUROSPORT2/playlist.m3u8</link>
-		
-		
-
-		
-
-		
-		<item>
-			<title>-----[COLOR red][B]SPORTS[/B][/COLOR]-----</title>
-			<link>http://......</link>
-		
-
-
-		<item>
-			<title>Extra Sport 1</title>
-			<link>http://38.99.163.117/extra1/extra1/playlist.m3u8</link>
-		
-		<item>
-			<title>Extra Sport 2</title>
-			<link>http://38.99.163.117/extra2/extra2/playlist.m3u8</link>
-		
-		<item>
-			<title>ArenaSport 1</title>
-			<link>http://38.99.163.117/nimble_live/Sports1/playlist.m3u8</link>
-		
-		<item>
-			<title>Arena Sport 2</title>
-			<link>http://38.99.163.117/nimble_live/sports2_low/playlist.m3u8</link>
-		
-		<item>
-			<title>ArenaSport 3</title>
-			<link>http://38.99.163.117/nimble_live/Sport3/playlist.m3u8</link>
-		
-		<item>
-			<title>ArenaSport 4</title>
-			<link>http://38.99.163.117/nimble_live/Sport4/playlist.m3u8</link>
-		
-		<item>
-			<title>SPORT5</title>
-			<link>http://38.99.163.117/nimble_live/SPORTS5_low/playlist.m3u8</link>
-		
-		<item>
-			<title>SPORT6</title>
-			<link>http://38.99.163.117/nimble_live/SPORT6_low/playlist.m3u8</link>
-			
-				
-			
-		<item>
-			<title>sports8</title>
-			<link>http://38.99.163.117/sport8/sports8/playlist.m3u8</link>
-		
-
-		
-
-		<item>
-			<title>-----[COLOR red][B]CINEMA[/B][/COLOR]-----</title>
-			<link>http://......</link>		
-
-		
-		<item>
-			<title>CINEMA</title>
-			<link>http://38.99.163.117/nimble_live/sports9_low/playlist.m3u8</link>
-		
-		<item>
-			<title>CINEMA1</title>
-			<link>http://38.99.163.117/nimble_live/SPORTS10_low/playlist.m3u8</link>
-		
-		<item>
-			<title>CINEMA2</title>
-			<link>http://38.99.163.117/nimble_live/SPORTS11_LOW/playlist.m3u8</link>
-		<item>
-			<title>CINEMA3</title>
-			<link>http://38.99.163.117/nimble_live/SORTS12_low/playlist.m3u8</link>
-		
